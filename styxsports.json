@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68ceb8e6660ed2e95b8ce08a",
-            "name": "Prime Heights VS Volcano Sports Academy",
-            "category_name": "Cricket",
-            "tour_id": "68ceb5d2660ed2e95b8ce086",
-            "tour_name": "Abu Dhabi Thunder 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-02",
-            "start_date_time": "2025-10-02T15:30:00.000Z",
-            "team_a": {
-                "id": "6799f8f9a694d3873e44920e",
-                "name": "Prime Heights",
-                "short_name": "Prime Heights",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377052654-418485673.webp"
-            },
-            "team_b": {
-                "id": "6799f8c3a694d3873e44920d",
-                "name": "Volcano Sports Academy",
-                "short_name": "Volcano Sports Academy",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377163942-925175607.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758378212332-434917778.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
