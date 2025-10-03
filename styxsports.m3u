@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68de7e029f5a848ba39f3353" tvg-name="South Australia VS Victoria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411710006-52755898.webp" group-title="Live",South Australia VS Victoria
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
+
+#EXTINF:-1 tvg-id="68df80a407d2ecfd0c1593a1" tvg-name="Dallas Lonestars CC VS Atlanta Kings CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759477920995-433264710.webp" group-title="Live",Dallas Lonestars CC VS Atlanta Kings CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
+
