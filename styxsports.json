@@ -225,6 +225,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411710006-52755898.webp",
             "venue": "Adelaide Oval ,Adelaide",
             "score_match_id": 92846
+        },
+        {
+            "id": "68df80a407d2ecfd0c1593a1",
+            "name": "Dallas Lonestars CC VS Atlanta Kings CC",
+            "category_name": "Cricket",
+            "tour_id": "68df7f8d9f5a848ba39f3361",
+            "tour_name": "National Cricket T10 League 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T23:30:00.000Z",
+            "team_a": {
+                "id": "67051bcd93a91179d569b7f4",
+                "name": "Dallas Lonestars CC",
+                "short_name": "Dallas Lonestars CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477437114-592600762.webp"
+            },
+            "team_b": {
+                "id": "67040c004a1f5d14be8b1d54",
+                "name": "Atlanta Kings CC",
+                "short_name": "Atlanta Kings CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477356579-720504263.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759477920995-433264710.webp",
+            "venue": "University of Texas Dallas ,Dallas",
+            "score_match_id": 93918
         }
     ]
 }
