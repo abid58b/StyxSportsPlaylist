@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ceb9372612c2db518b13db",
-            "name": "Abu Dhabi Smashers VS ALS Superstars",
-            "category_name": "Cricket",
-            "tour_id": "68ceb5d2660ed2e95b8ce086",
-            "tour_name": "Abu Dhabi Thunder 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-03",
-            "start_date_time": "2025-10-03T15:30:00.000Z",
-            "team_a": {
-                "id": "6799fa0191e311a90ee8d807",
-                "name": "Abu Dhabi Smashers",
-                "short_name": "Abu Dhabi Smashers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
-            },
-            "team_b": {
-                "id": "6799f9d54ba256cf3abcdab7",
-                "name": "ALS Superstars",
-                "short_name": "ALS Superstars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758378294000-947314422.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68de7e029f5a848ba39f3353",
             "name": "South Australia VS Victoria",
             "category_name": "Cricket",
