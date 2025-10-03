@@ -1,5 +1,230 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "68cc13092612c2db518b13d3",
+            "name": "Haridwar Elmas VS Tehri Titans",
+            "category_name": "Cricket",
+            "tour_id": "68cc0bb65f9de199ff216bf4",
+            "tour_name": "Uttarakhand Premier League, 2025",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T05:00:00.000Z",
+            "team_a": {
+                "id": "68cc0b0e5f9de199ff216bf3",
+                "name": "Haridwar Elmas",
+                "short_name": "Haridwar Elmas",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202636956-317906372.webp"
+            },
+            "team_b": {
+                "id": "68cc0ad55f9de199ff216bf1",
+                "name": "Tehri Titans",
+                "short_name": "Tehri Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202579621-320884859.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758541885087-951680518.webp",
+            "venue": " ,",
+            "score_match_id": 93420
+        },
+        {
+            "id": "68bedbdffa47c38f5e0be5cf",
+            "name": "Imanzi Guardians VS Ingenzi Defenders",
+            "category_name": "Cricket",
+            "tour_id": "68be82cbfa47c38f5e0be5ca",
+            "tour_name": "Elite Men's League 2025",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T07:00:00.000Z",
+            "team_a": {
+                "id": "67245d82e7faeec8a7f52508",
+                "name": "Imanzi Guardians",
+                "short_name": "Imanzi Guardians",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315001259-57229123.webp"
+            },
+            "team_b": {
+                "id": "67245db9e7faeec8a7f52509",
+                "name": "Ingenzi Defenders",
+                "short_name": "Ingenzi Defenders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315047817-468154960.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759403232563-571865385.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68cc13595f9de199ff216bf7",
+            "name": "Dehradun Warriors VS Rishikesh Falcons",
+            "category_name": "Cricket",
+            "tour_id": "68cc0bb65f9de199ff216bf4",
+            "tour_name": "Uttarakhand Premier League, 2025",
+            "match_no": "19",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T09:00:00.000Z",
+            "team_a": {
+                "id": "66e01d97c13e43201a39f78e",
+                "name": "Dehradun Warriors",
+                "short_name": "Dehradun Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202194410-483796516.webp"
+            },
+            "team_b": {
+                "id": "68cc0af15f9de199ff216bf2",
+                "name": "Rishikesh Falcons",
+                "short_name": "Rishikesh Falcons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202608062-196731331.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758541894073-884466390.webp",
+            "venue": " ,",
+            "score_match_id": 93421
+        },
+        {
+            "id": "68bedc1c39d6e519355af0a1",
+            "name": "Ingabo Titans VS Imena Centurions",
+            "category_name": "Cricket",
+            "tour_id": "68be82cbfa47c38f5e0be5ca",
+            "tour_name": "Elite Men's League 2025",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T10:45:00.000Z",
+            "team_a": {
+                "id": "67245e19e7faeec8a7f5250b",
+                "name": "Ingabo Titans",
+                "short_name": "Ingabo Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757314924630-721196534.webp"
+            },
+            "team_b": {
+                "id": "67245de1e7faeec8a7f5250a",
+                "name": "Imena Centurions",
+                "short_name": "Imena Centurions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315079794-974106659.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757338650961-799292893.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68cc13922612c2db518b13d4",
+            "name": "Nainital Tigers VS USN Indians",
+            "category_name": "Cricket",
+            "tour_id": "68cc0bb65f9de199ff216bf4",
+            "tour_name": "Uttarakhand Premier League, 2025",
+            "match_no": "20",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T13:30:00.000Z",
+            "team_a": {
+                "id": "68cc0944ad25e8352e11a863",
+                "name": "Nainital Tigers",
+                "short_name": "Nainital Tigers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202176713-180363271.webp"
+            },
+            "team_b": {
+                "id": "66e01dae2bfab92771e8e42b",
+                "name": "USN Indians",
+                "short_name": "USN Indians",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202131110-547168895.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758541903483-33192170.webp",
+            "venue": "TBA ,TBA",
+            "score_match_id": 93422
+        },
+        {
+            "id": "68d662230a167c534422564c",
+            "name": "Afghanistan VS Bangladesh",
+            "category_name": "Cricket",
+            "tour_id": "68d6615addc71c71d25ff85f",
+            "tour_name": "Afghanistan vs Bangladesh in UAE 2025",
+            "match_no": "2nd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T14:00:00.000Z",
+            "team_a": {
+                "id": "66de5d2d985bb10dcaba1721",
+                "name": "Afghanistan",
+                "short_name": "Afghanistan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879953580-484392867.webp"
+            },
+            "team_b": {
+                "id": "671bc3bd68d746820ca1213d",
+                "name": "Bangladesh",
+                "short_name": "Bangladesh",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879903352-23508365.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759137924284-959679817.webp",
+            "venue": "Sharjah Cricket Stadium ,Sharjah",
+            "score_match_id": 93079
+        },
+        {
+            "id": "68ceb9372612c2db518b13db",
+            "name": "Abu Dhabi Smashers VS ALS Superstars",
+            "category_name": "Cricket",
+            "tour_id": "68ceb5d2660ed2e95b8ce086",
+            "tour_name": "Abu Dhabi Thunder 2025",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T15:30:00.000Z",
+            "team_a": {
+                "id": "6799fa0191e311a90ee8d807",
+                "name": "Abu Dhabi Smashers",
+                "short_name": "Abu Dhabi Smashers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
+            },
+            "team_b": {
+                "id": "6799f9d54ba256cf3abcdab7",
+                "name": "ALS Superstars",
+                "short_name": "ALS Superstars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758378294000-947314422.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68de7e029f5a848ba39f3353",
+            "name": "South Australia VS Victoria",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "2 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-03",
+            "start_date_time": "2025-10-03T23:30:00.000Z",
+            "team_a": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "team_b": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411710006-52755898.webp",
+            "venue": "Adelaide Oval ,Adelaide",
+            "score_match_id": 92846
+        }
+    ]
 }
