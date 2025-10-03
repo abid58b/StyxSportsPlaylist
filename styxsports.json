@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68bedbdffa47c38f5e0be5cf",
-            "name": "Imanzi Guardians VS Ingenzi Defenders",
-            "category_name": "Cricket",
-            "tour_id": "68be82cbfa47c38f5e0be5ca",
-            "tour_name": "Elite Men's League 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-03",
-            "start_date_time": "2025-10-03T07:00:00.000Z",
-            "team_a": {
-                "id": "67245d82e7faeec8a7f52508",
-                "name": "Imanzi Guardians",
-                "short_name": "Imanzi Guardians",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315001259-57229123.webp"
-            },
-            "team_b": {
-                "id": "67245db9e7faeec8a7f52509",
-                "name": "Ingenzi Defenders",
-                "short_name": "Ingenzi Defenders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315047817-468154960.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759403232563-571865385.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68cc13595f9de199ff216bf7",
             "name": "Dehradun Warriors VS Rishikesh Falcons",
             "category_name": "Cricket",
