@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d662230a167c534422564c" tvg-name="Afghanistan VS Bangladesh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759137924284-959679817.webp" group-title="Live",Afghanistan VS Bangladesh
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
 #EXTINF:-1 tvg-id="68ceb9372612c2db518b13db" tvg-name="Abu Dhabi Smashers VS ALS Superstars" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758378294000-947314422.webp" group-title="Live",Abu Dhabi Smashers VS ALS Superstars
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
