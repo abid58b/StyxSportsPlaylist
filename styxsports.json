@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68bedc1c39d6e519355af0a1",
-            "name": "Ingabo Titans VS Imena Centurions",
-            "category_name": "Cricket",
-            "tour_id": "68be82cbfa47c38f5e0be5ca",
-            "tour_name": "Elite Men's League 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-03",
-            "start_date_time": "2025-10-03T11:30:00.000Z",
-            "team_a": {
-                "id": "67245e19e7faeec8a7f5250b",
-                "name": "Ingabo Titans",
-                "short_name": "Ingabo Titans",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757314924630-721196534.webp"
-            },
-            "team_b": {
-                "id": "67245de1e7faeec8a7f5250a",
-                "name": "Imena Centurions",
-                "short_name": "Imena Centurions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315079794-974106659.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757338650961-799292893.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68cc13922612c2db518b13d4",
             "name": "Nainital Tigers VS USN Indians",
             "category_name": "Cricket",
