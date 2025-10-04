@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
-#EXTINF:-1 tvg-id="68db8ec26d8eecd0e11a785b" tvg-name="Malaysia Women VS Nepal Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759219390828-890759807.webp" group-title="Live",Malaysia Women VS Nepal Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
-
 #EXTINF:-1 tvg-id="68de7e449f5a848ba39f3354" tvg-name="Western Australia VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411776123-192560662.webp" group-title="Live",Western Australia VS New South Wales
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
@@ -15,4 +11,8 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696
 #EXTINF:-1 tvg-id="68da8bd06d8eecd0e11a7854" tvg-name="David Pieris Group A VS BBK Partnership" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759153101402-546552017.webp" group-title="Live",David Pieris Group A VS BBK Partnership
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
+#EXTINF:-1 tvg-id="68cc13e55f9de199ff216bf8" tvg-name="Pithoragarh Hurricanes VS Rishikesh Falcons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758541914927-538803743.webp" group-title="Live",Pithoragarh Hurricanes VS Rishikesh Falcons
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
 
