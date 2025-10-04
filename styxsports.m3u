@@ -12,3 +12,7 @@ https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
+#EXTINF:-1 tvg-id="68da8bd06d8eecd0e11a7854" tvg-name="David Pieris Group A VS BBK Partnership" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759153101402-546552017.webp" group-title="Live",David Pieris Group A VS BBK Partnership
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
