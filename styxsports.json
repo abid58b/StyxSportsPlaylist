@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68da8bf850dd3d4150aa55c4",
-            "name": "Maliban Biscuits VS Hayleys-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-04",
-            "start_date_time": "2025-10-04T08:00:00.000Z",
-            "team_a": {
-                "id": "675fc59a027a1688c435a454",
-                "name": "Maliban Biscuits",
-                "short_name": "Maliban Biscuits",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329752377-317474835.png"
-            },
-            "team_b": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759153141527-990827759.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e0c6fe458c1b0c74d26026",
             "name": "Indatwa Hampshire CC VS Gahanga Queens CC",
             "category_name": "Cricket",
