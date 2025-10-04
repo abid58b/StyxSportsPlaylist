@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68cc14155f9de199ff216bf9" tvg-name="Nainital Tigers VS Dehradun Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759570157713-331308731.webp" group-title="Live",Nainital Tigers VS Dehradun Warriors
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
 #EXTINF:-1 tvg-id="68ceb9655f9de199ff216c09" tvg-name="Etihad Strikers VS Lexington Shotguns" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758378339563-487727856.webp" group-title="Live",Etihad Strikers VS Lexington Shotguns
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8

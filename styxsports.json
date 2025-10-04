@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68cc14155f9de199ff216bf9",
-            "name": "Nainital Tigers VS Dehradun Warriors",
-            "category_name": "Cricket",
-            "tour_id": "68cc0bb65f9de199ff216bf4",
-            "tour_name": "Uttarakhand Premier League, 2025",
-            "match_no": "Eliminator",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-04",
-            "start_date_time": "2025-10-04T13:30:00.000Z",
-            "team_a": {
-                "id": "68cc0944ad25e8352e11a863",
-                "name": "Nainital Tigers",
-                "short_name": "Nainital Tigers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202176713-180363271.webp"
-            },
-            "team_b": {
-                "id": "66e01d97c13e43201a39f78e",
-                "name": "Dehradun Warriors",
-                "short_name": "Dehradun Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202194410-483796516.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759570157713-331308731.webp",
-            "venue": " ,",
-            "score_match_id": 93424
-        },
-        {
             "id": "68ceb9655f9de199ff216c09",
             "name": "Etihad Strikers VS Lexington Shotguns",
             "category_name": "Cricket",
