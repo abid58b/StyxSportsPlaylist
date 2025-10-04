@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
+#EXTINF:-1 tvg-id="68cc14155f9de199ff216bf9" tvg-name="Nainital Tigers VS Dehradun Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759570157713-331308731.webp" group-title="Live",Nainital Tigers VS Dehradun Warriors
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
