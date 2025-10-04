@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de7e449f5a848ba39f3354" tvg-name="Western Australia VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411776123-192560662.webp" group-title="Live",Western Australia VS New South Wales
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
-
 #EXTINF:-1 tvg-id="68cc13e55f9de199ff216bf8" tvg-name="Pithoragarh Hurricanes VS Rishikesh Falcons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758541914927-538803743.webp" group-title="Live",Pithoragarh Hurricanes VS Rishikesh Falcons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
