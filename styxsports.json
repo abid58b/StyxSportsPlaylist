@@ -31,34 +31,6 @@
             "score_match_id": 92845
         },
         {
-            "id": "68d79714ddc71c71d25ff86e",
-            "name": "USRC Premier VS PACC Premier",
-            "category_name": "Cricket",
-            "tour_id": "68d77a07c9b63d3592d30114",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T00:30:00.000Z",
-            "team_a": {
-                "id": "672f6811940d92dae749b04c",
-                "name": "USRC Premier",
-                "short_name": "USRC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894476928-426206842.webp"
-            },
-            "team_b": {
-                "id": "672f6832b270671853e2e56c",
-                "name": "PACC Premier",
-                "short_name": "PACC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894498770-580651032.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758959377613-582770074.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d7973fc9b63d3592d30117",
             "name": "KCC Premier VS HKCC Premier",
             "category_name": "Cricket",

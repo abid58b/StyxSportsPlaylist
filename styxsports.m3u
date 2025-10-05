@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
-#EXTINF:-1 tvg-id="68d79714ddc71c71d25ff86e" tvg-name="USRC Premier VS PACC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959377613-582770074.webp" group-title="Live",USRC Premier VS PACC Premier
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
-
 #EXTINF:-1 tvg-id="68d7973fc9b63d3592d30117" tvg-name="KCC Premier VS HKCC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959416780-598331010.webp" group-title="Live",KCC Premier VS HKCC Premier
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
