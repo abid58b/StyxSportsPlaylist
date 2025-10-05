@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68df8391458c1b0c74d2601b" tvg-name="Atlanta Kings CC VS Houston Generals CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759478669994-610925717.webp" group-title="Live",Atlanta Kings CC VS Houston Generals CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
