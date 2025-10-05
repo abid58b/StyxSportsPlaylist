@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68cc14432612c2db518b13d5" tvg-name="Haridwar Elmas VS Nainital Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759642071219-66836060.webp" group-title="Live",Haridwar Elmas VS Nainital Tigers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
 #EXTINF:-1 tvg-id="68d662540e4668aaf9a4018c" tvg-name="Afghanistan VS Bangladesh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759137942346-391410832.webp" group-title="Live",Afghanistan VS Bangladesh
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8

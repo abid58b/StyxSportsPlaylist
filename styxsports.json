@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68cc14432612c2db518b13d5",
-            "name": "Haridwar Elmas VS Nainital Tigers",
-            "category_name": "Cricket",
-            "tour_id": "68cc0bb65f9de199ff216bf4",
-            "tour_name": "Uttarakhand Premier League, 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T09:30:00.000Z",
-            "team_a": {
-                "id": "68cc0b0e5f9de199ff216bf3",
-                "name": "Haridwar Elmas",
-                "short_name": "Haridwar Elmas",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202636956-317906372.webp"
-            },
-            "team_b": {
-                "id": "68cc0944ad25e8352e11a863",
-                "name": "Nainital Tigers",
-                "short_name": "Nainital Tigers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202176713-180363271.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759642071219-66836060.webp",
-            "venue": " ,",
-            "score_match_id": 93425
-        },
-        {
             "id": "68d662540e4668aaf9a4018c",
             "name": "Afghanistan VS Bangladesh",
             "category_name": "Cricket",
