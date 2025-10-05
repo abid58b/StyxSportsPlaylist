@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68db8ef178c84dcccf43fbb7",
-            "name": "Malaysia Women VS Nepal Women",
-            "category_name": "Cricket",
-            "tour_id": "68db8dac52d8c81b4a56e380",
-            "tour_name": "Nepal Women tour of Malaysia 2025",
-            "match_no": "3rd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T01:30:00.000Z",
-            "team_a": {
-                "id": "68db8c6252d8c81b4a56e37f",
-                "name": "Malaysia Women",
-                "short_name": "Malaysia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
-            },
-            "team_b": {
-                "id": "67976bc323befa54fc6fffda",
-                "name": "Nepal Women",
-                "short_name": "Nepal Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218701927-34932956.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759219437146-70983418.webp",
-            "venue": "Bayuemas Oval ,Kuala Lumpur",
-            "score_match_id": 93869
-        },
-        {
             "id": "68de7e449f5a848ba39f3354",
             "name": "Western Australia VS New South Wales",
             "category_name": "Cricket",
@@ -138,9 +110,37 @@
                 "short_name": "Right Guards CC",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424843629-823375931.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757425572093-322487994.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759642279972-742730802.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "68cc14432612c2db518b13d5",
+            "name": "Haridwar Elmas VS Nainital Tigers",
+            "category_name": "Cricket",
+            "tour_id": "68cc0bb65f9de199ff216bf4",
+            "tour_name": "Uttarakhand Premier League, 2025",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-05",
+            "start_date_time": "2025-10-05T09:30:00.000Z",
+            "team_a": {
+                "id": "68cc0b0e5f9de199ff216bf3",
+                "name": "Haridwar Elmas",
+                "short_name": "Haridwar Elmas",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202636956-317906372.webp"
+            },
+            "team_b": {
+                "id": "68cc0944ad25e8352e11a863",
+                "name": "Nainital Tigers",
+                "short_name": "Nainital Tigers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758202176713-180363271.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759642071219-66836060.webp",
+            "venue": " ,",
+            "score_match_id": 93425
         },
         {
             "id": "68c02ffe39d6e519355af0b6",
@@ -197,34 +197,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758378393626-365808315.webp",
             "venue": "",
             "score_match_id": 0
-        },
-        {
-            "id": "68cc14432612c2db518b13d5",
-            "name": "TBD VS TBD",
-            "category_name": "Cricket",
-            "tour_id": "68cc0bb65f9de199ff216bf4",
-            "tour_name": "Uttarakhand Premier League, 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T13:30:00.000Z",
-            "team_a": {
-                "id": "6756a6b6f55b153f164470c7",
-                "name": "TBD",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733732010569-694201326.png"
-            },
-            "team_b": {
-                "id": "6756a6b6f55b153f164470c7",
-                "name": "TBD",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733732010569-694201326.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758542021839-970729855.webp",
-            "venue": " ,",
-            "score_match_id": 93425
         },
         {
             "id": "68d662540e4668aaf9a4018c",
