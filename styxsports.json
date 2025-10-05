@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ceb9c15f9de199ff216c0b",
-            "name": "Volcano Sports Academy VS ALS Superstars",
-            "category_name": "Cricket",
-            "tour_id": "68ceb5d2660ed2e95b8ce086",
-            "tour_name": "Abu Dhabi Thunder 2025",
-            "match_no": "Semifinal - 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T15:30:00.000Z",
-            "team_a": {
-                "id": "6799f8c3a694d3873e44920d",
-                "name": "Volcano Sports Academy",
-                "short_name": "Volcano Sports Academy",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377163942-925175607.webp"
-            },
-            "team_b": {
-                "id": "6799f9d54ba256cf3abcdab7",
-                "name": "ALS Superstars",
-                "short_name": "ALS Superstars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759648314718-836316821.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68df8391458c1b0c74d2601b",
             "name": "Atlanta Kings CC VS Houston Generals CC",
             "category_name": "Cricket",
