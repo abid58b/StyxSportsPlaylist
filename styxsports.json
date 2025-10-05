@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68df82d1c167956f9cb7ba0a",
-            "name": "Chicago CC VS New York Lions CC",
-            "category_name": "Cricket",
-            "tour_id": "68df7f8d9f5a848ba39f3361",
-            "tour_name": "National Cricket T10 League 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T00:30:00.000Z",
-            "team_a": {
-                "id": "67040ca34a1f5d14be8b1d56",
-                "name": "Chicago CC",
-                "short_name": "Chicago CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477470912-161391381.webp"
-            },
-            "team_b": {
-                "id": "67051bed93a91179d569b7f5",
-                "name": "New York Lions CC",
-                "short_name": "New York Lions CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477318745-322280947.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759594534627-935916763.webp",
-            "venue": "University of Texas Dallas ,Dallas",
-            "score_match_id": 93920
-        },
-        {
             "id": "68d7973fc9b63d3592d30117",
             "name": "KCC Premier VS HKCC Premier",
             "category_name": "Cricket",
