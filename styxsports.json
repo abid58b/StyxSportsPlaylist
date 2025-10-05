@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68c02fa55eff1aae0fc91e96",
-            "name": "Challengers CC VS Right Guards CC",
-            "category_name": "Cricket",
-            "tour_id": "68c02d5d39d6e519355af0b5",
-            "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T07:15:00.000Z",
-            "team_a": {
-                "id": "68c02c8efa47c38f5e0be5da",
-                "name": "Challengers CC",
-                "short_name": "Challengers cc",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424780028-858846950.webp"
-            },
-            "team_b": {
-                "id": "68c02ccea7d03209baad134e",
-                "name": "Right Guards CC",
-                "short_name": "Right Guards CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424843629-823375931.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759642279972-742730802.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68cc14432612c2db518b13d5",
             "name": "Haridwar Elmas VS Nainital Tigers",
             "category_name": "Cricket",
