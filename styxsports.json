@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d7973fc9b63d3592d30117",
-            "name": "KCC Premier VS HKCC Premier",
-            "category_name": "Cricket",
-            "tour_id": "68d77a07c9b63d3592d30114",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T01:00:00.000Z",
-            "team_a": {
-                "id": "6731acffdc7ab3a639320702",
-                "name": "KCC Premier",
-                "short_name": "KCC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894519101-353973323.webp"
-            },
-            "team_b": {
-                "id": "672f67d5940d92dae749b04b",
-                "name": "HKCC Premier",
-                "short_name": "HKCC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894597545-773627078.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758959416780-598331010.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68de7e449f5a848ba39f3354",
-            "name": "Western Australia VS New South Wales",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "3 | Day - 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T01:30:00.000Z",
-            "team_a": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411776123-192560662.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 92847
-        },
-        {
             "id": "68c02fa55eff1aae0fc91e96",
             "name": "Challengers CC VS Right Guards CC",
             "category_name": "Cricket",

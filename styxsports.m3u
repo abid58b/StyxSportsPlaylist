@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d7973fc9b63d3592d30117" tvg-name="KCC Premier VS HKCC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959416780-598331010.webp" group-title="Live",KCC Premier VS HKCC Premier
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
-
-#EXTINF:-1 tvg-id="68de7e449f5a848ba39f3354" tvg-name="Western Australia VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411776123-192560662.webp" group-title="Live",Western Australia VS New South Wales
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
-
 #EXTINF:-1 tvg-id="68c02fa55eff1aae0fc91e96" tvg-name="Challengers CC VS Right Guards CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759642279972-742730802.webp" group-title="Live",Challengers CC VS Right Guards CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
