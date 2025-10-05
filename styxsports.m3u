@@ -4,14 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
 
-#EXTINF:-1 tvg-id="68c02ffe39d6e519355af0b6" tvg-name="Right Guards CC VS Spartans CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425659609-375061718.webp" group-title="Live",Right Guards CC VS Spartans CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
-
-#EXTINF:-1 tvg-id="68ceb99d5f9de199ff216c0a" tvg-name="Abu Dhabi Smashers VS Lexington Shotguns" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759648248952-154535680.webp" group-title="Live",Abu Dhabi Smashers VS Lexington Shotguns
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
-
 #EXTINF:-1 tvg-id="68d662540e4668aaf9a4018c" tvg-name="Afghanistan VS Bangladesh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759137942346-391410832.webp" group-title="Live",Afghanistan VS Bangladesh
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8

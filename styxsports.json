@@ -31,62 +31,6 @@
             "score_match_id": 93425
         },
         {
-            "id": "68c02ffe39d6e519355af0b6",
-            "name": "Right Guards CC VS Spartans CC",
-            "category_name": "Cricket",
-            "tour_id": "68c02d5d39d6e519355af0b5",
-            "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T11:15:00.000Z",
-            "team_a": {
-                "id": "68c02ccea7d03209baad134e",
-                "name": "Right Guards CC",
-                "short_name": "Right Guards CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424843629-823375931.webp"
-            },
-            "team_b": {
-                "id": "68c02ce45eff1aae0fc91e94",
-                "name": "Spartans CC",
-                "short_name": "Spartans CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424867488-870474504.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757425659609-375061718.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68ceb99d5f9de199ff216c0a",
-            "name": "Abu Dhabi Smashers VS Lexington Shotguns",
-            "category_name": "Cricket",
-            "tour_id": "68ceb5d2660ed2e95b8ce086",
-            "tour_name": "Abu Dhabi Thunder 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-05",
-            "start_date_time": "2025-10-05T11:30:00.000Z",
-            "team_a": {
-                "id": "6799fa0191e311a90ee8d807",
-                "name": "Abu Dhabi Smashers",
-                "short_name": "Abu Dhabi Smashers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
-            },
-            "team_b": {
-                "id": "6799f91091e311a90ee8d805",
-                "name": "Lexington Shotguns",
-                "short_name": "Lexington Shotguns",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377139933-298539105.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759648248952-154535680.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d662540e4668aaf9a4018c",
             "name": "Afghanistan VS Bangladesh",
             "category_name": "Cricket",
