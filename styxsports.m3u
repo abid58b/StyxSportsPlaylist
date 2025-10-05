@@ -1,10 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68df80d2458c1b0c74d2601a" tvg-name="Houston Generals CC VS Los Angeles Waves CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759594516472-716547184.webp" group-title="Live",Houston Generals CC VS Los Angeles Waves CC
+#EXTINF:-1 tvg-id="68de7dd707d2ecfd0c159395" tvg-name="Queensland Bulls VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411664779-193382832.webp" group-title="Live",Queensland Bulls VS Tasmania Tigers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="68d79714ddc71c71d25ff86e" tvg-name="USRC Premier VS PACC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959377613-582770074.webp" group-title="Live",USRC Premier VS PACC Premier
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
+
+#EXTINF:-1 tvg-id="68df82d1c167956f9cb7ba0a" tvg-name="Chicago CC VS New York Lions CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759594534627-935916763.webp" group-title="Live",Chicago CC VS New York Lions CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
-#EXTINF:-1 tvg-id="68de7e029f5a848ba39f3353" tvg-name="South Australia VS Victoria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411710006-52755898.webp" group-title="Live",South Australia VS Victoria
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
 
