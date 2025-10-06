@@ -60,7 +60,7 @@
         },
         {
             "id": "68ceb9ea2612c2db518b13dc",
-            "name": "TBC1 VS TBC1",
+            "name": "Abu Dhabi Smashers VS ALS Superstars",
             "category_name": "Cricket",
             "tour_id": "68ceb5d2660ed2e95b8ce086",
             "tour_name": "Abu Dhabi Thunder 2025",
@@ -71,18 +71,18 @@
             "start_date": "2025-10-06",
             "start_date_time": "2025-10-06T15:30:00.000Z",
             "team_a": {
-                "id": "67079c27254eecc92bb01e5e",
-                "name": "TBC1",
-                "short_name": "TBC1",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728551886937-546616561.png"
+                "id": "6799fa0191e311a90ee8d807",
+                "name": "Abu Dhabi Smashers",
+                "short_name": "Abu Dhabi Smashers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
             },
             "team_b": {
-                "id": "67079c27254eecc92bb01e5e",
-                "name": "TBC1",
-                "short_name": "TBC1",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728551886937-546616561.png"
+                "id": "6799f9d54ba256cf3abcdab7",
+                "name": "ALS Superstars",
+                "short_name": "ALS Superstars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758378473099-266076301.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759732936054-388529905.webp",
             "venue": "",
             "score_match_id": 0
         },
