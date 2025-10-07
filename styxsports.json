@@ -31,34 +31,6 @@
             "score_match_id": 92845
         },
         {
-            "id": "68db8f2d6d8eecd0e11a785c",
-            "name": "Malaysia Women VS Nepal Women",
-            "category_name": "Cricket",
-            "tour_id": "68db8dac52d8c81b4a56e380",
-            "tour_name": "Nepal Women tour of Malaysia 2025",
-            "match_no": "4th T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-07",
-            "start_date_time": "2025-10-07T01:30:00.000Z",
-            "team_a": {
-                "id": "68db8c6252d8c81b4a56e37f",
-                "name": "Malaysia Women",
-                "short_name": "Malaysia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
-            },
-            "team_b": {
-                "id": "67976bc323befa54fc6fffda",
-                "name": "Nepal Women",
-                "short_name": "Nepal Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218701927-34932956.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759219500339-795883168.webp",
-            "venue": "Bayuemas Oval ,Kuala Lumpur",
-            "score_match_id": 93870
-        },
-        {
             "id": "68de7e449f5a848ba39f3354",
             "name": "Western Australia VS New South Wales",
             "category_name": "Cricket",
