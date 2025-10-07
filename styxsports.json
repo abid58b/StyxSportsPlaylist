@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de7c3b9f5a848ba39f3351",
-            "name": "Lucknow CA VS Barabanki CA",
-            "category_name": "Cricket",
-            "tour_id": "68de502c458c1b0c74d2600b",
-            "tour_name": "19th Chaudhary Asif Ali Memorial State Cricket League 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-07",
-            "start_date_time": "2025-10-07T03:00:00.000Z",
-            "team_a": {
-                "id": "68de4d9dc167956f9cb7b9eb",
-                "name": "Lucknow CA",
-                "short_name": "Lucknow CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399320604-103142844.webp"
-            },
-            "team_b": {
-                "id": "68de4e06c167956f9cb7b9ed",
-                "name": "Barabanki CA",
-                "short_name": "Barabanki CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399423922-366344479.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411255712-24849792.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68da8c4578c84dcccf43fbb0",
             "name": "BBK Partnership VS Maliban Biscuits",
             "category_name": "Cricket",
