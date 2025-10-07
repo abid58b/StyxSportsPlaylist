@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68da8c4578c84dcccf43fbb0",
-            "name": "BBK Partnership VS Maliban Biscuits",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-07",
-            "start_date_time": "2025-10-07T08:00:00.000Z",
-            "team_a": {
-                "id": "675fc5f9da878853e3c01c79",
-                "name": "BBK Partnership",
-                "short_name": "BBK Partnership",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329847266-108192185.png"
-            },
-            "team_b": {
-                "id": "675fc59a027a1688c435a454",
-                "name": "Maliban Biscuits",
-                "short_name": "Maliban Biscuits",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329752377-317474835.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759153219562-332085620.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d002ba660ed2e95b8ce090",
             "name": "Victoria Women VS Tasmanian Tigers Women",
             "category_name": "Cricket",
