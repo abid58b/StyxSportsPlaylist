@@ -4,15 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
-#EXTINF:-1 tvg-id="68de7e449f5a848ba39f3354" tvg-name="Western Australia VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411776123-192560662.webp" group-title="Live",Western Australia VS New South Wales
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
-
 #EXTINF:-1 tvg-id="68de7c3b9f5a848ba39f3351" tvg-name="Lucknow CA VS Barabanki CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411255712-24849792.webp" group-title="Live",Lucknow CA VS Barabanki CA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
-#EXTINF:-1 tvg-id="68da8c1e78c84dcccf43fbaf" tvg-name="Fairfirst Insurance VS CDB-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759153179557-764548624.webp" group-title="Live",Fairfirst Insurance VS CDB-A
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
 

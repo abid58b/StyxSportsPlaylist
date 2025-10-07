@@ -31,34 +31,6 @@
             "score_match_id": 92845
         },
         {
-            "id": "68de7e449f5a848ba39f3354",
-            "name": "Western Australia VS New South Wales",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "Match - 3 | Day - 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-07",
-            "start_date_time": "2025-10-07T01:30:00.000Z",
-            "team_a": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411776123-192560662.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 92847
-        },
-        {
             "id": "68de7c3b9f5a848ba39f3351",
             "name": "Lucknow CA VS Barabanki CA",
             "category_name": "Cricket",
@@ -83,34 +55,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399423922-366344479.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411255712-24849792.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68da8c1e78c84dcccf43fbaf",
-            "name": "Fairfirst Insurance VS CDB-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-07",
-            "start_date_time": "2025-10-07T04:00:00.000Z",
-            "team_a": {
-                "id": "675fc5cf027a1688c435a455",
-                "name": "Fairfirst Insurance",
-                "short_name": "Fairfirst Insurance",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329805367-941327738.png"
-            },
-            "team_b": {
-                "id": "675fc5e532a1502da349e92a",
-                "name": "CDB-A",
-                "short_name": "CDB-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759153179557-764548624.webp",
             "venue": "",
             "score_match_id": 0
         },
