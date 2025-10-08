@@ -8,3 +8,7 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
+#EXTINF:-1 tvg-id="68c032bf5eff1aae0fc91e9d" tvg-name="Queensland Bulls VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757426363367-530633540.webp" group-title="Live",Queensland Bulls VS Tasmania Tigers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
