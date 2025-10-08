@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68db8f5b50dd3d4150aa55cb" tvg-name="Malaysia Women VS Nepal Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759219545474-932604129.webp" group-title="Live",Malaysia Women VS Nepal Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
-
 #EXTINF:-1 tvg-id="68de7c82458c1b0c74d2600f" tvg-name="Faizabad CA VS Lucknow CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411328648-799716950.webp" group-title="Live",Faizabad CA VS Lucknow CA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
