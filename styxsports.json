@@ -59,6 +59,34 @@
             "score_match_id": 0
         },
         {
+            "id": "68d0038d2612c2db518b13de",
+            "name": "NSW Women VS Western Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-08",
+            "start_date_time": "2025-10-08T22:30:00.000Z",
+            "team_a": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+            },
+            "team_b": {
+                "id": "675d0df2feaf9c45f3b7d0f0",
+                "name": "Western Australia Women",
+                "short_name": "Western Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461560781-913906076.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758462854026-259460147.webp",
+            "venue": "Cricket Central ,Sydney",
+            "score_match_id": 92820
+        },
+        {
             "id": "68df920b07d2ecfd0c1593a3",
             "name": "Atlanta Kings CC VS Chicago CC",
             "category_name": "Cricket",
