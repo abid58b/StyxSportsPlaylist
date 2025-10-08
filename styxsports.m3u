@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
 
+#EXTINF:-1 tvg-id="68e67a6cc167956f9cb7ba7a" tvg-name="Kuwait VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759935081393-904145860.png" group-title="Live",Kuwait VS Nepal
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
