@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
+#EXTINF:-1 tvg-id="68db8f5b50dd3d4150aa55cb" tvg-name="Malaysia Women VS Nepal Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759219545474-932604129.webp" group-title="Live",Malaysia Women VS Nepal Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
+
