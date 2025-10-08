@@ -31,34 +31,6 @@
             "score_match_id": 93081
         },
         {
-            "id": "68e67a6cc167956f9cb7ba7a",
-            "name": "Kuwait VS Nepal",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-08",
-            "start_date_time": "2025-10-08T14:40:00.000Z",
-            "team_a": {
-                "id": "66b60a6cd699aaf3080fc58a",
-                "name": "Kuwait",
-                "short_name": "Kuwait",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759934278637-262692872.webp"
-            },
-            "team_b": {
-                "id": "66e042052bfab92771e8e442",
-                "name": "Nepal",
-                "short_name": "Nepal",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759935081393-904145860.png",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d0038d2612c2db518b13de",
             "name": "NSW Women VS Western Australia Women",
             "category_name": "Cricket",
