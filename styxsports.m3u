@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68c03341fa47c38f5e0be5dd" tvg-name="Western Australia VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757426496257-712638720.webp" group-title="Live",Western Australia VS New South Wales
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
-#EXTINF:-1 tvg-id="68e7641a458c1b0c74d26042" tvg-name="Japan VS Kuwait" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759994897814-235520384.webp" group-title="Live",Japan VS Kuwait
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
-
 #EXTINF:-1 tvg-id="68e514f59f5a848ba39f3381" tvg-name="Turkey Women VS Bulgaria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759843571172-131427570.webp" group-title="Live",Turkey Women VS Bulgaria Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
