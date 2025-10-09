@@ -143,6 +143,34 @@
             "score_match_id": 0
         },
         {
+            "id": "68e7641a458c1b0c74d26042",
+            "name": "Japan VS Kuwait",
+            "category_name": "Cricket",
+            "tour_id": "68e66f0d07d2ecfd0c159409",
+            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-09",
+            "start_date_time": "2025-10-09T10:00:00.000Z",
+            "team_a": {
+                "id": "68e7497607d2ecfd0c159414",
+                "name": "Japan",
+                "short_name": "Japan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988084142-886144547.webp"
+            },
+            "team_b": {
+                "id": "66b60a6cd699aaf3080fc58a",
+                "name": "Kuwait",
+                "short_name": "Kuwait",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759934278637-262692872.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759994897814-235520384.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
             "id": "68e514f59f5a848ba39f3381",
             "name": "Turkey Women VS Bulgaria Women",
             "category_name": "Cricket",
@@ -167,6 +195,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843100224-223819654.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843571172-131427570.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68e764599f5a848ba39f3391",
+            "name": "Papua New Guinea VS Samoa",
+            "category_name": "Cricket",
+            "tour_id": "68e66f0d07d2ecfd0c159409",
+            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-09",
+            "start_date_time": "2025-10-09T14:30:00.000Z",
+            "team_a": {
+                "id": "66e7e14547f6bd8cb61c1476",
+                "name": "Papua New Guinea",
+                "short_name": "PNG",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988441245-250272460.webp"
+            },
+            "team_b": {
+                "id": "68e7491a9f5a848ba39f338e",
+                "name": "Samoa",
+                "short_name": "Samoa",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759987993593-349315058.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759994966627-303572919.webp",
             "venue": "",
             "score_match_id": 0
         },
