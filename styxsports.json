@@ -87,6 +87,34 @@
             "score_match_id": 92831
         },
         {
+            "id": "68e74c0ec167956f9cb7ba7d",
+            "name": "Malaysia VS Qatar",
+            "category_name": "Cricket",
+            "tour_id": "68e66f0d07d2ecfd0c159409",
+            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-09",
+            "start_date_time": "2025-10-09T05:50:00.000Z",
+            "team_a": {
+                "id": "66b60a83d699aaf3080fc58b",
+                "name": "Malaysia",
+                "short_name": "Malaysia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759930291865-444233062.webp"
+            },
+            "team_b": {
+                "id": "67ecd57081c30c78d351bf3f",
+                "name": "Qatar",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759934527508-955573482.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759989939048-63792188.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
             "id": "68e514ca9f5a848ba39f3380",
             "name": "Romania Women VS Austria Women",
             "category_name": "Cricket",
