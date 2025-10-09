@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68d0087b660ed2e95b8ce091" tvg-name="Victoria Women VS Tasmanian Tigers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758462909356-90845958.webp" group-title="Live",Victoria Women VS Tasmanian Tigers Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
+
+#EXTINF:-1 tvg-id="68df929807d2ecfd0c1593a4" tvg-name="Dallas Lonestars CC VS Chicago CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759482517428-452632341.webp" group-title="Live",Dallas Lonestars CC VS Chicago CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
