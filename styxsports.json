@@ -31,34 +31,6 @@
             "score_match_id": 92829
         },
         {
-            "id": "68df923fc167956f9cb7ba0e",
-            "name": "Los Angeles Waves CC VS New York Lions CC",
-            "category_name": "Cricket",
-            "tour_id": "68df7f8d9f5a848ba39f3361",
-            "tour_name": "National Cricket T10 League 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-09",
-            "start_date_time": "2025-10-09T00:30:00.000Z",
-            "team_a": {
-                "id": "67040baed72fae6b72c59967",
-                "name": "Los Angeles Waves CC",
-                "short_name": "Los Angeles Waves CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477402702-876964887.webp"
-            },
-            "team_b": {
-                "id": "67051bed93a91179d569b7f5",
-                "name": "New York Lions CC",
-                "short_name": "New York Lions CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477318745-322280947.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759482428419-763213431.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68de7ca907d2ecfd0c159394",
             "name": "Faizabad CA VS Barabanki CA",
             "category_name": "Cricket",
