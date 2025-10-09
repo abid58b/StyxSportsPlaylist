@@ -31,34 +31,6 @@
             "score_match_id": 92831
         },
         {
-            "id": "68e514ca9f5a848ba39f3380",
-            "name": "Romania Women VS Austria Women",
-            "category_name": "Cricket",
-            "tour_id": "68e5142fc167956f9cb7ba66",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-09",
-            "start_date_time": "2025-10-09T06:30:00.000Z",
-            "team_a": {
-                "id": "68e5137dc167956f9cb7ba65",
-                "name": "Romania Women",
-                "short_name": "Romania Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843194488-485776726.webp"
-            },
-            "team_b": {
-                "id": "68e512ebc167956f9cb7ba64",
-                "name": "Austria Women",
-                "short_name": "Austria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843048305-705124035.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843527462-740987941.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e7641a458c1b0c74d26042",
             "name": "Japan VS Kuwait",
             "category_name": "Cricket",

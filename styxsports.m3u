@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
 
-#EXTINF:-1 tvg-id="68e514ca9f5a848ba39f3380" tvg-name="Romania Women VS Austria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759843527462-740987941.webp" group-title="Live",Romania Women VS Austria Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
-
 #EXTINF:-1 tvg-id="68e7641a458c1b0c74d26042" tvg-name="Japan VS Kuwait" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759994897814-235520384.webp" group-title="Live",Japan VS Kuwait
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
