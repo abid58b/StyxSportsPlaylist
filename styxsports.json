@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de7ca907d2ecfd0c159394",
-            "name": "Faizabad CA VS Barabanki CA",
-            "category_name": "Cricket",
-            "tour_id": "68de502c458c1b0c74d2600b",
-            "tour_name": "19th Chaudhary Asif Ali Memorial State Cricket League 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-09",
-            "start_date_time": "2025-10-09T03:00:00.000Z",
-            "team_a": {
-                "id": "68de4dd5c167956f9cb7b9ec",
-                "name": "Faizabad CA",
-                "short_name": "Faizabad CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399369826-494575155.webp"
-            },
-            "team_b": {
-                "id": "68de4e06c167956f9cb7b9ed",
-                "name": "Barabanki CA",
-                "short_name": "Barabanki CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399423922-366344479.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411367573-874490936.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68c03341fa47c38f5e0be5dd",
             "name": "Western Australia VS New South Wales",
             "category_name": "Cricket",

@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de7ca907d2ecfd0c159394" tvg-name="Faizabad CA VS Barabanki CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411367573-874490936.webp" group-title="Live",Faizabad CA VS Barabanki CA
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
 #EXTINF:-1 tvg-id="68c03341fa47c38f5e0be5dd" tvg-name="Western Australia VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757426496257-712638720.webp" group-title="Live",Western Australia VS New South Wales
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
