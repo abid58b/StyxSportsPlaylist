@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e764599f5a848ba39f3391",
-            "name": "Papua New Guinea VS Samoa",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-09",
-            "start_date_time": "2025-10-09T14:30:00.000Z",
-            "team_a": {
-                "id": "66e7e14547f6bd8cb61c1476",
-                "name": "Papua New Guinea",
-                "short_name": "PNG",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988441245-250272460.webp"
-            },
-            "team_b": {
-                "id": "68e7491a9f5a848ba39f338e",
-                "name": "Samoa",
-                "short_name": "Samoa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759987993593-349315058.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759994966627-303572919.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d0087b660ed2e95b8ce091",
             "name": "Victoria Women VS Tasmanian Tigers Women",
             "category_name": "Cricket",
