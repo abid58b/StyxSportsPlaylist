@@ -12,3 +12,7 @@ https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
 
+#EXTINF:-1 tvg-id="68e514f59f5a848ba39f3381" tvg-name="Turkey Women VS Bulgaria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759843571172-131427570.webp" group-title="Live",Turkey Women VS Bulgaria Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
+
