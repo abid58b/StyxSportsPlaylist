@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e767c6458c1b0c74d26043",
-            "name": "Japan VS Nepal",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-10",
-            "start_date_time": "2025-10-10T10:00:00.000Z",
-            "team_a": {
-                "id": "68e7497607d2ecfd0c159414",
-                "name": "Japan",
-                "short_name": "Japan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988084142-886144547.webp"
-            },
-            "team_b": {
-                "id": "66e042052bfab92771e8e442",
-                "name": "Nepal",
-                "short_name": "Nepal",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759995843653-61977664.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68bedd5e5eff1aae0fc91e8c",
             "name": "Ingabo Titans VS Imena Centurions",
             "category_name": "Cricket",
