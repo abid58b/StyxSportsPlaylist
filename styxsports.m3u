@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
+#EXTINF:-1 tvg-id="68da8cb750dd3d4150aa55c5" tvg-name="Hayleys-A VS David Pieris Group A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759153332499-891826893.webp" group-title="Live",Hayleys-A VS David Pieris Group A
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
