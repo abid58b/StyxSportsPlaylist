@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
-#EXTINF:-1 tvg-id="68da8cb750dd3d4150aa55c5" tvg-name="Hayleys-A VS David Pieris Group A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759153332499-891826893.webp" group-title="Live",Hayleys-A VS David Pieris Group A
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="68e515829f5a848ba39f3382" tvg-name="Austria Women VS Turkey Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759843711971-688632032.webp" group-title="Live",Austria Women VS Turkey Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
@@ -19,4 +15,12 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205
 #EXTINF:-1 tvg-id="68bedd28fa47c38f5e0be5d1" tvg-name="Ingenzi Defenders VS Imanzi Guardians" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760081282353-1416481.webp" group-title="Live",Ingenzi Defenders VS Imanzi Guardians
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="68da8ce378c84dcccf43fbb1" tvg-name="Fairfirst Insurance VS BBK Partnership" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759153376210-778457124.webp" group-title="Live",Fairfirst Insurance VS BBK Partnership
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
+#EXTINF:-1 tvg-id="68e515bf458c1b0c74d26037" tvg-name="Romania Women VS Turkey Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759843773417-901266543.webp" group-title="Live",Romania Women VS Turkey Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 

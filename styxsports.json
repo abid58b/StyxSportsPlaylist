@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68da8cb750dd3d4150aa55c5",
-            "name": "Hayleys-A VS David Pieris Group A",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-10",
-            "start_date_time": "2025-10-10T04:00:00.000Z",
-            "team_a": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "team_b": {
-                "id": "68da8a4878c84dcccf43fbae",
-                "name": "David Pieris Group A",
-                "short_name": "David Pieris Group A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759152709164-784706276.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759153332499-891826893.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e515829f5a848ba39f3382",
             "name": "Austria Women VS Turkey Women",
             "category_name": "Cricket",
