@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68bedd5e5eff1aae0fc91e8c",
-            "name": "Ingabo Titans VS Imena Centurions",
-            "category_name": "Cricket",
-            "tour_id": "68be82cbfa47c38f5e0be5ca",
-            "tour_name": "Elite Men's League 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-10",
-            "start_date_time": "2025-10-10T11:15:00.000Z",
-            "team_a": {
-                "id": "67245e19e7faeec8a7f5250b",
-                "name": "Ingabo Titans",
-                "short_name": "Ingabo Titans",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757314924630-721196534.webp"
-            },
-            "team_b": {
-                "id": "67245de1e7faeec8a7f5250a",
-                "name": "Imena Centurions",
-                "short_name": "Imena Centurions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315079794-974106659.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760081249755-526099130.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68e51617c167956f9cb7ba67",
-            "name": "Bulgaria Women VS Romania Women",
-            "category_name": "Cricket",
-            "tour_id": "68e5142fc167956f9cb7ba66",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-10",
-            "start_date_time": "2025-10-10T11:45:00.000Z",
-            "team_a": {
-                "id": "68e5131f07d2ecfd0c1593f5",
-                "name": "Bulgaria Women",
-                "short_name": "Bulgaria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843100224-223819654.webp"
-            },
-            "team_b": {
-                "id": "68e5137dc167956f9cb7ba65",
-                "name": "Romania Women",
-                "short_name": "Romania Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843194488-485776726.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843860889-116084999.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e768cc458c1b0c74d26044",
             "name": "Oman VS Papua New Guinea",
             "category_name": "Cricket",
