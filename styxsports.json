@@ -3,58 +3,394 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d0087b660ed2e95b8ce091",
-            "name": "Victoria Women VS Tasmanian Tigers Women",
-            "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-09",
-            "start_date_time": "2025-10-09T22:30:00.000Z",
-            "team_a": {
-                "id": "675d0e1172efbbdadc2ef8f8",
-                "name": "Victoria Women",
-                "short_name": "Victoria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461576791-514056453.webp"
-            },
-            "team_b": {
-                "id": "675d0e32feaf9c45f3b7d0f1",
-                "name": "Tasmanian Tigers Women",
-                "short_name": "Tasmanian Tigers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461594601-199554937.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758462909356-90845958.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92821
-        },
-        {
-            "id": "68df929807d2ecfd0c1593a4",
-            "name": "Dallas Lonestars CC VS Chicago CC",
+            "id": "68df92cc9f5a848ba39f3364",
+            "name": "New York Lions CC VS Houston Generals CC",
             "category_name": "Cricket",
             "tour_id": "68df7f8d9f5a848ba39f3361",
             "tour_name": "National Cricket T10 League 2025",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T00:30:00.000Z",
+            "team_a": {
+                "id": "67051bed93a91179d569b7f5",
+                "name": "New York Lions CC",
+                "short_name": "New York Lions CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477318745-322280947.webp"
+            },
+            "team_b": {
+                "id": "68df7f07c167956f9cb7ba09",
+                "name": "Houston Generals CC",
+                "short_name": "Houston Generals CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477508930-367069109.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759482569472-624203558.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68de7cd29f5a848ba39f3352",
+            "name": "Sultanpur CA VS Awadh CC",
+            "category_name": "Cricket",
+            "tour_id": "68de502c458c1b0c74d2600b",
+            "tour_name": "19th Chaudhary Asif Ali Memorial State Cricket League 2025",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T03:00:00.000Z",
+            "team_a": {
+                "id": "68de4e7a07d2ecfd0c15938e",
+                "name": "Sultanpur CA",
+                "short_name": "Sultanpur CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399542439-267654450.webp"
+            },
+            "team_b": {
+                "id": "68de4e549f5a848ba39f334e",
+                "name": "Awadh CC",
+                "short_name": "Awadh CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399501080-575283379.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411408408-795854288.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68da8cb750dd3d4150aa55c5",
+            "name": "Hayleys-A VS David Pieris Group A",
+            "category_name": "Cricket",
+            "tour_id": "68da8b2b50dd3d4150aa55c3",
+            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T04:00:00.000Z",
+            "team_a": {
+                "id": "675fc5b6da878853e3c01c78",
+                "name": "Hayleys-A",
+                "short_name": "Hayleys-A",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
+            },
+            "team_b": {
+                "id": "68da8a4878c84dcccf43fbae",
+                "name": "David Pieris Group A",
+                "short_name": "David Pieris Group A",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759152709164-784706276.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759153332499-891826893.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68e515829f5a848ba39f3382",
+            "name": "Austria Women VS Turkey Women",
+            "category_name": "Cricket",
+            "tour_id": "68e5142fc167956f9cb7ba66",
+            "tour_name": "ECA Women's Continental Cup 2025",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T04:45:00.000Z",
+            "team_a": {
+                "id": "68e512ebc167956f9cb7ba64",
+                "name": "Austria Women",
+                "short_name": "Austria Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843048305-705124035.webp"
+            },
+            "team_b": {
+                "id": "68e51293458c1b0c74d26036",
+                "name": "Turkey Women",
+                "short_name": "Turkey Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759842960225-538533983.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843711971-688632032.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68e7686c07d2ecfd0c159418",
+            "name": "Malaysia VS United Arab Emirates",
+            "category_name": "Cricket",
+            "tour_id": "68e66f0d07d2ecfd0c159409",
+            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T05:00:00.000Z",
+            "team_a": {
+                "id": "66b60a83d699aaf3080fc58b",
+                "name": "Malaysia",
+                "short_name": "Malaysia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759930291865-444233062.webp"
+            },
+            "team_b": {
+                "id": "66e0442ac13e43201a39f7a9",
+                "name": "United Arab Emirates",
+                "short_name": "UAE",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988014637-178411913.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759996009846-191698027.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68bedd28fa47c38f5e0be5d1",
+            "name": "Ingenzi Defenders VS Imanzi Guardians",
+            "category_name": "Cricket",
+            "tour_id": "68be82cbfa47c38f5e0be5ca",
+            "tour_name": "Elite Men's League 2025",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T07:00:00.000Z",
+            "team_a": {
+                "id": "67245db9e7faeec8a7f52509",
+                "name": "Ingenzi Defenders",
+                "short_name": "Ingenzi Defenders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315047817-468154960.webp"
+            },
+            "team_b": {
+                "id": "67245d82e7faeec8a7f52508",
+                "name": "Imanzi Guardians",
+                "short_name": "Imanzi Guardians",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315001259-57229123.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757338919239-222459772.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68da8ce378c84dcccf43fbb1",
+            "name": "Fairfirst Insurance VS BBK Partnership",
+            "category_name": "Cricket",
+            "tour_id": "68da8b2b50dd3d4150aa55c3",
+            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T08:00:00.000Z",
+            "team_a": {
+                "id": "675fc5cf027a1688c435a455",
+                "name": "Fairfirst Insurance",
+                "short_name": "Fairfirst Insurance",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329805367-941327738.png"
+            },
+            "team_b": {
+                "id": "675fc5f9da878853e3c01c79",
+                "name": "BBK Partnership",
+                "short_name": "BBK Partnership",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329847266-108192185.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759153376210-778457124.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68e515bf458c1b0c74d26037",
+            "name": "Romania Women VS Turkey Women",
+            "category_name": "Cricket",
+            "tour_id": "68e5142fc167956f9cb7ba66",
+            "tour_name": "ECA Women's Continental Cup 2025",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T08:15:00.000Z",
+            "team_a": {
+                "id": "68e5137dc167956f9cb7ba65",
+                "name": "Romania Women",
+                "short_name": "Romania Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843194488-485776726.webp"
+            },
+            "team_b": {
+                "id": "68e51293458c1b0c74d26036",
+                "name": "Turkey Women",
+                "short_name": "Turkey Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759842960225-538533983.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843773417-901266543.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68e767c6458c1b0c74d26043",
+            "name": "Japan VS Nepal",
+            "category_name": "Cricket",
+            "tour_id": "68e66f0d07d2ecfd0c159409",
+            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T10:00:00.000Z",
+            "team_a": {
+                "id": "68e7497607d2ecfd0c159414",
+                "name": "Japan",
+                "short_name": "Japan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988084142-886144547.webp"
+            },
+            "team_b": {
+                "id": "66e042052bfab92771e8e442",
+                "name": "Nepal",
+                "short_name": "Nepal",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759995843653-61977664.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68bedd5e5eff1aae0fc91e8c",
+            "name": "Ingabo Titans VS Imena Centurions",
+            "category_name": "Cricket",
+            "tour_id": "68be82cbfa47c38f5e0be5ca",
+            "tour_name": "Elite Men's League 2025",
             "match_no": "12",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-09",
-            "start_date_time": "2025-10-09T22:30:00.000Z",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T11:15:00.000Z",
             "team_a": {
-                "id": "67051bcd93a91179d569b7f4",
-                "name": "Dallas Lonestars CC",
-                "short_name": "Dallas Lonestars CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477437114-592600762.webp"
+                "id": "67245e19e7faeec8a7f5250b",
+                "name": "Ingabo Titans",
+                "short_name": "Ingabo Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757314924630-721196534.webp"
             },
             "team_b": {
-                "id": "67040ca34a1f5d14be8b1d56",
-                "name": "Chicago CC",
-                "short_name": "Chicago CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477470912-161391381.webp"
+                "id": "67245de1e7faeec8a7f5250a",
+                "name": "Imena Centurions",
+                "short_name": "Imena Centurions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315079794-974106659.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759482517428-452632341.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757338969439-241985984.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68e51617c167956f9cb7ba67",
+            "name": "Bulgaria Women VS Romania Women",
+            "category_name": "Cricket",
+            "tour_id": "68e5142fc167956f9cb7ba66",
+            "tour_name": "ECA Women's Continental Cup 2025",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T11:45:00.000Z",
+            "team_a": {
+                "id": "68e5131f07d2ecfd0c1593f5",
+                "name": "Bulgaria Women",
+                "short_name": "Bulgaria Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843100224-223819654.webp"
+            },
+            "team_b": {
+                "id": "68e5137dc167956f9cb7ba65",
+                "name": "Romania Women",
+                "short_name": "Romania Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843194488-485776726.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843860889-116084999.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68e768cc458c1b0c74d26044",
+            "name": "Oman VS Papua New Guinea",
+            "category_name": "Cricket",
+            "tour_id": "68e66f0d07d2ecfd0c159409",
+            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T14:30:00.000Z",
+            "team_a": {
+                "id": "66e041a2c13e43201a39f7a8",
+                "name": "Oman",
+                "short_name": "Oman",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988048107-105189627.webp"
+            },
+            "team_b": {
+                "id": "66e7e14547f6bd8cb61c1476",
+                "name": "Papua New Guinea",
+                "short_name": "PNG",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988441245-250272460.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759996106273-35146150.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68d00b542612c2db518b13df",
+            "name": "NSW Women VS Western Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T22:30:00.000Z",
+            "team_a": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+            },
+            "team_b": {
+                "id": "675d0df2feaf9c45f3b7d0f0",
+                "name": "Western Australia Women",
+                "short_name": "Western Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461560781-913906076.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758464848804-180543810.webp",
+            "venue": "Allan Border Field ,Brisbane",
+            "score_match_id": 92822
+        },
+        {
+            "id": "68df932a9f5a848ba39f3365",
+            "name": "Atlanta Kings CC VS Los Angeles Waves CC",
+            "category_name": "Cricket",
+            "tour_id": "68df7f8d9f5a848ba39f3361",
+            "tour_name": "National Cricket T10 League 2025",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-10",
+            "start_date_time": "2025-10-10T22:30:00.000Z",
+            "team_a": {
+                "id": "67040c004a1f5d14be8b1d54",
+                "name": "Atlanta Kings CC",
+                "short_name": "Atlanta Kings CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477356579-720504263.webp"
+            },
+            "team_b": {
+                "id": "67040baed72fae6b72c59967",
+                "name": "Los Angeles Waves CC",
+                "short_name": "Los Angeles Waves CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477402702-876964887.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759482657973-556900777.webp",
             "venue": "",
             "score_match_id": 0
         }
