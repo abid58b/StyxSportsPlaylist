@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e768cc458c1b0c74d26044",
-            "name": "Oman VS Papua New Guinea",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-10",
-            "start_date_time": "2025-10-10T14:30:00.000Z",
-            "team_a": {
-                "id": "66e041a2c13e43201a39f7a8",
-                "name": "Oman",
-                "short_name": "Oman",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988048107-105189627.webp"
-            },
-            "team_b": {
-                "id": "66e7e14547f6bd8cb61c1476",
-                "name": "Papua New Guinea",
-                "short_name": "PNG",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988441245-250272460.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759996106273-35146150.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d00b542612c2db518b13df",
             "name": "NSW Women VS Western Australia Women",
             "category_name": "Cricket",
