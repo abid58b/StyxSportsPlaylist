@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de7cd29f5a848ba39f3352",
-            "name": "Sultanpur CA VS Awadh CC",
-            "category_name": "Cricket",
-            "tour_id": "68de502c458c1b0c74d2600b",
-            "tour_name": "19th Chaudhary Asif Ali Memorial State Cricket League 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-10",
-            "start_date_time": "2025-10-10T03:00:00.000Z",
-            "team_a": {
-                "id": "68de4e7a07d2ecfd0c15938e",
-                "name": "Sultanpur CA",
-                "short_name": "Sultanpur CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399542439-267654450.webp"
-            },
-            "team_b": {
-                "id": "68de4e549f5a848ba39f334e",
-                "name": "Awadh CC",
-                "short_name": "Awadh CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399501080-575283379.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411408408-795854288.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68bedd28fa47c38f5e0be5d1",
             "name": "Ingenzi Defenders VS Imanzi Guardians",
             "category_name": "Cricket",

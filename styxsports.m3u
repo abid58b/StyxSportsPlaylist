@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de7cd29f5a848ba39f3352" tvg-name="Sultanpur CA VS Awadh CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411408408-795854288.webp" group-title="Live",Sultanpur CA VS Awadh CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
 #EXTINF:-1 tvg-id="68bedd28fa47c38f5e0be5d1" tvg-name="Ingenzi Defenders VS Imanzi Guardians" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760081282353-1416481.webp" group-title="Live",Ingenzi Defenders VS Imanzi Guardians
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
