@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e515bf458c1b0c74d26037",
-            "name": "Romania Women VS Turkey Women",
-            "category_name": "Cricket",
-            "tour_id": "68e5142fc167956f9cb7ba66",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-10",
-            "start_date_time": "2025-10-10T09:00:00.000Z",
-            "team_a": {
-                "id": "68e5137dc167956f9cb7ba65",
-                "name": "Romania Women",
-                "short_name": "Romania Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843194488-485776726.webp"
-            },
-            "team_b": {
-                "id": "68e51293458c1b0c74d26036",
-                "name": "Turkey Women",
-                "short_name": "Turkey Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759842960225-538533983.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843773417-901266543.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e767c6458c1b0c74d26043",
             "name": "Japan VS Nepal",
             "category_name": "Cricket",
