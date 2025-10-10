@@ -8,3 +8,7 @@ https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 
+#EXTINF:-1 tvg-id="68e768cc458c1b0c74d26044" tvg-name="Oman VS Papua New Guinea" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759996106273-35146150.webp" group-title="Live",Oman VS Papua New Guinea
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
