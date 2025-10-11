@@ -60,7 +60,7 @@
         },
         {
             "id": "68df93dbc167956f9cb7ba0f",
-            "name": "tbd VS tbd",
+            "name": "Dallas Lonestars CC VS Houston Generals CC",
             "category_name": "Cricket",
             "tour_id": "68df7f8d9f5a848ba39f3361",
             "tour_name": "National Cricket T10 League 2025",
@@ -71,18 +71,18 @@
             "start_date": "2025-10-11",
             "start_date_time": "2025-10-11T22:30:00.000Z",
             "team_a": {
-                "id": "6707aca3595bc9ddd0055874",
-                "name": "tbd",
-                "short_name": "tbd",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728556190222-738111471.png"
+                "id": "67051bcd93a91179d569b7f4",
+                "name": "Dallas Lonestars CC",
+                "short_name": "Dallas Lonestars CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477437114-592600762.webp"
             },
             "team_b": {
-                "id": "6707aca3595bc9ddd0055874",
-                "name": "tbd",
-                "short_name": "tbd",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728556190222-738111471.png"
+                "id": "68df7f07c167956f9cb7ba09",
+                "name": "Houston Generals CC",
+                "short_name": "Houston Generals CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477508930-367069109.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759482840763-317321327.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760186394290-804760466.webp",
             "venue": "",
             "score_match_id": 0
         },
