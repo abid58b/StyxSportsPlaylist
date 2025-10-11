@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68df93dbc167956f9cb7ba0f" tvg-name="Dallas Lonestars CC VS Houston Generals CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760186394290-804760466.webp" group-title="Live",Dallas Lonestars CC VS Houston Generals CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
