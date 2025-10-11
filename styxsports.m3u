@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68e51681458c1b0c74d26038" tvg-name="Bulgaria Women VS Austria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759843965390-239100733.webp" group-title="Live",Bulgaria Women VS Austria Women
+#EXTINF:-1 tvg-id="68d662eeddc71c71d25ff860" tvg-name="Afghanistan VS Bangladesh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758880490127-833520268.webp" group-title="Live",Afghanistan VS Bangladesh
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
+#EXTINF:-1 tvg-id="68e516b39f5a848ba39f3383" tvg-name="Norway Women VS Romania Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759844017310-60380654.webp" group-title="Live",Norway Women VS Romania Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 

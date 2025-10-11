@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e51681458c1b0c74d26038",
-            "name": "Bulgaria Women VS Austria Women",
-            "category_name": "Cricket",
-            "tour_id": "68e5142fc167956f9cb7ba66",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-11",
-            "start_date_time": "2025-10-11T08:45:00.000Z",
-            "team_a": {
-                "id": "68e5131f07d2ecfd0c1593f5",
-                "name": "Bulgaria Women",
-                "short_name": "Bulgaria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843100224-223819654.webp"
-            },
-            "team_b": {
-                "id": "68e512ebc167956f9cb7ba64",
-                "name": "Austria Women",
-                "short_name": "Austria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843048305-705124035.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843965390-239100733.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d662eeddc71c71d25ff860",
             "name": "Afghanistan VS Bangladesh",
             "category_name": "Cricket",
@@ -69,7 +41,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-11",
-            "start_date_time": "2025-10-11T11:45:00.000Z",
+            "start_date_time": "2025-10-11T12:15:00.000Z",
             "team_a": {
                 "id": "68e5135207d2ecfd0c1593f6",
                 "name": "Norway Women",
