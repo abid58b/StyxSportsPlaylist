@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de7cfbc167956f9cb7b9f2",
-            "name": "Sultanpur CA VS Bahraich CA",
-            "category_name": "Cricket",
-            "tour_id": "68de502c458c1b0c74d2600b",
-            "tour_name": "19th Chaudhary Asif Ali Memorial State Cricket League 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-11",
-            "start_date_time": "2025-10-11T03:00:00.000Z",
-            "team_a": {
-                "id": "68de4e7a07d2ecfd0c15938e",
-                "name": "Sultanpur CA",
-                "short_name": "Sultanpur CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399542439-267654450.webp"
-            },
-            "team_b": {
-                "id": "68de4eb1458c1b0c74d2600a",
-                "name": "Bahraich CA",
-                "short_name": "Bahraich CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399596675-976958373.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411449236-78320141.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68e5164dc167956f9cb7ba68",
-            "name": "Turkey Women VS Norway Women",
-            "category_name": "Cricket",
-            "tour_id": "68e5142fc167956f9cb7ba66",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-11",
-            "start_date_time": "2025-10-11T04:45:00.000Z",
-            "team_a": {
-                "id": "68e51293458c1b0c74d26036",
-                "name": "Turkey Women",
-                "short_name": "Turkey Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759842960225-538533983.webp"
-            },
-            "team_b": {
-                "id": "68e5135207d2ecfd0c1593f6",
-                "name": "Norway Women",
-                "short_name": "Norway Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843149848-310079263.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759843914710-982113280.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e51681458c1b0c74d26038",
             "name": "Bulgaria Women VS Austria Women",
             "category_name": "Cricket",
