@@ -31,34 +31,6 @@
             "score_match_id": 93082
         },
         {
-            "id": "68e516b39f5a848ba39f3383",
-            "name": "Norway Women VS Romania Women",
-            "category_name": "Cricket",
-            "tour_id": "68e5142fc167956f9cb7ba66",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-11",
-            "start_date_time": "2025-10-11T12:15:00.000Z",
-            "team_a": {
-                "id": "68e5135207d2ecfd0c1593f6",
-                "name": "Norway Women",
-                "short_name": "Norway Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843149848-310079263.webp"
-            },
-            "team_b": {
-                "id": "68e5137dc167956f9cb7ba65",
-                "name": "Romania Women",
-                "short_name": "Romania Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843194488-485776726.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759844017310-60380654.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68df93dbc167956f9cb7ba0f",
             "name": "Dallas Lonestars CC VS Houston Generals CC",
             "category_name": "Cricket",
