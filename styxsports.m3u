@@ -8,3 +8,7 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
+#EXTINF:-1 tvg-id="68d797910e4668aaf9a4019b" tvg-name="HKCC Premier VS USRC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959502007-148718845.webp" group-title="Live",HKCC Premier VS USRC Premier
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
