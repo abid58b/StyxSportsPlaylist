@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68df93dbc167956f9cb7ba0f" tvg-name="Dallas Lonestars CC VS Houston Generals CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760186394290-804760466.webp" group-title="Live",Dallas Lonestars CC VS Houston Generals CC
+#EXTINF:-1 tvg-id="68d79769c9b63d3592d30118" tvg-name="PACC Premier VS DLSW DLIT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959463244-937748828.webp" group-title="Live",PACC Premier VS DLSW DLIT
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
+
+#EXTINF:-1 tvg-id="68df941a07d2ecfd0c1593a5" tvg-name="Atlanta Kings CC VS Los Angeles Waves CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760186505727-491680016.webp" group-title="Live",Atlanta Kings CC VS Los Angeles Waves CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
-#EXTINF:-1 tvg-id="68d00b90ad25e8352e11a885" tvg-name="Queensland Fire Women VS ACT Meteors Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758464907576-735019529.webp" group-title="Live",Queensland Fire Women VS ACT Meteors Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
