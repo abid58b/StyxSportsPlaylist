@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ea271ec167956f9cb7baa2",
-            "name": "United Arab Emirates VS Nepal",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T10:00:00.000Z",
-            "team_a": {
-                "id": "66e0442ac13e43201a39f7a9",
-                "name": "United Arab Emirates",
-                "short_name": "UAE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988014637-178411913.webp"
-            },
-            "team_b": {
-                "id": "66e042052bfab92771e8e442",
-                "name": "Nepal",
-                "short_name": "Nepal",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760175899548-340066514.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68e5171fc167956f9cb7ba69",
-            "name": "Norway Women VS Bulgaria Women",
-            "category_name": "Cricket",
-            "tour_id": "68e5142fc167956f9cb7ba66",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T10:30:00.000Z",
-            "team_a": {
-                "id": "68e5135207d2ecfd0c1593f6",
-                "name": "Norway Women",
-                "short_name": "Norway Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843149848-310079263.webp"
-            },
-            "team_b": {
-                "id": "68e5131f07d2ecfd0c1593f5",
-                "name": "Bulgaria Women",
-                "short_name": "Bulgaria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759843100224-223819654.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759844125559-955367429.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68ea274ec167956f9cb7baa3",
             "name": "Samoa VS Japan",
             "category_name": "Cricket",
