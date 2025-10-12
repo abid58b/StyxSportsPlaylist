@@ -1,14 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de7d30458c1b0c74d26010" tvg-name="Bahraich CA VS Awadh CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411502126-301009307.webp" group-title="Live",Bahraich CA VS Awadh CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
-
-#EXTINF:-1 tvg-id="68ea26e6458c1b0c74d26055" tvg-name="Oman VS Qatar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760175811996-610990083.webp" group-title="Live",Oman VS Qatar
+#EXTINF:-1 tvg-id="68ea271ec167956f9cb7baa2" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760175899548-340066514.webp" group-title="Live",United Arab Emirates VS Nepal
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
 
-#EXTINF:-1 tvg-id="68e516e49f5a848ba39f3384" tvg-name="Austria Women VS Norway Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759844065830-196792141.webp" group-title="Live",Austria Women VS Norway Women
+#EXTINF:-1 tvg-id="68e5171fc167956f9cb7ba69" tvg-name="Norway Women VS Bulgaria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759844125559-955367429.webp" group-title="Live",Norway Women VS Bulgaria Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 
