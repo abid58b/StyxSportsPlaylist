@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d79769c9b63d3592d30118",
-            "name": "PACC Premier VS DLSW DLIT",
-            "category_name": "Cricket",
-            "tour_id": "68d77a07c9b63d3592d30114",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T00:30:00.000Z",
-            "team_a": {
-                "id": "672f6832b270671853e2e56c",
-                "name": "PACC Premier",
-                "short_name": "PACC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894498770-580651032.webp"
-            },
-            "team_b": {
-                "id": "672f67a7940d92dae749b04a",
-                "name": "DLSW DLIT",
-                "short_name": "DLSW DLIT",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894452573-841236395.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758959463244-937748828.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68d797910e4668aaf9a4019b",
-            "name": "HKCC Premier VS USRC Premier",
-            "category_name": "Cricket",
-            "tour_id": "68d77a07c9b63d3592d30114",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T01:00:00.000Z",
-            "team_a": {
-                "id": "672f67d5940d92dae749b04b",
-                "name": "HKCC Premier",
-                "short_name": "HKCC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894597545-773627078.webp"
-            },
-            "team_b": {
-                "id": "672f6811940d92dae749b04c",
-                "name": "USRC Premier",
-                "short_name": "USRC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894476928-426206842.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758959502007-148718845.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68de7d30458c1b0c74d26010",
             "name": "Bahraich CA VS Awadh CC",
             "category_name": "Cricket",

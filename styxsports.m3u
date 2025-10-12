@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d79769c9b63d3592d30118" tvg-name="PACC Premier VS DLSW DLIT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959463244-937748828.webp" group-title="Live",PACC Premier VS DLSW DLIT
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
-
-#EXTINF:-1 tvg-id="68d797910e4668aaf9a4019b" tvg-name="HKCC Premier VS USRC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959502007-148718845.webp" group-title="Live",HKCC Premier VS USRC Premier
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
-
 #EXTINF:-1 tvg-id="68de7d30458c1b0c74d26010" tvg-name="Bahraich CA VS Awadh CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759411502126-301009307.webp" group-title="Live",Bahraich CA VS Awadh CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
