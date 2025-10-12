@@ -87,34 +87,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68da8d1350dd3d4150aa55c6",
-            "name": "David Pieris Group A VS CDB-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T04:00:00.000Z",
-            "team_a": {
-                "id": "68da8a4878c84dcccf43fbae",
-                "name": "David Pieris Group A",
-                "short_name": "David Pieris Group A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759152709164-784706276.webp"
-            },
-            "team_b": {
-                "id": "675fc5e532a1502da349e92a",
-                "name": "CDB-A",
-                "short_name": "CDB-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759153424620-860412765.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68ea26e6458c1b0c74d26055",
             "name": "Oman VS Qatar",
             "category_name": "Cricket",
