@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ea274ec167956f9cb7baa3",
-            "name": "Samoa VS Japan",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T14:30:00.000Z",
-            "team_a": {
-                "id": "68e7491a9f5a848ba39f338e",
-                "name": "Samoa",
-                "short_name": "Samoa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759987993593-349315058.webp"
-            },
-            "team_b": {
-                "id": "68e7497607d2ecfd0c159414",
-                "name": "Japan",
-                "short_name": "Japan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988084142-886144547.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760175946482-838110573.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68df949e458c1b0c74d2601e",
             "name": "Houston Generals CC VS Los Angeles Waves CC",
             "category_name": "Cricket",
