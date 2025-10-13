@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
+#EXTINF:-1 tvg-id="68df94cd458c1b0c74d2601f" tvg-name="Dallas Lonestars CC VS Los Angeles Waves CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760339012293-486746380.webp" group-title="Live",Dallas Lonestars CC VS Los Angeles Waves CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
