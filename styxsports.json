@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68eba80b4e4aa6d729f67514",
-            "name": "Barabanki CA VS Awadh CC",
-            "category_name": "Cricket",
-            "tour_id": "68de502c458c1b0c74d2600b",
-            "tour_name": "19th Chaudhary Asif Ali Memorial State Cricket League 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-13",
-            "start_date_time": "2025-10-13T03:00:00.000Z",
-            "team_a": {
-                "id": "68de4e06c167956f9cb7b9ed",
-                "name": "Barabanki CA",
-                "short_name": "Barabanki CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399423922-366344479.webp"
-            },
-            "team_b": {
-                "id": "68de4e549f5a848ba39f334e",
-                "name": "Awadh CC",
-                "short_name": "Awadh CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399501080-575283379.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760274439584-374481123.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68ea27989f5a848ba39f339c",
             "name": "Oman VS United Arab Emirates",
             "category_name": "Cricket",

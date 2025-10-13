@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68eba80b4e4aa6d729f67514" tvg-name="Barabanki CA VS Awadh CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760274439584-374481123.webp" group-title="Live",Barabanki CA VS Awadh CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
-
 #EXTINF:-1 tvg-id="68ea27989f5a848ba39f339c" tvg-name="Oman VS United Arab Emirates" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760176019605-110641031.webp" group-title="Live",Oman VS United Arab Emirates
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
