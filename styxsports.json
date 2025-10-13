@@ -116,7 +116,7 @@
         },
         {
             "id": "68df94cd458c1b0c74d2601f",
-            "name": "tbd VS tbd",
+            "name": "Dallas Lonestars CC VS Los Angeles Waves CC",
             "category_name": "Cricket",
             "tour_id": "68df7f8d9f5a848ba39f3361",
             "tour_name": "National Cricket T10 League 2025",
@@ -127,18 +127,18 @@
             "start_date": "2025-10-13",
             "start_date_time": "2025-10-13T23:30:00.000Z",
             "team_a": {
-                "id": "6707aca3595bc9ddd0055874",
-                "name": "tbd",
-                "short_name": "tbd",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728556190222-738111471.png"
+                "id": "67051bcd93a91179d569b7f4",
+                "name": "Dallas Lonestars CC",
+                "short_name": "Dallas Lonestars CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477437114-592600762.webp"
             },
             "team_b": {
-                "id": "6707aca3595bc9ddd0055874",
-                "name": "tbd",
-                "short_name": "tbd",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728556190222-738111471.png"
+                "id": "67040baed72fae6b72c59967",
+                "name": "Los Angeles Waves CC",
+                "short_name": "Los Angeles Waves CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477402702-876964887.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759483082962-238245278.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760339012293-486746380.webp",
             "venue": "",
             "score_match_id": 0
         }
