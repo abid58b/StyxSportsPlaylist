@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ea27dc458c1b0c74d26056",
-            "name": "Nepal VS Qatar",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-13",
-            "start_date_time": "2025-10-13T14:30:00.000Z",
-            "team_a": {
-                "id": "66e042052bfab92771e8e442",
-                "name": "Nepal",
-                "short_name": "Nepal",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
-            },
-            "team_b": {
-                "id": "67ecd57081c30c78d351bf3f",
-                "name": "Qatar",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759934527508-955573482.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760176082910-751330915.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68d15378660ed2e95b8ce096",
             "name": "Queensland Fire Women VS ACT Meteors Women",
             "category_name": "Cricket",
