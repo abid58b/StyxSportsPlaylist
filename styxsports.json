@@ -3,60 +3,116 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d15378660ed2e95b8ce096",
-            "name": "Queensland Fire Women VS ACT Meteors Women",
+            "id": "68eba834a4a89217cf8a457e",
+            "name": "Lucknow CA VS Sultanpur CA",
             "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "12",
+            "tour_id": "68de502c458c1b0c74d2600b",
+            "tour_name": "19th Chaudhary Asif Ali Memorial State Cricket League 2025",
+            "match_no": "Semifinal - 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-13",
-            "start_date_time": "2025-10-13T23:00:00.000Z",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T03:00:00.000Z",
             "team_a": {
-                "id": "675d0e6c7520fc727ac56980",
-                "name": "Queensland Fire Women",
-                "short_name": "Queensland Fire",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461626056-144147507.webp"
+                "id": "68de4d9dc167956f9cb7b9eb",
+                "name": "Lucknow CA",
+                "short_name": "Lucknow CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399320604-103142844.webp"
             },
             "team_b": {
-                "id": "68cfffa5ad25e8352e11a882",
-                "name": "ACT Meteors Women",
-                "short_name": "ACT Meteors Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
+                "id": "68de4e7a07d2ecfd0c15938e",
+                "name": "Sultanpur CA",
+                "short_name": "Sultanpur CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759399542439-267654450.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758548852397-573544947.webp",
-            "venue": "Allan Border Field ,Brisbane",
-            "score_match_id": 92858
-        },
-        {
-            "id": "68df94cd458c1b0c74d2601f",
-            "name": "Dallas Lonestars CC VS Los Angeles Waves CC",
-            "category_name": "Cricket",
-            "tour_id": "68df7f8d9f5a848ba39f3361",
-            "tour_name": "National Cricket T10 League 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-13",
-            "start_date_time": "2025-10-13T23:30:00.000Z",
-            "team_a": {
-                "id": "67051bcd93a91179d569b7f4",
-                "name": "Dallas Lonestars CC",
-                "short_name": "Dallas Lonestars CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477437114-592600762.webp"
-            },
-            "team_b": {
-                "id": "67040baed72fae6b72c59967",
-                "name": "Los Angeles Waves CC",
-                "short_name": "Los Angeles Waves CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759477402702-876964887.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760339012293-486746380.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760274481086-439939398.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "68d663190a167c534422564d",
+            "name": "Afghanistan VS Bangladesh",
+            "category_name": "Cricket",
+            "tour_id": "68d6615addc71c71d25ff85f",
+            "tour_name": "Afghanistan vs Bangladesh in UAE 2025",
+            "match_no": "3rd ODI",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T11:30:00.000Z",
+            "team_a": {
+                "id": "66de5d2d985bb10dcaba1721",
+                "name": "Afghanistan",
+                "short_name": "Afghanistan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879953580-484392867.webp"
+            },
+            "team_b": {
+                "id": "671bc3bd68d746820ca1213d",
+                "name": "Bangladesh",
+                "short_name": "Bangladesh",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879903352-23508365.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1758880536297-338917583.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 93083
+        },
+        {
+            "id": "68de7ea7c167956f9cb7b9f3",
+            "name": "Victoria VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "4 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411876675-386849208.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92848
+        },
+        {
+            "id": "68de7ee29f5a848ba39f3355",
+            "name": "Tasmania Tigers VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "5 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T23:00:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759411935615-14170988.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92849
         }
     ]
 }
