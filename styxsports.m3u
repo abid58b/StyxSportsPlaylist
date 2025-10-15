@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de7f56c167956f9cb7b9f4" tvg-name="South Australia VS Queensland Bulls" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412049589-661122713.webp" group-title="Live",South Australia VS Queensland Bulls
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
 #EXTINF:-1 tvg-id="68ee74c64e4aa6d729f6751c" tvg-name="Lucknow CA VS Barabanki CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760457922814-949965087.webp" group-title="Live",Lucknow CA VS Barabanki CA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
