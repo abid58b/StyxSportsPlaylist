@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ea283c9f5a848ba39f339d",
-            "name": "Samoa VS United Arab Emirates",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-15",
-            "start_date_time": "2025-10-15T10:00:00.000Z",
-            "team_a": {
-                "id": "68e7491a9f5a848ba39f338e",
-                "name": "Samoa",
-                "short_name": "Samoa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759987993593-349315058.webp"
-            },
-            "team_b": {
-                "id": "66e0442ac13e43201a39f7a9",
-                "name": "United Arab Emirates",
-                "short_name": "UAE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988014637-178411913.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760176180670-776070780.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68ea287d9f5a848ba39f339e",
             "name": "Oman VS Nepal",
             "category_name": "Cricket",
