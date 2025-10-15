@@ -8,3 +8,7 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
 
+#EXTINF:-1 tvg-id="68ea280dc167956f9cb7baa4" tvg-name="Japan VS Qatar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760176139216-374273548.webp" group-title="Live",Japan VS Qatar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
