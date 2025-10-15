@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
 
+#EXTINF:-1 tvg-id="68ee74c64e4aa6d729f6751c" tvg-name="Lucknow CA VS Barabanki CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760457922814-949965087.webp" group-title="Live",Lucknow CA VS Barabanki CA
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
+
