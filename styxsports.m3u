@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68ea287d9f5a848ba39f339e" tvg-name="Oman VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760176250149-667543369.webp" group-title="Live",Oman VS Nepal
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
