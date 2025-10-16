@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68ea28c8c167956f9cb7baa5" tvg-name="United Arab Emirates VS Japan" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760176327207-964830602.webp" group-title="Live",United Arab Emirates VS Japan
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
