@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ea297fc167956f9cb7baa6",
-            "name": "Japan VS Oman",
-            "category_name": "Cricket",
-            "tour_id": "68e66f0d07d2ecfd0c159409",
-            "tour_name": "ICC Men's T20 World Cup Qualifier Asia-EAP",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-17",
-            "start_date_time": "2025-10-17T05:30:00.000Z",
-            "team_a": {
-                "id": "68e7497607d2ecfd0c159414",
-                "name": "Japan",
-                "short_name": "Japan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988084142-886144547.webp"
-            },
-            "team_b": {
-                "id": "66e041a2c13e43201a39f7a8",
-                "name": "Oman",
-                "short_name": "Oman",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988048107-105189627.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760176508464-461264833.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68ea29d107d2ecfd0c159433",
             "name": "Samoa VS Nepal",
             "category_name": "Cricket",
