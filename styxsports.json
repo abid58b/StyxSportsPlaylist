@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68eca6f25e14fc3d2e069706",
-            "name": "Bangladesh VS West Indies",
-            "category_name": "Cricket",
-            "tour_id": "68eca5b1e4b44a5c727eb797",
-            "tour_name": "West Indies tour of Bangladesh 2025",
-            "match_no": "1st ODI",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-18",
-            "start_date_time": "2025-10-18T07:00:00.000Z",
-            "team_a": {
-                "id": "671bc3bd68d746820ca1213d",
-                "name": "Bangladesh",
-                "short_name": "Bangladesh",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879903352-23508365.webp"
-            },
-            "team_b": {
-                "id": "672f5fdd940d92dae749b046",
-                "name": "West Indies",
-                "short_name": "West Indies",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750831711622-66934350.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760340175174-267364058.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68f0c2f74e4aa6d729f67528",
-            "name": "Romania VS Austria",
-            "category_name": "Cricket",
-            "tour_id": "68f0c265f77cf099f802bd50",
-            "tour_name": "Bilateral Series - Romania vs Austria 2025",
-            "match_no": "2nd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-18",
-            "start_date_time": "2025-10-18T11:00:00.000Z",
-            "team_a": {
-                "id": "685b8e3a66ad0ca00e1af96f",
-                "name": "Romania",
-                "short_name": "Romania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750830649130-415086520.webp"
-            },
-            "team_b": {
-                "id": "685b8e1827ea58d9e279bae0",
-                "name": "Austria",
-                "short_name": "Austria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750830613824-566092413.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760609012496-743957758.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f3702df77cf099f802bd71",
             "name": "West Coast Blues VS Wellington Wolves",
             "category_name": "Cricket",
@@ -115,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68c0352dfa47c38f5e0be5de",
-            "name": "Tasmania Tigers VS Western Australia",
-            "category_name": "Cricket",
-            "tour_id": "68bfc308fa47c38f5e0be5d5",
-            "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-18",
-            "start_date_time": "2025-10-18T23:30:00.000Z",
-            "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
-            },
-            "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426985661-186942158.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92833
-        },
-        {
             "id": "68c034f75eff1aae0fc91e9e",
             "name": "Victoria VS New South Wales",
             "category_name": "Cricket",
@@ -169,6 +85,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426931802-588729152.webp",
             "venue": "Junction Oval ,Melbourne",
             "score_match_id": 92832
+        },
+        {
+            "id": "68c0352dfa47c38f5e0be5de",
+            "name": "Tasmania Tigers VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68bfc308fa47c38f5e0be5d5",
+            "tour_name": "Australia One Day Cup 2025-26",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-18",
+            "start_date_time": "2025-10-18T23:30:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426985661-186942158.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92833
         }
     ]
 }
