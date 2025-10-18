@@ -60,7 +60,7 @@
         },
         {
             "id": "68f3702df77cf099f802bd71",
-            "name": "West Coast Wolves VS Wellington Wolves",
+            "name": "West Coast Blues VS Wellington Wolves",
             "category_name": "Cricket",
             "tour_id": "68f36a01f77cf099f802bd6d",
             "tour_name": "Boland T10 2025",
@@ -72,7 +72,7 @@
             "start_date_time": "2025-10-18T13:00:00.000Z",
             "team_a": {
                 "id": "66d2c303a1cf56d5952bc967",
-                "name": "West Coast Wolves",
+                "name": "West Coast Blues",
                 "short_name": "West Coast Wolves",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088485867-879890430.png"
             },
