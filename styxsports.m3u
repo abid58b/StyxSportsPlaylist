@@ -4,11 +4,15 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
-#EXTINF:-1 tvg-id="68f0c2c24e4aa6d729f67527" tvg-name="Romania VS Austria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760608957735-419032306.webp" group-title="Live",Romania VS Austria
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
 #EXTINF:-1 tvg-id="68eca6f25e14fc3d2e069706" tvg-name="Bangladesh VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760340175174-267364058.webp" group-title="Live",Bangladesh VS West Indies
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
+
+#EXTINF:-1 tvg-id="68f36c5df77cf099f802bd70" tvg-name="Overberg Indwe VS Stellenbosch Kings" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760784281376-882976776.webp" group-title="Live",Overberg Indwe VS Stellenbosch Kings
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
+#EXTINF:-1 tvg-id="68f0c2f74e4aa6d729f67528" tvg-name="Romania VS Austria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760609012496-743957758.webp" group-title="Live",Romania VS Austria
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
 
