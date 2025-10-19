@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
 
+#EXTINF:-1 tvg-id="68d797fe0a167c5344225656" tvg-name="KCC Premier VS DLSW DLIT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959609895-508100236.webp" group-title="Live",KCC Premier VS DLSW DLIT
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
