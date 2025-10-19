@@ -1,22 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f226625e14fc3d2e069718" tvg-name="CEYLINCO INSURANCE VS Colombo Dockyard" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760700000149-661396167.webp" group-title="Live",CEYLINCO INSURANCE VS Colombo Dockyard
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
-
-#EXTINF:-1 tvg-id="68f225f14e4aa6d729f6752c" tvg-name="MELWIRE ROLLING VS DIALOG AXIATA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760699878819-183173986.webp" group-title="Live",MELWIRE ROLLING VS DIALOG AXIATA
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
-#EXTINF:-1 tvg-id="68f226274e4aa6d729f6752d" tvg-name="Abans Group VS Yokohama TWS" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760699941872-927416338.webp" group-title="Live",Abans Group VS Yokohama TWS
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
-
-#EXTINF:-1 tvg-id="68f39e4bf77cf099f802bd74" tvg-name="Overberg Indwe VS West Coast Blues" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760796233756-788015713.webp" group-title="Live",Overberg Indwe VS West Coast Blues
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
-
 #EXTINF:-1 tvg-id="68f0c386e4b44a5c727eb7c6" tvg-name="Romania VS Austria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760609154657-468440018.webp" group-title="Live",Romania VS Austria
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
+#EXTINF:-1 tvg-id="68f39fbc4e4aa6d729f67539" tvg-name="Overberg Indwe VS Paarl Rapids" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760796603525-143684665.webp" group-title="Live",Overberg Indwe VS Paarl Rapids
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
