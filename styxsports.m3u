@@ -4,13 +4,13 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
 
-#EXTINF:-1 tvg-id="68f226274e4aa6d729f6752d" tvg-name="Abans Group VS Yokohama TWS" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760699941872-927416338.webp" group-title="Live",Abans Group VS Yokohama TWS
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
-
 #EXTINF:-1 tvg-id="68f225f14e4aa6d729f6752c" tvg-name="MELWIRE ROLLING VS DIALOG AXIATA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760699878819-183173986.webp" group-title="Live",MELWIRE ROLLING VS DIALOG AXIATA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="68f226274e4aa6d729f6752d" tvg-name="Abans Group VS Yokohama TWS" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760699941872-927416338.webp" group-title="Live",Abans Group VS Yokohama TWS
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 
 #EXTINF:-1 tvg-id="68f39e4bf77cf099f802bd74" tvg-name="Overberg Indwe VS West Coast Blues" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760796233756-788015713.webp" group-title="Live",Overberg Indwe VS West Coast Blues
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/

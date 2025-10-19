@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68f226274e4aa6d729f6752d",
-            "name": "Abans Group VS Yokohama TWS",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGIE CRICKET TOURNAMENT 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T04:00:00.000Z",
-            "team_a": {
-                "id": "67530381e2cc6afe4b97db00",
-                "name": "Abans Group",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699139331-193151756.webp"
-            },
-            "team_b": {
-                "id": "675303276f0c605c12329a28",
-                "name": "Yokohama TWS",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699062064-352638906.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760699941872-927416338.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f225f14e4aa6d729f6752c",
             "name": "MELWIRE ROLLING VS DIALOG AXIATA",
             "category_name": "Cricket",
@@ -83,6 +55,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698966708-627453057.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760699878819-183173986.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f226274e4aa6d729f6752d",
+            "name": "Abans Group VS Yokohama TWS",
+            "category_name": "Cricket",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGIE CRICKET TOURNAMENT 2025",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-19",
+            "start_date_time": "2025-10-19T04:00:00.000Z",
+            "team_a": {
+                "id": "67530381e2cc6afe4b97db00",
+                "name": "Abans Group",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699139331-193151756.webp"
+            },
+            "team_b": {
+                "id": "675303276f0c605c12329a28",
+                "name": "Yokohama TWS",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699062064-352638906.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760699941872-927416338.webp",
             "venue": "",
             "score_match_id": 0
         },
