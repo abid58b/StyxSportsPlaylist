@@ -3,32 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f39ff2e4b44a5c727eb7e6",
-            "name": "West Coast Blues VS Stellenbosch Kings",
+            "id": "68c034f75eff1aae0fc91e9e",
+            "name": "Victoria VS New South Wales",
             "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
+            "tour_id": "68bfc308fa47c38f5e0be5d5",
+            "tour_name": "Australia One Day Cup 2025-26",
             "match_no": "10",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T15:30:00.000Z",
+            "start_date_time": "2025-10-19T23:30:00.000Z",
             "team_a": {
-                "id": "66d2c303a1cf56d5952bc967",
-                "name": "West Coast Blues",
-                "short_name": "West Coast Wolves",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088485867-879890430.png"
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
             },
             "team_b": {
-                "id": "66d2c2c1a1cf56d5952bc966",
-                "name": "Stellenbosch Kings",
-                "short_name": "Stellenbosch Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088409081-491820534.png"
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760796655540-894811712.webp",
-            "venue": "",
-            "score_match_id": 0
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426931802-588729152.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92832
         },
         {
             "id": "68c0352dfa47c38f5e0be5de",
@@ -57,34 +57,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426985661-186942158.webp",
             "venue": "Bellerive Oval ,Hobart",
             "score_match_id": 92833
-        },
-        {
-            "id": "68c034f75eff1aae0fc91e9e",
-            "name": "Victoria VS New South Wales",
-            "category_name": "Cricket",
-            "tour_id": "68bfc308fa47c38f5e0be5d5",
-            "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T23:30:00.000Z",
-            "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
-            },
-            "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426931802-588729152.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92832
         }
     ]
 }
