@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f4b2cbe4b44a5c727eb7f7",
-            "name": "Uganda Women VS Canada Women",
-            "category_name": "Cricket",
-            "tour_id": "68f4b25fe4b44a5c727eb7f6",
-            "tour_name": "Canada Women tour of Uganda 2025",
-            "match_no": "1st T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-20",
-            "start_date_time": "2025-10-20T05:00:00.000Z",
-            "team_a": {
-                "id": "666e34ab22b7a98f15326658",
-                "name": "Uganda Women",
-                "short_name": "Uganda Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760866384097-759511677.webp"
-            },
-            "team_b": {
-                "id": "68f4b08d4e4aa6d729f67543",
-                "name": "Canada Women",
-                "short_name": "Canada Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760866440566-317265565.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760867012107-331868662.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f3a193f77cf099f802bd76",
             "name": "Wellington Wolves VS Paarl Rapids",
             "category_name": "Cricket",
