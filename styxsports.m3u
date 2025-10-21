@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f4b31ff77cf099f802bd84" tvg-name="Uganda Women VS Canada Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760867101017-697326904.webp" group-title="Live",Uganda Women VS Canada Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
-
 #EXTINF:-1 tvg-id="68eca74d4e4aa6d729f67517" tvg-name="Bangladesh VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760340185145-584686374.webp" group-title="Live",Bangladesh VS West Indies
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
