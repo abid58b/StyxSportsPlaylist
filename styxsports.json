@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68da8d4a52d8c81b4a56e378",
-            "name": "Maliban Biscuits VS Hayleys-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-21",
-            "start_date_time": "2025-10-21T05:30:00.000Z",
-            "team_a": {
-                "id": "675fc59a027a1688c435a454",
-                "name": "Maliban Biscuits",
-                "short_name": "Maliban Biscuits",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329752377-317474835.png"
-            },
-            "team_b": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760522356323-778315969.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f4b31ff77cf099f802bd84",
             "name": "Uganda Women VS Canada Women",
             "category_name": "Cricket",
@@ -143,34 +115,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68da8d8550dd3d4150aa55c7",
-            "name": "Fairfirst Insurance VS CDB-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "Semifinal - 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-21",
-            "start_date_time": "2025-10-21T08:00:00.000Z",
-            "team_a": {
-                "id": "675fc5cf027a1688c435a455",
-                "name": "Fairfirst Insurance",
-                "short_name": "Fairfirst Insurance",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329805367-941327738.png"
-            },
-            "team_b": {
-                "id": "675fc5e532a1502da349e92a",
-                "name": "CDB-A",
-                "short_name": "CDB-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760522401445-751558792.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f3a1ef4e4aa6d729f6753a",
             "name": "Paarl Rocks VS Stellenbosch Kings",
             "category_name": "Cricket",
@@ -195,6 +139,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088409081-491820534.png"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797164586-469042324.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f71155f77cf099f802bd9e",
+            "name": "Perth Scorchers Women VS Sydney Sixers Women",
+            "category_name": "Cricket",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-21",
+            "start_date_time": "2025-10-21T22:30:00.000Z",
+            "team_a": {
+                "id": "671b009ec2a91e9745b09cd5",
+                "name": "Perth Scorchers Women",
+                "short_name": "Perth Scorchers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822875958-592746873.png"
+            },
+            "team_b": {
+                "id": "671b0027c2a91e9745b09cd2",
+                "name": "Sydney Sixers Women",
+                "short_name": "Sydney Sixers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822754525-631115540.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761022290159-683633307.webp",
             "venue": "",
             "score_match_id": 0
         }
