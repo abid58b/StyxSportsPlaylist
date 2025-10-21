@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
 
+#EXTINF:-1 tvg-id="68f3a1ef4e4aa6d729f6753a" tvg-name="Paarl Rocks VS Stellenbosch Kings" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760797164586-469042324.webp" group-title="Live",Paarl Rocks VS Stellenbosch Kings
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
