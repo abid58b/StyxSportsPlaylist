@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68f3a2264e4aa6d729f6753b" tvg-name="Paarl Rapids VS Stellenbosch Kings" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760797220842-599883171.webp" group-title="Live",Paarl Rapids VS Stellenbosch Kings
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
