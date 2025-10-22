@@ -29,6 +29,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797220842-599883171.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "68f89cd8f77cf099f802bda8",
+            "name": "Adelaide Strikers Women VS ACT Meteors",
+            "category_name": "Cricket",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-22",
+            "start_date_time": "2025-10-22T22:30:00.000Z",
+            "team_a": {
+                "id": "671b0046c2a91e9745b09cd3",
+                "name": "Adelaide Strikers Women",
+                "short_name": "Adelaide Strikers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822787884-971626961.png"
+            },
+            "team_b": {
+                "id": "675d0ea0feaf9c45f3b7d0f2",
+                "name": "ACT Meteors",
+                "short_name": "ACT Meteors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752327738025-889149221.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761123542064-162762614.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }
