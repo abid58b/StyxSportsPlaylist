@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68f711954e4aa6d729f6754b" tvg-name="Hobart Hurricanes Women VS Sydney Thunder Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761022353291-270366721.webp" group-title="Live",Hobart Hurricanes Women VS Sydney Thunder Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
