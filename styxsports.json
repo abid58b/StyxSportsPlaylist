@@ -3,30 +3,58 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f71155f77cf099f802bd9e",
-            "name": "Perth Scorchers Women VS Sydney Sixers Women",
+            "id": "68f711954e4aa6d729f6754b",
+            "name": "Hobart Hurricanes Women VS Sydney Thunder Women",
             "category_name": "Cricket",
             "tour_id": "68f6f95bf77cf099f802bd9a",
             "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "5",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-21",
-            "start_date_time": "2025-10-21T22:30:00.000Z",
+            "start_date": "2025-10-22",
+            "start_date_time": "2025-10-22T03:00:00.000Z",
             "team_a": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822875958-592746873.png"
+                "id": "67144f5f8a9eea3b43513353",
+                "name": "Hobart Hurricanes Women",
+                "short_name": "Hobart Hurricanes Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384283698-636487969.png"
             },
             "team_b": {
-                "id": "671b0027c2a91e9745b09cd2",
-                "name": "Sydney Sixers Women",
-                "short_name": "Sydney Sixers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822754525-631115540.png"
+                "id": "671b00bec2a91e9745b09cd6",
+                "name": "Sydney Thunder Women",
+                "short_name": "Sydney Thunder Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822908660-779415958.png"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761022290159-683633307.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761022353291-270366721.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f3a2264e4aa6d729f6753b",
+            "name": "Paarl Rapids VS Stellenbosch Kings",
+            "category_name": "Cricket",
+            "tour_id": "68f36a01f77cf099f802bd6d",
+            "tour_name": "Boland T10 2025",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-22",
+            "start_date_time": "2025-10-22T15:30:00.000Z",
+            "team_a": {
+                "id": "68f39f6c4e4aa6d729f67538",
+                "name": "Paarl Rapids",
+                "short_name": "Paarl Rockes",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760796523124-424164136.webp"
+            },
+            "team_b": {
+                "id": "66d2c2c1a1cf56d5952bc966",
+                "name": "Stellenbosch Kings",
+                "short_name": "Stellenbosch Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088409081-491820534.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797220842-599883171.webp",
             "venue": "",
             "score_match_id": 0
         }
