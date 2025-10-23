@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f3a2a45e14fc3d2e06972c",
-            "name": "Paarl Rocks VS Wellington Wolves",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-23",
-            "start_date_time": "2025-10-23T15:30:00.000Z",
-            "team_a": {
-                "id": "66d2c28594fde5f32fe6ca75",
-                "name": "Paarl Rocks",
-                "short_name": "Paarl Rocks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088360158-717276430.png"
-            },
-            "team_b": {
-                "id": "66d2c2df94fde5f32fe6ca76",
-                "name": "Wellington Wolves",
-                "short_name": "Wellington Wolves",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088456139-418798272.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797343461-615976987.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8a1c2e4b44a5c727eb813",
             "name": "Melbourne Star Women VS Hobart Hurricanes Women",
             "category_name": "Cricket",
