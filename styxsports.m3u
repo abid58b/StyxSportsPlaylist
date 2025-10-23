@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68f3a2a45e14fc3d2e06972c" tvg-name="Paarl Rocks VS Wellington Wolves" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760797343461-615976987.webp" group-title="Live",Paarl Rocks VS Wellington Wolves
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
