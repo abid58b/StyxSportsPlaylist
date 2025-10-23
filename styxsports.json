@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f4b37d5e14fc3d2e069732",
-            "name": "Uganda Women VS Canada Women",
-            "category_name": "Cricket",
-            "tour_id": "68f4b25fe4b44a5c727eb7f6",
-            "tour_name": "Canada Women tour of Uganda 2025",
-            "match_no": "3rd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-23",
-            "start_date_time": "2025-10-23T06:30:00.000Z",
-            "team_a": {
-                "id": "666e34ab22b7a98f15326658",
-                "name": "Uganda Women",
-                "short_name": "Uganda Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760866384097-759511677.webp"
-            },
-            "team_b": {
-                "id": "68f4b08d4e4aa6d729f67543",
-                "name": "Canada Women",
-                "short_name": "Canada Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760866440566-317265565.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760867194169-174726206.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68eca927e4b44a5c727eb798",
             "name": "Bangladesh VS West Indies",
             "category_name": "Cricket",
