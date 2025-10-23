@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
 
+#EXTINF:-1 tvg-id="68eca927e4b44a5c727eb798" tvg-name="Bangladesh VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760340251624-720987054.webp" group-title="Live",Bangladesh VS West Indies
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
+
