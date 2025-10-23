@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f89d08e4b44a5c727eb812",
-            "name": "Perth Scorchers Women VS Brisbane Heat Women",
-            "category_name": "Cricket",
-            "tour_id": "68f6f95bf77cf099f802bd9a",
-            "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-23",
-            "start_date_time": "2025-10-23T03:00:00.000Z",
-            "team_a": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822875958-592746873.png"
-            },
-            "team_b": {
-                "id": "67144f79166de3cf1b69e62d",
-                "name": "Brisbane Heat Women",
-                "short_name": "Brisbane Heat Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384310028-3181750.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761123589938-708113871.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f4b37d5e14fc3d2e069732",
             "name": "Uganda Women VS Canada Women",
             "category_name": "Cricket",
