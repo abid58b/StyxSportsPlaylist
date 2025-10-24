@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f8d656e4b44a5c727eb815",
-            "name": "Consolidated Shipping Group VS Karwan",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-24",
-            "start_date_time": "2025-10-24T15:30:00.000Z",
-            "team_a": {
-                "id": "6799f9574ba256cf3abcdab6",
-                "name": "Consolidated Shipping Group",
-                "short_name": "CSS",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327371233-756583940.png"
-            },
-            "team_b": {
-                "id": "6799f9294ba256cf3abcdab5",
-                "name": "Karwan",
-                "short_name": "Karwan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327348352-137567970.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138258270-515351368.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fa29c1f77cf099f802bdc1",
             "name": "Central Stags VS Wellington Firebirds",
             "category_name": "Cricket",
