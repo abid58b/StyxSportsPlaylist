@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68f3a2e9e4b44a5c727eb7e7" tvg-name="Northern Raiders VS Stellenbosch Kings" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760797415450-814496042.webp" group-title="Live",Northern Raiders VS Stellenbosch Kings
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
+#EXTINF:-1 tvg-id="68f8d656e4b44a5c727eb815" tvg-name="Consolidated Shipping Group VS Karwan" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138258270-515351368.webp" group-title="Live",Consolidated Shipping Group VS Karwan
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
