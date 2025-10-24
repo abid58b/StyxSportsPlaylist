@@ -3,30 +3,226 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f8a1c2e4b44a5c727eb813",
-            "name": "Melbourne Star Women VS Hobart Hurricanes Women",
+            "id": "68f8a239f77cf099f802bda9",
+            "name": "Melbourne Renegades Women VS Adelaide Strikers Women",
             "category_name": "Cricket",
             "tour_id": "68f6f95bf77cf099f802bd9a",
             "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "9",
+            "match_no": "10",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-23",
-            "start_date_time": "2025-10-23T22:30:00.000Z",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T03:00:00.000Z",
             "team_a": {
+                "id": "671b00e6c2a91e9745b09cd7",
+                "name": "Melbourne Renegades Women",
+                "short_name": "Melbourne Renegades Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822945908-274760841.png"
+            },
+            "team_b": {
+                "id": "671b0046c2a91e9745b09cd3",
+                "name": "Adelaide Strikers Women",
+                "short_name": "Adelaide Strikers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822787884-971626961.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761124918396-538516276.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f4b45b4e4aa6d729f67544",
+            "name": "Uganda Women VS Canada Women",
+            "category_name": "Cricket",
+            "tour_id": "68f4b25fe4b44a5c727eb7f6",
+            "tour_name": "Canada Women tour of Uganda 2025",
+            "match_no": "4th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T06:30:00.000Z",
+            "team_a": {
+                "id": "666e34ab22b7a98f15326658",
+                "name": "Uganda Women",
+                "short_name": "Uganda Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760866384097-759511677.webp"
+            },
+            "team_b": {
+                "id": "68f4b08d4e4aa6d729f67543",
+                "name": "Canada Women",
+                "short_name": "Canada Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760866440566-317265565.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760867416307-344336606.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f3a2e9e4b44a5c727eb7e7",
+            "name": "Northern Raiders VS Stellenbosch Kings",
+            "category_name": "Cricket",
+            "tour_id": "68f36a01f77cf099f802bd6d",
+            "tour_name": "Boland T10 2025",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T15:30:00.000Z",
+            "team_a": {
+                "id": "66d2c21594fde5f32fe6ca74",
+                "name": "Northern Raiders",
+                "short_name": "Northern Raiders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088273778-697880922.png"
+            },
+            "team_b": {
+                "id": "66d2c2c1a1cf56d5952bc966",
+                "name": "Stellenbosch Kings",
+                "short_name": "Stellenbosch Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088409081-491820534.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797415450-814496042.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8d656e4b44a5c727eb815",
+            "name": "Consolidated Shipping Group VS Karwan",
+            "category_name": "Cricket",
+            "tour_id": "68f646e4e4b44a5c727eb808",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T15:30:00.000Z",
+            "team_a": {
+                "id": "6799f9574ba256cf3abcdab6",
+                "name": "Consolidated Shipping Group",
+                "short_name": "CSS",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327371233-756583940.png"
+            },
+            "team_b": {
+                "id": "6799f9294ba256cf3abcdab5",
+                "name": "Karwan",
+                "short_name": "Karwan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327348352-137567970.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138258270-515351368.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa29c1f77cf099f802bdc1",
+            "name": "Central Stags VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761225241319-159638373.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2a01f77cf099f802bdc2",
+            "name": "Canterbury Kings VS Otago Volts",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761225213867-301876782.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2a54f77cf099f802bdc3",
+            "name": "Auckland Aces VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761225297455-406521155.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8a2985e14fc3d2e06973a",
+            "name": "Brisbane Heat Women VS Melbourne Star Women",
+            "category_name": "Cricket",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T22:30:00.000Z",
+            "team_a": {
+                "id": "67144f79166de3cf1b69e62d",
+                "name": "Brisbane Heat Women",
+                "short_name": "Brisbane Heat Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384310028-3181750.png"
+            },
+            "team_b": {
                 "id": "671b0081c2a91e9745b09cd4",
                 "name": "Melbourne Star Women",
                 "short_name": "Melbourne Star Women",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822966629-967804905.png"
             },
-            "team_b": {
-                "id": "67144f5f8a9eea3b43513353",
-                "name": "Hobart Hurricanes Women",
-                "short_name": "Hobart Hurricanes Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384283698-636487969.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761124797903-313935976.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125013773-311599639.webp",
             "venue": "",
             "score_match_id": 0
         }
