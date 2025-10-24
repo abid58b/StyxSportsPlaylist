@@ -12,3 +12,7 @@ https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
 
+#EXTINF:-1 tvg-id="68f8a2985e14fc3d2e06973a" tvg-name="Brisbane Heat Women VS Melbourne Star Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761125013773-311599639.webp" group-title="Live",Brisbane Heat Women VS Melbourne Star Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
