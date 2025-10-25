@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f3a32ee4b44a5c727eb7e8",
-            "name": "Paarl Rocks VS Overberg Indwe",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T08:00:00.000Z",
-            "team_a": {
-                "id": "66d2c28594fde5f32fe6ca75",
-                "name": "Paarl Rocks",
-                "short_name": "Paarl Rocks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088360158-717276430.png"
-            },
-            "team_b": {
-                "id": "66d2c25ea1cf56d5952bc965",
-                "name": "Overberg Indwe",
-                "short_name": "Overberg Indwe",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088348840-177918371.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797479148-437250028.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f3a4def77cf099f802bd77",
             "name": "West Coast Blues VS Paarl Rapids",
             "category_name": "Cricket",
@@ -171,34 +143,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68f8a390f77cf099f802bdab",
-            "name": "Perth Scorchers Women VS ACT Meteors",
-            "category_name": "Cricket",
-            "tour_id": "68f6f95bf77cf099f802bd9a",
-            "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "13",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T22:30:00.000Z",
-            "team_a": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822875958-592746873.png"
-            },
-            "team_b": {
-                "id": "675d0ea0feaf9c45f3b7d0f2",
-                "name": "ACT Meteors",
-                "short_name": "ACT Meteors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752327738025-889149221.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125259494-450844114.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8a3c05e14fc3d2e06973b",
             "name": "Hobart Hurricanes Women VS Brisbane Heat Women",
             "category_name": "Cricket",
@@ -223,6 +167,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384310028-3181750.png"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125309872-609055470.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8a390f77cf099f802bdab",
+            "name": "Perth Scorchers Women VS ACT Meteors",
+            "category_name": "Cricket",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T22:30:00.000Z",
+            "team_a": {
+                "id": "671b009ec2a91e9745b09cd5",
+                "name": "Perth Scorchers Women",
+                "short_name": "Perth Scorchers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822875958-592746873.png"
+            },
+            "team_b": {
+                "id": "675d0ea0feaf9c45f3b7d0f2",
+                "name": "ACT Meteors",
+                "short_name": "ACT Meteors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752327738025-889149221.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125259494-450844114.webp",
             "venue": "",
             "score_match_id": 0
         }
