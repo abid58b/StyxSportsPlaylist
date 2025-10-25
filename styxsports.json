@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f8d6bd5e14fc3d2e06973f",
-            "name": "Altrad VS Abu Dhabi Smashers",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T17:00:00.000Z",
-            "team_a": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
-            },
-            "team_b": {
-                "id": "6799fa0191e311a90ee8d807",
-                "name": "Abu Dhabi Smashers",
-                "short_name": "Abu Dhabi Smashers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138362563-313420492.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8a390f77cf099f802bdab",
             "name": "Perth Scorchers Women VS ACT Meteors",
             "category_name": "Cricket",
