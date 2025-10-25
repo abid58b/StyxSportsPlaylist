@@ -3,90 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f3a4def77cf099f802bd77",
-            "name": "West Coast Blues VS Paarl Rapids",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "17",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T10:30:00.000Z",
-            "team_a": {
-                "id": "66d2c303a1cf56d5952bc967",
-                "name": "West Coast Blues",
-                "short_name": "West Coast Wolves",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088485867-879890430.png"
-            },
-            "team_b": {
-                "id": "68f39f6c4e4aa6d729f67538",
-                "name": "Paarl Rapids",
-                "short_name": "Paarl Rockes",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760796523124-424164136.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797916064-806175176.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68f8d68be4b44a5c727eb816",
-            "name": "Seven District VS Volcano Sports Academy",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T12:30:00.000Z",
-            "team_a": {
-                "id": "6799f8e091e311a90ee8d804",
-                "name": "Seven District",
-                "short_name": "Seven District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327393239-118014157.png"
-            },
-            "team_b": {
-                "id": "6799f8c3a694d3873e44920d",
-                "name": "Volcano Sports Academy",
-                "short_name": "Volcano Sports Academy",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377163942-925175607.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138312304-148936785.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68f3a541f77cf099f802bd78",
-            "name": "Northern Raiders VS Wellington Wolves",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "18",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T13:00:00.000Z",
-            "team_a": {
-                "id": "66d2c21594fde5f32fe6ca74",
-                "name": "Northern Raiders",
-                "short_name": "Northern Raiders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088273778-697880922.png"
-            },
-            "team_b": {
-                "id": "66d2c2df94fde5f32fe6ca76",
-                "name": "Wellington Wolves",
-                "short_name": "Wellington Wolves",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088456139-418798272.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760798015578-155803608.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f3a5a1e4b44a5c727eb7e9",
             "name": "West Coast Blues VS Wellington Wolves",
             "category_name": "Cricket",
@@ -143,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68f8a3c05e14fc3d2e06973b",
-            "name": "Hobart Hurricanes Women VS Brisbane Heat Women",
-            "category_name": "Cricket",
-            "tour_id": "68f6f95bf77cf099f802bd9a",
-            "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T22:30:00.000Z",
-            "team_a": {
-                "id": "67144f5f8a9eea3b43513353",
-                "name": "Hobart Hurricanes Women",
-                "short_name": "Hobart Hurricanes Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384283698-636487969.png"
-            },
-            "team_b": {
-                "id": "67144f79166de3cf1b69e62d",
-                "name": "Brisbane Heat Women",
-                "short_name": "Brisbane Heat Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384310028-3181750.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125309872-609055470.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8a390f77cf099f802bdab",
             "name": "Perth Scorchers Women VS ACT Meteors",
             "category_name": "Cricket",
@@ -195,6 +83,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752327738025-889149221.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125259494-450844114.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8a3c05e14fc3d2e06973b",
+            "name": "Hobart Hurricanes Women VS Brisbane Heat Women",
+            "category_name": "Cricket",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T22:30:00.000Z",
+            "team_a": {
+                "id": "67144f5f8a9eea3b43513353",
+                "name": "Hobart Hurricanes Women",
+                "short_name": "Hobart Hurricanes Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384283698-636487969.png"
+            },
+            "team_b": {
+                "id": "67144f79166de3cf1b69e62d",
+                "name": "Brisbane Heat Women",
+                "short_name": "Brisbane Heat Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384310028-3181750.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125309872-609055470.webp",
             "venue": "",
             "score_match_id": 0
         }
