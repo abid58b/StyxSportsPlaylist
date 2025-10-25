@@ -3,114 +3,254 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fa29c1f77cf099f802bdc1",
-            "name": "Central Stags VS Wellington Firebirds",
+            "id": "68f8a335f77cf099f802bdaa",
+            "name": "Sydney Sixers Women VS Sydney Thunder Women",
             "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "1",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "12",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-24",
-            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T03:00:00.000Z",
             "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "671b0027c2a91e9745b09cd2",
+                "name": "Sydney Sixers Women",
+                "short_name": "Sydney Sixers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822754525-631115540.png"
             },
             "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+                "id": "671b00bec2a91e9745b09cd6",
+                "name": "Sydney Thunder Women",
+                "short_name": "Sydney Thunder Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822908660-779415958.png"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297783007-455289582.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125170682-587634243.webp",
             "venue": "",
             "score_match_id": 0
         },
         {
-            "id": "68fa2a01f77cf099f802bdc2",
-            "name": "Canterbury Kings VS Otago Volts",
+            "id": "68f3a32ee4b44a5c727eb7e8",
+            "name": "Paarl Rocks VS Overberg Indwe",
             "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
+            "tour_id": "68f36a01f77cf099f802bd6d",
+            "tour_name": "Boland T10 2025",
+            "match_no": "16",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T08:00:00.000Z",
+            "team_a": {
+                "id": "66d2c28594fde5f32fe6ca75",
+                "name": "Paarl Rocks",
+                "short_name": "Paarl Rocks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088360158-717276430.png"
+            },
+            "team_b": {
+                "id": "66d2c25ea1cf56d5952bc965",
+                "name": "Overberg Indwe",
+                "short_name": "Overberg Indwe",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088348840-177918371.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797479148-437250028.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f3a4def77cf099f802bd77",
+            "name": "West Coast Blues VS Paarl Rapids",
+            "category_name": "Cricket",
+            "tour_id": "68f36a01f77cf099f802bd6d",
+            "tour_name": "Boland T10 2025",
+            "match_no": "17",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T10:30:00.000Z",
+            "team_a": {
+                "id": "66d2c303a1cf56d5952bc967",
+                "name": "West Coast Blues",
+                "short_name": "West Coast Wolves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088485867-879890430.png"
+            },
+            "team_b": {
+                "id": "68f39f6c4e4aa6d729f67538",
+                "name": "Paarl Rapids",
+                "short_name": "Paarl Rockes",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760796523124-424164136.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760797916064-806175176.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8d68be4b44a5c727eb816",
+            "name": "Seven District VS Volcano Sports Academy",
+            "category_name": "Cricket",
+            "tour_id": "68f646e4e4b44a5c727eb808",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
             "match_no": "2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-24",
-            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T12:30:00.000Z",
             "team_a": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+                "id": "6799f8e091e311a90ee8d804",
+                "name": "Seven District",
+                "short_name": "Seven District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327393239-118014157.png"
             },
             "team_b": {
-                "id": "68fa03b94e4aa6d729f67553",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+                "id": "6799f8c3a694d3873e44920d",
+                "name": "Volcano Sports Academy",
+                "short_name": "Volcano Sports Academy",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377163942-925175607.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297763718-728644297.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138312304-148936785.webp",
             "venue": "",
             "score_match_id": 0
         },
         {
-            "id": "68fa2a54f77cf099f802bdc3",
-            "name": "Auckland Aces VS Northern District",
+            "id": "68f3a541f77cf099f802bd78",
+            "name": "Northern Raiders VS Wellington Wolves",
             "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
+            "tour_id": "68f36a01f77cf099f802bd6d",
+            "tour_name": "Boland T10 2025",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T13:00:00.000Z",
+            "team_a": {
+                "id": "66d2c21594fde5f32fe6ca74",
+                "name": "Northern Raiders",
+                "short_name": "Northern Raiders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088273778-697880922.png"
+            },
+            "team_b": {
+                "id": "66d2c2df94fde5f32fe6ca76",
+                "name": "Wellington Wolves",
+                "short_name": "Wellington Wolves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088456139-418798272.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760798015578-155803608.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f3a5a1e4b44a5c727eb7e9",
+            "name": "West Coast Blues VS Wellington Wolves",
+            "category_name": "Cricket",
+            "tour_id": "68f36a01f77cf099f802bd6d",
+            "tour_name": "Boland T10 2025",
+            "match_no": "19",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T15:30:00.000Z",
+            "team_a": {
+                "id": "66d2c303a1cf56d5952bc967",
+                "name": "West Coast Blues",
+                "short_name": "West Coast Wolves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088485867-879890430.png"
+            },
+            "team_b": {
+                "id": "66d2c2df94fde5f32fe6ca76",
+                "name": "Wellington Wolves",
+                "short_name": "Wellington Wolves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088456139-418798272.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760798111814-597399316.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8d6bd5e14fc3d2e06973f",
+            "name": "Altrad VS Abu Dhabi Smashers",
+            "category_name": "Cricket",
+            "tour_id": "68f646e4e4b44a5c727eb808",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
             "match_no": "3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-24",
-            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T17:00:00.000Z",
             "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+                "id": "6799f97291e311a90ee8d806",
+                "name": "Altrad",
+                "short_name": "Altrad",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
             },
             "team_b": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+                "id": "6799fa0191e311a90ee8d807",
+                "name": "Abu Dhabi Smashers",
+                "short_name": "Abu Dhabi Smashers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297798564-143301632.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138362563-313420492.webp",
             "venue": "",
             "score_match_id": 0
         },
         {
-            "id": "68f8a2985e14fc3d2e06973a",
-            "name": "Brisbane Heat Women VS Melbourne Star Women",
+            "id": "68f8a390f77cf099f802bdab",
+            "name": "Perth Scorchers Women VS ACT Meteors",
             "category_name": "Cricket",
             "tour_id": "68f6f95bf77cf099f802bd9a",
             "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "11",
+            "match_no": "13",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-24",
-            "start_date_time": "2025-10-24T22:30:00.000Z",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T22:30:00.000Z",
             "team_a": {
+                "id": "671b009ec2a91e9745b09cd5",
+                "name": "Perth Scorchers Women",
+                "short_name": "Perth Scorchers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822875958-592746873.png"
+            },
+            "team_b": {
+                "id": "675d0ea0feaf9c45f3b7d0f2",
+                "name": "ACT Meteors",
+                "short_name": "ACT Meteors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752327738025-889149221.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125259494-450844114.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8a3c05e14fc3d2e06973b",
+            "name": "Hobart Hurricanes Women VS Brisbane Heat Women",
+            "category_name": "Cricket",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-25",
+            "start_date_time": "2025-10-25T22:30:00.000Z",
+            "team_a": {
+                "id": "67144f5f8a9eea3b43513353",
+                "name": "Hobart Hurricanes Women",
+                "short_name": "Hobart Hurricanes Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384283698-636487969.png"
+            },
+            "team_b": {
                 "id": "67144f79166de3cf1b69e62d",
                 "name": "Brisbane Heat Women",
                 "short_name": "Brisbane Heat Women",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384310028-3181750.png"
             },
-            "team_b": {
-                "id": "671b0081c2a91e9745b09cd4",
-                "name": "Melbourne Star Women",
-                "short_name": "Melbourne Star Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822966629-967804905.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125013773-311599639.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125309872-609055470.webp",
             "venue": "",
             "score_match_id": 0
         }
