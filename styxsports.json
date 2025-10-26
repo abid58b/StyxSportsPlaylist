@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fe25d6cd118c565c11d5e7",
-            "name": "Paarl Rapids VS Paarl Rocks",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "Semifinal - 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T15:30:00.000Z",
-            "team_a": {
-                "id": "68f39f6c4e4aa6d729f67538",
-                "name": "Paarl Rapids",
-                "short_name": "Paarl Rockes",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760796523124-424164136.webp"
-            },
-            "team_b": {
-                "id": "66d2c28594fde5f32fe6ca75",
-                "name": "Paarl Rocks",
-                "short_name": "Paarl Rocks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088360158-717276430.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761486289728-973266667.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d7c5e4b44a5c727eb817",
             "name": "Seven District VS Karwan",
             "category_name": "Cricket",
