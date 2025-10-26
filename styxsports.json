@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fe2542b61112770ee84a0f",
-            "name": "Overberg Indwe VS Stellenbosch Kings",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T13:00:00.000Z",
-            "team_a": {
-                "id": "66d2c25ea1cf56d5952bc965",
-                "name": "Overberg Indwe",
-                "short_name": "Overberg Indwe",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088348840-177918371.png"
-            },
-            "team_b": {
-                "id": "66d2c2c1a1cf56d5952bc966",
-                "name": "Stellenbosch Kings",
-                "short_name": "Stellenbosch Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088409081-491820534.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761486143457-103665545.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d76ff77cf099f802bdac",
             "name": "Altrad VS Lexington Shotguns",
             "category_name": "Cricket",
