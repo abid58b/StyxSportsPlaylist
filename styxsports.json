@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68f3a6095e14fc3d2e06972d",
-            "name": "Northern Raiders VS Paarl Rapids",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "21",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T10:30:00.000Z",
-            "team_a": {
-                "id": "66d2c21594fde5f32fe6ca74",
-                "name": "Northern Raiders",
-                "short_name": "Northern Raiders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088273778-697880922.png"
-            },
-            "team_b": {
-                "id": "68f39f6c4e4aa6d729f67538",
-                "name": "Paarl Rapids",
-                "short_name": "Paarl Rockes",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760796523124-424164136.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760798215575-994682381.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d76ff77cf099f802bdac",
             "name": "Altrad VS Lexington Shotguns",
             "category_name": "Cricket",
