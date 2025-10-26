@@ -8,15 +8,11 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
 
-#EXTINF:-1 tvg-id="68f8a4765e14fc3d2e06973c" tvg-name="Sydney Thunder Women VS Adelaide Strikers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761125549450-559763261.webp" group-title="Live",Sydney Thunder Women VS Adelaide Strikers Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
-#EXTINF:-1 tvg-id="68f8a500e4b44a5c727eb814" tvg-name="Sydney Sixers Women VS Melbourne Star Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761125629966-567054472.webp" group-title="Live",Sydney Sixers Women VS Melbourne Star Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
-
 #EXTINF:-1 tvg-id="68f8d6f55e14fc3d2e069740" tvg-name="Consolidated Shipping Group VS Volcano Sports Academy" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138418257-344276944.webp" group-title="Live",Consolidated Shipping Group VS Volcano Sports Academy
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
+#EXTINF:-1 tvg-id="68f4b4aaf77cf099f802bd85" tvg-name="Uganda Women VS Canada Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760867496760-706368713.webp" group-title="Live",Uganda Women VS Canada Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
 

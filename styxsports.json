@@ -59,62 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68f8a4765e14fc3d2e06973c",
-            "name": "Sydney Thunder Women VS Adelaide Strikers Women",
-            "category_name": "Cricket",
-            "tour_id": "68f6f95bf77cf099f802bd9a",
-            "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T03:00:00.000Z",
-            "team_a": {
-                "id": "671b00bec2a91e9745b09cd6",
-                "name": "Sydney Thunder Women",
-                "short_name": "Sydney Thunder Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822908660-779415958.png"
-            },
-            "team_b": {
-                "id": "671b0046c2a91e9745b09cd3",
-                "name": "Adelaide Strikers Women",
-                "short_name": "Adelaide Strikers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822787884-971626961.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125549450-559763261.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68f8a500e4b44a5c727eb814",
-            "name": "Sydney Sixers Women VS Melbourne Star Women",
-            "category_name": "Cricket",
-            "tour_id": "68f6f95bf77cf099f802bd9a",
-            "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T03:00:00.000Z",
-            "team_a": {
-                "id": "671b0027c2a91e9745b09cd2",
-                "name": "Sydney Sixers Women",
-                "short_name": "Sydney Sixers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822754525-631115540.png"
-            },
-            "team_b": {
-                "id": "671b0081c2a91e9745b09cd4",
-                "name": "Melbourne Star Women",
-                "short_name": "Melbourne Star Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822966629-967804905.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125629966-567054472.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d6f55e14fc3d2e069740",
             "name": "Consolidated Shipping Group VS Volcano Sports Academy",
             "category_name": "Cricket",
