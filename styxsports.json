@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f8d76ff77cf099f802bdac",
-            "name": "Altrad VS Lexington Shotguns",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T13:00:00.000Z",
-            "team_a": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
-            },
-            "team_b": {
-                "id": "6799f91091e311a90ee8d805",
-                "name": "Lexington Shotguns",
-                "short_name": "Lexington Shotguns",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377139933-298539105.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138541266-502530021.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fe25d6cd118c565c11d5e7",
             "name": "Paarl Rapids VS Paarl Rocks",
             "category_name": "Cricket",
