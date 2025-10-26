@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f8d73c4e4aa6d729f6754e",
-            "name": "ALS Superstars VS Abu Dhabi Smashers",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T08:30:00.000Z",
-            "team_a": {
-                "id": "6799f9d54ba256cf3abcdab7",
-                "name": "ALS Superstars",
-                "short_name": "ALS Superstars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
-            },
-            "team_b": {
-                "id": "6799fa0191e311a90ee8d807",
-                "name": "Abu Dhabi Smashers",
-                "short_name": "Abu Dhabi Smashers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138489587-280146789.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d76ff77cf099f802bdac",
             "name": "Altrad VS Lexington Shotguns",
             "category_name": "Cricket",
