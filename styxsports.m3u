@@ -1,16 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d7987c0a167c5344225657" tvg-name="USRC Premier VS KCC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959735277-331943366.webp" group-title="Live",USRC Premier VS KCC Premier
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
-
 #EXTINF:-1 tvg-id="68f4b4aaf77cf099f802bd85" tvg-name="Uganda Women VS Canada Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760867496760-706368713.webp" group-title="Live",Uganda Women VS Canada Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
-#EXTINF:-1 tvg-id="68f3a5d2f77cf099f802bd79" tvg-name="Overberg Indwe VS Wellington Wolves" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760798156919-881464203.webp" group-title="Live",Overberg Indwe VS Wellington Wolves
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 #EXTINF:-1 tvg-id="68f8d73c4e4aa6d729f6754e" tvg-name="ALS Superstars VS Abu Dhabi Smashers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138489587-280146789.webp" group-title="Live",ALS Superstars VS Abu Dhabi Smashers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
