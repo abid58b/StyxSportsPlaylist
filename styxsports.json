@@ -3,32 +3,284 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f8a52e5e14fc3d2e06973d",
-            "name": "Perth Scorchers Women VS Melbourne Star Women",
+            "id": "68fccb5cd0ef73bd87ac247d",
+            "name": "Kaltim VS Garuda Gentlemen",
             "category_name": "Cricket",
-            "tour_id": "68f6f95bf77cf099f802bd9a",
-            "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "17",
+            "tour_id": "68fcca9361050f4b1955c18c",
+            "tour_name": "Jimbaran T10 2025",
+            "match_no": "1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T22:30:00.000Z",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T00:05:00.000Z",
             "team_a": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822875958-592746873.png"
+                "id": "68fcc9a8b61112770ee84a08",
+                "name": "Kaltim",
+                "short_name": "Kaltim",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397155385-433188608.webp"
             },
             "team_b": {
-                "id": "671b0081c2a91e9745b09cd4",
-                "name": "Melbourne Star Women",
-                "short_name": "Melbourne Star Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822966629-967804905.png"
+                "id": "68205541aa4e109cb89d5346",
+                "name": "Garuda Gentlemen",
+                "short_name": "Garuda Gentlemen",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397252926-76526948.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125672721-976061989.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761397591438-190997731.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "68fccb93d0ef73bd87ac247e",
+            "name": "Gianyar VS Westden CC",
+            "category_name": "Cricket",
+            "tour_id": "68fcca9361050f4b1955c18c",
+            "tour_name": "Jimbaran T10 2025",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T02:30:00.000Z",
+            "team_a": {
+                "id": "689ae84fa6cb7be2c346ff83",
+                "name": "Gianyar",
+                "short_name": "Gianyar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397231756-687840147.webp"
+            },
+            "team_b": {
+                "id": "68fcc9e0d0ef73bd87ac247c",
+                "name": "Westden CC",
+                "short_name": "Westden CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397213677-195617023.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761397647865-897318692.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8a5604e4aa6d729f6754d",
+            "name": "Melbourne Renegades Women VS ACT Meteors",
+            "category_name": "Cricket",
+            "tour_id": "68f6f95bf77cf099f802bd9a",
+            "tour_name": "T20 Spring Challenge 2025",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T03:00:00.000Z",
+            "team_a": {
+                "id": "671b00e6c2a91e9745b09cd7",
+                "name": "Melbourne Renegades Women",
+                "short_name": "Melbourne Renegades Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729822945908-274760841.png"
+            },
+            "team_b": {
+                "id": "675d0ea0feaf9c45f3b7d0f2",
+                "name": "ACT Meteors",
+                "short_name": "ACT Meteors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752327738025-889149221.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761125726276-81427262.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fccbca61050f4b1955c18d",
+            "name": "Kaltim VS Gianyar",
+            "category_name": "Cricket",
+            "tour_id": "68fcca9361050f4b1955c18c",
+            "tour_name": "Jimbaran T10 2025",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T04:30:00.000Z",
+            "team_a": {
+                "id": "68fcc9a8b61112770ee84a08",
+                "name": "Kaltim",
+                "short_name": "Kaltim",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397155385-433188608.webp"
+            },
+            "team_b": {
+                "id": "689ae84fa6cb7be2c346ff83",
+                "name": "Gianyar",
+                "short_name": "Gianyar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397231756-687840147.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761397696402-493970713.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fccc1e61050f4b1955c18e",
+            "name": "Garuda Gentlemen VS Westden CC",
+            "category_name": "Cricket",
+            "tour_id": "68fcca9361050f4b1955c18c",
+            "tour_name": "Jimbaran T10 2025",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T06:30:00.000Z",
+            "team_a": {
+                "id": "68205541aa4e109cb89d5346",
+                "name": "Garuda Gentlemen",
+                "short_name": "Garuda Gentlemen",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397252926-76526948.webp"
+            },
+            "team_b": {
+                "id": "68fcc9e0d0ef73bd87ac247c",
+                "name": "Westden CC",
+                "short_name": "Westden CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397213677-195617023.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761397787212-431714798.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fccc6061050f4b1955c18f",
+            "name": "Kaltim VS Westden CC",
+            "category_name": "Cricket",
+            "tour_id": "68fcca9361050f4b1955c18c",
+            "tour_name": "Jimbaran T10 2025",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T08:30:00.000Z",
+            "team_a": {
+                "id": "68fcc9a8b61112770ee84a08",
+                "name": "Kaltim",
+                "short_name": "Kaltim",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397155385-433188608.webp"
+            },
+            "team_b": {
+                "id": "68fcc9e0d0ef73bd87ac247c",
+                "name": "Westden CC",
+                "short_name": "Westden CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397213677-195617023.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761397850489-413144582.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68eca97f5e14fc3d2e069707",
+            "name": "Bangladesh VS West Indies",
+            "category_name": "Cricket",
+            "tour_id": "68eca5b1e4b44a5c727eb797",
+            "tour_name": "West Indies tour of Bangladesh 2025",
+            "match_no": "1st T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T11:30:00.000Z",
+            "team_a": {
+                "id": "671bc3bd68d746820ca1213d",
+                "name": "Bangladesh",
+                "short_name": "Bangladesh",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879903352-23508365.webp"
+            },
+            "team_b": {
+                "id": "672f5fdd940d92dae749b046",
+                "name": "West Indies",
+                "short_name": "West Indies",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750831711622-66934350.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760340347248-561532346.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f8d7fdf77cf099f802bdad",
+            "name": "ALS Superstars VS Lexington Shotguns",
+            "category_name": "Cricket",
+            "tour_id": "68f646e4e4b44a5c727eb808",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T15:30:00.000Z",
+            "team_a": {
+                "id": "6799f9d54ba256cf3abcdab7",
+                "name": "ALS Superstars",
+                "short_name": "ALS Superstars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
+            },
+            "team_b": {
+                "id": "6799f91091e311a90ee8d805",
+                "name": "Lexington Shotguns",
+                "short_name": "Lexington Shotguns",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377139933-298539105.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138684496-676867443.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68de7f8cc167956f9cb7b9f5",
+            "name": "Victoria VS Tasmania Tigers",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "7 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92851
+        },
+        {
+            "id": "68de7fcfc167956f9cb7b9f6",
+            "name": "Queensland Bulls VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "8 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T23:00:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92852
         }
     ]
 }
