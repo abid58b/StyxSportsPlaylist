@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68fccbca61050f4b1955c18d",
-            "name": "Kaltim VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "68fcca9361050f4b1955c18c",
-            "tour_name": "Jimbaran T10 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-27",
-            "start_date_time": "2025-10-27T03:50:00.000Z",
-            "team_a": {
-                "id": "68fcc9a8b61112770ee84a08",
-                "name": "Kaltim",
-                "short_name": "Kaltim",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397155385-433188608.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397231756-687840147.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761397696402-493970713.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fccc1e61050f4b1955c18e",
             "name": "Garuda Gentlemen VS Westden CC",
             "category_name": "Cricket",
@@ -171,34 +143,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68de7fcfc167956f9cb7b9f6",
-            "name": "Queensland Bulls VS New South Wales",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "8 | Day - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-27",
-            "start_date_time": "2025-10-27T23:00:00.000Z",
-            "team_a": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
-            },
-            "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp",
-            "venue": "The Gabba ,Brisbane",
-            "score_match_id": 92852
-        },
-        {
             "id": "68de7f8cc167956f9cb7b9f5",
             "name": "Victoria VS Tasmania Tigers",
             "category_name": "Cricket",
@@ -225,6 +169,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
             "venue": "Junction Oval ,Melbourne",
             "score_match_id": 92851
+        },
+        {
+            "id": "68de7fcfc167956f9cb7b9f6",
+            "name": "Queensland Bulls VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "8 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-27",
+            "start_date_time": "2025-10-27T23:00:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92852
         }
     ]
 }
