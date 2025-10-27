@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68eca97f5e14fc3d2e069707" tvg-name="Bangladesh VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760340347248-561532346.webp" group-title="Live",Bangladesh VS West Indies
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
-
 #EXTINF:-1 tvg-id="68ff27110f2e708c575bcb5f" tvg-name="Overberg Indwe VS Paarl Rocks" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761552139799-870948241.webp" group-title="Live",Overberg Indwe VS Paarl Rocks
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
+#EXTINF:-1 tvg-id="68f8d7fdf77cf099f802bdad" tvg-name="ALS Superstars VS Lexington Shotguns" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138684496-676867443.webp" group-title="Live",ALS Superstars VS Lexington Shotguns
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
