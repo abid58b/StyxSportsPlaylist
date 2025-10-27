@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
 
+#EXTINF:-1 tvg-id="68ff27110f2e708c575bcb5f" tvg-name="Overberg Indwe VS Paarl Rocks" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761552139799-870948241.webp" group-title="Live",Overberg Indwe VS Paarl Rocks
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
