@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68ff274da62b55864def6e58",
-            "name": "Stellenbosch Kings VS Paarl Rapids",
-            "category_name": "Cricket",
-            "tour_id": "68f36a01f77cf099f802bd6d",
-            "tour_name": "Boland T10 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-27",
-            "start_date_time": "2025-10-27T17:00:00.000Z",
-            "team_a": {
-                "id": "66d2c2c1a1cf56d5952bc966",
-                "name": "Stellenbosch Kings",
-                "short_name": "Stellenbosch Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1725088409081-491820534.png"
-            },
-            "team_b": {
-                "id": "68f39f6c4e4aa6d729f67538",
-                "name": "Paarl Rapids",
-                "short_name": "Paarl Rockes",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760796523124-424164136.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761552200111-666718259.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68de7f8cc167956f9cb7b9f5",
             "name": "Victoria VS Tasmania Tigers",
             "category_name": "Cricket",
