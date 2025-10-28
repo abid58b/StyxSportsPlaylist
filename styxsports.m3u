@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68ff6fd90f2e708c575bcb61" tvg-name="Hobart Hurricanes Women VS Perth Scorchers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761570764725-686167218.webp" group-title="Live",Hobart Hurricanes Women VS Perth Scorchers Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+
