@@ -31,34 +31,6 @@
             "score_match_id": 92853
         },
         {
-            "id": "68fccecf61050f4b1955c191",
-            "name": "Kaltim VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "68fcca9361050f4b1955c18c",
-            "tour_name": "Jimbaran T10 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-28",
-            "start_date_time": "2025-10-28T05:50:00.000Z",
-            "team_a": {
-                "id": "68fcc9a8b61112770ee84a08",
-                "name": "Kaltim",
-                "short_name": "Kaltim",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397155385-433188608.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397231756-687840147.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761398475434-335449130.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fccf4bcd118c565c11d5df",
             "name": "Garuda Gentlemen VS Westden CC",
             "category_name": "Cricket",
@@ -69,7 +41,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-28",
-            "start_date_time": "2025-10-28T08:30:00.000Z",
+            "start_date_time": "2025-10-28T08:00:00.000Z",
             "team_a": {
                 "id": "68205541aa4e109cb89d5346",
                 "name": "Garuda Gentlemen",
