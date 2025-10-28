@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68fcce9bd0ef73bd87ac2480",
-            "name": "Gianyar VS Garuda Gentlemen",
-            "category_name": "Cricket",
-            "tour_id": "68fcca9361050f4b1955c18c",
-            "tour_name": "Jimbaran T10 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-28",
-            "start_date_time": "2025-10-28T04:00:00.000Z",
-            "team_a": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397231756-687840147.webp"
-            },
-            "team_b": {
-                "id": "68205541aa4e109cb89d5346",
-                "name": "Garuda Gentlemen",
-                "short_name": "Garuda Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397252926-76526948.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761398421700-523517307.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fccecf61050f4b1955c191",
             "name": "Kaltim VS Gianyar",
             "category_name": "Cricket",
