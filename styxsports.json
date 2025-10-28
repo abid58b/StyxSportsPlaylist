@@ -31,34 +31,6 @@
             "score_match_id": 92853
         },
         {
-            "id": "68fccf4bcd118c565c11d5df",
-            "name": "Garuda Gentlemen VS Westden CC",
-            "category_name": "Cricket",
-            "tour_id": "68fcca9361050f4b1955c18c",
-            "tour_name": "Jimbaran T10 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-28",
-            "start_date_time": "2025-10-28T08:00:00.000Z",
-            "team_a": {
-                "id": "68205541aa4e109cb89d5346",
-                "name": "Garuda Gentlemen",
-                "short_name": "Garuda Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397252926-76526948.webp"
-            },
-            "team_b": {
-                "id": "68fcc9e0d0ef73bd87ac247c",
-                "name": "Westden CC",
-                "short_name": "Westden CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397213677-195617023.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761398599757-506527155.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d839e4b44a5c727eb818",
             "name": "Volcano Sports Academy VS Karwan",
             "category_name": "Cricket",
