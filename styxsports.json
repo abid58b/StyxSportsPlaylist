@@ -31,34 +31,6 @@
             "score_match_id": 92853
         },
         {
-            "id": "68fccfe0d0ef73bd87ac2481",
-            "name": "Garuda Gentlemen VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "68fcca9361050f4b1955c18c",
-            "tour_name": "Jimbaran T10 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T02:05:00.000Z",
-            "team_a": {
-                "id": "68205541aa4e109cb89d5346",
-                "name": "Garuda Gentlemen",
-                "short_name": "Garuda Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397252926-76526948.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761397231756-687840147.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761398745388-14038886.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68ff700aa62b55864def6e5f",
             "name": "Brisbane Heat Women VS Melbourne Renegades Women",
             "category_name": "Cricket",
@@ -171,30 +143,30 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa2af4e4b44a5c727eb81b",
-            "name": "Central Stags VS Northern District",
+            "id": "68fa2b2de4b44a5c727eb81c",
+            "name": "Auckland Aces VS Otago Volts",
             "category_name": "Cricket",
             "tour_id": "68fa0485f77cf099f802bdbb",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "5",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-29",
             "start_date_time": "2025-10-29T21:00:00.000Z",
             "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
             },
             "team_b": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297830642-658280501.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297859895-755869943.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -227,30 +199,30 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa2b2de4b44a5c727eb81c",
-            "name": "Auckland Aces VS Otago Volts",
+            "id": "68fa2af4e4b44a5c727eb81b",
+            "name": "Central Stags VS Northern District",
             "category_name": "Cricket",
             "tour_id": "68fa0485f77cf099f802bdbb",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "6",
+            "match_no": "5",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-29",
             "start_date_time": "2025-10-29T21:00:00.000Z",
             "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
             "team_b": {
-                "id": "68fa03b94e4aa6d729f67553",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297859895-755869943.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297830642-658280501.webp",
             "venue": "",
             "score_match_id": 0
         }
