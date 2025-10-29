@@ -1,14 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68ff6fd90f2e708c575bcb61" tvg-name="Hobart Hurricanes Women VS Perth Scorchers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761570764725-686167218.webp" group-title="Live",Hobart Hurricanes Women VS Perth Scorchers Women
+#EXTINF:-1 tvg-id="68fccfa3cd118c565c11d5e0" tvg-name="Kaltim VS Westden CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761398685392-374602934.webp" group-title="Live",Kaltim VS Westden CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
-#EXTINF:-1 tvg-id="68de7fcfc167956f9cb7b9f6" tvg-name="Queensland Bulls VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp" group-title="Live",Queensland Bulls VS New South Wales
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
-#EXTINF:-1 tvg-id="68de7f8cc167956f9cb7b9f5" tvg-name="Victoria VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp" group-title="Live",Victoria VS Tasmania Tigers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/qW63z3FWzjzXIh2N22563022711650.m3u8
 
