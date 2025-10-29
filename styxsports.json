@@ -3,32 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f8d87d4e4aa6d729f6754f",
-            "name": "Altrad VS ALS Superstars",
+            "id": "68fa2ac84e4aa6d729f67556",
+            "name": "Wellington Firebirds VS Canterbury Kings",
             "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "10",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "4",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T15:30:00.000Z",
+            "start_date_time": "2025-10-29T21:00:00.000Z",
             "team_a": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
             },
             "team_b": {
-                "id": "6799f9d54ba256cf3abcdab7",
-                "name": "ALS Superstars",
-                "short_name": "ALS Superstars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138811744-421199223.webp",
-            "venue": "",
-            "score_match_id": 0
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297813600-811998130.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92651
         },
         {
             "id": "68fa2b2de4b44a5c727eb81c",
@@ -59,34 +59,6 @@
             "score_match_id": 92653
         },
         {
-            "id": "68fa2ac84e4aa6d729f67556",
-            "name": "Wellington Firebirds VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297813600-811998130.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92651
-        },
-        {
             "id": "68fa2af4e4b44a5c727eb81b",
             "name": "Central Stags VS Northern District",
             "category_name": "Cricket",
@@ -115,34 +87,6 @@
             "score_match_id": 92652
         },
         {
-            "id": "68de7fcfc167956f9cb7b9f6",
-            "name": "Queensland Bulls VS New South Wales",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "8 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T23:00:00.000Z",
-            "team_a": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
-            },
-            "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp",
-            "venue": "The Gabba ,Brisbane",
-            "score_match_id": 92852
-        },
-        {
             "id": "68de7f8cc167956f9cb7b9f5",
             "name": "Victoria VS Tasmania Tigers",
             "category_name": "Cricket",
@@ -169,6 +113,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
             "venue": "Junction Oval ,Melbourne",
             "score_match_id": 92851
+        },
+        {
+            "id": "68de7fcfc167956f9cb7b9f6",
+            "name": "Queensland Bulls VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "8 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-29",
+            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92852
         }
     ]
 }
