@@ -83,36 +83,8 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297859895-755869943.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68fa2af4e4b44a5c727eb81b",
-            "name": "Central Stags VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "team_b": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297830642-658280501.webp",
-            "venue": "",
-            "score_match_id": 0
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92653
         },
         {
             "id": "68fa2ac84e4aa6d729f67556",
@@ -139,36 +111,36 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297813600-811998130.webp",
-            "venue": "",
-            "score_match_id": 0
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92651
         },
         {
-            "id": "68de7f8cc167956f9cb7b9f5",
-            "name": "Victoria VS Tasmania Tigers",
+            "id": "68fa2af4e4b44a5c727eb81b",
+            "name": "Central Stags VS Northern District",
             "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "7 | Day - 3",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "5",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "start_date_time": "2025-10-29T21:00:00.000Z",
             "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
             "team_b": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92851
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297830642-658280501.webp",
+            "venue": "Pukekura Park ,New Plymouth",
+            "score_match_id": 92652
         },
         {
             "id": "68de7fcfc167956f9cb7b9f6",
@@ -197,6 +169,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp",
             "venue": "The Gabba ,Brisbane",
             "score_match_id": 92852
+        },
+        {
+            "id": "68de7f8cc167956f9cb7b9f5",
+            "name": "Victoria VS Tasmania Tigers",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "7 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-29",
+            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92851
         }
     ]
 }
