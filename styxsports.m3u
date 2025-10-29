@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de80049f5a848ba39f3356" tvg-name="Western Australia VS South Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412226526-538406327.webp" group-title="Live",Western Australia VS South Australia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
-
-#EXTINF:-1 tvg-id="6901a0a2a62b55864def6e74" tvg-name="Garuda Gentlemen VS Westden CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761714331357-324218046.webp" group-title="Live",Garuda Gentlemen VS Westden CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/qW63z3FWzjzXIh2N22563022711650.m3u8
-
