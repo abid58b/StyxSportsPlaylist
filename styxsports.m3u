@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
-#EXTINF:-1 tvg-id="68ff700aa62b55864def6e5f" tvg-name="Brisbane Heat Women VS Melbourne Renegades Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761570825898-211093203.webp" group-title="Live",Brisbane Heat Women VS Melbourne Renegades Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
 #EXTINF:-1 tvg-id="68da8d8550dd3d4150aa55c7" tvg-name="Fairfirst Insurance VS CDB-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760522401445-751558792.webp" group-title="Live",Fairfirst Insurance VS CDB-A
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
