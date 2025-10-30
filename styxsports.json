@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ef714ae4b44a5c727eb7b7",
-            "name": "Maliban Biscuits VS Hayleys-A",
-            "category_name": "Cricket",
-            "tour_id": "68b53ffad7df5a4636c1e663",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER LEAGUE 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-30",
-            "start_date_time": "2025-10-30T08:30:00.000Z",
-            "team_a": {
-                "id": "675fc59a027a1688c435a454",
-                "name": "Maliban Biscuits",
-                "short_name": "Maliban Biscuits",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329752377-317474835.png"
-            },
-            "team_b": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760522564919-931416978.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d8a15e14fc3d2e069741",
             "name": "Lexington Shotguns VS Abu Dhabi Smashers",
             "category_name": "Cricket",
@@ -59,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68de7f8cc167956f9cb7b9f5",
-            "name": "Victoria VS Tasmania Tigers",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "7 | Day - 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-30",
-            "start_date_time": "2025-10-30T23:00:00.000Z",
-            "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
-            },
-            "team_b": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92851
-        },
-        {
             "id": "68de7fcfc167956f9cb7b9f6",
             "name": "Queensland Bulls VS New South Wales",
             "category_name": "Cricket",
@@ -113,6 +57,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp",
             "venue": "The Gabba ,Brisbane",
             "score_match_id": 92852
+        },
+        {
+            "id": "68de7f8cc167956f9cb7b9f5",
+            "name": "Victoria VS Tasmania Tigers",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "7 | Day - 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-30",
+            "start_date_time": "2025-10-30T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92851
         }
     ]
 }
