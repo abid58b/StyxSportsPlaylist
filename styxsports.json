@@ -31,34 +31,6 @@
             "score_match_id": 92853
         },
         {
-            "id": "68f24b715e14fc3d2e06971c",
-            "name": "George Stuwart Health VS Power Hand Plantation",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-30",
-            "start_date_time": "2025-10-30T04:00:00.000Z",
-            "team_a": {
-                "id": "685ea95860238ab7d6eca353",
-                "name": "George Stuwart Health",
-                "short_name": "George Stuwart Health",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699100517-668725311.webp"
-            },
-            "team_b": {
-                "id": "67530286e2cc6afe4b97daff",
-                "name": "Power Hand Plantation",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699171210-883229968.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760709486903-522585989.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6902f918a62b55864def6e90",
             "name": "United Arab Emirates VS Nepal",
             "category_name": "Cricket",
