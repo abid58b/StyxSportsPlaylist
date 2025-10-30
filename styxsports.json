@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6902f918a62b55864def6e90",
-            "name": "United Arab Emirates VS Nepal",
-            "category_name": "Cricket",
-            "tour_id": "6902f8d00f2e708c575bcb72",
-            "tour_name": "ICC CWC LEAGUE 2",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-30",
-            "start_date_time": "2025-10-30T05:30:00.000Z",
-            "team_a": {
-                "id": "66e0442ac13e43201a39f7a9",
-                "name": "United Arab Emirates",
-                "short_name": "UAE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988014637-178411913.webp"
-            },
-            "team_b": {
-                "id": "66e042052bfab92771e8e442",
-                "name": "Nepal",
-                "short_name": "Nepal",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761803843478-146769743.webp",
-            "venue": "ICC Academy ,Dubai",
-            "score_match_id": 93863
-        },
-        {
             "id": "68ef714ae4b44a5c727eb7b7",
             "name": "Maliban Biscuits VS Hayleys-A",
             "category_name": "Cricket",

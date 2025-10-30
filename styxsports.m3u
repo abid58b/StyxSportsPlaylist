@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6902f918a62b55864def6e90" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761803843478-146769743.webp" group-title="Live",United Arab Emirates VS Nepal
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
-
 #EXTINF:-1 tvg-id="68ef714ae4b44a5c727eb7b7" tvg-name="Maliban Biscuits VS Hayleys-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760522564919-931416978.webp" group-title="Live",Maliban Biscuits VS Hayleys-A
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
