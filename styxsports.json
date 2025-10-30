@@ -31,34 +31,6 @@
             "score_match_id": 92853
         },
         {
-            "id": "6901bf279195d469b55aacb8",
-            "name": "Hobart Hurricanes Women VS Brisbane Heat Women",
-            "category_name": "Cricket",
-            "tour_id": "68f6f95bf77cf099f802bd9a",
-            "tour_name": "T20 Spring Challenge 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-30",
-            "start_date_time": "2025-10-30T02:30:00.000Z",
-            "team_a": {
-                "id": "67144f5f8a9eea3b43513353",
-                "name": "Hobart Hurricanes Women",
-                "short_name": "Hobart Hurricanes Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384283698-636487969.png"
-            },
-            "team_b": {
-                "id": "67144f79166de3cf1b69e62d",
-                "name": "Brisbane Heat Women",
-                "short_name": "Brisbane Heat Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1729384310028-3181750.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761722147284-560294560.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f24b715e14fc3d2e06971c",
             "name": "George Stuwart Health VS Power Hand Plantation",
             "category_name": "Cricket",
@@ -110,7 +82,7 @@
                 "short_name": "Nepal",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761802517376-214291599.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761803843478-146769743.webp",
             "venue": "ICC Academy ,Dubai",
             "score_match_id": 93863
         },
