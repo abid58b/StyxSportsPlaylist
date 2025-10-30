@@ -141,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138848296-265185461.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "68de7f8cc167956f9cb7b9f5",
+            "name": "Victoria VS Tasmania Tigers",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "7 | Day - 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-30",
+            "start_date_time": "2025-10-30T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92851
         }
     ]
 }
