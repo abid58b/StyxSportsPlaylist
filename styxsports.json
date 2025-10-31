@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68f8d8c3f77cf099f802bdae",
-            "name": "Seven District VS Altrad",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-31",
-            "start_date_time": "2025-10-31T15:30:00.000Z",
-            "team_a": {
-                "id": "6799f8e091e311a90ee8d804",
-                "name": "Seven District",
-                "short_name": "Seven District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327393239-118014157.png"
-            },
-            "team_b": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761138881179-470473214.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
