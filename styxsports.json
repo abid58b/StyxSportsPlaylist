@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ecaa054e4aa6d729f67518",
-            "name": "Bangladesh VS West Indies",
-            "category_name": "Cricket",
-            "tour_id": "68eca5b1e4b44a5c727eb797",
-            "tour_name": "West Indies tour of Bangladesh 2025",
-            "match_no": "3rd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-31",
-            "start_date_time": "2025-10-31T11:30:00.000Z",
-            "team_a": {
-                "id": "671bc3bd68d746820ca1213d",
-                "name": "Bangladesh",
-                "short_name": "Bangladesh",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879903352-23508365.webp"
-            },
-            "team_b": {
-                "id": "672f5fdd940d92dae749b046",
-                "name": "West Indies",
-                "short_name": "West Indies",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750831711622-66934350.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760340483711-195671458.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f8d8c3f77cf099f802bdae",
             "name": "Seven District VS Altrad",
             "category_name": "Cricket",

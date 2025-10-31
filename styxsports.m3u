@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68ecaa054e4aa6d729f67518" tvg-name="Bangladesh VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760340483711-195671458.webp" group-title="Live",Bangladesh VS West Indies
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
-
 #EXTINF:-1 tvg-id="68f8d8c3f77cf099f802bdae" tvg-name="Seven District VS Altrad" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138881179-470473214.webp" group-title="Live",Seven District VS Altrad
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
