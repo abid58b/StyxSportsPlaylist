@@ -31,34 +31,6 @@
             "score_match_id": 93864
         },
         {
-            "id": "68e118fac167956f9cb7ba2f",
-            "name": "Indatwa Hampshire CC VS Sorwathe CC",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-01",
-            "start_date_time": "2025-11-01T07:45:00.000Z",
-            "team_a": {
-                "id": "68e0c5c5c167956f9cb7ba21",
-                "name": "Indatwa Hampshire CC",
-                "short_name": "Indatwa Hampshire CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561153545-914719314.webp"
-            },
-            "team_b": {
-                "id": "68e1172c07d2ecfd0c1593bd",
-                "name": "Sorwathe CC",
-                "short_name": "Sorwathe CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759581992639-779787879.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759582452537-944222612.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e119229f5a848ba39f3372",
             "name": "Muhanga Zebras VS White clouds",
             "category_name": "Cricket",
