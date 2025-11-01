@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "6905bde49195d469b55aace1",
-            "name": "Karwan VS Altrad",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "Plate Semifinal - 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-01",
-            "start_date_time": "2025-11-01T17:00:00.000Z",
-            "team_a": {
-                "id": "6799f9294ba256cf3abcdab5",
-                "name": "Karwan",
-                "short_name": "Karwan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327348352-137567970.png"
-            },
-            "team_b": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761983969730-834382681.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
