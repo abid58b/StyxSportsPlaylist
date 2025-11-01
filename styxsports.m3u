@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="690339ed68a0df175fa05f4a" tvg-name="Nepal VS United States of America" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761819113688-421118050.webp" group-title="Live",Nepal VS United States of America
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
-
 #EXTINF:-1 tvg-id="68e119229f5a848ba39f3372" tvg-name="Muhanga Zebras VS White clouds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759582496777-283796072.webp" group-title="Live",Muhanga Zebras VS White clouds
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8

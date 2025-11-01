@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "690339ed68a0df175fa05f4a",
-            "name": "Nepal VS United States of America",
-            "category_name": "Cricket",
-            "tour_id": "6902f8d00f2e708c575bcb72",
-            "tour_name": "ICC CWC LEAGUE 2",
-            "match_no": "89",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-01",
-            "start_date_time": "2025-11-01T05:00:00.000Z",
-            "team_a": {
-                "id": "66e042052bfab92771e8e442",
-                "name": "Nepal",
-                "short_name": "Nepal",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1752328116639-31364095.webp"
-            },
-            "team_b": {
-                "id": "6903395ea62b55864def6e96",
-                "name": "United States of America",
-                "short_name": "United States of America",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761818971021-375705851.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761819113688-421118050.webp",
-            "venue": "ICC Academy ,Dubai",
-            "score_match_id": 93864
-        },
-        {
             "id": "68e119229f5a848ba39f3372",
             "name": "Muhanga Zebras VS White clouds",
             "category_name": "Cricket",
