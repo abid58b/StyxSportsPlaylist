@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e119229f5a848ba39f3372",
-            "name": "Muhanga Zebras VS White clouds",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-01",
-            "start_date_time": "2025-11-01T11:30:00.000Z",
-            "team_a": {
-                "id": "68e1174ac167956f9cb7ba2e",
-                "name": "Muhanga Zebras",
-                "short_name": "Muhanga Zebras",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582023872-571211869.webp"
-            },
-            "team_b": {
-                "id": "68e1176507d2ecfd0c1593be",
-                "name": "White clouds",
-                "short_name": "White clouds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582051317-414400808.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759582496777-283796072.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6905bde49195d469b55aace1",
             "name": "Karwan VS Altrad",
             "category_name": "Cricket",
