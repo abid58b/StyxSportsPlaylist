@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="690339ed68a0df175fa05f4a" tvg-name="Nepal VS United States of America" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761819113688-421118050.webp" group-title="Live",Nepal VS United States of America
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
+
+#EXTINF:-1 tvg-id="68e118c507d2ecfd0c1593bf" tvg-name="Gahanga Queens CC VS Muhanga Zebras" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759582401019-883692954.webp" group-title="Live",Gahanga Queens CC VS Muhanga Zebras
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="68e118fac167956f9cb7ba2f" tvg-name="Indatwa Hampshire CC VS Sorwathe CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759582452537-944222612.webp" group-title="Live",Indatwa Hampshire CC VS Sorwathe CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
