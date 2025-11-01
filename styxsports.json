@@ -87,34 +87,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6905bd90654186068ac41380",
-            "name": "Lexington Shotguns VS Volcano Sports Academy",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "Plate Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-01",
-            "start_date_time": "2025-11-01T12:30:00.000Z",
-            "team_a": {
-                "id": "6799f91091e311a90ee8d805",
-                "name": "Lexington Shotguns",
-                "short_name": "Lexington Shotguns",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377139933-298539105.webp"
-            },
-            "team_b": {
-                "id": "6799f8c3a694d3873e44920d",
-                "name": "Volcano Sports Academy",
-                "short_name": "Volcano Sports Academy",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377163942-925175607.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761983881207-482548064.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6905bde49195d469b55aace1",
             "name": "Karwan VS Altrad",
             "category_name": "Cricket",
