@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68c030ccfa47c38f5e0be5dc" tvg-name="Tamil Lions CC VS Challengers CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425866038-884377575.webp" group-title="Live",Tamil Lions CC VS Challengers CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
-
 #EXTINF:-1 tvg-id="6905be26a62b55864def6e9f" tvg-name="ALS Superstars VS Consolidated Shipping Group" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761984035552-364730035.webp" group-title="Live",ALS Superstars VS Consolidated Shipping Group
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8

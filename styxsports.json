@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68c030ccfa47c38f5e0be5dc",
-            "name": "Tamil Lions CC VS Challengers CC",
-            "category_name": "Cricket",
-            "tour_id": "68c02d5d39d6e519355af0b5",
-            "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T11:15:00.000Z",
-            "team_a": {
-                "id": "68c02c7039d6e519355af0b3",
-                "name": "Tamil Lions CC",
-                "short_name": "Tamil Lions CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
-            },
-            "team_b": {
-                "id": "68c02c8efa47c38f5e0be5da",
-                "name": "Challengers CC",
-                "short_name": "Challengers cc",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424780028-858846950.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757425866038-884377575.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6905be26a62b55864def6e9f",
             "name": "ALS Superstars VS Consolidated Shipping Group",
             "category_name": "Cricket",
@@ -115,32 +87,32 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa2d954e4aa6d729f67558",
-            "name": "Canterbury Kings VS Auckland Aces",
+            "id": "68fa2ba2f77cf099f802bdc4",
+            "name": "Otago Volts VS Central Stags",
             "category_name": "Cricket",
             "tour_id": "68fa0485f77cf099f802bdbb",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "9",
+            "match_no": "7",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-02",
             "start_date_time": "2025-11-02T21:00:00.000Z",
             "team_a": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
             },
             "team_b": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 92656
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297909866-855642921.webp",
+            "venue": "Hagley Oval ,Christchurch",
+            "score_match_id": 92654
         },
         {
             "id": "68fa2bd04e4aa6d729f67557",
@@ -171,32 +143,32 @@
             "score_match_id": 92655
         },
         {
-            "id": "68fa2ba2f77cf099f802bdc4",
-            "name": "Otago Volts VS Central Stags",
+            "id": "68fa2d954e4aa6d729f67558",
+            "name": "Canterbury Kings VS Auckland Aces",
             "category_name": "Cricket",
             "tour_id": "68fa0485f77cf099f802bdbb",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "7",
+            "match_no": "9",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-02",
             "start_date_time": "2025-11-02T21:00:00.000Z",
             "team_a": {
-                "id": "68fa03b94e4aa6d729f67553",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
             },
             "team_b": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297909866-855642921.webp",
-            "venue": "Hagley Oval ,Christchurch",
-            "score_match_id": 92654
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 92656
         },
         {
             "id": "68c035c039d6e519355af0ba",
