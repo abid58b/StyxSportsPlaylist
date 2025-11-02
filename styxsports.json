@@ -1,5 +1,342 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "6905bd90654186068ac41380",
+            "name": "Lexington Shotguns VS Volcano Sports Academy",
+            "category_name": "Cricket",
+            "tour_id": "68f646e4e4b44a5c727eb808",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
+            "match_no": "Plate Semifinal - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T04:00:00.000Z",
+            "team_a": {
+                "id": "6799f91091e311a90ee8d805",
+                "name": "Lexington Shotguns",
+                "short_name": "Lexington Shotguns",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377139933-298539105.webp"
+            },
+            "team_b": {
+                "id": "6799f8c3a694d3873e44920d",
+                "name": "Volcano Sports Academy",
+                "short_name": "Volcano Sports Academy",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377163942-925175607.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761983881207-482548064.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68c030345eff1aae0fc91e98",
+            "name": "Tamil Lions CC VS Spartans CC",
+            "category_name": "Cricket",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T07:00:00.000Z",
+            "team_a": {
+                "id": "68c02c7039d6e519355af0b3",
+                "name": "Tamil Lions CC",
+                "short_name": "Tamil Lions CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
+            },
+            "team_b": {
+                "id": "68c02ce45eff1aae0fc91e94",
+                "name": "Spartans CC",
+                "short_name": "Spartans CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424867488-870474504.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757425713861-487499130.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68c030645eff1aae0fc91e99",
+            "name": "Right Guards CC VS IPRC Kigali",
+            "category_name": "Cricket",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T07:15:00.000Z",
+            "team_a": {
+                "id": "68c02ccea7d03209baad134e",
+                "name": "Right Guards CC",
+                "short_name": "Right Guards CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424843629-823375931.webp"
+            },
+            "team_b": {
+                "id": "68c02c48fa47c38f5e0be5d9",
+                "name": "IPRC Kigali",
+                "short_name": "IPRC kigali",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424707480-219253107.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757425762562-43341773.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68c0309a39d6e519355af0b7",
+            "name": "Spartans CC VS Indorwa CC",
+            "category_name": "Cricket",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T11:00:00.000Z",
+            "team_a": {
+                "id": "68c02ce45eff1aae0fc91e94",
+                "name": "Spartans CC",
+                "short_name": "Spartans CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424867488-870474504.webp"
+            },
+            "team_b": {
+                "id": "68c02cb239d6e519355af0b4",
+                "name": "Indorwa CC",
+                "short_name": "Indorwa CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424810532-358473515.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757425801100-774736885.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68c030ccfa47c38f5e0be5dc",
+            "name": "Tamil Lions CC VS Challengers CC",
+            "category_name": "Cricket",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T11:15:00.000Z",
+            "team_a": {
+                "id": "68c02c7039d6e519355af0b3",
+                "name": "Tamil Lions CC",
+                "short_name": "Tamil Lions CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
+            },
+            "team_b": {
+                "id": "68c02c8efa47c38f5e0be5da",
+                "name": "Challengers CC",
+                "short_name": "Challengers cc",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424780028-858846950.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757425866038-884377575.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6905be26a62b55864def6e9f",
+            "name": "ALS Superstars VS Consolidated Shipping Group",
+            "category_name": "Cricket",
+            "tour_id": "68f646e4e4b44a5c727eb808",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
+            "match_no": "Cup Semifinal - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T13:00:00.000Z",
+            "team_a": {
+                "id": "6799f9d54ba256cf3abcdab7",
+                "name": "ALS Superstars",
+                "short_name": "ALS Superstars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377019573-443092511.webp"
+            },
+            "team_b": {
+                "id": "6799f9574ba256cf3abcdab6",
+                "name": "Consolidated Shipping Group",
+                "short_name": "CSS",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327371233-756583940.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761984035552-364730035.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68da8db350dd3d4150aa55c8",
+            "name": "Hayleys-A VS CDB-A",
+            "category_name": "Cricket",
+            "tour_id": "68da8b2b50dd3d4150aa55c3",
+            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T13:30:00.000Z",
+            "team_a": {
+                "id": "675fc5b6da878853e3c01c78",
+                "name": "Hayleys-A",
+                "short_name": "Hayleys-A",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
+            },
+            "team_b": {
+                "id": "675fc5e532a1502da349e92a",
+                "name": "CDB-A",
+                "short_name": "CDB-A",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761728158500-230836260.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6905be82654186068ac41381",
+            "name": "Seven District VS Abu Dhabi Smashers",
+            "category_name": "Cricket",
+            "tour_id": "68f646e4e4b44a5c727eb808",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
+            "match_no": "Cup Semifinal - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T17:30:00.000Z",
+            "team_a": {
+                "id": "6799f8e091e311a90ee8d804",
+                "name": "Seven District",
+                "short_name": "Seven District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1738327393239-118014157.png"
+            },
+            "team_b": {
+                "id": "6799fa0191e311a90ee8d807",
+                "name": "Abu Dhabi Smashers",
+                "short_name": "Abu Dhabi Smashers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377490794-862858626.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761984126595-4688660.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2bd04e4aa6d729f67557",
+            "name": "Northern District VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2ba2f77cf099f802bdc4",
+            "name": "Otago Volts VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+            },
+            "team_b": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297909866-855642921.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2d954e4aa6d729f67558",
+            "name": "Canterbury Kings VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68c035c039d6e519355af0ba",
+            "name": "New South Wales VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68bfc308fa47c38f5e0be5d5",
+            "tour_name": "Australia One Day Cup 2025-26",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427128538-8334608.webp",
+            "venue": "Cricket Central ,Sydney",
+            "score_match_id": 92835
+        }
+    ]
 }
