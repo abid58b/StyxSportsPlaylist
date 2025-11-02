@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68da8db350dd3d4150aa55c8" tvg-name="Hayleys-A VS CDB-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761728158500-230836260.webp" group-title="Live",Hayleys-A VS CDB-A
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
 #EXTINF:-1 tvg-id="6905be82654186068ac41381" tvg-name="Seven District VS Abu Dhabi Smashers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761984126595-4688660.webp" group-title="Live",Seven District VS Abu Dhabi Smashers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8

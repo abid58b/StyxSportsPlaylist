@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68da8db350dd3d4150aa55c8",
-            "name": "Hayleys-A VS CDB-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8b2b50dd3d4150aa55c3",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T13:30:00.000Z",
-            "team_a": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "team_b": {
-                "id": "675fc5e532a1502da349e92a",
-                "name": "CDB-A",
-                "short_name": "CDB-A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761728158500-230836260.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6905be82654186068ac41381",
             "name": "Seven District VS Abu Dhabi Smashers",
             "category_name": "Cricket",
@@ -59,32 +31,32 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa2bd04e4aa6d729f67557",
-            "name": "Northern District VS Wellington Firebirds",
+            "id": "68fa2ba2f77cf099f802bdc4",
+            "name": "Otago Volts VS Central Stags",
             "category_name": "Cricket",
             "tour_id": "68fa0485f77cf099f802bdbb",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "8",
+            "match_no": "7",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-02",
             "start_date_time": "2025-11-02T21:00:00.000Z",
             "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
             },
             "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp",
-            "venue": "Seddon Park ,Hamilton",
-            "score_match_id": 92655
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297909866-855642921.webp",
+            "venue": "Hagley Oval ,Christchurch",
+            "score_match_id": 92654
         },
         {
             "id": "68fa2d954e4aa6d729f67558",
@@ -115,32 +87,32 @@
             "score_match_id": 92656
         },
         {
-            "id": "68fa2ba2f77cf099f802bdc4",
-            "name": "Otago Volts VS Central Stags",
+            "id": "68fa2bd04e4aa6d729f67557",
+            "name": "Northern District VS Wellington Firebirds",
             "category_name": "Cricket",
             "tour_id": "68fa0485f77cf099f802bdbb",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "7",
+            "match_no": "8",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-02",
             "start_date_time": "2025-11-02T21:00:00.000Z",
             "team_a": {
-                "id": "68fa03b94e4aa6d729f67553",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
             },
             "team_b": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297909866-855642921.webp",
-            "venue": "Hagley Oval ,Christchurch",
-            "score_match_id": 92654
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp",
+            "venue": "Seddon Park ,Hamilton",
+            "score_match_id": 92655
         },
         {
             "id": "68c035c039d6e519355af0ba",
