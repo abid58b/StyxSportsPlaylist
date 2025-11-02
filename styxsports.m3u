@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68c0309a39d6e519355af0b7" tvg-name="Spartans CC VS Indorwa CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425801100-774736885.webp" group-title="Live",Spartans CC VS Indorwa CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="68c030ccfa47c38f5e0be5dc" tvg-name="Tamil Lions CC VS Challengers CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425866038-884377575.webp" group-title="Live",Tamil Lions CC VS Challengers CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
