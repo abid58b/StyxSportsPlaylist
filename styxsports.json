@@ -227,34 +227,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa2bd04e4aa6d729f67557",
-            "name": "Northern District VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fa2ba2f77cf099f802bdc4",
             "name": "Otago Volts VS Central Stags",
             "category_name": "Cricket",
@@ -307,6 +279,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2bd04e4aa6d729f67557",
+            "name": "Northern District VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp",
             "venue": "",
             "score_match_id": 0
         },
