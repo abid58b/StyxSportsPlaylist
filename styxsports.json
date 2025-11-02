@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6905bd90654186068ac41380",
-            "name": "Lexington Shotguns VS Volcano Sports Academy",
-            "category_name": "Cricket",
-            "tour_id": "68f646e4e4b44a5c727eb808",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "Plate Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T04:00:00.000Z",
-            "team_a": {
-                "id": "6799f91091e311a90ee8d805",
-                "name": "Lexington Shotguns",
-                "short_name": "Lexington Shotguns",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377139933-298539105.webp"
-            },
-            "team_b": {
-                "id": "6799f8c3a694d3873e44920d",
-                "name": "Volcano Sports Academy",
-                "short_name": "Volcano Sports Academy",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758377163942-925175607.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761983881207-482548064.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68c030345eff1aae0fc91e98",
             "name": "Tamil Lions CC VS Spartans CC",
             "category_name": "Cricket",
@@ -255,34 +227,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa2d954e4aa6d729f67558",
-            "name": "Canterbury Kings VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "team_b": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fa2bd04e4aa6d729f67557",
             "name": "Northern District VS Wellington Firebirds",
             "category_name": "Cricket",
@@ -307,6 +251,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2d954e4aa6d729f67558",
+            "name": "Canterbury Kings VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-02",
+            "start_date_time": "2025-11-02T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp",
             "venue": "",
             "score_match_id": 0
         },
