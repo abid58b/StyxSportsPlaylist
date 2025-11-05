@@ -57,34 +57,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761819227081-483414941.webp",
             "venue": "ICC Academy ,Dubai",
             "score_match_id": 93866
-        },
-        {
-            "id": "6909c6f630593570d7fde307",
-            "name": "DCA Aligarh VS Varanasi CA",
-            "category_name": "Cricket",
-            "tour_id": "6909c516654186068ac413a1",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-05",
-            "start_date_time": "2025-11-05T06:30:00.000Z",
-            "team_a": {
-                "id": "6909c3f930593570d7fde305",
-                "name": "DCA Aligarh",
-                "short_name": "DCA Aligarh",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247670307-253827066.webp"
-            },
-            "team_b": {
-                "id": "6909c423654186068ac413a0",
-                "name": "Varanasi CA",
-                "short_name": "Varanasi",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247711470-768608994.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762248435758-245247935.webp",
-            "venue": "",
-            "score_match_id": 0
         }
     ]
 }
