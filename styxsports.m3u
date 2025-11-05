@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f24ba5e4b44a5c727eb7d3" tvg-name="Yokohama TWS VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760709539229-323987025.webp" group-title="Live",Yokohama TWS VS REVOCARE SOLUTION
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
 #EXTINF:-1 tvg-id="68f62fa8e4b44a5c727eb803" tvg-name="Peoples Leasing VS CEYLINCO INSURANCE" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964500100-341480295.webp" group-title="Live",Peoples Leasing VS CEYLINCO INSURANCE
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
