@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6909c6b49195d469b55aacf0",
-            "name": "DCA Behraich VS Lucknow CA",
-            "category_name": "Cricket",
-            "tour_id": "6909c516654186068ac413a1",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-05",
-            "start_date_time": "2025-11-05T02:30:00.000Z",
-            "team_a": {
-                "id": "6909c3ce654186068ac4139f",
-                "name": "DCA Behraich",
-                "short_name": "DCA Behraich",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247618661-515055595.webp"
-            },
-            "team_b": {
-                "id": "68de4d9dc167956f9cb7b9eb",
-                "name": "Lucknow CA",
-                "short_name": "Lucknow CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762248367829-266349307.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f24ba5e4b44a5c727eb7d3",
             "name": "Yokohama TWS VS REVOCARE SOLUTION",
             "category_name": "Cricket",
