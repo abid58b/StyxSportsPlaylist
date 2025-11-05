@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f62fa8e4b44a5c727eb803" tvg-name="Peoples Leasing VS CEYLINCO INSURANCE" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964500100-341480295.webp" group-title="Live",Peoples Leasing VS CEYLINCO INSURANCE
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
-
 #EXTINF:-1 tvg-id="69033a5da62b55864def6e97" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761819227081-483414941.webp" group-title="Live",United Arab Emirates VS Nepal
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8

@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f62fa8e4b44a5c727eb803",
-            "name": "Peoples Leasing VS CEYLINCO INSURANCE",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-05",
-            "start_date_time": "2025-11-05T04:00:00.000Z",
-            "team_a": {
-                "id": "675302a2f55b153f164470b0",
-                "name": "Peoples Leasing",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733493407676-461372310.png"
-            },
-            "team_b": {
-                "id": "68f2243de4b44a5c727eb7cf",
-                "name": "CEYLINCO INSURANCE",
-                "short_name": "CEYLINCO INSURANCE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699451668-341181879.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964500100-341480295.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69033a5da62b55864def6e97",
             "name": "United Arab Emirates VS Nepal",
             "category_name": "Cricket",
