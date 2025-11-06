@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "690a13e1a62b55864def6eb4",
+            "name": "Indonesia VS Myanmar",
+            "category_name": "Cricket",
+            "tour_id": "6909de4b654186068ac413a6",
+            "tour_name": "Indonesia Tri-Series 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T01:00:00.000Z",
+            "team_a": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "team_b": {
+                "id": "672ff68896dbc53111087945",
+                "name": "Myanmar",
+                "short_name": "Myanmar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762268121813-347741557.webp",
+            "venue": "Udayana Cricket Ground ,Bali",
+            "score_match_id": 94350
+        },
+        {
+            "id": "6909c79a9195d469b55aacf1",
+            "name": "Lucknow CA VS Varanasi CA",
+            "category_name": "Cricket",
+            "tour_id": "6909c516654186068ac413a1",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T02:30:00.000Z",
+            "team_a": {
+                "id": "68de4d9dc167956f9cb7b9eb",
+                "name": "Lucknow CA",
+                "short_name": "Lucknow CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
+            },
+            "team_b": {
+                "id": "6909c423654186068ac413a0",
+                "name": "Varanasi CA",
+                "short_name": "Varanasi",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247711470-768608994.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762248597581-338407640.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "690a1420654186068ac413aa",
+            "name": "Indonesia VS Timor Leste",
+            "category_name": "Cricket",
+            "tour_id": "6909de4b654186068ac413a6",
+            "tour_name": "Indonesia Tri-Series 2025",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T05:30:00.000Z",
+            "team_a": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "team_b": {
+                "id": "6909ddc330593570d7fde30c",
+                "name": "Timor Leste",
+                "short_name": "Timor Leste",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254271145-977452101.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762268188051-506320312.webp",
+            "venue": "Udayana Cricket Ground ,Bali",
+            "score_match_id": 94351
+        },
+        {
+            "id": "6909c7db30593570d7fde308",
+            "name": "DCA Behraich VS DCA Aligarh",
+            "category_name": "Cricket",
+            "tour_id": "6909c516654186068ac413a1",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T06:30:00.000Z",
+            "team_a": {
+                "id": "6909c3ce654186068ac4139f",
+                "name": "DCA Behraich",
+                "short_name": "DCA Behraich",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247618661-515055595.webp"
+            },
+            "team_b": {
+                "id": "6909c3f930593570d7fde305",
+                "name": "DCA Aligarh",
+                "short_name": "DCA Aligarh",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247670307-253827066.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762248663085-575497753.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "690b4c709195d469b55aacfb",
+            "name": "BANGLADESH VS HONG KONG, CHINA",
+            "category_name": "Cricket",
+            "tour_id": "6906073330593570d7fde2e9",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T23:45:00.000Z",
+            "team_a": {
+                "id": "6905a502654186068ac4137c",
+                "name": "BANGLADESH",
+                "short_name": "BANGLADESH",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977595161-114699344.webp"
+            },
+            "team_b": {
+                "id": "6905a8a130593570d7fde2dd",
+                "name": "HONG KONG, CHINA",
+                "short_name": "HONG KONG, CHINA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761978525543-161735287.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762348140308-627082288.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
