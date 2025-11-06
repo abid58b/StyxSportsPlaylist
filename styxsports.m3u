@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="690a13e1a62b55864def6eb4" tvg-name="Indonesia VS Myanmar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268121813-347741557.webp" group-title="Live",Indonesia VS Myanmar
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
-#EXTINF:-1 tvg-id="6909c79a9195d469b55aacf1" tvg-name="Lucknow CA VS Varanasi CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248597581-338407640.webp" group-title="Live",Lucknow CA VS Varanasi CA
+#EXTINF:-1 tvg-id="6909c7db30593570d7fde308" tvg-name="DCA Behraich VS DCA Aligarh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248663085-575497753.webp" group-title="Live",DCA Behraich VS DCA Aligarh
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
