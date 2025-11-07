@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 
-#EXTINF:-1 tvg-id="690b4f2d9195d469b55aacfc" tvg-name="SRI LANKA VS BANGLADESH" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762348841351-777636789.webp" group-title="Live",SRI LANKA VS BANGLADESH
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
 #EXTINF:-1 tvg-id="6909c86830593570d7fde309" tvg-name="Lucknow CA VS DCA Aligarh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248805626-409445510.webp" group-title="Live",Lucknow CA VS DCA Aligarh
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8

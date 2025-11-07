@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "690b4f2d9195d469b55aacfc",
-            "name": "SRI LANKA VS BANGLADESH",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T06:40:00.000Z",
-            "team_a": {
-                "id": "6905a48b654186068ac4137a",
-                "name": "SRI LANKA",
-                "short_name": "SRI LANKA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977477290-970478238.webp"
-            },
-            "team_b": {
-                "id": "6905a502654186068ac4137c",
-                "name": "BANGLADESH",
-                "short_name": "BANGLADESH",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977595161-114699344.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762348841351-777636789.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94385
-        },
-        {
             "id": "6909c86830593570d7fde309",
             "name": "Lucknow CA VS DCA Aligarh",
             "category_name": "Cricket",
