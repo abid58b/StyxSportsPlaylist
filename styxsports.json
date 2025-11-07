@@ -59,62 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "690b4ef130593570d7fde31d",
-            "name": "SOUTH AFRICA VS AFGHANISTAN",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T05:35:00.000Z",
-            "team_a": {
-                "id": "6905a467654186068ac41379",
-                "name": "SOUTH AFRICA",
-                "short_name": "SOUTH AFRICA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977443164-511048118.webp"
-            },
-            "team_b": {
-                "id": "6905a4cf654186068ac4137b",
-                "name": "AFGHANISTAN",
-                "short_name": "AFGHANISTAN",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977543690-189736043.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762348780257-625980649.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94384
-        },
-        {
-            "id": "6909c86830593570d7fde309",
-            "name": "Lucknow CA VS DCA Aligarh",
-            "category_name": "Cricket",
-            "tour_id": "6909c516654186068ac413a1",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T06:30:00.000Z",
-            "team_a": {
-                "id": "68de4d9dc167956f9cb7b9eb",
-                "name": "Lucknow CA",
-                "short_name": "Lucknow CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
-            },
-            "team_b": {
-                "id": "6909c3f930593570d7fde305",
-                "name": "DCA Aligarh",
-                "short_name": "DCA Aligarh",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247670307-253827066.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762248805626-409445510.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "690b4f2d9195d469b55aacfc",
             "name": "SRI LANKA VS BANGLADESH",
             "category_name": "Cricket",
@@ -141,6 +85,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762348841351-777636789.webp",
             "venue": "Mission Road Ground ,Mong Kok",
             "score_match_id": 94385
+        },
+        {
+            "id": "6909c86830593570d7fde309",
+            "name": "Lucknow CA VS DCA Aligarh",
+            "category_name": "Cricket",
+            "tour_id": "6909c516654186068ac413a1",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-07",
+            "start_date_time": "2025-11-07T06:50:00.000Z",
+            "team_a": {
+                "id": "68de4d9dc167956f9cb7b9eb",
+                "name": "Lucknow CA",
+                "short_name": "Lucknow CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
+            },
+            "team_b": {
+                "id": "6909c3f930593570d7fde305",
+                "name": "DCA Aligarh",
+                "short_name": "DCA Aligarh",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247670307-253827066.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762248805626-409445510.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
             "id": "68bedcb439d6e519355af0a2",
