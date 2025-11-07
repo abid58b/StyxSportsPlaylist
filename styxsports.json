@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "690ddb4164807074cdc8ee4f",
-            "name": "Imanzi Guardians VS Ingenzi Defenders",
-            "category_name": "Cricket",
-            "tour_id": "68be82cbfa47c38f5e0be5ca",
-            "tour_name": "Elite Men's League 2025",
-            "match_no": "3rd Place",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T12:00:00.000Z",
-            "team_a": {
-                "id": "67245d82e7faeec8a7f52508",
-                "name": "Imanzi Guardians",
-                "short_name": "Imanzi Guardians",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315001259-57229123.webp"
-            },
-            "team_b": {
-                "id": "67245db9e7faeec8a7f52509",
-                "name": "Ingenzi Defenders",
-                "short_name": "Ingenzi Defenders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757315047817-468154960.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762515773373-563170778.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fa2e0ce4b44a5c727eb81d",
             "name": "Northern District VS Canterbury Kings",
             "category_name": "Cricket",
