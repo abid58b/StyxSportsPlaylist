@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68fa2dca4e4aa6d729f67559" tvg-name="Wellington Firebirds VS Otago Volts" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297970188-160990735.webp" group-title="Live",Wellington Firebirds VS Otago Volts
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+
+#EXTINF:-1 tvg-id="68fa2e0ce4b44a5c727eb81d" tvg-name="Northern District VS Canterbury Kings" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761298005384-358318843.webp" group-title="Live",Northern District VS Canterbury Kings
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
+
+#EXTINF:-1 tvg-id="68fa2e4cf77cf099f802bdc5" tvg-name="Auckland Aces VS Central Stags" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761298113952-283957178.webp" group-title="Live",Auckland Aces VS Central Stags
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
