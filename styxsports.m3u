@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68bedcb439d6e519355af0a2" tvg-name="Imanzi Guardians VS Ingabo Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762238655714-990954630.webp" group-title="Live",Imanzi Guardians VS Ingabo Titans
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
-#EXTINF:-1 tvg-id="68bedcf5fa47c38f5e0be5d0" tvg-name="Imena Centurions VS Ingenzi Defenders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762238648228-205725604.webp" group-title="Live",Imena Centurions VS Ingenzi Defenders
+#EXTINF:-1 tvg-id="690ddb0766331c06754b8165" tvg-name="Ingabo Titans VS Imena Centurions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762515715175-777061180.webp" group-title="Live",Ingabo Titans VS Imena Centurions
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="690ddb4164807074cdc8ee4f" tvg-name="Imanzi Guardians VS Ingenzi Defenders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762515773373-563170778.webp" group-title="Live",Imanzi Guardians VS Ingenzi Defenders
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
