@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 
-#EXTINF:-1 tvg-id="6909c86830593570d7fde309" tvg-name="Lucknow CA VS DCA Aligarh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248805626-409445510.webp" group-title="Live",Lucknow CA VS DCA Aligarh
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
-
 #EXTINF:-1 tvg-id="68bedcb439d6e519355af0a2" tvg-name="Imanzi Guardians VS Ingabo Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762238655714-990954630.webp" group-title="Live",Imanzi Guardians VS Ingabo Titans
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
