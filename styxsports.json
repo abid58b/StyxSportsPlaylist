@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "690b4dba30593570d7fde31c",
-            "name": "AFGHANISTAN VS NEPAL",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T03:00:00.000Z",
-            "team_a": {
-                "id": "6905a4cf654186068ac4137b",
-                "name": "AFGHANISTAN",
-                "short_name": "AFGHANISTAN",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977543690-189736043.webp"
-            },
-            "team_b": {
-                "id": "6905a3749195d469b55aace0",
-                "name": "NEPAL",
-                "short_name": "NEPAL",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977200786-18403669.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762348470615-450135827.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94381
-        },
-        {
             "id": "690b4df2a62b55864def6eba",
             "name": "SRI LANKA VS HONG KONG, CHINA",
             "category_name": "Cricket",

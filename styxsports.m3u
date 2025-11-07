@@ -4,7 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
-#EXTINF:-1 tvg-id="690b4dba30593570d7fde31c" tvg-name="AFGHANISTAN VS NEPAL" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762348470615-450135827.webp" group-title="Live",AFGHANISTAN VS NEPAL
+#EXTINF:-1 tvg-id="690b4df2a62b55864def6eba" tvg-name="SRI LANKA VS HONG KONG, CHINA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762348526656-281687537.webp" group-title="Live",SRI LANKA VS HONG KONG, CHINA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
+#EXTINF:-1 tvg-id="68f63009e4b44a5c727eb804" tvg-name="Power Hand Plantation VS Abans Group" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964613539-417450426.webp" group-title="Live",Power Hand Plantation VS Abans Group
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 
