@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f63009e4b44a5c727eb804" tvg-name="Power Hand Plantation VS Abans Group" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964613539-417450426.webp" group-title="Live",Power Hand Plantation VS Abans Group
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
-
 #EXTINF:-1 tvg-id="68bedcb439d6e519355af0a2" tvg-name="Imanzi Guardians VS Ingabo Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762238655714-990954630.webp" group-title="Live",Imanzi Guardians VS Ingabo Titans
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
