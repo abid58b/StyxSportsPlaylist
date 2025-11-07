@@ -31,34 +31,6 @@
             "score_match_id": 94352
         },
         {
-            "id": "690b4cd1a62b55864def6eb9",
-            "name": "ENGLAND VS UNITED ARAB EMIRATES",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T01:10:00.000Z",
-            "team_a": {
-                "id": "6905a43f654186068ac41378",
-                "name": "ENGLAND",
-                "short_name": "ENGLAND",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977404087-401432039.webp"
-            },
-            "team_b": {
-                "id": "6905a56a654186068ac4137e",
-                "name": "UNITED ARAB EMIRATES",
-                "short_name": "UNITED ARAB EMIRATES",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977703397-226417687.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762348237418-814928003.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94379
-        },
-        {
             "id": "690b4d7e30593570d7fde31b",
             "name": "PAKISTAN VS KUWAIT",
             "category_name": "Cricket",
@@ -423,34 +395,6 @@
             "score_match_id": 94387
         },
         {
-            "id": "68fa2e0ce4b44a5c727eb81d",
-            "name": "Northern District VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298005384-358318843.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fa2dca4e4aa6d729f67559",
             "name": "Wellington Firebirds VS Otago Volts",
             "category_name": "Cricket",
@@ -475,6 +419,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761297970188-160990735.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa2e0ce4b44a5c727eb81d",
+            "name": "Northern District VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-07",
+            "start_date_time": "2025-11-07T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298005384-358318843.webp",
             "venue": "",
             "score_match_id": 0
         },
