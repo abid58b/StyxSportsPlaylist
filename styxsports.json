@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "690b4df2a62b55864def6eba",
-            "name": "SRI LANKA VS HONG KONG, CHINA",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T03:55:00.000Z",
-            "team_a": {
-                "id": "6905a48b654186068ac4137a",
-                "name": "SRI LANKA",
-                "short_name": "SRI LANKA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977477290-970478238.webp"
-            },
-            "team_b": {
-                "id": "6905a8a130593570d7fde2dd",
-                "name": "HONG KONG, CHINA",
-                "short_name": "HONG KONG, CHINA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761978525543-161735287.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762348526656-281687537.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94382
-        },
-        {
             "id": "68f63009e4b44a5c727eb804",
             "name": "Power Hand Plantation VS Abans Group",
             "category_name": "Cricket",
