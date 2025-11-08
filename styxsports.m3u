@@ -16,7 +16,11 @@ https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 
-#EXTINF:-1 tvg-id="690b54339195d469b55aad00" tvg-name="NEPAL VS INDIA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762350127338-585209579.webp" group-title="Live",NEPAL VS INDIA
+#EXTINF:-1 tvg-id="6909c9b530593570d7fde30a" tvg-name="Kooh Sports VS N.E. Railway" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762249138444-720025023.webp" group-title="Live",Kooh Sports VS N.E. Railway
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
+#EXTINF:-1 tvg-id="690b549130593570d7fde321" tvg-name="UNITED ARAB EMIRATES VS SRI LANKA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762350221945-338411029.webp" group-title="Live",UNITED ARAB EMIRATES VS SRI LANKA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
 

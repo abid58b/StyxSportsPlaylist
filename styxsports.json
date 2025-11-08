@@ -115,34 +115,6 @@
             "score_match_id": 94354
         },
         {
-            "id": "690b54339195d469b55aad00",
-            "name": "NEPAL VS INDIA",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Bowl Match 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T05:45:00.000Z",
-            "team_a": {
-                "id": "6905a3749195d469b55aace0",
-                "name": "NEPAL",
-                "short_name": "NEPAL",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977200786-18403669.webp"
-            },
-            "team_b": {
-                "id": "6905a35630593570d7fde2db",
-                "name": "INDIA",
-                "short_name": "INDIA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977172290-180823645.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762350127338-585209579.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94394
-        },
-        {
             "id": "6909c9b530593570d7fde30a",
             "name": "Kooh Sports VS N.E. Railway",
             "category_name": "Cricket",
