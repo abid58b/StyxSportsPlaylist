@@ -60,7 +60,7 @@
         },
         {
             "id": "690b5562a62b55864def6ebb",
-            "name": "TBC VS TBC",
+            "name": "NEPAL VS UNITED ARAB EMIRATES",
             "category_name": "Cricket",
             "tour_id": "6906073330593570d7fde2e9",
             "tour_name": "Hong Kong Sixes 2025",
@@ -71,16 +71,16 @@
             "start_date": "2025-11-08",
             "start_date_time": "2025-11-08T23:45:00.000Z",
             "team_a": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a3749195d469b55aace0",
+                "name": "NEPAL",
+                "short_name": "NEPAL",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977200786-18403669.webp"
             },
             "team_b": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a56a654186068ac4137e",
+                "name": "UNITED ARAB EMIRATES",
+                "short_name": "UNITED ARAB EMIRATES",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977703397-226417687.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762350431945-270257399.webp",
             "venue": "Mission Road Ground ,Mong Kok",
