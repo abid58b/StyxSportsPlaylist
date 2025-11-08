@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e11a10c167956f9cb7ba31",
-            "name": "Charity CC VS Muhanga Zebras",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T11:30:00.000Z",
-            "team_a": {
-                "id": "68e0c5a807d2ecfd0c1593b8",
-                "name": "Charity CC",
-                "short_name": "Charity CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561122107-342324740.webp"
-            },
-            "team_b": {
-                "id": "68e1174ac167956f9cb7ba2e",
-                "name": "Muhanga Zebras",
-                "short_name": "Muhanga Zebras",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582023872-571211869.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759582734764-285486971.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68e11a3f458c1b0c74d2602b",
-            "name": "White clouds VS Indatwa Hampshire CC",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T11:45:00.000Z",
-            "team_a": {
-                "id": "68e1176507d2ecfd0c1593be",
-                "name": "White clouds",
-                "short_name": "White clouds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582051317-414400808.webp"
-            },
-            "team_b": {
-                "id": "68e0c5c5c167956f9cb7ba21",
-                "name": "Indatwa Hampshire CC",
-                "short_name": "Indatwa Hampshire CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561153545-914719314.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759582780922-589551968.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "690b5562a62b55864def6ebb",
             "name": "NEPAL VS UNITED ARAB EMIRATES",
             "category_name": "Cricket",
