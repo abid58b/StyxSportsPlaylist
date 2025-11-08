@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68e119b29f5a848ba39f3373",
-            "name": "Sorwathe CC VS Gahanga Queens CC",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T07:15:00.000Z",
-            "team_a": {
-                "id": "68e1172c07d2ecfd0c1593bd",
-                "name": "Sorwathe CC",
-                "short_name": "Sorwathe CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759581992639-779787879.webp"
-            },
-            "team_b": {
-                "id": "68e0c5f8c167956f9cb7ba22",
-                "name": "Gahanga Queens CC",
-                "short_name": "Gahanga Queens CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561188941-983898353.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759582637135-548977777.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68e11a10c167956f9cb7ba31",
             "name": "Charity CC VS Muhanga Zebras",
             "category_name": "Cricket",
