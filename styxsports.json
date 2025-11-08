@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f630aef77cf099f802bd91",
-            "name": "Seylan Bank VS DIALOG AXIATA",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "19",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T04:00:00.000Z",
-            "team_a": {
-                "id": "6753030a1c235da73ace8a6f",
-                "name": "Seylan Bank",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698852118-578641981.webp"
-            },
-            "team_b": {
-                "id": "68f2225be4b44a5c727eb7cc",
-                "name": "DIALOG AXIATA",
-                "short_name": "DIALOG AXIATA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698966708-627453057.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964778274-553591814.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f6304ae4b44a5c727eb805",
             "name": "George Stuwart Health VS REVOCARE SOLUTION",
             "category_name": "Cricket",
@@ -59,32 +31,32 @@
             "score_match_id": 0
         },
         {
-            "id": "690a15439195d469b55aacf6",
-            "name": "Myanmar VS Indonesia",
+            "id": "68f630aef77cf099f802bd91",
+            "name": "Seylan Bank VS DIALOG AXIATA",
             "category_name": "Cricket",
-            "tour_id": "6909de4b654186068ac413a6",
-            "tour_name": "Indonesia Tri-Series 2025",
-            "match_no": "5",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "19",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T05:30:00.000Z",
+            "start_date_time": "2025-11-08T04:00:00.000Z",
             "team_a": {
-                "id": "672ff68896dbc53111087945",
-                "name": "Myanmar",
-                "short_name": "Myanmar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
+                "id": "6753030a1c235da73ace8a6f",
+                "name": "Seylan Bank",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698852118-578641981.webp"
             },
             "team_b": {
-                "id": "672ff6bb96dbc53111087946",
-                "name": "Indonesia",
-                "short_name": "Indonesia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+                "id": "68f2225be4b44a5c727eb7cc",
+                "name": "DIALOG AXIATA",
+                "short_name": "DIALOG AXIATA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698966708-627453057.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762268480072-1041633.webp",
-            "venue": "Udayana Cricket Ground ,Bali",
-            "score_match_id": 94354
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964778274-553591814.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
             "id": "68e1197e07d2ecfd0c1593c0",
