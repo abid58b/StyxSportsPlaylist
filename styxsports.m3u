@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f6304ae4b44a5c727eb805" tvg-name="George Stuwart Health VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964677770-200670488.webp" group-title="Live",George Stuwart Health VS REVOCARE SOLUTION
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
 #EXTINF:-1 tvg-id="68f630aef77cf099f802bd91" tvg-name="Seylan Bank VS DIALOG AXIATA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964778274-553591814.webp" group-title="Live",Seylan Bank VS DIALOG AXIATA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
+
+#EXTINF:-1 tvg-id="68f6304ae4b44a5c727eb805" tvg-name="George Stuwart Health VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964677770-200670488.webp" group-title="Live",George Stuwart Health VS REVOCARE SOLUTION
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
 #EXTINF:-1 tvg-id="690a15439195d469b55aacf6" tvg-name="Myanmar VS Indonesia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268480072-1041633.webp" group-title="Live",Myanmar VS Indonesia
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
@@ -24,7 +24,7 @@ https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
-#EXTINF:-1 tvg-id="690b54dc654186068ac413b9" tvg-name="HONG KONG, CHINA VS ENGLAND" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762350296566-622028591.webp" group-title="Live",HONG KONG, CHINA VS ENGLAND
+#EXTINF:-1 tvg-id="690b55189195d469b55aad01" tvg-name="KUWAIT VS AFGHANISTAN" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762350356894-258331032.webp" group-title="Live",KUWAIT VS AFGHANISTAN
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
 
