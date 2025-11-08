@@ -31,62 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "690b529630593570d7fde31f",
-            "name": "AUSTRALIA VS BANGLADESH",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Quarterfinal 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T03:55:00.000Z",
-            "team_a": {
-                "id": "6905a3ea654186068ac41377",
-                "name": "AUSTRALIA",
-                "short_name": "AUSTRALIA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977321204-399033015.webp"
-            },
-            "team_b": {
-                "id": "6905a502654186068ac4137c",
-                "name": "BANGLADESH",
-                "short_name": "BANGLADESH",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977595161-114699344.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762349712890-890991331.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94392
-        },
-        {
-            "id": "68f630aef77cf099f802bd91",
-            "name": "Seylan Bank VS DIALOG AXIATA",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "19",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T04:00:00.000Z",
-            "team_a": {
-                "id": "6753030a1c235da73ace8a6f",
-                "name": "Seylan Bank",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698852118-578641981.webp"
-            },
-            "team_b": {
-                "id": "68f2225be4b44a5c727eb7cc",
-                "name": "DIALOG AXIATA",
-                "short_name": "DIALOG AXIATA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698966708-627453057.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964778274-553591814.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f6304ae4b44a5c727eb805",
             "name": "George Stuwart Health VS REVOCARE SOLUTION",
             "category_name": "Cricket",
@@ -115,32 +59,32 @@
             "score_match_id": 0
         },
         {
-            "id": "690b52ea30593570d7fde320",
-            "name": "TBC VS TBC",
+            "id": "68f630aef77cf099f802bd91",
+            "name": "Seylan Bank VS DIALOG AXIATA",
             "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Quarterfinal 2",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "19",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T04:50:00.000Z",
+            "start_date_time": "2025-11-08T04:00:00.000Z",
             "team_a": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6753030a1c235da73ace8a6f",
+                "name": "Seylan Bank",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698852118-578641981.webp"
             },
             "team_b": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "68f2225be4b44a5c727eb7cc",
+                "name": "DIALOG AXIATA",
+                "short_name": "DIALOG AXIATA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698966708-627453057.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762349783965-498103246.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94393
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964778274-553591814.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
             "id": "690a15439195d469b55aacf6",
@@ -172,7 +116,7 @@
         },
         {
             "id": "690b54339195d469b55aad00",
-            "name": "SOUTH AFRICA VS TBC",
+            "name": "NEPAL VS INDIA",
             "category_name": "Cricket",
             "tour_id": "6906073330593570d7fde2e9",
             "tour_name": "Hong Kong Sixes 2025",
@@ -183,16 +127,16 @@
             "start_date": "2025-11-08",
             "start_date_time": "2025-11-08T05:45:00.000Z",
             "team_a": {
-                "id": "6905a467654186068ac41379",
-                "name": "SOUTH AFRICA",
-                "short_name": "SOUTH AFRICA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977443164-511048118.webp"
+                "id": "6905a3749195d469b55aace0",
+                "name": "NEPAL",
+                "short_name": "NEPAL",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977200786-18403669.webp"
             },
             "team_b": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a35630593570d7fde2db",
+                "name": "INDIA",
+                "short_name": "INDIA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977172290-180823645.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762350127338-585209579.webp",
             "venue": "Mission Road Ground ,Mong Kok",
@@ -340,7 +284,7 @@
         },
         {
             "id": "690b55189195d469b55aad01",
-            "name": "TBC VS TBC",
+            "name": "KUWAIT VS AFGHANISTAN",
             "category_name": "Cricket",
             "tour_id": "6906073330593570d7fde2e9",
             "tour_name": "Hong Kong Sixes 2025",
@@ -351,16 +295,16 @@
             "start_date": "2025-11-08",
             "start_date_time": "2025-11-08T08:30:00.000Z",
             "team_a": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a523654186068ac4137d",
+                "name": "KUWAIT",
+                "short_name": "KUWAIT",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977630654-872724765.webp"
             },
             "team_b": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a4cf654186068ac4137b",
+                "name": "AFGHANISTAN",
+                "short_name": "AFGHANISTAN",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977543690-189736043.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762350356894-258331032.webp",
             "venue": "Mission Road Ground ,Mong Kok",
