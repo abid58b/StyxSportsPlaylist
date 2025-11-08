@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f630aef77cf099f802bd91" tvg-name="Seylan Bank VS DIALOG AXIATA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964778274-553591814.webp" group-title="Live",Seylan Bank VS DIALOG AXIATA
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
-
 #EXTINF:-1 tvg-id="68f6304ae4b44a5c727eb805" tvg-name="George Stuwart Health VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964677770-200670488.webp" group-title="Live",George Stuwart Health VS REVOCARE SOLUTION
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="68f630aef77cf099f802bd91" tvg-name="Seylan Bank VS DIALOG AXIATA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964778274-553591814.webp" group-title="Live",Seylan Bank VS DIALOG AXIATA
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 
 #EXTINF:-1 tvg-id="690a15439195d469b55aacf6" tvg-name="Myanmar VS Indonesia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268480072-1041633.webp" group-title="Live",Myanmar VS Indonesia
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
