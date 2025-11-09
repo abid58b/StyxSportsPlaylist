@@ -31,34 +31,6 @@
             "score_match_id": 94438
         },
         {
-            "id": "68f6313d5e14fc3d2e069736",
-            "name": "MELWIRE ROLLING VS Nations Trust Bank",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T04:00:00.000Z",
-            "team_a": {
-                "id": "68f222334e4aa6d729f6752b",
-                "name": "MELWIRE ROLLING",
-                "short_name": "MELWIRE ROLLING",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698927866-424884246.webp"
-            },
-            "team_b": {
-                "id": "6753026d23f1ee69536eb041",
-                "name": "Nations Trust Bank",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698882349-175169746.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964921689-489460247.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f631dbf77cf099f802bd93",
             "name": "CEYLINCO INSURANCE VS Central Finance",
             "category_name": "Cricket",
@@ -87,32 +59,32 @@
             "score_match_id": 0
         },
         {
-            "id": "690b575030593570d7fde324",
-            "name": "ENGLAND VS KUWAIT",
+            "id": "68f6313d5e14fc3d2e069736",
+            "name": "MELWIRE ROLLING VS Nations Trust Bank",
             "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Semifinal 2",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "20",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T04:50:00.000Z",
+            "start_date_time": "2025-11-09T04:00:00.000Z",
             "team_a": {
-                "id": "6905a43f654186068ac41378",
-                "name": "ENGLAND",
-                "short_name": "ENGLAND",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977404087-401432039.webp"
+                "id": "68f222334e4aa6d729f6752b",
+                "name": "MELWIRE ROLLING",
+                "short_name": "MELWIRE ROLLING",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698927866-424884246.webp"
             },
             "team_b": {
-                "id": "6905a523654186068ac4137d",
-                "name": "KUWAIT",
-                "short_name": "KUWAIT",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977630654-872724765.webp"
+                "id": "6753026d23f1ee69536eb041",
+                "name": "Nations Trust Bank",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698882349-175169746.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762350925371-51748319.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94403
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964921689-489460247.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
             "id": "690b58469195d469b55aad03",
@@ -125,7 +97,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T05:45:00.000Z",
+            "start_date_time": "2025-11-09T06:00:00.000Z",
             "team_a": {
                 "id": "6905a48b654186068ac4137a",
                 "name": "SRI LANKA",
@@ -153,7 +125,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T06:40:00.000Z",
+            "start_date_time": "2025-11-09T06:50:00.000Z",
             "team_a": {
                 "id": "6905a502654186068ac4137c",
                 "name": "BANGLADESH",
@@ -228,7 +200,7 @@
         },
         {
             "id": "690b5878654186068ac413bc",
-            "name": "TBC VS TBC",
+            "name": "PAKISTAN VS KUWAIT",
             "category_name": "Cricket",
             "tour_id": "6906073330593570d7fde2e9",
             "tour_name": "Hong Kong Sixes 2025",
@@ -237,18 +209,18 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T07:35:00.000Z",
+            "start_date_time": "2025-11-09T07:50:00.000Z",
             "team_a": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a41d30593570d7fde2dc",
+                "name": "PAKISTAN",
+                "short_name": "PAKISTAN",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977369860-975866471.webp"
             },
             "team_b": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a523654186068ac4137d",
+                "name": "KUWAIT",
+                "short_name": "KUWAIT",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977630654-872724765.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762351221102-293421194.webp",
             "venue": "Mission Road Ground ,Mong Kok",
@@ -311,34 +283,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68de808d07d2ecfd0c159396",
-            "name": "Tasmania Tigers VS South Australia",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "11 | Day - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T23:30:00.000Z",
-            "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
-            },
-            "team_b": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92855
-        },
-        {
             "id": "68de8059458c1b0c74d26011",
             "name": "New South Wales VS Victoria",
             "category_name": "Cricket",
@@ -365,6 +309,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412311508-810627646.webp",
             "venue": "Sydney Cricket Ground ,Sydney",
             "score_match_id": 92854
+        },
+        {
+            "id": "68de808d07d2ecfd0c159396",
+            "name": "Tasmania Tigers VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "11 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-09",
+            "start_date_time": "2025-11-09T23:30:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92855
         }
     ]
 }
