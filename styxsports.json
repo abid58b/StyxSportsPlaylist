@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f6313d5e14fc3d2e069736",
-            "name": "MELWIRE ROLLING VS Nations Trust Bank",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T04:00:00.000Z",
-            "team_a": {
-                "id": "68f222334e4aa6d729f6752b",
-                "name": "MELWIRE ROLLING",
-                "short_name": "MELWIRE ROLLING",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698927866-424884246.webp"
-            },
-            "team_b": {
-                "id": "6753026d23f1ee69536eb041",
-                "name": "Nations Trust Bank",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698882349-175169746.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760964921689-489460247.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68c0318c5eff1aae0fc91e9b",
-            "name": "Indorwa CC VS Challengers CC",
-            "category_name": "Cricket",
-            "tour_id": "68c02d5d39d6e519355af0b5",
-            "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T07:00:00.000Z",
-            "team_a": {
-                "id": "68c02cb239d6e519355af0b4",
-                "name": "Indorwa CC",
-                "short_name": "Indorwa CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424810532-358473515.webp"
-            },
-            "team_b": {
-                "id": "68c02c8efa47c38f5e0be5da",
-                "name": "Challengers CC",
-                "short_name": "Challengers cc",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424780028-858846950.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426058939-817413288.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68c0315439d6e519355af0b8",
             "name": "Tamil Lions CC VS Right Guards CC",
             "category_name": "Cricket",
@@ -115,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68de808d07d2ecfd0c159396",
-            "name": "Tasmania Tigers VS South Australia",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "11 | Day - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T23:30:00.000Z",
-            "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
-            },
-            "team_b": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92855
-        },
-        {
             "id": "68de8059458c1b0c74d26011",
             "name": "New South Wales VS Victoria",
             "category_name": "Cricket",
@@ -169,6 +85,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412311508-810627646.webp",
             "venue": "Sydney Cricket Ground ,Sydney",
             "score_match_id": 92854
+        },
+        {
+            "id": "68de808d07d2ecfd0c159396",
+            "name": "Tasmania Tigers VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "11 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-09",
+            "start_date_time": "2025-11-09T23:30:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92855
         }
     ]
 }
