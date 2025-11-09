@@ -144,7 +144,7 @@
         },
         {
             "id": "690b58469195d469b55aad03",
-            "name": "TBC VS TBC",
+            "name": "SRI LANKA VS UNITED ARAB EMIRATES",
             "category_name": "Cricket",
             "tour_id": "6906073330593570d7fde2e9",
             "tour_name": "Hong Kong Sixes 2025",
@@ -155,16 +155,16 @@
             "start_date": "2025-11-09",
             "start_date_time": "2025-11-09T05:45:00.000Z",
             "team_a": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a48b654186068ac4137a",
+                "name": "SRI LANKA",
+                "short_name": "SRI LANKA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977477290-970478238.webp"
             },
             "team_b": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "6905a56a654186068ac4137e",
+                "name": "UNITED ARAB EMIRATES",
+                "short_name": "UNITED ARAB EMIRATES",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977703397-226417687.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762351170201-824751943.webp",
             "venue": "Mission Road Ground ,Mong Kok",
