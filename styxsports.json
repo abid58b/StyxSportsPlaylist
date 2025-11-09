@@ -31,34 +31,6 @@
             "score_match_id": 94438
         },
         {
-            "id": "690b560130593570d7fde323",
-            "name": "BANGLADESH VS SOUTH AFRICA",
-            "category_name": "Cricket",
-            "tour_id": "6906073330593570d7fde2e9",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Plate Semifinal 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T01:10:00.000Z",
-            "team_a": {
-                "id": "6905a502654186068ac4137c",
-                "name": "BANGLADESH",
-                "short_name": "BANGLADESH",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977595161-114699344.webp"
-            },
-            "team_b": {
-                "id": "6905a467654186068ac41379",
-                "name": "SOUTH AFRICA",
-                "short_name": "SOUTH AFRICA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761977443164-511048118.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762350584429-389189185.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94399
-        },
-        {
             "id": "690b5643654186068ac413ba",
             "name": "HONG KONG, CHINA VS AFGHANISTAN",
             "category_name": "Cricket",
@@ -367,34 +339,6 @@
             "score_match_id": 94406
         },
         {
-            "id": "68c0318c5eff1aae0fc91e9b",
-            "name": "Indorwa CC VS Challengers CC",
-            "category_name": "Cricket",
-            "tour_id": "68c02d5d39d6e519355af0b5",
-            "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T11:15:00.000Z",
-            "team_a": {
-                "id": "68c02cb239d6e519355af0b4",
-                "name": "Indorwa CC",
-                "short_name": "Indorwa CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424810532-358473515.webp"
-            },
-            "team_b": {
-                "id": "68c02c8efa47c38f5e0be5da",
-                "name": "Challengers CC",
-                "short_name": "Challengers cc",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424780028-858846950.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426058939-817413288.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68c02f7a5eff1aae0fc91e95",
             "name": "IPRC Kigali VS Indorwa CC",
             "category_name": "Cricket",
@@ -419,6 +363,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424810532-358473515.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762238824152-75989781.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68c0318c5eff1aae0fc91e9b",
+            "name": "Indorwa CC VS Challengers CC",
+            "category_name": "Cricket",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-09",
+            "start_date_time": "2025-11-09T11:15:00.000Z",
+            "team_a": {
+                "id": "68c02cb239d6e519355af0b4",
+                "name": "Indorwa CC",
+                "short_name": "Indorwa CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424810532-358473515.webp"
+            },
+            "team_b": {
+                "id": "68c02c8efa47c38f5e0be5da",
+                "name": "Challengers CC",
+                "short_name": "Challengers cc",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424780028-858846950.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426058939-817413288.webp",
             "venue": "",
             "score_match_id": 0
         },

@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="690a157e9195d469b55aacf7" tvg-name="Timor Leste VS Myanmar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268535710-565593502.webp" group-title="Live",Timor Leste VS Myanmar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+
+#EXTINF:-1 tvg-id="690b5643654186068ac413ba" tvg-name="HONG KONG, CHINA VS AFGHANISTAN" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762350655712-78649763.webp" group-title="Live",HONG KONG, CHINA VS AFGHANISTAN
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
