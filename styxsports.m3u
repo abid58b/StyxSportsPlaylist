@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68de8059458c1b0c74d26011" tvg-name="New South Wales VS Victoria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412311508-810627646.webp" group-title="Live",New South Wales VS Victoria
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
+#EXTINF:-1 tvg-id="68de808d07d2ecfd0c159396" tvg-name="Tasmania Tigers VS South Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp" group-title="Live",Tasmania Tigers VS South Australia
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
