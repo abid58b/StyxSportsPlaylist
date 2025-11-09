@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="690a157e9195d469b55aacf7" tvg-name="Timor Leste VS Myanmar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268535710-565593502.webp" group-title="Live",Timor Leste VS Myanmar
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
 #EXTINF:-1 tvg-id="68f631dbf77cf099f802bd93" tvg-name="CEYLINCO INSURANCE VS Central Finance" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965816740-752434214.webp" group-title="Live",CEYLINCO INSURANCE VS Central Finance
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
@@ -12,15 +8,11 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb17475659598045
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
-#EXTINF:-1 tvg-id="68c0311f5eff1aae0fc91e9a" tvg-name="IPRC Kigali VS Spartans CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425949135-801264125.webp" group-title="Live",IPRC Kigali VS Spartans CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="68c0318c5eff1aae0fc91e9b" tvg-name="Indorwa CC VS Challengers CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757426058939-817413288.webp" group-title="Live",Indorwa CC VS Challengers CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
-#EXTINF:-1 tvg-id="690b5878654186068ac413bc" tvg-name="PAKISTAN VS KUWAIT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762351221102-293421194.webp" group-title="Live",PAKISTAN VS KUWAIT
+#EXTINF:-1 tvg-id="68c0311f5eff1aae0fc91e9a" tvg-name="IPRC Kigali VS Spartans CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425949135-801264125.webp" group-title="Live",IPRC Kigali VS Spartans CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
