@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68c0315439d6e519355af0b8",
-            "name": "Tamil Lions CC VS Right Guards CC",
-            "category_name": "Cricket",
-            "tour_id": "68c02d5d39d6e519355af0b5",
-            "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T11:00:00.000Z",
-            "team_a": {
-                "id": "68c02c7039d6e519355af0b3",
-                "name": "Tamil Lions CC",
-                "short_name": "Tamil Lions CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
-            },
-            "team_b": {
-                "id": "68c02ccea7d03209baad134e",
-                "name": "Right Guards CC",
-                "short_name": "Right Guards CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424843629-823375931.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757426000378-812197138.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68c02f7a5eff1aae0fc91e95",
             "name": "IPRC Kigali VS Indorwa CC",
             "category_name": "Cricket",
