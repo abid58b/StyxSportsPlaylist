@@ -4,7 +4,15 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 
-#EXTINF:-1 tvg-id="690b5686654186068ac413bb" tvg-name="INDIA VS SRI LANKA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762350723715-281863178.webp" group-title="Live",INDIA VS SRI LANKA
+#EXTINF:-1 tvg-id="690b5702a62b55864def6ebc" tvg-name="AUSTRALIA VS PAKISTAN" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762350842839-481925425.webp" group-title="Live",AUSTRALIA VS PAKISTAN
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
+#EXTINF:-1 tvg-id="68f6313d5e14fc3d2e069736" tvg-name="MELWIRE ROLLING VS Nations Trust Bank" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964921689-489460247.webp" group-title="Live",MELWIRE ROLLING VS Nations Trust Bank
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="68f631dbf77cf099f802bd93" tvg-name="CEYLINCO INSURANCE VS Central Finance" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965816740-752434214.webp" group-title="Live",CEYLINCO INSURANCE VS Central Finance
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
 
