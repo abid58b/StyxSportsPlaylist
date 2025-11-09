@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f631dbf77cf099f802bd93" tvg-name="CEYLINCO INSURANCE VS Central Finance" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965816740-752434214.webp" group-title="Live",CEYLINCO INSURANCE VS Central Finance
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
-
 #EXTINF:-1 tvg-id="68f6313d5e14fc3d2e069736" tvg-name="MELWIRE ROLLING VS Nations Trust Bank" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964921689-489460247.webp" group-title="Live",MELWIRE ROLLING VS Nations Trust Bank
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
 #EXTINF:-1 tvg-id="68c0318c5eff1aae0fc91e9b" tvg-name="Indorwa CC VS Challengers CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757426058939-817413288.webp" group-title="Live",Indorwa CC VS Challengers CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="68c0315439d6e519355af0b8" tvg-name="Tamil Lions CC VS Right Guards CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757426000378-812197138.webp" group-title="Live",Tamil Lions CC VS Right Guards CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
