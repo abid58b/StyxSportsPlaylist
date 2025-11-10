@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6909c9ff654186068ac413a2" tvg-name="G.C.R.G VS Kooh Sports" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762249210708-147792274.webp" group-title="Live",G.C.R.G VS Kooh Sports
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
