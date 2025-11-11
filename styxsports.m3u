@@ -12,3 +12,7 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
+#EXTINF:-1 tvg-id="68f24ef1e4b44a5c727eb7d4" tvg-name="Nations Trust Bank VS DIALOG AXIATA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760710382412-868399224.webp" group-title="Live",Nations Trust Bank VS DIALOG AXIATA
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
+
