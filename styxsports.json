@@ -225,6 +225,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412311508-810627646.webp",
             "venue": "Sydney Cricket Ground ,Sydney",
             "score_match_id": 92854
+        },
+        {
+            "id": "68de808d07d2ecfd0c159396",
+            "name": "Tasmania Tigers VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "11 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T23:10:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92855
         }
     ]
 }
