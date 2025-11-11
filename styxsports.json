@@ -31,32 +31,32 @@
             "score_match_id": 0
         },
         {
-            "id": "6909caee654186068ac413a5",
-            "name": "DCA Barabanki VS Kooh Sports",
+            "id": "68fa3002f77cf099f802bdc6",
+            "name": "Northern District VS Otago Volts",
             "category_name": "Cricket",
-            "tour_id": "6909c516654186068ac413a1",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "12",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "14",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-11",
-            "start_date_time": "2025-11-11T07:00:00.000Z",
+            "start_date_time": "2025-11-11T21:00:00.000Z",
             "team_a": {
-                "id": "68de4e06c167956f9cb7b9ed",
-                "name": "DCA Barabanki",
-                "short_name": "Barabanki CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247489360-105753063.webp"
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
             },
             "team_b": {
-                "id": "680d164df7fd2a09f06da534",
-                "name": "Kooh Sports",
-                "short_name": "Kooh sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247531559-387863201.webp"
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762249448936-290928330.webp",
-            "venue": "",
-            "score_match_id": 0
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298094901-986109922.webp",
+            "venue": "Bay Oval ,Mount Maunganui",
+            "score_match_id": 92662
         },
         {
             "id": "68fa3063e4b44a5c727eb81e",
@@ -115,32 +115,32 @@
             "score_match_id": 92661
         },
         {
-            "id": "68fa3002f77cf099f802bdc6",
-            "name": "Northern District VS Otago Volts",
+            "id": "68de8059458c1b0c74d26011",
+            "name": "New South Wales VS Victoria",
             "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "14",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "10 | Day - 3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-11",
-            "start_date_time": "2025-11-11T21:00:00.000Z",
+            "start_date_time": "2025-11-11T23:10:00.000Z",
             "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
             },
             "team_b": {
-                "id": "68fa03b94e4aa6d729f67553",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298094901-986109922.webp",
-            "venue": "Bay Oval ,Mount Maunganui",
-            "score_match_id": 92662
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412311508-810627646.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 92854
         },
         {
             "id": "68de808d07d2ecfd0c159396",
@@ -169,34 +169,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp",
             "venue": "Bellerive Oval ,Hobart",
             "score_match_id": 92855
-        },
-        {
-            "id": "68de8059458c1b0c74d26011",
-            "name": "New South Wales VS Victoria",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "10 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-11",
-            "start_date_time": "2025-11-11T23:10:00.000Z",
-            "team_a": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "team_b": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412311508-810627646.webp",
-            "venue": "Sydney Cricket Ground ,Sydney",
-            "score_match_id": 92854
         }
     ]
 }
