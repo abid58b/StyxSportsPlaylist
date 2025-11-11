@@ -3,60 +3,256 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de8059458c1b0c74d26011",
-            "name": "New South Wales VS Victoria",
+            "id": "690a16249195d469b55aacf8",
+            "name": "Indonesia VS Myanmar",
             "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "10 | Day - 2",
+            "tour_id": "6909de4b654186068ac413a6",
+            "tour_name": "Indonesia Tri-Series 2025",
+            "match_no": "7",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-10",
-            "start_date_time": "2025-11-10T23:10:00.000Z",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T01:00:00.000Z",
             "team_a": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
             },
             "team_b": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+                "id": "672ff68896dbc53111087945",
+                "name": "Myanmar",
+                "short_name": "Myanmar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412311508-810627646.webp",
-            "venue": "Sydney Cricket Ground ,Sydney",
-            "score_match_id": 92854
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762268704897-786493302.webp",
+            "venue": "Udayana Cricket Ground ,Bali",
+            "score_match_id": 94439
         },
         {
-            "id": "68de808d07d2ecfd0c159396",
-            "name": "Tasmania Tigers VS South Australia",
+            "id": "68de80e5458c1b0c74d26012",
+            "name": "Western Australia VS Queensland Bulls",
             "category_name": "Cricket",
             "tour_id": "68de4f789f5a848ba39f334f",
             "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "11 | Day - 2",
+            "match_no": "12 | Day - 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-10",
-            "start_date_time": "2025-11-10T23:10:00.000Z",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T02:00:00.000Z",
             "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
             },
             "team_b": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412363639-224789099.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92855
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412445588-114654015.webp",
+            "venue": "W.A.C.A. Ground ,Perth",
+            "score_match_id": 92856
+        },
+        {
+            "id": "6909cab0654186068ac413a4",
+            "name": "N.E. Railway VS G.C.R.G",
+            "category_name": "Cricket",
+            "tour_id": "6909c516654186068ac413a1",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T02:30:00.000Z",
+            "team_a": {
+                "id": "680d16c2b802f8205f6248f7",
+                "name": "N.E. Railway",
+                "short_name": "N.E. Railway",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247436197-158747070.webp"
+            },
+            "team_b": {
+                "id": "6909c44e30593570d7fde306",
+                "name": "G.C.R.G",
+                "short_name": "G.C.R.G",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247755083-715959842.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762249389653-920593873.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68f24ef1e4b44a5c727eb7d4",
+            "name": "Nations Trust Bank VS DIALOG AXIATA",
+            "category_name": "Cricket",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T04:00:00.000Z",
+            "team_a": {
+                "id": "6753026d23f1ee69536eb041",
+                "name": "Nations Trust Bank",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698882349-175169746.webp"
+            },
+            "team_b": {
+                "id": "68f2225be4b44a5c727eb7cc",
+                "name": "DIALOG AXIATA",
+                "short_name": "DIALOG AXIATA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698966708-627453057.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760710382412-868399224.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "690a1659a62b55864def6eb5",
+            "name": "Indonesia VS Timor Leste",
+            "category_name": "Cricket",
+            "tour_id": "6909de4b654186068ac413a6",
+            "tour_name": "Indonesia Tri-Series 2025",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T05:30:00.000Z",
+            "team_a": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "team_b": {
+                "id": "6909ddc330593570d7fde30c",
+                "name": "Timor Leste",
+                "short_name": "Timor Leste",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254271145-977452101.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762268754930-790395344.webp",
+            "venue": "Udayana Cricket Ground ,Bali",
+            "score_match_id": 94440
+        },
+        {
+            "id": "6909caee654186068ac413a5",
+            "name": "DCA Barabanki VS Kooh Sports",
+            "category_name": "Cricket",
+            "tour_id": "6909c516654186068ac413a1",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T06:30:00.000Z",
+            "team_a": {
+                "id": "68de4e06c167956f9cb7b9ed",
+                "name": "DCA Barabanki",
+                "short_name": "Barabanki CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247489360-105753063.webp"
+            },
+            "team_b": {
+                "id": "680d164df7fd2a09f06da534",
+                "name": "Kooh Sports",
+                "short_name": "Kooh sports",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247531559-387863201.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762249448936-290928330.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa3002f77cf099f802bdc6",
+            "name": "Northern District VS Otago Volts",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298094901-986109922.webp",
+            "venue": "Bay Oval ,Mount Maunganui",
+            "score_match_id": 92662
+        },
+        {
+            "id": "68fa3063e4b44a5c727eb81e",
+            "name": "Canterbury Kings VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298024319-500810920.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92660
+        },
+        {
+            "id": "68fa2fd75e14fc3d2e069750",
+            "name": "Wellington Firebirds VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "team_b": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298064895-202950736.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92661
         }
     ]
 }
