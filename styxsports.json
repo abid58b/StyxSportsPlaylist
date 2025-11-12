@@ -31,34 +31,6 @@
             "score_match_id": 92856
         },
         {
-            "id": "690a082f30593570d7fde30e",
-            "name": "Kooh Sports VS DCA Behraich",
-            "category_name": "Cricket",
-            "tour_id": "6909c516654186068ac413a1",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-12",
-            "start_date_time": "2025-11-12T02:30:00.000Z",
-            "team_a": {
-                "id": "680d164df7fd2a09f06da534",
-                "name": "Kooh Sports",
-                "short_name": "Kooh sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247531559-387863201.webp"
-            },
-            "team_b": {
-                "id": "6909c3ce654186068ac4139f",
-                "name": "DCA Behraich",
-                "short_name": "DCA Behraich",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247618661-515055595.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762265131611-733555277.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68f24cde5e14fc3d2e06971e",
             "name": "George Stuwart Health VS Abans Group",
             "category_name": "Cricket",

@@ -4,11 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
-#EXTINF:-1 tvg-id="690a082f30593570d7fde30e" tvg-name="Kooh Sports VS DCA Behraich" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762265131611-733555277.webp" group-title="Live",Kooh Sports VS DCA Behraich
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
-
 #EXTINF:-1 tvg-id="68f24cde5e14fc3d2e06971e" tvg-name="George Stuwart Health VS Abans Group" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760709851422-653534623.webp" group-title="Live",George Stuwart Health VS Abans Group
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="690a085f30593570d7fde30f" tvg-name="Lucknow CA VS G.C.R.G" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762265180739-274821726.webp" group-title="Live",Lucknow CA VS G.C.R.G
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
 
