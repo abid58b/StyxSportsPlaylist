@@ -29,34 +29,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763020801321-861179045.webp",
             "venue": "North Sydney Oval ,Sydney",
             "score_match_id": 92976
-        },
-        {
-            "id": "68de80e5458c1b0c74d26012",
-            "name": "Western Australia VS Queensland Bulls",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "12 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-13",
-            "start_date_time": "2025-11-13T02:00:00.000Z",
-            "team_a": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412445588-114654015.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 92856
         }
     ]
 }
