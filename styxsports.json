@@ -57,34 +57,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412445588-114654015.webp",
             "venue": "W.A.C.A. Ground ,Perth",
             "score_match_id": 92856
-        },
-        {
-            "id": "690a179430593570d7fde313",
-            "name": "Myanmar VS Indonesia",
-            "category_name": "Cricket",
-            "tour_id": "6909de4b654186068ac413a6",
-            "tour_name": "Indonesia Tri-Series 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-13",
-            "start_date_time": "2025-11-13T05:30:00.000Z",
-            "team_a": {
-                "id": "672ff68896dbc53111087945",
-                "name": "Myanmar",
-                "short_name": "Myanmar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
-            },
-            "team_b": {
-                "id": "672ff6bb96dbc53111087946",
-                "name": "Indonesia",
-                "short_name": "Indonesia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762269072511-868870230.webp",
-            "venue": "Udayana Cricket Ground ,Bali",
-            "score_match_id": 94443
         }
     ]
 }
