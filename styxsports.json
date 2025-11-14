@@ -31,34 +31,6 @@
             "score_match_id": 93611
         },
         {
-            "id": "6916bd1b1ee3a0177bd691f7",
-            "name": "Otago Sparks VS Auckland Hearts",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-14",
-            "start_date_time": "2025-11-14T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e8dbfd87c2948fb48034",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
-            },
-            "team_b": {
-                "id": "6915e8fb1ee3a0177bd691f5",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097879608-50797809.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 93613
-        },
-        {
             "id": "6916bcebfa673af67ab172e3",
             "name": "Northern District Women VS Wellington Blaze",
             "category_name": "Cricket",
@@ -85,6 +57,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097828771-5701755.webp",
             "venue": "Cobham Ovall ,Whangarei",
             "score_match_id": 93612
+        },
+        {
+            "id": "6916bd1b1ee3a0177bd691f7",
+            "name": "Otago Sparks VS Auckland Hearts",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
+            },
+            "team_b": {
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097879608-50797809.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 93613
         },
         {
             "id": "68c03612fa47c38f5e0be5e0",
