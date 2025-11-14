@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de80e5458c1b0c74d26012",
-            "name": "Western Australia VS Queensland Bulls",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "12 | Day - 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-14",
-            "start_date_time": "2025-11-14T02:00:00.000Z",
-            "team_a": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412445588-114654015.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 92856
-        },
-        {
-            "id": "691091405da54659bf5aefab",
-            "name": "Thailand Women VS Namibia Women",
-            "category_name": "Cricket",
-            "tour_id": "69109074f1d65f1b982fc750",
-            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-14",
-            "start_date_time": "2025-11-14T06:00:00.000Z",
-            "team_a": {
-                "id": "674ecefbe2cc6afe4b97daed",
-                "name": "Thailand Women",
-                "short_name": "Thailand Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610809040-783670368.webp"
-            },
-            "team_b": {
-                "id": "66d84dba1cbb1c9739e6c109",
-                "name": "Namibia Women",
-                "short_name": "Namibia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610885957-217099023.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762693435692-752934608.webp",
-            "venue": "Terdthai Cricket Ground ,Bangkok",
-            "score_match_id": 94373
-        },
-        {
             "id": "6915db60fa673af67ab172d6",
             "name": "Adelaide Strikers Women VS Melbourne Renegades Women",
             "category_name": "Cricket",
@@ -85,6 +29,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040093521-510834322.webp",
             "venue": "Karen Rolton Oval ,Adelaide",
             "score_match_id": 92978
+        },
+        {
+            "id": "6916bd1b1ee3a0177bd691f7",
+            "name": "Otago Sparks VS Auckland Hearts",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
+            },
+            "team_b": {
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097879608-50797809.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 93613
         },
         {
             "id": "6916bcebfa673af67ab172e3",
@@ -141,34 +113,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097775085-620743783.webp",
             "venue": "Pukekura Park ,New Plymouth",
             "score_match_id": 93611
-        },
-        {
-            "id": "6916bd1b1ee3a0177bd691f7",
-            "name": "Otago Sparks VS Auckland Hearts",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-14",
-            "start_date_time": "2025-11-14T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e8dbfd87c2948fb48034",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
-            },
-            "team_b": {
-                "id": "6915e8fb1ee3a0177bd691f5",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097879608-50797809.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 93613
         },
         {
             "id": "68c03612fa47c38f5e0be5e0",
