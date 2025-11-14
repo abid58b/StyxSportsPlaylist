@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="690a1b2030593570d7fde314" tvg-name="Timor Leste VS Myanmar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762269959267-663463553.webp" group-title="Live",Timor Leste VS Myanmar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+
+#EXTINF:-1 tvg-id="6910910564807074cdc8ee87" tvg-name="Scotland	Women VS Papua New Guinea	Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762693375995-389377530.webp" group-title="Live",Scotland	Women VS Papua New Guinea	Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
+
+#EXTINF:-1 tvg-id="68de80e5458c1b0c74d26012" tvg-name="Western Australia VS Queensland Bulls" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412445588-114654015.webp" group-title="Live",Western Australia VS Queensland Bulls
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
+
