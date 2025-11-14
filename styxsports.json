@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6910910564807074cdc8ee87",
-            "name": "Scotland\tWomen VS Papua New Guinea\tWomen",
-            "category_name": "Cricket",
-            "tour_id": "69109074f1d65f1b982fc750",
-            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-14",
-            "start_date_time": "2025-11-14T01:30:00.000Z",
-            "team_a": {
-                "id": "690f4efa66331c06754b817d",
-                "name": "Scotland\tWomen",
-                "short_name": "Scotland\tWomen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610935903-149445421.webp"
-            },
-            "team_b": {
-                "id": "690f4eacf1d65f1b982fc749",
-                "name": "Papua New Guinea\tWomen",
-                "short_name": "Papua New Guinea\tWomen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610852870-813048967.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762693375995-389377530.webp",
-            "venue": "Terdthai Cricket Ground ,Bangkok",
-            "score_match_id": 94372
-        },
-        {
             "id": "68de80e5458c1b0c74d26012",
             "name": "Western Australia VS Queensland Bulls",
             "category_name": "Cricket",
@@ -171,34 +143,6 @@
             "score_match_id": 93613
         },
         {
-            "id": "6916bcebfa673af67ab172e3",
-            "name": "Northern District Women VS Wellington Blaze",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-14",
-            "start_date_time": "2025-11-14T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e939fd87c2948fb48035",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
-            },
-            "team_b": {
-                "id": "6915e9511ee3a0177bd691f6",
-                "name": "Wellington Blaze",
-                "short_name": "Wellington Blaze",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097828771-5701755.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 93612
-        },
-        {
             "id": "6916bcb324f2af2c8dfdcbf3",
             "name": "Central Hinds VS Canterbury Magicians",
             "category_name": "Cricket",
@@ -225,6 +169,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097775085-620743783.webp",
             "venue": "Pukekura Park ,New Plymouth",
             "score_match_id": 93611
+        },
+        {
+            "id": "6916bcebfa673af67ab172e3",
+            "name": "Northern District Women VS Wellington Blaze",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
+            },
+            "team_b": {
+                "id": "6915e9511ee3a0177bd691f6",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763097828771-5701755.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 93612
         },
         {
             "id": "68c03612fa47c38f5e0be5e0",
