@@ -1,5 +1,202 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "690a1b2030593570d7fde314",
+            "name": "Timor Leste VS Myanmar",
+            "category_name": "Cricket",
+            "tour_id": "6909de4b654186068ac413a6",
+            "tour_name": "Indonesia Tri-Series 2025",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T01:00:00.000Z",
+            "team_a": {
+                "id": "6909ddc330593570d7fde30c",
+                "name": "Timor Leste",
+                "short_name": "Timor Leste",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254271145-977452101.webp"
+            },
+            "team_b": {
+                "id": "672ff68896dbc53111087945",
+                "name": "Myanmar",
+                "short_name": "Myanmar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762269959267-663463553.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6910910564807074cdc8ee87",
+            "name": "Scotland\tWomen VS Papua New Guinea\tWomen",
+            "category_name": "Cricket",
+            "tour_id": "69109074f1d65f1b982fc750",
+            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T01:30:00.000Z",
+            "team_a": {
+                "id": "690f4efa66331c06754b817d",
+                "name": "Scotland\tWomen",
+                "short_name": "Scotland\tWomen",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610935903-149445421.webp"
+            },
+            "team_b": {
+                "id": "690f4eacf1d65f1b982fc749",
+                "name": "Papua New Guinea\tWomen",
+                "short_name": "Papua New Guinea\tWomen",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610852870-813048967.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762693375995-389377530.webp",
+            "venue": "Terdthai Cricket Ground ,Bangkok",
+            "score_match_id": 94372
+        },
+        {
+            "id": "68de80e5458c1b0c74d26012",
+            "name": "Western Australia VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "12 | Day - 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T02:00:00.000Z",
+            "team_a": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412445588-114654015.webp",
+            "venue": "W.A.C.A. Ground ,Perth",
+            "score_match_id": 92856
+        },
+        {
+            "id": "6915db3324f2af2c8dfdcbe5",
+            "name": "Perth Scorchers Women VS Melbourne Star Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T04:10:00.000Z",
+            "team_a": {
+                "id": "671b009ec2a91e9745b09cd5",
+                "name": "Perth Scorchers Women",
+                "short_name": "Perth Scorchers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
+            },
+            "team_b": {
+                "id": "671b0081c2a91e9745b09cd4",
+                "name": "Melbourne Star Women",
+                "short_name": "Melbourne Star Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040038706-4391442.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92977
+        },
+        {
+            "id": "691091405da54659bf5aefab",
+            "name": "Thailand Women VS Namibia Women",
+            "category_name": "Cricket",
+            "tour_id": "69109074f1d65f1b982fc750",
+            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T06:00:00.000Z",
+            "team_a": {
+                "id": "674ecefbe2cc6afe4b97daed",
+                "name": "Thailand Women",
+                "short_name": "Thailand Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610809040-783670368.webp"
+            },
+            "team_b": {
+                "id": "66d84dba1cbb1c9739e6c109",
+                "name": "Namibia Women",
+                "short_name": "Namibia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610885957-217099023.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762693435692-752934608.webp",
+            "venue": "Terdthai Cricket Ground ,Bangkok",
+            "score_match_id": 94373
+        },
+        {
+            "id": "6915db60fa673af67ab172d6",
+            "name": "Adelaide Strikers Women VS Melbourne Renegades Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T07:40:00.000Z",
+            "team_a": {
+                "id": "671b0046c2a91e9745b09cd3",
+                "name": "Adelaide Strikers Women",
+                "short_name": "Adelaide Strikers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039732073-246007766.webp"
+            },
+            "team_b": {
+                "id": "671b00e6c2a91e9745b09cd7",
+                "name": "Melbourne Renegades Women",
+                "short_name": "Melbourne Renegades Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040093521-510834322.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92978
+        },
+        {
+            "id": "68c03612fa47c38f5e0be5e0",
+            "name": "Tasmania Tigers VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68bfc308fa47c38f5e0be5d5",
+            "tour_name": "Australia One Day Cup 2025-26",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T23:30:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427213463-350160042.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92836
+        }
+    ]
 }
