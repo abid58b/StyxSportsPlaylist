@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "691091b666331c06754b8186",
-            "name": "Thailand Women VS Scotland\tWomen",
-            "category_name": "Cricket",
-            "tour_id": "69109074f1d65f1b982fc750",
-            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T06:00:00.000Z",
-            "team_a": {
-                "id": "674ecefbe2cc6afe4b97daed",
-                "name": "Thailand Women",
-                "short_name": "Thailand Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610809040-783670368.webp"
-            },
-            "team_b": {
-                "id": "690f4efa66331c06754b817d",
-                "name": "Scotland\tWomen",
-                "short_name": "Scotland\tWomen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610935903-149445421.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762693554729-541764350.webp",
-            "venue": "Terdthai Cricket Ground ,Bangkok",
-            "score_match_id": 94375
-        },
-        {
             "id": "68e11a7fc167956f9cb7ba32",
             "name": "Gahanga Queens CC VS Charity CC",
             "category_name": "Cricket",
