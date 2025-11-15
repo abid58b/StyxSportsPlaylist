@@ -31,32 +31,32 @@
             "score_match_id": 0
         },
         {
-            "id": "68e11b4e07d2ecfd0c1593c2",
-            "name": "Gahanga Queens CC VS White clouds",
+            "id": "6916e5dd1ee3a0177bd691fa",
+            "name": "Otago Sparks VS Auckland Hearts",
             "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "14",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T11:45:00.000Z",
+            "start_date_time": "2025-11-15T21:00:00.000Z",
             "team_a": {
-                "id": "68e0c5f8c167956f9cb7ba22",
-                "name": "Gahanga Queens CC",
-                "short_name": "Gahanga Queens CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561188941-983898353.webp"
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
             },
             "team_b": {
-                "id": "68e1176507d2ecfd0c1593be",
-                "name": "White clouds",
-                "short_name": "White clouds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582051317-414400808.webp"
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759583052227-226824435.webp",
-            "venue": "",
-            "score_match_id": 0
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108310265-761231647.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 93616
         },
         {
             "id": "6916e57d24f2af2c8dfdcbf6",
@@ -85,34 +85,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108215996-304217964.webp",
             "venue": "Pukekura Park ,New Plymouth",
             "score_match_id": 93614
-        },
-        {
-            "id": "6916e5dd1ee3a0177bd691fa",
-            "name": "Otago Sparks VS Auckland Hearts",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e8dbfd87c2948fb48034",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
-            },
-            "team_b": {
-                "id": "6915e8fb1ee3a0177bd691f5",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108310265-761231647.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 93616
         },
         {
             "id": "6916e5ac24f2af2c8dfdcbf7",
