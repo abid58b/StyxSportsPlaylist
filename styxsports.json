@@ -3,32 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e11b1d9f5a848ba39f3375",
-            "name": "Muhanga Zebras VS Indatwa Hampshire CC",
+            "id": "6916e5ac24f2af2c8dfdcbf7",
+            "name": "Northern District Women VS Wellington Blaze",
             "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "13",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "5",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T11:30:00.000Z",
+            "start_date_time": "2025-11-15T21:00:00.000Z",
             "team_a": {
-                "id": "68e1174ac167956f9cb7ba2e",
-                "name": "Muhanga Zebras",
-                "short_name": "Muhanga Zebras",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582023872-571211869.webp"
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
             },
             "team_b": {
-                "id": "68e0c5c5c167956f9cb7ba21",
-                "name": "Indatwa Hampshire CC",
-                "short_name": "Indatwa Hampshire CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561153545-914719314.webp"
+                "id": "6915e9511ee3a0177bd691f6",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759583002255-117846914.webp",
-            "venue": "",
-            "score_match_id": 0
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108264325-574943683.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 93615
         },
         {
             "id": "6916e5dd1ee3a0177bd691fa",
@@ -85,34 +85,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108215996-304217964.webp",
             "venue": "Pukekura Park ,New Plymouth",
             "score_match_id": 93614
-        },
-        {
-            "id": "6916e5ac24f2af2c8dfdcbf7",
-            "name": "Northern District Women VS Wellington Blaze",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e939fd87c2948fb48035",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
-            },
-            "team_b": {
-                "id": "6915e9511ee3a0177bd691f6",
-                "name": "Wellington Blaze",
-                "short_name": "Wellington Blaze",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108264325-574943683.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 93615
         },
         {
             "id": "6915dc051ee3a0177bd691ed",
