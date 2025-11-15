@@ -4,3 +4,15 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 
+#EXTINF:-1 tvg-id="68f63250f77cf099f802bd94" tvg-name="Peoples Leasing VS Central Finance" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965196291-794408000.webp" group-title="Live",Peoples Leasing VS Central Finance
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="68f63293e4b44a5c727eb806" tvg-name="MELWIRE ROLLING VS Nations Trust Bank" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965264039-956995001.webp" group-title="Live",MELWIRE ROLLING VS Nations Trust Bank
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
+
+#EXTINF:-1 tvg-id="6915db96fd87c2948fb4802c" tvg-name="Hobart Hurricanes Women VS Brisbane Heat Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040144145-617453383.webp" group-title="Live",Hobart Hurricanes Women VS Brisbane Heat Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
+
