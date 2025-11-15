@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68f63293e4b44a5c727eb806",
-            "name": "MELWIRE ROLLING VS Nations Trust Bank",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "24",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T04:00:00.000Z",
-            "team_a": {
-                "id": "68f222334e4aa6d729f6752b",
-                "name": "MELWIRE ROLLING",
-                "short_name": "MELWIRE ROLLING",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698927866-424884246.webp"
-            },
-            "team_b": {
-                "id": "6753026d23f1ee69536eb041",
-                "name": "Nations Trust Bank",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698882349-175169746.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760965264039-956995001.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6915dbbffd87c2948fb4802d",
             "name": "Sydney Thunder Women VS Sydney Sixers Women",
             "category_name": "Cricket",
