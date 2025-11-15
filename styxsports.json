@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6910918866331c06754b8185",
-            "name": "Namibia Women VS Papua New Guinea\tWomen",
-            "category_name": "Cricket",
-            "tour_id": "69109074f1d65f1b982fc750",
-            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T01:30:00.000Z",
-            "team_a": {
-                "id": "66d84dba1cbb1c9739e6c109",
-                "name": "Namibia Women",
-                "short_name": "Namibia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610885957-217099023.webp"
-            },
-            "team_b": {
-                "id": "690f4eacf1d65f1b982fc749",
-                "name": "Papua New Guinea\tWomen",
-                "short_name": "Papua New Guinea\tWomen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762610852870-813048967.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762693508720-532424941.webp",
-            "venue": "Terdthai Cricket Ground ,Bangkok",
-            "score_match_id": 94374
-        },
-        {
             "id": "68f63250f77cf099f802bd94",
             "name": "Peoples Leasing VS Central Finance",
             "category_name": "Cricket",
@@ -311,34 +283,6 @@
             "score_match_id": 93615
         },
         {
-            "id": "6916e5dd1ee3a0177bd691fa",
-            "name": "Otago Sparks VS Auckland Hearts",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e8dbfd87c2948fb48034",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
-            },
-            "team_b": {
-                "id": "6915e8fb1ee3a0177bd691f5",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108310265-761231647.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 93616
-        },
-        {
             "id": "6916e57d24f2af2c8dfdcbf6",
             "name": "Central Hinds VS Canterbury Magicians",
             "category_name": "Cricket",
@@ -365,6 +309,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108215996-304217964.webp",
             "venue": "Pukekura Park ,New Plymouth",
             "score_match_id": 93614
+        },
+        {
+            "id": "6916e5dd1ee3a0177bd691fa",
+            "name": "Otago Sparks VS Auckland Hearts",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-15",
+            "start_date_time": "2025-11-15T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
+            },
+            "team_b": {
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108310265-761231647.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 93616
         },
         {
             "id": "6915dc051ee3a0177bd691ed",

@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6910918866331c06754b8185" tvg-name="Namibia Women VS Papua New Guinea	Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762693508720-532424941.webp" group-title="Live",Namibia Women VS Papua New Guinea	Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
-
 #EXTINF:-1 tvg-id="68f63250f77cf099f802bd94" tvg-name="Peoples Leasing VS Central Finance" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965196291-794408000.webp" group-title="Live",Peoples Leasing VS Central Finance
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
