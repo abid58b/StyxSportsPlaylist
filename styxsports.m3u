@@ -12,3 +12,7 @@ https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 
+#EXTINF:-1 tvg-id="691091b666331c06754b8186" tvg-name="Thailand Women VS Scotland	Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762693554729-541764350.webp" group-title="Live",Thailand Women VS Scotland	Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
+
