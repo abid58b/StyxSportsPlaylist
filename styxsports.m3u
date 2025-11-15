@@ -12,3 +12,7 @@ https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
+#EXTINF:-1 tvg-id="6915dc051ee3a0177bd691ed" tvg-name="Adelaide Strikers Women VS Perth Scorchers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040255971-592221882.webp" group-title="Live",Adelaide Strikers Women VS Perth Scorchers Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
+
