@@ -4,11 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
-#EXTINF:-1 tvg-id="6915dbbffd87c2948fb4802d" tvg-name="Sydney Thunder Women VS Sydney Sixers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040188275-240154072.webp" group-title="Live",Sydney Thunder Women VS Sydney Sixers Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
-
 #EXTINF:-1 tvg-id="68e11b1d9f5a848ba39f3375" tvg-name="Muhanga Zebras VS Indatwa Hampshire CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759583002255-117846914.webp" group-title="Live",Muhanga Zebras VS Indatwa Hampshire CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="68e11b4e07d2ecfd0c1593c2" tvg-name="Gahanga Queens CC VS White clouds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759583052227-226824435.webp" group-title="Live",Gahanga Queens CC VS White clouds
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 

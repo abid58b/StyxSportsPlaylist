@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6915dbbffd87c2948fb4802d",
-            "name": "Sydney Thunder Women VS Sydney Sixers Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-15",
-            "start_date_time": "2025-11-15T07:40:00.000Z",
-            "team_a": {
-                "id": "671b00bec2a91e9745b09cd6",
-                "name": "Sydney Thunder Women",
-                "short_name": "Sydney Thunder Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039803328-795856829.webp"
-            },
-            "team_b": {
-                "id": "671b0027c2a91e9745b09cd2",
-                "name": "Sydney Sixers Women",
-                "short_name": "Sydney Sixers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040188275-240154072.webp",
-            "venue": "Drummoyne Oval ,Sydney",
-            "score_match_id": 92980
-        },
-        {
             "id": "68e11b1d9f5a848ba39f3375",
             "name": "Muhanga Zebras VS Indatwa Hampshire CC",
             "category_name": "Cricket",
