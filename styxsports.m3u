@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6915dc47fa673af67ab172d7" tvg-name="Melbourne Star Women VS Melbourne Renegades Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040323777-943794895.webp" group-title="Live",Melbourne Star Women VS Melbourne Renegades Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
+
