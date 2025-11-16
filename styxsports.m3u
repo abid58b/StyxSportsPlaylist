@@ -4,3 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
 
+#EXTINF:-1 tvg-id="6919aed224f2af2c8dfdcc17" tvg-name="IPRC Kigali VS Challengers CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763290828872-758461251.webp" group-title="Live",IPRC Kigali VS Challengers CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
+#EXTINF:-1 tvg-id="6919af33fa673af67ab1730e" tvg-name="Tamil Lions CC VS Right Guards CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763290927782-147185562.webp" group-title="Live",Tamil Lions CC VS Right Guards CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
