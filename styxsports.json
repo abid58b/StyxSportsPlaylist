@@ -3,32 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6915dc47fa673af67ab172d7",
-            "name": "Melbourne Star Women VS Melbourne Renegades Women",
+            "id": "68f634344e4aa6d729f67549",
+            "name": "Power Hand Plantation VS REVOCARE SOLUTION",
             "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "13",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "27",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-16",
-            "start_date_time": "2025-11-16T02:10:00.000Z",
+            "start_date_time": "2025-11-16T04:00:00.000Z",
             "team_a": {
-                "id": "671b0081c2a91e9745b09cd4",
-                "name": "Melbourne Star Women",
-                "short_name": "Melbourne Star Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
+                "id": "67530286e2cc6afe4b97daff",
+                "name": "Power Hand Plantation",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699171210-883229968.webp"
             },
             "team_b": {
-                "id": "671b00e6c2a91e9745b09cd7",
-                "name": "Melbourne Renegades Women",
-                "short_name": "Melbourne Renegades Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
+                "id": "6674376c7a9e5a7e3e718252",
+                "name": "REVOCARE SOLUTION",
+                "short_name": "REVOCARE SOLUTION",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699020898-257749317.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040323777-943794895.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 93011
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760965683276-561106956.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
             "id": "68f634924e4aa6d729f6754a",
@@ -55,34 +55,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699451668-341181879.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760965771090-859199360.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68f634344e4aa6d729f67549",
-            "name": "Power Hand Plantation VS REVOCARE SOLUTION",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "27",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-16",
-            "start_date_time": "2025-11-16T04:00:00.000Z",
-            "team_a": {
-                "id": "67530286e2cc6afe4b97daff",
-                "name": "Power Hand Plantation",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699171210-883229968.webp"
-            },
-            "team_b": {
-                "id": "6674376c7a9e5a7e3e718252",
-                "name": "REVOCARE SOLUTION",
-                "short_name": "REVOCARE SOLUTION",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699020898-257749317.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760965683276-561106956.webp",
             "venue": "",
             "score_match_id": 0
         },

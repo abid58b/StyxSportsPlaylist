@@ -1,14 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6915dc47fa673af67ab172d7" tvg-name="Melbourne Star Women VS Melbourne Renegades Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040323777-943794895.webp" group-title="Live",Melbourne Star Women VS Melbourne Renegades Women
+#EXTINF:-1 tvg-id="68f634344e4aa6d729f67549" tvg-name="Power Hand Plantation VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965683276-561106956.webp" group-title="Live",Power Hand Plantation VS REVOCARE SOLUTION
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
 
 #EXTINF:-1 tvg-id="68f634924e4aa6d729f6754a" tvg-name="English Tea Shop VS CEYLINCO INSURANCE" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965771090-859199360.webp" group-title="Live",English Tea Shop VS CEYLINCO INSURANCE
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
-
-#EXTINF:-1 tvg-id="68f634344e4aa6d729f67549" tvg-name="Power Hand Plantation VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965683276-561106956.webp" group-title="Live",Power Hand Plantation VS REVOCARE SOLUTION
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
 
