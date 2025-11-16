@@ -31,58 +31,58 @@
             "score_match_id": 0
         },
         {
-            "id": "68f634924e4aa6d729f6754a",
-            "name": "English Tea Shop VS CEYLINCO INSURANCE",
+            "id": "6919aed224f2af2c8dfdcc17",
+            "name": "IPRC Kigali VS Challengers CC",
             "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "28",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "Eliminator",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-16",
-            "start_date_time": "2025-11-16T04:00:00.000Z",
+            "start_date_time": "2025-11-16T11:30:00.000Z",
             "team_a": {
-                "id": "685ea99379116a49143d7780",
-                "name": "English Tea Shop",
-                "short_name": "English Tea Shop",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699790168-75344994.webp"
+                "id": "68c02c48fa47c38f5e0be5d9",
+                "name": "IPRC Kigali",
+                "short_name": "IPRC kigali",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424707480-219253107.webp"
             },
             "team_b": {
-                "id": "68f2243de4b44a5c727eb7cf",
-                "name": "CEYLINCO INSURANCE",
-                "short_name": "CEYLINCO INSURANCE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699451668-341181879.webp"
+                "id": "68c02c8efa47c38f5e0be5da",
+                "name": "Challengers CC",
+                "short_name": "Challengers cc",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424780028-858846950.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760965771090-859199360.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763290828872-758461251.webp",
             "venue": "",
             "score_match_id": 0
         },
         {
-            "id": "68c02fd35eff1aae0fc91e97",
-            "name": "Indorwa CC VS Tamil Lions CC",
+            "id": "6919af33fa673af67ab1730e",
+            "name": "Tamil Lions CC VS Right Guards CC",
             "category_name": "Cricket",
             "tour_id": "68c02d5d39d6e519355af0b5",
             "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "7",
+            "match_no": "Qualifier 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-16",
-            "start_date_time": "2025-11-16T07:15:00.000Z",
+            "start_date_time": "2025-11-16T11:45:00.000Z",
             "team_a": {
-                "id": "68c02cb239d6e519355af0b4",
-                "name": "Indorwa CC",
-                "short_name": "Indorwa CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424810532-358473515.webp"
-            },
-            "team_b": {
                 "id": "68c02c7039d6e519355af0b3",
                 "name": "Tamil Lions CC",
                 "short_name": "Tamil Lions CC",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1762238832379-332810332.webp",
+            "team_b": {
+                "id": "68c02ccea7d03209baad134e",
+                "name": "Right Guards CC",
+                "short_name": "Right Guards CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424843629-823375931.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763290927782-147185562.webp",
             "venue": "",
             "score_match_id": 0
         }
