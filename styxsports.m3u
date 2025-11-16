@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f634344e4aa6d729f67549" tvg-name="Power Hand Plantation VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760965683276-561106956.webp" group-title="Live",Power Hand Plantation VS REVOCARE SOLUTION
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/l5jeuZdAKb2lz6Bb1747565959804543.m3u8
-
 #EXTINF:-1 tvg-id="6919aed224f2af2c8dfdcc17" tvg-name="IPRC Kigali VS Challengers CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763290828872-758461251.webp" group-title="Live",IPRC Kigali VS Challengers CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
