@@ -171,6 +171,34 @@
             "score_match_id": 92902
         },
         {
+            "id": "69173083fd87c2948fb48047",
+            "name": "Canterbury Kings VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 3 | Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-18",
+            "start_date_time": "2025-11-18T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763127424056-136599788.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92903
+        },
+        {
             "id": "69173003fd87c2948fb48046",
             "name": "Central Stags VS Auckland Aces",
             "category_name": "Cricket",
