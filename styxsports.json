@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b2b03fd87c2948fb480a3",
-            "name": "Rising CC VS Sunny XI",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-19",
-            "start_date_time": "2025-11-19T03:30:00.000Z",
-            "team_a": {
-                "id": "691b28f21ee3a0177bd6922e",
-                "name": "Rising CC",
-                "short_name": "Rising CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387632701-688082441.webp"
-            },
-            "team_b": {
-                "id": "691b28bd1ee3a0177bd6922d",
-                "name": "Sunny XI",
-                "short_name": "Sunny XI",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387579228-2196450.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763388161415-561234351.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691b2b2ffa673af67ab1731e",
             "name": "Metro CC VS Pachange CC",
             "category_name": "Cricket",
@@ -171,34 +143,6 @@
             "score_match_id": 94459
         },
         {
-            "id": "69173003fd87c2948fb48046",
-            "name": "Central Stags VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 1 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-19",
-            "start_date_time": "2025-11-19T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "team_b": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763127294769-985758964.webp",
-            "venue": "Fitzherbert Park ,Palmerston North",
-            "score_match_id": 92901
-        },
-        {
             "id": "6917304424f2af2c8dfdcc03",
             "name": "Wellington Firebirds VS Otago",
             "category_name": "Cricket",
@@ -253,6 +197,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763127424056-136599788.webp",
             "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
             "score_match_id": 92903
+        },
+        {
+            "id": "69173003fd87c2948fb48046",
+            "name": "Central Stags VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 1 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-19",
+            "start_date_time": "2025-11-19T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763127294769-985758964.webp",
+            "venue": "Fitzherbert Park ,Palmerston North",
+            "score_match_id": 92901
         }
     ]
 }
