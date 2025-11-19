@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b16fffd87c2948fb4809b",
-            "name": "Ajman Titans VS Quetta Qavalry",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-19",
-            "start_date_time": "2025-11-19T16:00:00.000Z",
-            "team_a": {
-                "id": "691b10ac1ee3a0177bd69227",
-                "name": "Ajman Titans",
-                "short_name": "Ajman Titans",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381418755-615007395.webp"
-            },
-            "team_b": {
-                "id": "691b114a1ee3a0177bd69228",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381575411-908925221.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763383034077-745570202.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94459
-        },
-        {
             "id": "69173083fd87c2948fb48047",
             "name": "Canterbury Kings VS Northern District",
             "category_name": "Cricket",
