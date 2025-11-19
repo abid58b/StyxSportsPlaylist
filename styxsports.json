@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6915dcdefa673af67ab172d8",
-            "name": "Sydney Thunder Women VS Perth Scorchers Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-19",
-            "start_date_time": "2025-11-19T07:40:00.000Z",
-            "team_a": {
-                "id": "671b00bec2a91e9745b09cd6",
-                "name": "Sydney Thunder Women",
-                "short_name": "Sydney Thunder Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039803328-795856829.webp"
-            },
-            "team_b": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040475932-751594044.webp",
-            "venue": "Drummoyne Oval ,Sydney",
-            "score_match_id": 93013
-        },
-        {
             "id": "691b166d1ee3a0177bd69229",
             "name": "Aspin Stallions VS Northern Warriors",
             "category_name": "Cricket",
