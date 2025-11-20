@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b2b921ee3a0177bd6922f",
-            "name": "Metro CC VS Sunny XI",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T07:30:00.000Z",
-            "team_a": {
-                "id": "691b28dafd87c2948fb480a0",
-                "name": "Metro CC",
-                "short_name": "Metro CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387607871-976150940.webp"
-            },
-            "team_b": {
-                "id": "691b28bd1ee3a0177bd6922d",
-                "name": "Sunny XI",
-                "short_name": "Sunny XI",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387579228-2196450.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763388303493-486793931.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691b1a24fa673af67ab1731a",
             "name": "Royal Champs VS Deccan Gladiators",
             "category_name": "Cricket",
