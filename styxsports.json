@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6915dd62fa673af67ab172d9",
-            "name": "Sydney Sixers Women VS Melbourne Star Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "17",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T07:40:00.000Z",
-            "team_a": {
-                "id": "671b0027c2a91e9745b09cd2",
-                "name": "Sydney Sixers Women",
-                "short_name": "Sydney Sixers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
-            },
-            "team_b": {
-                "id": "671b0081c2a91e9745b09cd4",
-                "name": "Melbourne Star Women",
-                "short_name": "Melbourne Star Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040605727-553883596.webp",
-            "venue": "North Sydney Oval ,Sydney",
-            "score_match_id": 93015
-        },
-        {
             "id": "691b1a24fa673af67ab1731a",
             "name": "Royal Champs VS Deccan Gladiators",
             "category_name": "Cricket",
@@ -143,34 +115,6 @@
             "score_match_id": 94462
         },
         {
-            "id": "6917304424f2af2c8dfdcc03",
-            "name": "Wellington Firebirds VS Otago",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 2 | Day 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "team_b": {
-                "id": "6916fc9224f2af2c8dfdcbfc",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763127357086-541756390.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92902
-        },
-        {
             "id": "69173083fd87c2948fb48047",
             "name": "Canterbury Kings VS Northern District",
             "category_name": "Cricket",
@@ -197,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763127424056-136599788.webp",
             "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
             "score_match_id": 92903
+        },
+        {
+            "id": "6917304424f2af2c8dfdcc03",
+            "name": "Wellington Firebirds VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 2 | Day 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-20",
+            "start_date_time": "2025-11-20T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "team_b": {
+                "id": "6916fc9224f2af2c8dfdcbfc",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763127357086-541756390.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92902
         }
     ]
 }
