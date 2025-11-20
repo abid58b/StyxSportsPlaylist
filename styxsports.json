@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b2b6224f2af2c8dfdcc26",
-            "name": "Ashtapailu Sports VS Omrchecker",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T03:30:00.000Z",
-            "team_a": {
-                "id": "691b289ffd87c2948fb4809f",
-                "name": "Ashtapailu Sports",
-                "short_name": "Ashtapailu Sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
-            },
-            "team_b": {
-                "id": "691b2924fa673af67ab1731c",
-                "name": "Omrchecker",
-                "short_name": "Omrchecker",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387682555-631716582.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763388256040-665580810.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "6915dd1afd87c2948fb4802e",
-            "name": "Hobart Hurricanes Women VS Melbourne Renegades Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T04:10:00.000Z",
-            "team_a": {
-                "id": "67144f5f8a9eea3b43513353",
-                "name": "Hobart Hurricanes Women",
-                "short_name": "Hobart Hurricanes Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039698954-30288296.webp"
-            },
-            "team_b": {
-                "id": "671b00e6c2a91e9745b09cd7",
-                "name": "Melbourne Renegades Women",
-                "short_name": "Melbourne Renegades Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040534465-446750609.webp",
-            "venue": "North Sydney Oval ,Sydney",
-            "score_match_id": 93014
-        },
-        {
             "id": "691b2b921ee3a0177bd6922f",
             "name": "Metro CC VS Sunny XI",
             "category_name": "Cricket",

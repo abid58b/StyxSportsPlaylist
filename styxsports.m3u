@@ -1,14 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691b2b6224f2af2c8dfdcc26" tvg-name="Ashtapailu Sports VS Omrchecker" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763388256040-665580810.webp" group-title="Live",Ashtapailu Sports VS Omrchecker
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
-#EXTINF:-1 tvg-id="6915dd1afd87c2948fb4802e" tvg-name="Hobart Hurricanes Women VS Melbourne Renegades Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040534465-446750609.webp" group-title="Live",Hobart Hurricanes Women VS Melbourne Renegades Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
-
 #EXTINF:-1 tvg-id="691b2b921ee3a0177bd6922f" tvg-name="Metro CC VS Sunny XI" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763388303493-486793931.webp" group-title="Live",Metro CC VS Sunny XI
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="6915dd62fa673af67ab172d9" tvg-name="Sydney Sixers Women VS Melbourne Star Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040605727-553883596.webp" group-title="Live",Sydney Sixers Women VS Melbourne Star Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 
