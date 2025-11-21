@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b1b5ffa673af67ab1731b",
-            "name": "U.A.E. Bulls VS Royal Champs",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T16:00:00.000Z",
-            "team_a": {
-                "id": "691b11c124f2af2c8dfdcc21",
-                "name": "U.A.E. Bulls",
-                "short_name": "U.A.E. Bulls",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381693116-698414405.webp"
-            },
-            "team_b": {
-                "id": "691b1172fd87c2948fb48098",
-                "name": "Royal Champs",
-                "short_name": "Royal Champs",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381615812-446875682.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763384156431-536076440.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94465
-        },
-        {
             "id": "6915ddfc1ee3a0177bd691ef",
             "name": "Hobart Hurricanes Women VS Sydney Sixers Women",
             "category_name": "Cricket",
