@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691879e61ee3a0177bd69219",
-            "name": "Indonesia VS Bahrain",
-            "category_name": "Cricket",
-            "tour_id": "691878cdfd87c2948fb4808d",
-            "tour_name": "Bahrain Tour to Indonesia 2025",
-            "match_no": "3rd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T01:30:00.000Z",
-            "team_a": {
-                "id": "672ff6bb96dbc53111087946",
-                "name": "Indonesia",
-                "short_name": "Indonesia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
-            },
-            "team_b": {
-                "id": "671dea49bb231d3543008d16",
-                "name": "Bahrain",
-                "short_name": "Bahrain",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1756277399035-595055734.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763363765908-764406114.webp",
-            "venue": "Udayana Cricket Ground ,Bali",
-            "score_match_id": 94600
-        },
-        {
             "id": "691b2c191ee3a0177bd69230",
             "name": "Omrchecker VS Sunny XI",
             "category_name": "Cricket",

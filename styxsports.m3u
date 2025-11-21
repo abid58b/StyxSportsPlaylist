@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691879e61ee3a0177bd69219" tvg-name="Indonesia VS Bahrain" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763363765908-764406114.webp" group-title="Live",Indonesia VS Bahrain
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
 #EXTINF:-1 tvg-id="691b2c191ee3a0177bd69230" tvg-name="Omrchecker VS Sunny XI" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763388440278-719616142.webp" group-title="Live",Omrchecker VS Sunny XI
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
