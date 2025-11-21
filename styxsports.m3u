@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6915ddbc1ee3a0177bd691ee" tvg-name="Brisbane Heat Women VS Sydney Thunder Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040694628-725065470.webp" group-title="Live",Brisbane Heat Women VS Sydney Thunder Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
-
 #EXTINF:-1 tvg-id="691b1abbfd87c2948fb4809e" tvg-name="Deccan Gladiators VS Quetta Qavalry" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763383991893-436156790.webp" group-title="Live",Deccan Gladiators VS Quetta Qavalry
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8

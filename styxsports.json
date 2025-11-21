@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6915ddbc1ee3a0177bd691ee",
-            "name": "Brisbane Heat Women VS Sydney Thunder Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "18",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T08:40:00.000Z",
-            "team_a": {
-                "id": "67144f79166de3cf1b69e62d",
-                "name": "Brisbane Heat Women",
-                "short_name": "Brisbane Heat Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039708775-573021413.webp"
-            },
-            "team_b": {
-                "id": "671b00bec2a91e9745b09cd6",
-                "name": "Sydney Thunder Women",
-                "short_name": "Sydney Thunder Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039803328-795856829.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763040694628-725065470.webp",
-            "venue": "Allan Border Field ,Brisbane",
-            "score_match_id": 93016
-        },
-        {
             "id": "691b1abbfd87c2948fb4809e",
             "name": "Deccan Gladiators VS Quetta Qavalry",
             "category_name": "Cricket",
