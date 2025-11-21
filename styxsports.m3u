@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691b2c78fa673af67ab1731f" tvg-name="Rising CC VS Pachange CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763388533940-497768841.webp" group-title="Live",Rising CC VS Pachange CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
 #EXTINF:-1 tvg-id="6915ddbc1ee3a0177bd691ee" tvg-name="Brisbane Heat Women VS Sydney Thunder Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040694628-725065470.webp" group-title="Live",Brisbane Heat Women VS Sydney Thunder Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
