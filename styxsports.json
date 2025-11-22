@@ -31,34 +31,6 @@
             "score_match_id": 92890
         },
         {
-            "id": "68e11b8207d2ecfd0c1593c3",
-            "name": "Sorwathe CC VS Muhanga Zebras",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T07:30:00.000Z",
-            "team_a": {
-                "id": "68e1172c07d2ecfd0c1593bd",
-                "name": "Sorwathe CC",
-                "short_name": "Sorwathe CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759581992639-779787879.webp"
-            },
-            "team_b": {
-                "id": "68e1174ac167956f9cb7ba2e",
-                "name": "Muhanga Zebras",
-                "short_name": "Muhanga Zebras",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582023872-571211869.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759583103394-991134797.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691b31e1fd87c2948fb480a5",
             "name": "Ashtapailu Sports VS Pachange CC",
             "category_name": "Cricket",
