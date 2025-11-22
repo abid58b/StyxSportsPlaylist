@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691ec3d11ee3a0177bd6924d",
-            "name": "Gahanga Queens CC VS Indatwa Hampshire CC",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "Eliminator",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T11:00:00.000Z",
-            "team_a": {
-                "id": "68e0c5f8c167956f9cb7ba22",
-                "name": "Gahanga Queens CC",
-                "short_name": "Gahanga Queens CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561188941-983898353.webp"
-            },
-            "team_b": {
-                "id": "68e0c5c5c167956f9cb7ba21",
-                "name": "Indatwa Hampshire CC",
-                "short_name": "Indatwa Hampshire CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561153545-914719314.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763623885528-368490006.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "692191b81ee3a0177bd69257",
-            "name": "Charity CC VS Muhanga Zebras",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "Eliminator",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T11:15:00.000Z",
-            "team_a": {
-                "id": "68e0c5a807d2ecfd0c1593b8",
-                "name": "Charity CC",
-                "short_name": "Charity CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561122107-342324740.webp"
-            },
-            "team_b": {
-                "id": "68e1174ac167956f9cb7ba2e",
-                "name": "Muhanga Zebras",
-                "short_name": "Muhanga Zebras",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759582023872-571211869.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763807702296-926390358.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691b1c6b1ee3a0177bd6922c",
             "name": "Northern Warriors VS Deccan Gladiators",
             "category_name": "Cricket",
