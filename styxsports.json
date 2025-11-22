@@ -31,34 +31,6 @@
             "score_match_id": 92890
         },
         {
-            "id": "691b31e1fd87c2948fb480a5",
-            "name": "Ashtapailu Sports VS Pachange CC",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T07:30:00.000Z",
-            "team_a": {
-                "id": "691b289ffd87c2948fb4809f",
-                "name": "Ashtapailu Sports",
-                "short_name": "Ashtapailu Sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
-            },
-            "team_b": {
-                "id": "691b2907fd87c2948fb480a1",
-                "name": "Pachange CC",
-                "short_name": "Pachange CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387653868-555371701.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763389919785-21003167.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6915de4b24f2af2c8dfdcbe7",
             "name": "Perth Scorchers Women VS Adelaide Strikers Women",
             "category_name": "Cricket",

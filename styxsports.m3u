@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
 
-#EXTINF:-1 tvg-id="691b31e1fd87c2948fb480a5" tvg-name="Ashtapailu Sports VS Pachange CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763389919785-21003167.webp" group-title="Live",Ashtapailu Sports VS Pachange CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
 #EXTINF:-1 tvg-id="6915de4b24f2af2c8dfdcbe7" tvg-name="Perth Scorchers Women VS Adelaide Strikers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763040838354-386804835.webp" group-title="Live",Perth Scorchers Women VS Adelaide Strikers Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
@@ -19,4 +15,8 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194
 #EXTINF:-1 tvg-id="691ec3d11ee3a0177bd6924d" tvg-name="Gahanga Queens CC VS Indatwa Hampshire CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763623885528-368490006.webp" group-title="Live",Gahanga Queens CC VS Indatwa Hampshire CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
+#EXTINF:-1 tvg-id="692191b81ee3a0177bd69257" tvg-name="Charity CC VS Muhanga Zebras" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763807702296-926390358.webp" group-title="Live",Charity CC VS Muhanga Zebras
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
