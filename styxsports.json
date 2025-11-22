@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b1c0a1ee3a0177bd6922b",
-            "name": "Aspin Stallions VS Vista Riders",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T11:00:00.000Z",
-            "team_a": {
-                "id": "691b10d2fd87c2948fb48097",
-                "name": "Aspin Stallions",
-                "short_name": "Aspin Stallions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381431526-154194744.webp"
-            },
-            "team_b": {
-                "id": "691b119afa673af67ab17317",
-                "name": "Vista Riders",
-                "short_name": "Vista Riders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381654137-638920004.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763384329111-42917528.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691ec3d11ee3a0177bd6924d",
             "name": "Gahanga Queens CC VS Indatwa Hampshire CC",
             "category_name": "Cricket",
