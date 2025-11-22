@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
 
-#EXTINF:-1 tvg-id="68de81c89f5a848ba39f3357" tvg-name="South Australia VS Western Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp" group-title="Live",South Australia VS Western Australia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
 #EXTINF:-1 tvg-id="68e11b8207d2ecfd0c1593c3" tvg-name="Sorwathe CC VS Muhanga Zebras" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759583103394-991134797.webp" group-title="Live",Sorwathe CC VS Muhanga Zebras
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8

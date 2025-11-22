@@ -31,34 +31,6 @@
             "score_match_id": 92890
         },
         {
-            "id": "68de81c89f5a848ba39f3357",
-            "name": "South Australia VS Western Australia",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "15 | Day - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T03:30:00.000Z",
-            "team_a": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
-            },
-            "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp",
-            "venue": "Adelaide Oval ,Adelaide",
-            "score_match_id": 92891
-        },
-        {
             "id": "68e11b8207d2ecfd0c1593c3",
             "name": "Sorwathe CC VS Muhanga Zebras",
             "category_name": "Cricket",
