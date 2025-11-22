@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b1c6b1ee3a0177bd6922c",
-            "name": "Northern Warriors VS Deccan Gladiators",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "13",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T13:45:00.000Z",
-            "team_a": {
-                "id": "673da6295479471b830a044f",
-                "name": "Northern Warriors",
-                "short_name": "Northern Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381976503-124162498.webp"
-            },
-            "team_b": {
-                "id": "673da2c69b1fbcd9a5703b58",
-                "name": "Deccan Gladiators",
-                "short_name": "Deccan Gladiators",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381953414-534042059.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763384422170-392007934.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94467
-        },
-        {
             "id": "691c3a3e1ee3a0177bd6923c",
             "name": "Quetta Qavalry VS U.A.E. Bulls",
             "category_name": "Cricket",
