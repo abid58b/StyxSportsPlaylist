@@ -1,18 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de81c89f5a848ba39f3357" tvg-name="South Australia VS Western Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp" group-title="Live",South Australia VS Western Australia
+#EXTINF:-1 tvg-id="691ec23d1ee3a0177bd6924b" tvg-name="Tamil Lions CC VS IPRC Kigali" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763623480144-22799829.webp" group-title="Live",Tamil Lions CC VS IPRC Kigali
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
 #EXTINF:-1 tvg-id="68de817d07d2ecfd0c159398" tvg-name="Queensland Bulls VS Victoria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412603172-269725429.webp" group-title="Live",Queensland Bulls VS Victoria
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
 
-#EXTINF:-1 tvg-id="691b32171ee3a0177bd69231" tvg-name="Metro CC VS Omrchecker" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763389973886-35652453.webp" group-title="Live",Metro CC VS Omrchecker
+#EXTINF:-1 tvg-id="68de81c89f5a848ba39f3357" tvg-name="South Australia VS Western Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp" group-title="Live",South Australia VS Western Australia
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
 
 #EXTINF:-1 tvg-id="69206b5e24f2af2c8dfdcc66" tvg-name="Power Hand Plantation VS MELWIRE ROLLING" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763732516414-905083179.webp" group-title="Live",Power Hand Plantation VS MELWIRE ROLLING
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
+
+#EXTINF:-1 tvg-id="691b32421ee3a0177bd69232" tvg-name="Rising CC VS Ashtapailu Sports" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763390017199-242973590.webp" group-title="Live",Rising CC VS Ashtapailu Sports
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
