@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de81c89f5a848ba39f3357" tvg-name="South Australia VS Western Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp" group-title="Live",South Australia VS Western Australia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
-#EXTINF:-1 tvg-id="68de817d07d2ecfd0c159398" tvg-name="Queensland Bulls VS Victoria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412603172-269725429.webp" group-title="Live",Queensland Bulls VS Victoria
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
 #EXTINF:-1 tvg-id="6915df84fd87c2948fb4802f" tvg-name="Brisbane Heat Women VS Melbourne Star Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763041153133-866831752.webp" group-title="Live",Brisbane Heat Women VS Melbourne Star Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
