@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "691c3ad11ee3a0177bd6923d",
-            "name": "Quetta Qavalry VS Aspin Stallions",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-23",
-            "start_date_time": "2025-11-23T13:45:00.000Z",
-            "team_a": {
-                "id": "691b114a1ee3a0177bd69228",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381575411-908925221.webp"
-            },
-            "team_b": {
-                "id": "691b10d2fd87c2948fb48097",
-                "name": "Aspin Stallions",
-                "short_name": "Aspin Stallions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381431526-154194744.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763457740395-540823722.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94470
-        },
-        {
             "id": "691c3b05fa673af67ab17322",
             "name": "Northern Warriors VS Vista Riders",
             "category_name": "Cricket",
