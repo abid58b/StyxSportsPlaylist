@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691ec23d1ee3a0177bd6924b" tvg-name="Tamil Lions CC VS IPRC Kigali" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763623480144-22799829.webp" group-title="Live",Tamil Lions CC VS IPRC Kigali
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="68de81c89f5a848ba39f3357" tvg-name="South Australia VS Western Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp" group-title="Live",South Australia VS Western Australia
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8

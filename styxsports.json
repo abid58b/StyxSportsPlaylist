@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691ec23d1ee3a0177bd6924b",
-            "name": "Tamil Lions CC VS IPRC Kigali",
-            "category_name": "Cricket",
-            "tour_id": "68c02d5d39d6e519355af0b5",
-            "tour_name": "Men's T20 Premier League, Rwanda 2025",
-            "match_no": "Eliminator 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-23",
-            "start_date_time": "2025-11-23T00:00:00.000Z",
-            "team_a": {
-                "id": "68c02c7039d6e519355af0b3",
-                "name": "Tamil Lions CC",
-                "short_name": "Tamil Lions CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
-            },
-            "team_b": {
-                "id": "68c02c48fa47c38f5e0be5d9",
-                "name": "IPRC Kigali",
-                "short_name": "IPRC kigali",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424707480-219253107.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763623480144-22799829.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68de81c89f5a848ba39f3357",
             "name": "South Australia VS Western Australia",
             "category_name": "Cricket",
