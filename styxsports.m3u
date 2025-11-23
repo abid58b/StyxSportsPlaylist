@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68de813e07d2ecfd0c159397" tvg-name="New South Wales VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412520892-564278379.webp" group-title="Live",New South Wales VS Tasmania Tigers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
