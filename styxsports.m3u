@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691ec28f1ee3a0177bd6924c" tvg-name="Tamil Lions CC VS IPRC Kigali" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763623563395-639193102.webp" group-title="Live",Tamil Lions CC VS IPRC Kigali
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="691c3b05fa673af67ab17322" tvg-name="Northern Warriors VS Vista Riders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763457794292-103521645.webp" group-title="Live",Northern Warriors VS Vista Riders
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
