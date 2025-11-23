@@ -87,34 +87,6 @@
             "score_match_id": 92891
         },
         {
-            "id": "69206b5e24f2af2c8dfdcc66",
-            "name": "Power Hand Plantation VS MELWIRE ROLLING",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "Pre Quaterfinal",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-23",
-            "start_date_time": "2025-11-23T04:00:00.000Z",
-            "team_a": {
-                "id": "67530286e2cc6afe4b97daff",
-                "name": "Power Hand Plantation",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699171210-883229968.webp"
-            },
-            "team_b": {
-                "id": "68f222334e4aa6d729f6752b",
-                "name": "MELWIRE ROLLING",
-                "short_name": "MELWIRE ROLLING",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698927866-424884246.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763732516414-905083179.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691b32421ee3a0177bd69232",
             "name": "Rising CC VS Ashtapailu Sports",
             "category_name": "Cricket",
