@@ -3,60 +3,312 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6915df49fa673af67ab172da",
-            "name": "Sydney Thunder Women VS Melbourne Renegades Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "21",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T22:30:00.000Z",
-            "team_a": {
-                "id": "671b00bec2a91e9745b09cd6",
-                "name": "Sydney Thunder Women",
-                "short_name": "Sydney Thunder Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039803328-795856829.webp"
-            },
-            "team_b": {
-                "id": "671b00e6c2a91e9745b09cd7",
-                "name": "Melbourne Renegades Women",
-                "short_name": "Melbourne Renegades Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041090208-634670664.webp",
-            "venue": "Drummoyne Oval ,Sydney",
-            "score_match_id": 93019
-        },
-        {
-            "id": "68de813e07d2ecfd0c159397",
-            "name": "New South Wales VS Tasmania Tigers",
+            "id": "68de81c89f5a848ba39f3357",
+            "name": "South Australia VS Western Australia",
             "category_name": "Cricket",
             "tour_id": "68de4f789f5a848ba39f334f",
             "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "13 | Day - 2",
+            "match_no": "15 | Day - 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T23:00:00.000Z",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T03:30:00.000Z",
             "team_a": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
             },
             "team_b": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412520892-564278379.webp",
-            "venue": "Cricket Central ,Sydney",
-            "score_match_id": 92889
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp",
+            "venue": "Adelaide Oval ,Adelaide",
+            "score_match_id": 92891
+        },
+        {
+            "id": "68de817d07d2ecfd0c159398",
+            "name": "Queensland Bulls VS Victoria",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "14 | Day - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T03:30:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "team_b": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412603172-269725429.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92890
+        },
+        {
+            "id": "691b32171ee3a0177bd69231",
+            "name": "Metro CC VS Omrchecker",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T03:30:00.000Z",
+            "team_a": {
+                "id": "691b28dafd87c2948fb480a0",
+                "name": "Metro CC",
+                "short_name": "Metro CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387607871-976150940.webp"
+            },
+            "team_b": {
+                "id": "691b2924fa673af67ab1731c",
+                "name": "Omrchecker",
+                "short_name": "Omrchecker",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387682555-631716582.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763389973886-35652453.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69206b5e24f2af2c8dfdcc66",
+            "name": "Power Hand Plantation VS MELWIRE ROLLING",
+            "category_name": "Cricket",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "Pre Quaterfinal",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T04:00:00.000Z",
+            "team_a": {
+                "id": "67530286e2cc6afe4b97daff",
+                "name": "Power Hand Plantation",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699171210-883229968.webp"
+            },
+            "team_b": {
+                "id": "68f222334e4aa6d729f6752b",
+                "name": "MELWIRE ROLLING",
+                "short_name": "MELWIRE ROLLING",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698927866-424884246.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763732516414-905083179.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "691b32421ee3a0177bd69232",
+            "name": "Rising CC VS Ashtapailu Sports",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T07:30:00.000Z",
+            "team_a": {
+                "id": "691b28f21ee3a0177bd6922e",
+                "name": "Rising CC",
+                "short_name": "Rising CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387632701-688082441.webp"
+            },
+            "team_b": {
+                "id": "691b289ffd87c2948fb4809f",
+                "name": "Ashtapailu Sports",
+                "short_name": "Ashtapailu Sports",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763390017199-242973590.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "691ec23d1ee3a0177bd6924b",
+            "name": "Tamil Lions CC VS IPRC Kigali",
+            "category_name": "Cricket",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "Eliminator 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T07:30:00.000Z",
+            "team_a": {
+                "id": "68c02c7039d6e519355af0b3",
+                "name": "Tamil Lions CC",
+                "short_name": "Tamil Lions CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
+            },
+            "team_b": {
+                "id": "68c02c48fa47c38f5e0be5d9",
+                "name": "IPRC Kigali",
+                "short_name": "IPRC kigali",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424707480-219253107.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763623480144-22799829.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6915df84fd87c2948fb4802f",
+            "name": "Brisbane Heat Women VS Melbourne Star Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "22",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T08:40:00.000Z",
+            "team_a": {
+                "id": "67144f79166de3cf1b69e62d",
+                "name": "Brisbane Heat Women",
+                "short_name": "Brisbane Heat Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039708775-573021413.webp"
+            },
+            "team_b": {
+                "id": "671b0081c2a91e9745b09cd4",
+                "name": "Melbourne Star Women",
+                "short_name": "Melbourne Star Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041153133-866831752.webp",
+            "venue": "Allan Border Field ,Brisbane",
+            "score_match_id": 93020
+        },
+        {
+            "id": "691c3a8424f2af2c8dfdcc2f",
+            "name": "Ajman Titans VS Royal Champs",
+            "category_name": "Cricket",
+            "tour_id": "691b12aafd87c2948fb48099",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T11:00:00.000Z",
+            "team_a": {
+                "id": "691b10ac1ee3a0177bd69227",
+                "name": "Ajman Titans",
+                "short_name": "Ajman Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381418755-615007395.webp"
+            },
+            "team_b": {
+                "id": "691b1172fd87c2948fb48098",
+                "name": "Royal Champs",
+                "short_name": "Royal Champs",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381615812-446875682.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763457660379-349119513.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 94469
+        },
+        {
+            "id": "691ec28f1ee3a0177bd6924c",
+            "name": "Tamil Lions CC VS IPRC Kigali",
+            "category_name": "Cricket",
+            "tour_id": "68c02d5d39d6e519355af0b5",
+            "tour_name": "Men's T20 Premier League, Rwanda 2025",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T11:00:00.000Z",
+            "team_a": {
+                "id": "68c02c7039d6e519355af0b3",
+                "name": "Tamil Lions CC",
+                "short_name": "Tamil Lions CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424750018-347867395.webp"
+            },
+            "team_b": {
+                "id": "68c02c48fa47c38f5e0be5d9",
+                "name": "IPRC Kigali",
+                "short_name": "IPRC kigali",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757424707480-219253107.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763623563395-639193102.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "691c3ad11ee3a0177bd6923d",
+            "name": "Quetta Qavalry VS Aspin Stallions",
+            "category_name": "Cricket",
+            "tour_id": "691b12aafd87c2948fb48099",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "16",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T13:45:00.000Z",
+            "team_a": {
+                "id": "691b114a1ee3a0177bd69228",
+                "name": "Quetta Qavalry",
+                "short_name": "Quetta Qavalry",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381575411-908925221.webp"
+            },
+            "team_b": {
+                "id": "691b10d2fd87c2948fb48097",
+                "name": "Aspin Stallions",
+                "short_name": "Aspin Stallions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381431526-154194744.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763457740395-540823722.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 94470
+        },
+        {
+            "id": "691c3b05fa673af67ab17322",
+            "name": "Northern Warriors VS Vista Riders",
+            "category_name": "Cricket",
+            "tour_id": "691b12aafd87c2948fb48099",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "17",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-23",
+            "start_date_time": "2025-11-23T16:00:00.000Z",
+            "team_a": {
+                "id": "673da6295479471b830a044f",
+                "name": "Northern Warriors",
+                "short_name": "Northern Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381976503-124162498.webp"
+            },
+            "team_b": {
+                "id": "691b119afa673af67ab17317",
+                "name": "Vista Riders",
+                "short_name": "Vista Riders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381654137-638920004.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763457794292-103521645.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 94471
         }
     ]
 }
