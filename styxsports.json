@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de817d07d2ecfd0c159398",
-            "name": "Queensland Bulls VS Victoria",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "14 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-24",
-            "start_date_time": "2025-11-24T03:30:00.000Z",
-            "team_a": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
-            },
-            "team_b": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412603172-269725429.webp",
-            "venue": "The Gabba ,Brisbane",
-            "score_match_id": 92890
-        },
-        {
             "id": "68de81c89f5a848ba39f3357",
             "name": "South Australia VS Western Australia",
             "category_name": "Cricket",
@@ -59,32 +31,32 @@
             "score_match_id": 92891
         },
         {
-            "id": "691b327624f2af2c8dfdcc28",
-            "name": "Sunny XI VS Pachange CC",
+            "id": "68de817d07d2ecfd0c159398",
+            "name": "Queensland Bulls VS Victoria",
             "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "15",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "14 | Day - 3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-24",
             "start_date_time": "2025-11-24T03:30:00.000Z",
             "team_a": {
-                "id": "691b28bd1ee3a0177bd6922d",
-                "name": "Sunny XI",
-                "short_name": "Sunny XI",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387579228-2196450.webp"
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
             },
             "team_b": {
-                "id": "691b2907fd87c2948fb480a1",
-                "name": "Pachange CC",
-                "short_name": "Pachange CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387653868-555371701.webp"
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763390067737-141926201.webp",
-            "venue": "",
-            "score_match_id": 0
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412603172-269725429.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92890
         },
         {
             "id": "691b32db1ee3a0177bd69233",
