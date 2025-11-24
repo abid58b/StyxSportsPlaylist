@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de81c89f5a848ba39f3357",
-            "name": "South Australia VS Western Australia",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "15 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-24",
-            "start_date_time": "2025-11-24T03:30:00.000Z",
-            "team_a": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
-            },
-            "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp",
-            "venue": "Adelaide Oval ,Adelaide",
-            "score_match_id": 92891
-        },
-        {
             "id": "68de817d07d2ecfd0c159398",
             "name": "Queensland Bulls VS Victoria",
             "category_name": "Cricket",
@@ -57,34 +29,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412603172-269725429.webp",
             "venue": "The Gabba ,Brisbane",
             "score_match_id": 92890
-        },
-        {
-            "id": "691b32db1ee3a0177bd69233",
-            "name": "Metro CC VS Omrchecker",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-24",
-            "start_date_time": "2025-11-24T07:30:00.000Z",
-            "team_a": {
-                "id": "691b28dafd87c2948fb480a0",
-                "name": "Metro CC",
-                "short_name": "Metro CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387607871-976150940.webp"
-            },
-            "team_b": {
-                "id": "691b2924fa673af67ab1731c",
-                "name": "Omrchecker",
-                "short_name": "Omrchecker",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387682555-631716582.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763390170508-415166064.webp",
-            "venue": "",
-            "score_match_id": 0
         },
         {
             "id": "68de813e07d2ecfd0c159397",
