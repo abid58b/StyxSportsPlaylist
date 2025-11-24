@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68de817d07d2ecfd0c159398" tvg-name="Queensland Bulls VS Victoria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412603172-269725429.webp" group-title="Live",Queensland Bulls VS Victoria
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
+#EXTINF:-1 tvg-id="68de81c89f5a848ba39f3357" tvg-name="South Australia VS Western Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412676376-839894066.webp" group-title="Live",South Australia VS Western Australia
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+
+#EXTINF:-1 tvg-id="691b327624f2af2c8dfdcc28" tvg-name="Sunny XI VS Pachange CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763390067737-141926201.webp" group-title="Live",Sunny XI VS Pachange CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
