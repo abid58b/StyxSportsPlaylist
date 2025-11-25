@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691c3f16fd87c2948fb480af" tvg-name="Sunny XI VS Pachange CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763458836686-849116424.webp" group-title="Live",Sunny XI VS Pachange CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
 #EXTINF:-1 tvg-id="6915dfbe1ee3a0177bd691f0" tvg-name="Adelaide Strikers Women VS Brisbane Heat Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763041212181-718262885.webp" group-title="Live",Adelaide Strikers Women VS Brisbane Heat Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
