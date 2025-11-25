@@ -31,34 +31,6 @@
             "score_match_id": 92891
         },
         {
-            "id": "691c3eee24f2af2c8dfdcc36",
-            "name": "Rising CC VS Ashtapailu Sports",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "17",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-25",
-            "start_date_time": "2025-11-25T03:30:00.000Z",
-            "team_a": {
-                "id": "691b28f21ee3a0177bd6922e",
-                "name": "Rising CC",
-                "short_name": "Rising CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387632701-688082441.webp"
-            },
-            "team_b": {
-                "id": "691b289ffd87c2948fb4809f",
-                "name": "Ashtapailu Sports",
-                "short_name": "Ashtapailu Sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763458794345-459006061.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691c3f16fd87c2948fb480af",
             "name": "Sunny XI VS Pachange CC",
             "category_name": "Cricket",
@@ -199,34 +171,6 @@
             "score_match_id": 92905
         },
         {
-            "id": "691843ca1ee3a0177bd69211",
-            "name": "Northern District VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 4 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-25",
-            "start_date_time": "2025-11-25T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "team_b": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197892753-859214958.webp",
-            "venue": "Bay Oval ,Mount Maunganui",
-            "score_match_id": 92904
-        },
-        {
             "id": "69184440fa673af67ab172ff",
             "name": "Otago VS Canterbury Kings",
             "category_name": "Cricket",
@@ -253,6 +197,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198012828-619745297.webp",
             "venue": "University Oval ,Dunedin",
             "score_match_id": 92906
+        },
+        {
+            "id": "691843ca1ee3a0177bd69211",
+            "name": "Northern District VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 4 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-25",
+            "start_date_time": "2025-11-25T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197892753-859214958.webp",
+            "venue": "Bay Oval ,Mount Maunganui",
+            "score_match_id": 92904
         }
     ]
 }
