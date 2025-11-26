@@ -54,7 +54,7 @@
                 "short_name": "Northern Warriors",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381976503-124162498.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763457959716-176985835.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150532352-824878213.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94480
         },
@@ -82,7 +82,7 @@
                 "short_name": "Ajman Titans",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381418755-615007395.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763457999248-393686532.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150546361-152895613.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94481
         },
@@ -110,37 +110,9 @@
                 "short_name": "Aspin Stallions",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381431526-154194744.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763458045571-815350840.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150571897-776435210.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94482
-        },
-        {
-            "id": "691844061ee3a0177bd69212",
-            "name": "Wellington Firebirds VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 5 | Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-26",
-            "start_date_time": "2025-11-26T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "team_b": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197953434-325354943.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92905
         },
         {
             "id": "691843ca1ee3a0177bd69211",
@@ -169,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197892753-859214958.webp",
             "venue": "Bay Oval ,Mount Maunganui",
             "score_match_id": 92904
+        },
+        {
+            "id": "691844061ee3a0177bd69212",
+            "name": "Wellington Firebirds VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 5 | Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-26",
+            "start_date_time": "2025-11-26T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "team_b": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197953434-325354943.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92905
         },
         {
             "id": "69184440fa673af67ab172ff",
