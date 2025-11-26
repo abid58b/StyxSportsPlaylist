@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691c3f56fa673af67ab17329" tvg-name="Metro CC VS Rising CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763458891376-324800580.webp" group-title="Live",Metro CC VS Rising CC
+#EXTINF:-1 tvg-id="691c3f83fd87c2948fb480b0" tvg-name="Omrchecker VS Sunny XI" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763458944818-694174471.webp" group-title="Live",Omrchecker VS Sunny XI
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
-#EXTINF:-1 tvg-id="6915e0271ee3a0177bd691f1" tvg-name="Melbourne Star Women VS Hobart Hurricanes Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763041316528-733951786.webp" group-title="Live",Melbourne Star Women VS Hobart Hurricanes Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 
