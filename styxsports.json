@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691c3bd324f2af2c8dfdcc30",
-            "name": "Deccan Gladiators VS Ajman Titans",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "21",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-26",
-            "start_date_time": "2025-11-26T13:45:00.000Z",
-            "team_a": {
-                "id": "673da2c69b1fbcd9a5703b58",
-                "name": "Deccan Gladiators",
-                "short_name": "Deccan Gladiators",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381953414-534042059.webp"
-            },
-            "team_b": {
-                "id": "691b10ac1ee3a0177bd69227",
-                "name": "Ajman Titans",
-                "short_name": "Ajman Titans",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381418755-615007395.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150546361-152895613.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94481
-        },
-        {
             "id": "691c3c0224f2af2c8dfdcc31",
             "name": "Royal Champs VS Aspin Stallions",
             "category_name": "Cricket",
@@ -57,6 +29,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150571897-776435210.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94482
+        },
+        {
+            "id": "69184440fa673af67ab172ff",
+            "name": "Otago VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 6 | Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-26",
+            "start_date_time": "2025-11-26T21:00:00.000Z",
+            "team_a": {
+                "id": "6916fc9224f2af2c8dfdcbfc",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198012828-619745297.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 92906
         },
         {
             "id": "691843ca1ee3a0177bd69211",
@@ -113,34 +113,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197953434-325354943.webp",
             "venue": "Basin Reserve ,Wellington",
             "score_match_id": 92905
-        },
-        {
-            "id": "69184440fa673af67ab172ff",
-            "name": "Otago VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 6 | Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-26",
-            "start_date_time": "2025-11-26T21:00:00.000Z",
-            "team_a": {
-                "id": "6916fc9224f2af2c8dfdcbfc",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198012828-619745297.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 92906
         }
     ]
 }
