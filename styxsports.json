@@ -169,6 +169,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150704217-694841659.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94485
+        },
+        {
+            "id": "691844061ee3a0177bd69212",
+            "name": "Wellington Firebirds VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 5 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-27",
+            "start_date_time": "2025-11-27T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "team_b": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197953434-325354943.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92905
         }
     ]
 }
