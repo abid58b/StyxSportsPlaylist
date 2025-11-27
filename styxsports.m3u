@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691c3c64fa673af67ab17324" tvg-name="U.A.E. Bulls VS Aspin Stallions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764150689709-734492518.webp" group-title="Live",U.A.E. Bulls VS Aspin Stallions
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
-
 #EXTINF:-1 tvg-id="691c3c9024f2af2c8dfdcc33" tvg-name="Northern Warriors VS Royal Champs" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764150704217-694841659.webp" group-title="Live",Northern Warriors VS Royal Champs
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8

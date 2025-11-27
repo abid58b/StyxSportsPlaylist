@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691c3c64fa673af67ab17324",
-            "name": "U.A.E. Bulls VS Aspin Stallions",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "24",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-27",
-            "start_date_time": "2025-11-27T13:45:00.000Z",
-            "team_a": {
-                "id": "691b11c124f2af2c8dfdcc21",
-                "name": "U.A.E. Bulls",
-                "short_name": "U.A.E. Bulls",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381693116-698414405.webp"
-            },
-            "team_b": {
-                "id": "691b10d2fd87c2948fb48097",
-                "name": "Aspin Stallions",
-                "short_name": "Aspin Stallions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381431526-154194744.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150689709-734492518.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94484
-        },
-        {
             "id": "691c3c9024f2af2c8dfdcc33",
             "name": "Northern Warriors VS Royal Champs",
             "category_name": "Cricket",
