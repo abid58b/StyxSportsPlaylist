@@ -1,2 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6916e6c0fd87c2948fb48037" tvg-name="Northern District Women VS Otago Sparks" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763108537753-962096559.webp" group-title="Live",Northern District Women VS Otago Sparks
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
+
+#EXTINF:-1 tvg-id="6916e6fdfd87c2948fb48038" tvg-name="Canterbury Magicians VS Auckland Hearts" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763108598772-767580414.webp" group-title="Live",Canterbury Magicians VS Auckland Hearts
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
+
+#EXTINF:-1 tvg-id="6916e6811ee3a0177bd691fb" tvg-name="Central Hinds VS Wellington Blaze" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763108473263-342206958.webp" group-title="Live",Central Hinds VS Wellington Blaze
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
+
+#EXTINF:-1 tvg-id="69184440fa673af67ab172ff" tvg-name="Otago VS Canterbury Kings" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198012828-619745297.webp" group-title="Live",Otago VS Canterbury Kings
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
+
+#EXTINF:-1 tvg-id="691843ca1ee3a0177bd69211" tvg-name="Northern District VS Auckland Aces" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763197892753-859214958.webp" group-title="Live",Northern District VS Auckland Aces
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
+#EXTINF:-1 tvg-id="691844061ee3a0177bd69212" tvg-name="Wellington Firebirds VS Central Stags" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763197953434-325354943.webp" group-title="Live",Wellington Firebirds VS Central Stags
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
