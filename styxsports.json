@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691c3ce724f2af2c8dfdcc35",
-            "name": "Quetta Qavalry VS Royal Champs",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "27",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-28",
-            "start_date_time": "2025-11-28T13:45:00.000Z",
-            "team_a": {
-                "id": "691b114a1ee3a0177bd69228",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381575411-908925221.webp"
-            },
-            "team_b": {
-                "id": "691b1172fd87c2948fb48098",
-                "name": "Royal Champs",
-                "short_name": "Royal Champs",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381615812-446875682.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150740199-138643771.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94487
-        },
-        {
             "id": "691c3d10fa673af67ab17325",
             "name": "Vista Riders VS Deccan Gladiators",
             "category_name": "Cricket",
