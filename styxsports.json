@@ -3,32 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691c3d10fa673af67ab17325",
-            "name": "Vista Riders VS Deccan Gladiators",
+            "id": "6916e6c0fd87c2948fb48037",
+            "name": "Northern District Women VS Otago Sparks",
             "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "28",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "8",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-28",
-            "start_date_time": "2025-11-28T16:00:00.000Z",
+            "start_date_time": "2025-11-28T21:00:00.000Z",
             "team_a": {
-                "id": "691b119afa673af67ab17317",
-                "name": "Vista Riders",
-                "short_name": "Vista Riders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381654137-638920004.webp"
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
             },
             "team_b": {
-                "id": "673da2c69b1fbcd9a5703b58",
-                "name": "Deccan Gladiators",
-                "short_name": "Deccan Gladiators",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381953414-534042059.webp"
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150757433-225980285.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94488
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108537753-962096559.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 93618
         },
         {
             "id": "6916e6fdfd87c2948fb48038",
@@ -59,34 +59,6 @@
             "score_match_id": 93619
         },
         {
-            "id": "6916e6c0fd87c2948fb48037",
-            "name": "Northern District Women VS Otago Sparks",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-28",
-            "start_date_time": "2025-11-28T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e939fd87c2948fb48035",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
-            },
-            "team_b": {
-                "id": "6915e8dbfd87c2948fb48034",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108537753-962096559.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 93618
-        },
-        {
             "id": "6916e6811ee3a0177bd691fb",
             "name": "Central Hinds VS Wellington Blaze",
             "category_name": "Cricket",
@@ -113,6 +85,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108473263-342206958.webp",
             "venue": "Fitzherbert Park ,Palmerston North",
             "score_match_id": 93617
+        },
+        {
+            "id": "69184440fa673af67ab172ff",
+            "name": "Otago VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 6 | Day 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T21:00:00.000Z",
+            "team_a": {
+                "id": "6916fc9224f2af2c8dfdcbfc",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198012828-619745297.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 92906
         },
         {
             "id": "691843ca1ee3a0177bd69211",
@@ -169,34 +169,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197953434-325354943.webp",
             "venue": "Basin Reserve ,Wellington",
             "score_match_id": 92905
-        },
-        {
-            "id": "69184440fa673af67ab172ff",
-            "name": "Otago VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 6 | Day 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-28",
-            "start_date_time": "2025-11-28T21:00:00.000Z",
-            "team_a": {
-                "id": "6916fc9224f2af2c8dfdcbfc",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198012828-619745297.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 92906
         }
     ]
 }
