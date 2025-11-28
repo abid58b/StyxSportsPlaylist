@@ -3,88 +3,284 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691844061ee3a0177bd69212",
-            "name": "Wellington Firebirds VS Central Stags",
+            "id": "691c404524f2af2c8dfdcc37",
+            "name": "Metro CC VS Ashtapailu Sports",
             "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 5 | Day 3",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "23",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-27",
-            "start_date_time": "2025-11-27T21:00:00.000Z",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T03:30:00.000Z",
             "team_a": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+                "id": "691b28dafd87c2948fb480a0",
+                "name": "Metro CC",
+                "short_name": "Metro CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387607871-976150940.webp"
             },
             "team_b": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "691b289ffd87c2948fb4809f",
+                "name": "Ashtapailu Sports",
+                "short_name": "Ashtapailu Sports",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197953434-325354943.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92905
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459138012-217434408.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
-            "id": "691843ca1ee3a0177bd69211",
-            "name": "Northern District VS Auckland Aces",
+            "id": "6915e0cffd87c2948fb48030",
+            "name": "Brisbane Heat Women VS Sydney Sixers Women",
             "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 4 | Day 3",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "26",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-27",
-            "start_date_time": "2025-11-27T21:00:00.000Z",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T04:10:00.000Z",
             "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+                "id": "67144f79166de3cf1b69e62d",
+                "name": "Brisbane Heat Women",
+                "short_name": "Brisbane Heat Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039708775-573021413.webp"
             },
             "team_b": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+                "id": "671b0027c2a91e9745b09cd2",
+                "name": "Sydney Sixers Women",
+                "short_name": "Sydney Sixers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763197892753-859214958.webp",
-            "venue": "Bay Oval ,Mount Maunganui",
-            "score_match_id": 92904
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041481904-91996563.webp",
+            "venue": "Adelaide Oval ,Adelaide",
+            "score_match_id": 93024
         },
         {
-            "id": "69184440fa673af67ab172ff",
-            "name": "Otago VS Canterbury Kings",
+            "id": "691c4065fa673af67ab1732a",
+            "name": "Rising CC VS Omrchecker",
             "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 6 | Day 3",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "24",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-27",
-            "start_date_time": "2025-11-27T21:00:00.000Z",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T07:30:00.000Z",
             "team_a": {
-                "id": "6916fc9224f2af2c8dfdcbfc",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+                "id": "691b28f21ee3a0177bd6922e",
+                "name": "Rising CC",
+                "short_name": "Rising CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387632701-688082441.webp"
             },
             "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+                "id": "691b2924fa673af67ab1731c",
+                "name": "Omrchecker",
+                "short_name": "Omrchecker",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387682555-631716582.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198012828-619745297.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 92906
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459172086-2844163.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6915e13b1ee3a0177bd691f2",
+            "name": "Adelaide Strikers Women VS Sydney Thunder Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "27",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T07:40:00.000Z",
+            "team_a": {
+                "id": "671b0046c2a91e9745b09cd3",
+                "name": "Adelaide Strikers Women",
+                "short_name": "Adelaide Strikers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039732073-246007766.webp"
+            },
+            "team_b": {
+                "id": "671b00bec2a91e9745b09cd6",
+                "name": "Sydney Thunder Women",
+                "short_name": "Sydney Thunder Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039803328-795856829.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041592596-820063962.webp",
+            "venue": "Adelaide Oval ,Adelaide",
+            "score_match_id": 93025
+        },
+        {
+            "id": "691c3cbf24f2af2c8dfdcc34",
+            "name": "Ajman Titans VS U.A.E. Bulls",
+            "category_name": "Cricket",
+            "tour_id": "691b12aafd87c2948fb48099",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "26",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T11:00:00.000Z",
+            "team_a": {
+                "id": "691b10ac1ee3a0177bd69227",
+                "name": "Ajman Titans",
+                "short_name": "Ajman Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381418755-615007395.webp"
+            },
+            "team_b": {
+                "id": "691b11c124f2af2c8dfdcc21",
+                "name": "U.A.E. Bulls",
+                "short_name": "U.A.E. Bulls",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381693116-698414405.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150726484-473182171.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 94486
+        },
+        {
+            "id": "691c3ce724f2af2c8dfdcc35",
+            "name": "Quetta Qavalry VS Royal Champs",
+            "category_name": "Cricket",
+            "tour_id": "691b12aafd87c2948fb48099",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "27",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T13:45:00.000Z",
+            "team_a": {
+                "id": "691b114a1ee3a0177bd69228",
+                "name": "Quetta Qavalry",
+                "short_name": "Quetta Qavalry",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381575411-908925221.webp"
+            },
+            "team_b": {
+                "id": "691b1172fd87c2948fb48098",
+                "name": "Royal Champs",
+                "short_name": "Royal Champs",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381615812-446875682.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150740199-138643771.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 94487
+        },
+        {
+            "id": "691c3d10fa673af67ab17325",
+            "name": "Vista Riders VS Deccan Gladiators",
+            "category_name": "Cricket",
+            "tour_id": "691b12aafd87c2948fb48099",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "28",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T16:00:00.000Z",
+            "team_a": {
+                "id": "691b119afa673af67ab17317",
+                "name": "Vista Riders",
+                "short_name": "Vista Riders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381654137-638920004.webp"
+            },
+            "team_b": {
+                "id": "673da2c69b1fbcd9a5703b58",
+                "name": "Deccan Gladiators",
+                "short_name": "Deccan Gladiators",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381953414-534042059.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764150757433-225980285.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 94488
+        },
+        {
+            "id": "6916e6fdfd87c2948fb48038",
+            "name": "Canterbury Magicians VS Auckland Hearts",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e97d24f2af2c8dfdcbee",
+                "name": "Canterbury Magicians",
+                "short_name": "Canterbury Magicians",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043707588-48167040.webp"
+            },
+            "team_b": {
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108598772-767580414.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 93619
+        },
+        {
+            "id": "6916e6c0fd87c2948fb48037",
+            "name": "Northern District Women VS Otago Sparks",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
+            },
+            "team_b": {
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108537753-962096559.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 93618
+        },
+        {
+            "id": "6916e6811ee3a0177bd691fb",
+            "name": "Central Hinds VS Wellington Blaze",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-28",
+            "start_date_time": "2025-11-28T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e966fa673af67ab172de",
+                "name": "Central Hinds",
+                "short_name": "Central Hinds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043681550-378182644.webp"
+            },
+            "team_b": {
+                "id": "6915e9511ee3a0177bd691f6",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763108473263-342206958.webp",
+            "venue": "Fitzherbert Park ,Palmerston North",
+            "score_match_id": 93617
         }
     ]
 }
