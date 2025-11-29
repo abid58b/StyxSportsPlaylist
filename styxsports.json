@@ -60,7 +60,7 @@
         },
         {
             "id": "691c3d48fa673af67ab17326",
-            "name": "TBC1 VS TBC1",
+            "name": "Quetta Qavalry VS Aspin Stallions",
             "category_name": "Cricket",
             "tour_id": "691b12aafd87c2948fb48099",
             "tour_name": "Abu Dhabi T10 League 2025",
@@ -71,24 +71,24 @@
             "start_date": "2025-11-29",
             "start_date_time": "2025-11-29T13:15:00.000Z",
             "team_a": {
-                "id": "67079c27254eecc92bb01e5e",
-                "name": "TBC1",
-                "short_name": "TBC1",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728551886937-546616561.png"
+                "id": "691b114a1ee3a0177bd69228",
+                "name": "Quetta Qavalry",
+                "short_name": "Quetta Qavalry",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381575411-908925221.webp"
             },
             "team_b": {
-                "id": "67079c27254eecc92bb01e5e",
-                "name": "TBC1",
-                "short_name": "TBC1",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728551886937-546616561.png"
+                "id": "691b10d2fd87c2948fb48097",
+                "name": "Aspin Stallions",
+                "short_name": "Aspin Stallions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381431526-154194744.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763458373377-486389847.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764397873964-474047186.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94499
         },
         {
             "id": "691c3d6cfa673af67ab17327",
-            "name": "TBC1 VS TBC1",
+            "name": "Ajman Titans VS U.A.E. Bulls",
             "category_name": "Cricket",
             "tour_id": "691b12aafd87c2948fb48099",
             "tour_name": "Abu Dhabi T10 League 2025",
@@ -99,18 +99,18 @@
             "start_date": "2025-11-29",
             "start_date_time": "2025-11-29T16:00:00.000Z",
             "team_a": {
-                "id": "67079c27254eecc92bb01e5e",
-                "name": "TBC1",
-                "short_name": "TBC1",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728551886937-546616561.png"
+                "id": "691b10ac1ee3a0177bd69227",
+                "name": "Ajman Titans",
+                "short_name": "Ajman Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381418755-615007395.webp"
             },
             "team_b": {
-                "id": "67079c27254eecc92bb01e5e",
-                "name": "TBC1",
-                "short_name": "TBC1",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1728551886937-546616561.png"
+                "id": "691b11c124f2af2c8dfdcc21",
+                "name": "U.A.E. Bulls",
+                "short_name": "U.A.E. Bulls",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381693116-698414405.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763458410864-432787489.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764397962297-164939276.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94500
         },
