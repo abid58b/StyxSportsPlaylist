@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="691c3d48fa673af67ab17326" tvg-name="Quetta Qavalry VS Aspin Stallions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764397873964-474047186.webp" group-title="Live",Quetta Qavalry VS Aspin Stallions
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
+
