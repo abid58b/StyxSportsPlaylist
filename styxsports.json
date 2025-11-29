@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6915e17efd87c2948fb48031",
-            "name": "Melbourne Renegades Women VS Melbourne Star Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "28",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T03:40:00.000Z",
-            "team_a": {
-                "id": "671b00e6c2a91e9745b09cd7",
-                "name": "Melbourne Renegades Women",
-                "short_name": "Melbourne Renegades Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
-            },
-            "team_b": {
-                "id": "671b0081c2a91e9745b09cd4",
-                "name": "Melbourne Star Women",
-                "short_name": "Melbourne Star Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041658127-145993950.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 93026
-        },
-        {
             "id": "6915e1cafd87c2948fb48032",
             "name": "Hobart Hurricanes Women VS Perth Scorchers Women",
             "category_name": "Cricket",
@@ -115,34 +87,6 @@
             "score_match_id": 94500
         },
         {
-            "id": "6916ea83fd87c2948fb48039",
-            "name": "Canterbury Magicians VS Auckland Hearts",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e97d24f2af2c8dfdcbee",
-                "name": "Canterbury Magicians",
-                "short_name": "Canterbury Magicians",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043707588-48167040.webp"
-            },
-            "team_b": {
-                "id": "6915e8fb1ee3a0177bd691f5",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109502271-702239254.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 93622
-        },
-        {
             "id": "6916e9fe1ee3a0177bd691fc",
             "name": "Central Hinds VS Wellington Blaze",
             "category_name": "Cricket",
@@ -197,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109457390-576635647.webp",
             "venue": "Cobham Ovall ,Whangarei",
             "score_match_id": 93621
+        },
+        {
+            "id": "6916ea83fd87c2948fb48039",
+            "name": "Canterbury Magicians VS Auckland Hearts",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-29",
+            "start_date_time": "2025-11-29T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e97d24f2af2c8dfdcbee",
+                "name": "Canterbury Magicians",
+                "short_name": "Canterbury Magicians",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043707588-48167040.webp"
+            },
+            "team_b": {
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109502271-702239254.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 93622
         }
     ]
 }
