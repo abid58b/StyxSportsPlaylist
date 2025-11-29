@@ -115,34 +115,6 @@
             "score_match_id": 94500
         },
         {
-            "id": "6916ea5624f2af2c8dfdcbf8",
-            "name": "Northern District Women VS Otago Sparks",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e939fd87c2948fb48035",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
-            },
-            "team_b": {
-                "id": "6915e8dbfd87c2948fb48034",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109457390-576635647.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 93621
-        },
-        {
             "id": "6916e9fe1ee3a0177bd691fc",
             "name": "Central Hinds VS Wellington Blaze",
             "category_name": "Cricket",
@@ -169,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109370097-39967623.webp",
             "venue": "Fitzherbert Park ,Palmerston North",
             "score_match_id": 93620
+        },
+        {
+            "id": "6916ea5624f2af2c8dfdcbf8",
+            "name": "Northern District Women VS Otago Sparks",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-29",
+            "start_date_time": "2025-11-29T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
+            },
+            "team_b": {
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109457390-576635647.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 93621
         },
         {
             "id": "6916ea83fd87c2948fb48039",
