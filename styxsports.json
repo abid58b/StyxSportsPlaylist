@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6915e1cafd87c2948fb48032",
-            "name": "Hobart Hurricanes Women VS Perth Scorchers Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "29",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T07:40:00.000Z",
-            "team_a": {
-                "id": "67144f5f8a9eea3b43513353",
-                "name": "Hobart Hurricanes Women",
-                "short_name": "Hobart Hurricanes Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039698954-30288296.webp"
-            },
-            "team_b": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041734649-967987222.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 93027
-        },
-        {
             "id": "691c3d48fa673af67ab17326",
             "name": "Quetta Qavalry VS Aspin Stallions",
             "category_name": "Cricket",
