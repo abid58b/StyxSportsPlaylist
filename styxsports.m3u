@@ -1,14 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6916e9fe1ee3a0177bd691fc" tvg-name="Central Hinds VS Wellington Blaze" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763109370097-39967623.webp" group-title="Live",Central Hinds VS Wellington Blaze
+#EXTINF:-1 tvg-id="68d798a90a167c5344225658" tvg-name="PACC Premier VS HKCC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764398439158-192171610.webp" group-title="Live",PACC Premier VS HKCC Premier
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
 
-#EXTINF:-1 tvg-id="6916ea83fd87c2948fb48039" tvg-name="Canterbury Magicians VS Auckland Hearts" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763109502271-702239254.webp" group-title="Live",Canterbury Magicians VS Auckland Hearts
+#EXTINF:-1 tvg-id="6915e20c1ee3a0177bd691f3" tvg-name="Adelaide Strikers Women VS Brisbane Heat Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763041801286-365881283.webp" group-title="Live",Adelaide Strikers Women VS Brisbane Heat Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
-#EXTINF:-1 tvg-id="6916ea5624f2af2c8dfdcbf8" tvg-name="Northern District Women VS Otago Sparks" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763109457390-576635647.webp" group-title="Live",Northern District Women VS Otago Sparks
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 
