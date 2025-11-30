@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d798a90a167c5344225658",
-            "name": "PACC Premier VS HKCC Premier",
-            "category_name": "Cricket",
-            "tour_id": "68d77a07c9b63d3592d30114",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-30",
-            "start_date_time": "2025-11-30T00:30:00.000Z",
-            "team_a": {
-                "id": "672f6832b270671853e2e56c",
-                "name": "PACC Premier",
-                "short_name": "PACC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894498770-580651032.webp"
-            },
-            "team_b": {
-                "id": "672f67d5940d92dae749b04b",
-                "name": "HKCC Premier",
-                "short_name": "HKCC Premier",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758894597545-773627078.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764398439158-192171610.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "6915e242fa673af67ab172db",
-            "name": "Sydney Sixers Women VS Sydney Thunder Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "31",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-30",
-            "start_date_time": "2025-11-30T04:40:00.000Z",
-            "team_a": {
-                "id": "671b0027c2a91e9745b09cd2",
-                "name": "Sydney Sixers Women",
-                "short_name": "Sydney Sixers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
-            },
-            "team_b": {
-                "id": "671b00bec2a91e9745b09cd6",
-                "name": "Sydney Thunder Women",
-                "short_name": "Sydney Thunder Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039803328-795856829.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041854615-272872071.webp",
-            "venue": "North Sydney Oval ,Sydney",
-            "score_match_id": 93029
-        },
-        {
             "id": "691c3d9b1ee3a0177bd69240",
             "name": "Quetta Qavalry VS U.A.E. Bulls",
             "category_name": "Cricket",

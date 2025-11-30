@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d798a90a167c5344225658" tvg-name="PACC Premier VS HKCC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764398439158-192171610.webp" group-title="Live",PACC Premier VS HKCC Premier
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
-
-#EXTINF:-1 tvg-id="6915e242fa673af67ab172db" tvg-name="Sydney Sixers Women VS Sydney Thunder Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763041854615-272872071.webp" group-title="Live",Sydney Sixers Women VS Sydney Thunder Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
-
