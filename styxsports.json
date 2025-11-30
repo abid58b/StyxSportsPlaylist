@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "691c3dcbfa673af67ab17328",
-            "name": "Aspin Stallions VS U.A.E. Bulls",
-            "category_name": "Cricket",
-            "tour_id": "691b12aafd87c2948fb48099",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-30",
-            "start_date_time": "2025-11-30T13:30:00.000Z",
-            "team_a": {
-                "id": "691b10d2fd87c2948fb48097",
-                "name": "Aspin Stallions",
-                "short_name": "Aspin Stallions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381431526-154194744.webp"
-            },
-            "team_b": {
-                "id": "691b11c124f2af2c8dfdcc21",
-                "name": "U.A.E. Bulls",
-                "short_name": "U.A.E. Bulls",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763381693116-698414405.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764508483059-332848366.jpg",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94502
-        }
-    ]
+    "data": []
 }
