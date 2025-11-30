@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6915e20c1ee3a0177bd691f3",
-            "name": "Adelaide Strikers Women VS Brisbane Heat Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "30",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-30",
-            "start_date_time": "2025-11-30T00:40:00.000Z",
-            "team_a": {
-                "id": "671b0046c2a91e9745b09cd3",
-                "name": "Adelaide Strikers Women",
-                "short_name": "Adelaide Strikers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039732073-246007766.webp"
-            },
-            "team_b": {
-                "id": "67144f79166de3cf1b69e62d",
-                "name": "Brisbane Heat Women",
-                "short_name": "Brisbane Heat Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039708775-573021413.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041801286-365881283.webp",
-            "venue": "North Sydney Oval ,Sydney",
-            "score_match_id": 93028
-        },
-        {
             "id": "6915e242fa673af67ab172db",
             "name": "Sydney Sixers Women VS Sydney Thunder Women",
             "category_name": "Cricket",
