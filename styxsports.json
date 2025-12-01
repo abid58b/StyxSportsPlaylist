@@ -1,5 +1,118 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "691c409524f2af2c8dfdcc38",
+            "name": "Rising CC VS Pachange CC",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "25",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-01",
+            "start_date_time": "2025-12-01T03:30:00.000Z",
+            "team_a": {
+                "id": "691b28f21ee3a0177bd6922e",
+                "name": "Rising CC",
+                "short_name": "Rising CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387632701-688082441.webp"
+            },
+            "team_b": {
+                "id": "691b2907fd87c2948fb480a1",
+                "name": "Pachange CC",
+                "short_name": "Pachange CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387653868-555371701.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459217445-446441241.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "691c40c7fd87c2948fb480b2",
+            "name": "Ashtapailu Sports VS Sunny XI",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "26",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-01",
+            "start_date_time": "2025-12-01T07:30:00.000Z",
+            "team_a": {
+                "id": "691b289ffd87c2948fb4809f",
+                "name": "Ashtapailu Sports",
+                "short_name": "Ashtapailu Sports",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
+            },
+            "team_b": {
+                "id": "691b28bd1ee3a0177bd6922d",
+                "name": "Sunny XI",
+                "short_name": "Sunny XI",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387579228-2196450.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459268016-397671658.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6915e28c1ee3a0177bd691f4",
+            "name": "Hobart Hurricanes Women VS Melbourne Star Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "32",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-01",
+            "start_date_time": "2025-12-01T07:40:00.000Z",
+            "team_a": {
+                "id": "67144f5f8a9eea3b43513353",
+                "name": "Hobart Hurricanes Women",
+                "short_name": "Hobart Hurricanes Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039698954-30288296.webp"
+            },
+            "team_b": {
+                "id": "671b0081c2a91e9745b09cd4",
+                "name": "Melbourne Star Women",
+                "short_name": "Melbourne Star Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763041929137-607887445.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 93030
+        },
+        {
+            "id": "68c0369c5eff1aae0fc91e9f",
+            "name": "Victoria VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68bfc308fa47c38f5e0be5d5",
+            "tour_name": "Australia One Day Cup 2025-26",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-01",
+            "start_date_time": "2025-12-01T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427353861-242570304.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92837
+        }
+    ]
 }
