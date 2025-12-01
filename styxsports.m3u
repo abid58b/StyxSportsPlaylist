@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="691c409524f2af2c8dfdcc38" tvg-name="Rising CC VS Pachange CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763459217445-446441241.webp" group-title="Live",Rising CC VS Pachange CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
