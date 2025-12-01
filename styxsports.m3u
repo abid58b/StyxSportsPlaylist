@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691c40c7fd87c2948fb480b2" tvg-name="Ashtapailu Sports VS Sunny XI" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763459268016-397671658.webp" group-title="Live",Ashtapailu Sports VS Sunny XI
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
 #EXTINF:-1 tvg-id="6915e28c1ee3a0177bd691f4" tvg-name="Hobart Hurricanes Women VS Melbourne Star Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764574920442-625525419.webp" group-title="Live",Hobart Hurricanes Women VS Melbourne Star Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8

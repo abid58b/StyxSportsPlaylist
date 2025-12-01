@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691c40c7fd87c2948fb480b2",
-            "name": "Ashtapailu Sports VS Sunny XI",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "26",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-01",
-            "start_date_time": "2025-12-01T07:30:00.000Z",
-            "team_a": {
-                "id": "691b289ffd87c2948fb4809f",
-                "name": "Ashtapailu Sports",
-                "short_name": "Ashtapailu Sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
-            },
-            "team_b": {
-                "id": "691b28bd1ee3a0177bd6922d",
-                "name": "Sunny XI",
-                "short_name": "Sunny XI",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387579228-2196450.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459268016-397671658.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6915e28c1ee3a0177bd691f4",
             "name": "Hobart Hurricanes Women VS Melbourne Star Women",
             "category_name": "Cricket",
