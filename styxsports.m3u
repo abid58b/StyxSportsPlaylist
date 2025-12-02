@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="691c40f2fd87c2948fb480b3" tvg-name="Metro CC VS Pachange CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763459312306-716622785.webp" group-title="Live",Metro CC VS Pachange CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
+
