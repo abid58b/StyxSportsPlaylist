@@ -3,32 +3,88 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68c0369c5eff1aae0fc91e9f",
-            "name": "Victoria VS Western Australia",
+            "id": "691c40f2fd87c2948fb480b3",
+            "name": "Metro CC VS Pachange CC",
             "category_name": "Cricket",
-            "tour_id": "68bfc308fa47c38f5e0be5d5",
-            "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "15",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "27",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-01",
-            "start_date_time": "2025-12-01T23:00:00.000Z",
+            "start_date": "2025-12-02",
+            "start_date_time": "2025-12-02T03:30:00.000Z",
             "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+                "id": "691b28dafd87c2948fb480a0",
+                "name": "Metro CC",
+                "short_name": "Metro CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387607871-976150940.webp"
             },
             "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+                "id": "691b2907fd87c2948fb480a1",
+                "name": "Pachange CC",
+                "short_name": "Pachange CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387653868-555371701.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427353861-242570304.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92837
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459312306-716622785.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "691c41201ee3a0177bd69242",
+            "name": "Ashtapailu Sports VS Omrchecker",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "28",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-02",
+            "start_date_time": "2025-12-02T07:30:00.000Z",
+            "team_a": {
+                "id": "691b289ffd87c2948fb4809f",
+                "name": "Ashtapailu Sports",
+                "short_name": "Ashtapailu Sports",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
+            },
+            "team_b": {
+                "id": "691b2924fa673af67ab1731c",
+                "name": "Omrchecker",
+                "short_name": "Omrchecker",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387682555-631716582.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459357875-387506038.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6915e2fb24f2af2c8dfdcbe9",
+            "name": "Perth Scorchers Women VS Melbourne Renegades Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "33",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-02",
+            "start_date_time": "2025-12-02T08:40:00.000Z",
+            "team_a": {
+                "id": "671b009ec2a91e9745b09cd5",
+                "name": "Perth Scorchers Women",
+                "short_name": "Perth Scorchers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
+            },
+            "team_b": {
+                "id": "671b00e6c2a91e9745b09cd7",
+                "name": "Melbourne Renegades Women",
+                "short_name": "Melbourne Renegades Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042038926-456440539.webp",
+            "venue": "W.A.C.A. Ground ,Perth",
+            "score_match_id": 93031
         }
     ]
 }
