@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "6915e2fb24f2af2c8dfdcbe9",
-            "name": "Perth Scorchers Women VS Melbourne Renegades Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "33",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-02",
-            "start_date_time": "2025-12-02T08:40:00.000Z",
-            "team_a": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
-            },
-            "team_b": {
-                "id": "671b00e6c2a91e9745b09cd7",
-                "name": "Melbourne Renegades Women",
-                "short_name": "Melbourne Renegades Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042038926-456440539.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 93031
-        }
-    ]
+    "data": []
 }
