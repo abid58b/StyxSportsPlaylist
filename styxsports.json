@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691c41201ee3a0177bd69242",
-            "name": "Ashtapailu Sports VS Omrchecker",
-            "category_name": "Cricket",
-            "tour_id": "691b29aafa673af67ab1731d",
-            "tour_name": "Pune Olympia T20 2025",
-            "match_no": "28",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-02",
-            "start_date_time": "2025-12-02T07:30:00.000Z",
-            "team_a": {
-                "id": "691b289ffd87c2948fb4809f",
-                "name": "Ashtapailu Sports",
-                "short_name": "Ashtapailu Sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
-            },
-            "team_b": {
-                "id": "691b2924fa673af67ab1731c",
-                "name": "Omrchecker",
-                "short_name": "Omrchecker",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387682555-631716582.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459357875-387506038.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6915e2fb24f2af2c8dfdcbe9",
             "name": "Perth Scorchers Women VS Melbourne Renegades Women",
             "category_name": "Cricket",
