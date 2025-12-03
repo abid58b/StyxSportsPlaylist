@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "691c4190fd87c2948fb480b4",
+            "name": "Rising CC VS Sunny XI",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "29",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-03",
+            "start_date_time": "2025-12-03T03:30:00.000Z",
+            "team_a": {
+                "id": "691b28f21ee3a0177bd6922e",
+                "name": "Rising CC",
+                "short_name": "Rising CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387632701-688082441.webp"
+            },
+            "team_b": {
+                "id": "691b28bd1ee3a0177bd6922d",
+                "name": "Sunny XI",
+                "short_name": "Sunny XI",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387579228-2196450.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459468568-728438069.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6915e332fa673af67ab172dc",
+            "name": "Sydney Sixers Women VS Melbourne Star Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "34",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-03",
+            "start_date_time": "2025-12-03T04:10:00.000Z",
+            "team_a": {
+                "id": "671b0027c2a91e9745b09cd2",
+                "name": "Sydney Sixers Women",
+                "short_name": "Sydney Sixers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
+            },
+            "team_b": {
+                "id": "671b0081c2a91e9745b09cd4",
+                "name": "Melbourne Star Women",
+                "short_name": "Melbourne Star Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042095491-852068381.webp",
+            "venue": "Drummoyne Oval ,Sydney",
+            "score_match_id": 93032
+        },
+        {
+            "id": "691c41b11ee3a0177bd69243",
+            "name": "Omrchecker VS Pachange CC",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "30",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-03",
+            "start_date_time": "2025-12-03T07:30:00.000Z",
+            "team_a": {
+                "id": "691b2924fa673af67ab1731c",
+                "name": "Omrchecker",
+                "short_name": "Omrchecker",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387682555-631716582.webp"
+            },
+            "team_b": {
+                "id": "691b2907fd87c2948fb480a1",
+                "name": "Pachange CC",
+                "short_name": "Pachange CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387653868-555371701.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459502280-14948220.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6915e37724f2af2c8dfdcbea",
+            "name": "Sydney Thunder Women VS Brisbane Heat Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "35",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-03",
+            "start_date_time": "2025-12-03T07:40:00.000Z",
+            "team_a": {
+                "id": "671b00bec2a91e9745b09cd6",
+                "name": "Sydney Thunder Women",
+                "short_name": "Sydney Thunder Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039803328-795856829.webp"
+            },
+            "team_b": {
+                "id": "67144f79166de3cf1b69e62d",
+                "name": "Brisbane Heat Women",
+                "short_name": "Brisbane Heat Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039708775-573021413.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042163361-943063899.webp",
+            "venue": "Drummoyne Oval ,Sydney",
+            "score_match_id": 93033
+        },
+        {
+            "id": "68de820d07d2ecfd0c159399",
+            "name": "Victoria VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "16 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-03",
+            "start_date_time": "2025-12-03T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412745531-76979308.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92892
+        }
+    ]
 }
