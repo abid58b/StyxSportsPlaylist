@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="691c4190fd87c2948fb480b4" tvg-name="Rising CC VS Sunny XI" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763459468568-728438069.webp" group-title="Live",Rising CC VS Sunny XI
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
