@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6915e332fa673af67ab172dc",
-            "name": "Sydney Sixers Women VS Melbourne Star Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "34",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-03",
-            "start_date_time": "2025-12-03T04:10:00.000Z",
-            "team_a": {
-                "id": "671b0027c2a91e9745b09cd2",
-                "name": "Sydney Sixers Women",
-                "short_name": "Sydney Sixers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
-            },
-            "team_b": {
-                "id": "671b0081c2a91e9745b09cd4",
-                "name": "Melbourne Star Women",
-                "short_name": "Melbourne Star Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039748698-7945466.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042095491-852068381.webp",
-            "venue": "Drummoyne Oval ,Sydney",
-            "score_match_id": 93032
-        },
-        {
             "id": "691c41b11ee3a0177bd69243",
             "name": "Omrchecker VS Pachange CC",
             "category_name": "Cricket",
