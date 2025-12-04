@@ -115,34 +115,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6918448324f2af2c8dfdcc0c",
-            "name": "Auckland Aces VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 7 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-04",
-            "start_date_time": "2025-12-04T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
-            "venue": "Eden Park Outer Oval ,Auckland",
-            "score_match_id": 92907
-        },
-        {
             "id": "691844e624f2af2c8dfdcc0d",
             "name": "Central Stags VS Canterbury Kings",
             "category_name": "Cricket",
@@ -199,6 +171,34 @@
             "score_match_id": 92908
         },
         {
+            "id": "6918448324f2af2c8dfdcc0c",
+            "name": "Auckland Aces VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 7 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92907
+        },
+        {
             "id": "6915e3b4fa673af67ab172dd",
             "name": "Melbourne Renegades Women VS Sydney Sixers Women",
             "category_name": "Cricket",
@@ -225,6 +225,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042226531-571713797.webp",
             "venue": "Junction Oval ,Melbourne",
             "score_match_id": 93034
+        },
+        {
+            "id": "68de820d07d2ecfd0c159399",
+            "name": "Victoria VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "16 | Day - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412745531-76979308.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92892
         },
         {
             "id": "68de8293458c1b0c74d26013",
