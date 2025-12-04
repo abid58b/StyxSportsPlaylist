@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691c426224f2af2c8dfdcc39" tvg-name="Metro CC VS Ashtapailu Sports" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763459680745-661153393.webp" group-title="Live",Metro CC VS Ashtapailu Sports
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
-#EXTINF:-1 tvg-id="69303797fa673af67ab173cd" tvg-name="Nigeria VS Zambia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764767633362-778827751.webp" group-title="Live",Nigeria VS Zambia
+#EXTINF:-1 tvg-id="693037cb1ee3a0177bd692a7" tvg-name="Sierra Leone VS Rwanda" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764767686308-345453999.webp" group-title="Live",Sierra Leone VS Rwanda
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
