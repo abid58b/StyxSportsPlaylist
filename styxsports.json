@@ -3,32 +3,284 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de820d07d2ecfd0c159399",
-            "name": "Victoria VS Western Australia",
+            "id": "691c41de1ee3a0177bd69244",
+            "name": "Sunny XI VS Rising CC",
             "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "16 | Day - 1",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "Semifinal 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-03",
-            "start_date_time": "2025-12-03T23:30:00.000Z",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T03:30:00.000Z",
             "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+                "id": "691b28bd1ee3a0177bd6922d",
+                "name": "Sunny XI",
+                "short_name": "Sunny XI",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387579228-2196450.webp"
             },
             "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+                "id": "691b28f21ee3a0177bd6922e",
+                "name": "Rising CC",
+                "short_name": "Rising CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387632701-688082441.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412745531-76979308.webp",
-            "venue": "Melbourne Cricket Ground ,Melbourne",
-            "score_match_id": 92892
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459548133-344463923.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69206b5e24f2af2c8dfdcc66",
+            "name": "Power Hand Plantation VS Abans Group",
+            "category_name": "Cricket",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "Quarterfinal",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T04:00:00.000Z",
+            "team_a": {
+                "id": "67530286e2cc6afe4b97daff",
+                "name": "Power Hand Plantation",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699171210-883229968.webp"
+            },
+            "team_b": {
+                "id": "67530381e2cc6afe4b97db00",
+                "name": "Abans Group",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699139331-193151756.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763732516414-905083179.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "691c426224f2af2c8dfdcc39",
+            "name": "Metro CC VS Ashtapailu Sports",
+            "category_name": "Cricket",
+            "tour_id": "691b29aafa673af67ab1731d",
+            "tour_name": "Pune Olympia T20 2025",
+            "match_no": "Semifinal 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T07:30:00.000Z",
+            "team_a": {
+                "id": "691b28dafd87c2948fb480a0",
+                "name": "Metro CC",
+                "short_name": "Metro CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387607871-976150940.webp"
+            },
+            "team_b": {
+                "id": "691b289ffd87c2948fb4809f",
+                "name": "Ashtapailu Sports",
+                "short_name": "Ashtapailu Sports",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763387546871-36789704.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763459680745-661153393.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69303797fa673af67ab173cd",
+            "name": "Nigeria VS Zambia",
+            "category_name": "Cricket",
+            "tour_id": "69303710fd87c2948fb4811f",
+            "tour_name": "West Africa Trophy 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T08:30:00.000Z",
+            "team_a": {
+                "id": "666e34ab22b7a98f1532665d",
+                "name": "Nigeria",
+                "short_name": "Nigeria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767289353-769686534.webp"
+            },
+            "team_b": {
+                "id": "66795f9f9e3863a543c1f699",
+                "name": "Zambia",
+                "short_name": "Zambia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767318573-172212937.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764767633362-778827751.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "693037cb1ee3a0177bd692a7",
+            "name": "Sierra Leone VS Rwanda",
+            "category_name": "Cricket",
+            "tour_id": "69303710fd87c2948fb4811f",
+            "tour_name": "West Africa Trophy 2025",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T12:30:00.000Z",
+            "team_a": {
+                "id": "693036891ee3a0177bd692a6",
+                "name": "Sierra Leone",
+                "short_name": "Sierra Leone",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767367638-518561134.webp"
+            },
+            "team_b": {
+                "id": "66795fc89e3863a543c1f69a",
+                "name": "Rwanda",
+                "short_name": "Rwanda",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767258481-371158287.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764767686308-345453999.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "691844e624f2af2c8dfdcc0d",
+            "name": "Central Stags VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 9 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198179486-311395380.webp",
+            "venue": "McLean Park ,Napier",
+            "score_match_id": 92909
+        },
+        {
+            "id": "691844b71ee3a0177bd69213",
+            "name": "Northern District VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 8 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "6916fc9224f2af2c8dfdcbfc",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198131071-621019073.webp",
+            "venue": "Seddon Park ,Hamilton",
+            "score_match_id": 92908
+        },
+        {
+            "id": "6918448324f2af2c8dfdcc0c",
+            "name": "Auckland Aces VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 7 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92907
+        },
+        {
+            "id": "6915e3b4fa673af67ab172dd",
+            "name": "Melbourne Renegades Women VS Sydney Sixers Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "36",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T23:10:00.000Z",
+            "team_a": {
+                "id": "671b00e6c2a91e9745b09cd7",
+                "name": "Melbourne Renegades Women",
+                "short_name": "Melbourne Renegades Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039786954-625307340.webp"
+            },
+            "team_b": {
+                "id": "671b0027c2a91e9745b09cd2",
+                "name": "Sydney Sixers Women",
+                "short_name": "Sydney Sixers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042226531-571713797.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 93034
+        },
+        {
+            "id": "68de8293458c1b0c74d26013",
+            "name": "New South Wales VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "17 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412879065-604107291.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 92893
         }
     ]
 }
