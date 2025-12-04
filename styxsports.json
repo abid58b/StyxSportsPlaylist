@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691844e624f2af2c8dfdcc0d",
-            "name": "Central Stags VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 9 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-04",
-            "start_date_time": "2025-12-04T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198179486-311395380.webp",
-            "venue": "McLean Park ,Napier",
-            "score_match_id": 92909
-        },
-        {
             "id": "6918448324f2af2c8dfdcc0c",
             "name": "Auckland Aces VS Wellington Firebirds",
             "category_name": "Cricket",
@@ -85,6 +57,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198131071-621019073.webp",
             "venue": "Seddon Park ,Hamilton",
             "score_match_id": 92908
+        },
+        {
+            "id": "691844e624f2af2c8dfdcc0d",
+            "name": "Central Stags VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 9 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198179486-311395380.webp",
+            "venue": "McLean Park ,Napier",
+            "score_match_id": 92909
         },
         {
             "id": "6915e3b4fa673af67ab172dd",
