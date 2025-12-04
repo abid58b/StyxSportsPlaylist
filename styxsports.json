@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "69206b5e24f2af2c8dfdcc66",
-            "name": "Power Hand Plantation VS Abans Group",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "Quarterfinal",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-04",
-            "start_date_time": "2025-12-04T04:00:00.000Z",
-            "team_a": {
-                "id": "67530286e2cc6afe4b97daff",
-                "name": "Power Hand Plantation",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699171210-883229968.webp"
-            },
-            "team_b": {
-                "id": "67530381e2cc6afe4b97db00",
-                "name": "Abans Group",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699139331-193151756.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763732516414-905083179.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "691c426224f2af2c8dfdcc39",
             "name": "Metro CC VS Ashtapailu Sports",
             "category_name": "Cricket",
@@ -143,6 +115,34 @@
             "score_match_id": 0
         },
         {
+            "id": "6918448324f2af2c8dfdcc0c",
+            "name": "Auckland Aces VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 7 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-04",
+            "start_date_time": "2025-12-04T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92907
+        },
+        {
             "id": "691844e624f2af2c8dfdcc0d",
             "name": "Central Stags VS Canterbury Kings",
             "category_name": "Cricket",
@@ -197,34 +197,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198131071-621019073.webp",
             "venue": "Seddon Park ,Hamilton",
             "score_match_id": 92908
-        },
-        {
-            "id": "6918448324f2af2c8dfdcc0c",
-            "name": "Auckland Aces VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 7 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-04",
-            "start_date_time": "2025-12-04T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
-            "venue": "Eden Park Outer Oval ,Auckland",
-            "score_match_id": 92907
         },
         {
             "id": "6915e3b4fa673af67ab172dd",
