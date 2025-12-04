@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 
+#EXTINF:-1 tvg-id="69303797fa673af67ab173cd" tvg-name="Nigeria VS Zambia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764767633362-778827751.webp" group-title="Live",Nigeria VS Zambia
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
