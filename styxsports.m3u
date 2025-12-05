@@ -16,3 +16,11 @@ https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 
+#EXTINF:-1 tvg-id="68de820d07d2ecfd0c159399" tvg-name="Victoria VS Western Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412745531-76979308.webp" group-title="Live",Victoria VS Western Australia
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
+#EXTINF:-1 tvg-id="68de8293458c1b0c74d26013" tvg-name="New South Wales VS Queensland Bulls" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412879065-604107291.webp" group-title="Live",New South Wales VS Queensland Bulls
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
