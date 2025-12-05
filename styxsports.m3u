@@ -8,3 +8,7 @@ https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 
+#EXTINF:-1 tvg-id="69303809fa673af67ab173ce" tvg-name="Zambia VS Rwanda" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764767747874-732472696.webp" group-title="Live",Zambia VS Rwanda
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
