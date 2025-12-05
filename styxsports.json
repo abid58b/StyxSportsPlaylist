@@ -143,34 +143,6 @@
             "score_match_id": 93037
         },
         {
-            "id": "68de820d07d2ecfd0c159399",
-            "name": "Victoria VS Western Australia",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "16 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-05",
-            "start_date_time": "2025-12-05T23:30:00.000Z",
-            "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
-            },
-            "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412745531-76979308.webp",
-            "venue": "Melbourne Cricket Ground ,Melbourne",
-            "score_match_id": 92892
-        },
-        {
             "id": "68de8293458c1b0c74d26013",
             "name": "New South Wales VS Queensland Bulls",
             "category_name": "Cricket",
@@ -197,6 +169,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412879065-604107291.webp",
             "venue": "Sydney Cricket Ground ,Sydney",
             "score_match_id": 92893
+        },
+        {
+            "id": "68de820d07d2ecfd0c159399",
+            "name": "Victoria VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "16 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-05",
+            "start_date_time": "2025-12-05T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412745531-76979308.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92892
         }
     ]
 }
