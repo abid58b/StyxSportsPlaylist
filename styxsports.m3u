@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="693038401ee3a0177bd692a8" tvg-name="Nigeria VS Sierra Leone" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764767801983-279661051.webp" group-title="Live",Nigeria VS Sierra Leone
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
