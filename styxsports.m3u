@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de8362c167956f9cb7b9f7" tvg-name="South Australia VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413086771-756295593.webp" group-title="Live",South Australia VS Tasmania Tigers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/qW63z3FWzjzXIh2N22563022711650.m3u8
-
 #EXTINF:-1 tvg-id="691c4291fd87c2948fb480b5" tvg-name="Rising CC VS Ashtapailu Sports" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763459727343-384030131.webp" group-title="Live",Rising CC VS Ashtapailu Sports
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
