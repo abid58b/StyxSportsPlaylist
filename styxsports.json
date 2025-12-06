@@ -199,6 +199,62 @@
             "score_match_id": 0
         },
         {
+            "id": "691844b71ee3a0177bd69213",
+            "name": "Northern District VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 8 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-06",
+            "start_date_time": "2025-12-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "6916fc9224f2af2c8dfdcbfc",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198131071-621019073.webp",
+            "venue": "Seddon Park ,Hamilton",
+            "score_match_id": 92908
+        },
+        {
+            "id": "6918448324f2af2c8dfdcc0c",
+            "name": "Auckland Aces VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 7 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-06",
+            "start_date_time": "2025-12-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92907
+        },
+        {
             "id": "6915e686fd87c2948fb48033",
             "name": "Sydney Sixers Women VS Adelaide Strikers Women",
             "category_name": "Cricket",
