@@ -8,3 +8,7 @@ https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
+#EXTINF:-1 tvg-id="6930392bfd87c2948fb48120" tvg-name="Zambia VS Sierra Leone" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764768039586-717428983.webp" group-title="Live",Zambia VS Sierra Leone
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
+
