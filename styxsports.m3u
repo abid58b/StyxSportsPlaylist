@@ -4,19 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
 
-#EXTINF:-1 tvg-id="6926ad40fd87c2948fb480e2" tvg-name="Charity CC VS Indatwa Hampshire CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764142449964-893935535.webp" group-title="Live",Charity CC VS Indatwa Hampshire CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
-#EXTINF:-1 tvg-id="6915e56724f2af2c8dfdcbec" tvg-name="Perth Scorchers Women VS Brisbane Heat Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763042657556-323371187.webp" group-title="Live",Perth Scorchers Women VS Brisbane Heat Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
-
 #EXTINF:-1 tvg-id="6930387624f2af2c8dfdccdf" tvg-name="Rwanda VS Nigeria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764767858411-89828898.webp" group-title="Live",Rwanda VS Nigeria
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
 
-#EXTINF:-1 tvg-id="6926adc91ee3a0177bd6926c" tvg-name="Gahanga Queens CC VS Charity CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764142574696-837015472.webp" group-title="Live",Gahanga Queens CC VS Charity CC
+#EXTINF:-1 tvg-id="6926adc91ee3a0177bd6926c" tvg-name="Gahanga Queens CC VS Indatwa Hampshire CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764142574696-837015472.webp" group-title="Live",Gahanga Queens CC VS Indatwa Hampshire CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 

@@ -31,62 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6926ad40fd87c2948fb480e2",
-            "name": "Charity CC VS Indatwa Hampshire CC",
-            "category_name": "Cricket",
-            "tour_id": "68e0c67b458c1b0c74d26025",
-            "tour_name": "Rwanda Women T20 Premier League 2025",
-            "match_no": "Eliminator",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-06",
-            "start_date_time": "2025-12-06T07:00:00.000Z",
-            "team_a": {
-                "id": "68e0c5a807d2ecfd0c1593b8",
-                "name": "Charity CC",
-                "short_name": "Charity CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561122107-342324740.webp"
-            },
-            "team_b": {
-                "id": "68e0c5c5c167956f9cb7ba21",
-                "name": "Indatwa Hampshire CC",
-                "short_name": "Indatwa Hampshire CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561153545-914719314.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764142449964-893935535.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "6915e56724f2af2c8dfdcbec",
-            "name": "Perth Scorchers Women VS Brisbane Heat Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "39",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-06",
-            "start_date_time": "2025-12-06T07:40:00.000Z",
-            "team_a": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
-            },
-            "team_b": {
-                "id": "67144f79166de3cf1b69e62d",
-                "name": "Brisbane Heat Women",
-                "short_name": "Brisbane Heat Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039708775-573021413.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042657556-323371187.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 93036
-        },
-        {
             "id": "6930387624f2af2c8dfdccdf",
             "name": "Rwanda VS Nigeria",
             "category_name": "Cricket",
@@ -116,7 +60,7 @@
         },
         {
             "id": "6926adc91ee3a0177bd6926c",
-            "name": "Gahanga Queens CC VS Charity CC",
+            "name": "Gahanga Queens CC VS Indatwa Hampshire CC",
             "category_name": "Cricket",
             "tour_id": "68e0c67b458c1b0c74d26025",
             "tour_name": "Rwanda Women T20 Premier League 2025",
@@ -125,7 +69,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-12-06",
-            "start_date_time": "2025-12-06T11:00:00.000Z",
+            "start_date_time": "2025-12-06T11:30:00.000Z",
             "team_a": {
                 "id": "68e0c5f8c167956f9cb7ba22",
                 "name": "Gahanga Queens CC",
@@ -133,10 +77,10 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561188941-983898353.webp"
             },
             "team_b": {
-                "id": "68e0c5a807d2ecfd0c1593b8",
-                "name": "Charity CC",
-                "short_name": "Charity CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561122107-342324740.webp"
+                "id": "68e0c5c5c167956f9cb7ba21",
+                "name": "Indatwa Hampshire CC",
+                "short_name": "Indatwa Hampshire CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759561153545-914719314.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764142574696-837015472.webp",
             "venue": "",
@@ -169,6 +113,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764768039586-717428983.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "691844e624f2af2c8dfdcc0d",
+            "name": "Central Stags VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 9 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-06",
+            "start_date_time": "2025-12-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198179486-311395380.webp",
+            "venue": "McLean Park ,Napier",
+            "score_match_id": 92909
         },
         {
             "id": "691844b71ee3a0177bd69213",
@@ -225,34 +197,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
             "venue": "Eden Park Outer Oval ,Auckland",
             "score_match_id": 92907
-        },
-        {
-            "id": "691844e624f2af2c8dfdcc0d",
-            "name": "Central Stags VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 9 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-06",
-            "start_date_time": "2025-12-06T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198179486-311395380.webp",
-            "venue": "McLean Park ,Napier",
-            "score_match_id": 92909
         },
         {
             "id": "6915e686fd87c2948fb48033",
