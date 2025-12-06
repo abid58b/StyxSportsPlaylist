@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69304b7f1ee3a0177bd692aa" tvg-name="Peoples Leasing VS George Stuwart Health" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764772731018-485690383.webp" group-title="Live",Peoples Leasing VS George Stuwart Health
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
-
 #EXTINF:-1 tvg-id="6930387624f2af2c8dfdccdf" tvg-name="Rwanda VS Nigeria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764767858411-89828898.webp" group-title="Live",Rwanda VS Nigeria
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/yCI5QtVY9PNL0CJG1235986693660.m3u8
