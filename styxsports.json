@@ -309,6 +309,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763042948737-202419961.webp",
             "venue": "North Sydney Oval ,Sydney",
             "score_match_id": 93038
+        },
+        {
+            "id": "68de8293458c1b0c74d26013",
+            "name": "New South Wales VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "17 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-06",
+            "start_date_time": "2025-12-06T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759412879065-604107291.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 92893
         }
     ]
 }
