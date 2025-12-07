@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
-#EXTINF:-1 tvg-id="69304be0fd87c2948fb48126" tvg-name="Seylan Bank VS Central Finance" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764772828631-102640018.webp" group-title="Live",Seylan Bank VS Central Finance
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
-
 #EXTINF:-1 tvg-id="6930398424f2af2c8dfdcce0" tvg-name="Sierra Leone VS Nigeria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764768108708-421240730.webp" group-title="Live",Sierra Leone VS Nigeria
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
