@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69304cd824f2af2c8dfdcce6",
-            "name": "CEYLINCO INSURANCE VS Nations Trust Bank",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "Quarterfinal",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-07",
-            "start_date_time": "2025-12-07T04:00:00.000Z",
-            "team_a": {
-                "id": "68f2243de4b44a5c727eb7cf",
-                "name": "CEYLINCO INSURANCE",
-                "short_name": "CEYLINCO INSURANCE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699451668-341181879.webp"
-            },
-            "team_b": {
-                "id": "6753026d23f1ee69536eb041",
-                "name": "Nations Trust Bank",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698882349-175169746.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764773075871-107896458.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69304be0fd87c2948fb48126",
             "name": "Seylan Bank VS Central Finance",
             "category_name": "Cricket",
@@ -55,6 +27,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698823036-464399153.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764772828631-102640018.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69304cd824f2af2c8dfdcce6",
+            "name": "CEYLINCO INSURANCE VS Nations Trust Bank",
+            "category_name": "Cricket",
+            "tour_id": "68f22410e4b44a5c727eb7ce",
+            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
+            "match_no": "Quarterfinal",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-07",
+            "start_date_time": "2025-12-07T04:00:00.000Z",
+            "team_a": {
+                "id": "68f2243de4b44a5c727eb7cf",
+                "name": "CEYLINCO INSURANCE",
+                "short_name": "CEYLINCO INSURANCE",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699451668-341181879.webp"
+            },
+            "team_b": {
+                "id": "6753026d23f1ee69536eb041",
+                "name": "Nations Trust Bank",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760698882349-175169746.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764773075871-107896458.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -115,34 +115,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6918448324f2af2c8dfdcc0c",
-            "name": "Auckland Aces VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 7 | Day 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-07",
-            "start_date_time": "2025-12-07T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
-            "venue": "Eden Park Outer Oval ,Auckland",
-            "score_match_id": 92907
-        },
-        {
             "id": "691844b71ee3a0177bd69213",
             "name": "Northern District VS Otago",
             "category_name": "Cricket",
@@ -169,6 +141,62 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198131071-621019073.webp",
             "venue": "Seddon Park ,Hamilton",
             "score_match_id": 92908
+        },
+        {
+            "id": "691844e624f2af2c8dfdcc0d",
+            "name": "Central Stags VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 9 | Day 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-07",
+            "start_date_time": "2025-12-07T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198179486-311395380.webp",
+            "venue": "McLean Park ,Napier",
+            "score_match_id": 92909
+        },
+        {
+            "id": "6918448324f2af2c8dfdcc0c",
+            "name": "Auckland Aces VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 7 | Day 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-07",
+            "start_date_time": "2025-12-07T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198079638-523201142.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92907
         }
     ]
 }
