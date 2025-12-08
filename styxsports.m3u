@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="693552d850bf023ae8dd241c" tvg-name="D.Y. Patil VS Eagle Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765102290303-263529036.webp" group-title="Live",D.Y. Patil VS Eagle Titans
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
-
-#EXTINF:-1 tvg-id="6935528d50bf023ae8dd241b" tvg-name="Puneri Bappa VS Jets Synthesis" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765102214897-497687866.webp" group-title="Live",Puneri Bappa VS Jets Synthesis
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
-
 #EXTINF:-1 tvg-id="69303a02fd87c2948fb48121" tvg-name="Sierra Leone VS Rwanda" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764768254880-347690615.webp" group-title="Live",Sierra Leone VS Rwanda
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
