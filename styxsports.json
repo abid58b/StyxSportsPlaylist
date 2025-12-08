@@ -3,11 +3,11 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6932d7c3fd87c2948fb4812f",
-            "name": "Dca Firozabad VS Dca Jalaun Red",
+            "id": "6935528d50bf023ae8dd241b",
+            "name": "Puneri Bappa VS Jets Synthesis",
             "category_name": "Cricket",
-            "tour_id": "6932d71dfa673af67ab173e2",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
+            "tour_id": "6935521e50bf023ae8dd241a",
+            "tour_name": "MCA Corporate Shield 2025",
             "match_no": "1",
             "match_status": 1,
             "is_stream": 1,
@@ -15,18 +15,18 @@
             "start_date": "2025-12-08",
             "start_date_time": "2025-12-08T03:00:00.000Z",
             "team_a": {
-                "id": "6932d5e524f2af2c8dfdcd00",
-                "name": "Dca Firozabad",
-                "short_name": "Dca Firozabad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939234841-614893805.webp"
+                "id": "6935488688f67903f0508506",
+                "name": "Puneri Bappa",
+                "short_name": "Puneri Bappa",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
             },
             "team_b": {
-                "id": "6932d605fa673af67ab173e1",
-                "name": "Dca Jalaun Red",
-                "short_name": "Dca Jalaun Red",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939264852-460148239.webp"
+                "id": "693548bf2efeac777d1dea86",
+                "name": "Jets Synthesis",
+                "short_name": "Jets Synthesis",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099708403-580072531.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764939710134-581500676.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102214897-497687866.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6935528d50bf023ae8dd241b",
-            "name": "Puneri Bappa VS Jets Synthesis",
-            "category_name": "Cricket",
-            "tour_id": "6935521e50bf023ae8dd241a",
-            "tour_name": "MCA Corporate Shield 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-08",
-            "start_date_time": "2025-12-08T03:00:00.000Z",
-            "team_a": {
-                "id": "6935488688f67903f0508506",
-                "name": "Puneri Bappa",
-                "short_name": "Puneri Bappa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
-            },
-            "team_b": {
-                "id": "693548bf2efeac777d1dea86",
-                "name": "Jets Synthesis",
-                "short_name": "Jets Synthesis",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099708403-580072531.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102214897-497687866.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "693552d850bf023ae8dd241c",
             "name": "D.Y. Patil VS Eagle Titans",
             "category_name": "Cricket",
@@ -111,34 +83,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099792738-824992874.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102290303-263529036.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "69354ad40b825667b47bd44a",
-            "name": "Bhutan VS Bahrain",
-            "category_name": "Cricket",
-            "tour_id": "69354a722efeac777d1dea89",
-            "tour_name": "Bahrain tour of Bhutan 2025",
-            "match_no": "1st T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-08",
-            "start_date_time": "2025-12-08T03:30:00.000Z",
-            "team_a": {
-                "id": "693549fd2efeac777d1dea88",
-                "name": "Bhutan",
-                "short_name": "Bhutan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765100027291-471834111.webp"
-            },
-            "team_b": {
-                "id": "671dea49bb231d3543008d16",
-                "name": "Bahrain",
-                "short_name": "Bahrain",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1756277399035-595055734.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765100238763-66199773.png",
             "venue": "",
             "score_match_id": 0
         },
