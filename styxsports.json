@@ -87,34 +87,6 @@
             "score_match_id": 0
         },
         {
-            "id": "69354b160b825667b47bd44b",
-            "name": "Bhutan VS Bahrain",
-            "category_name": "Cricket",
-            "tour_id": "69354a722efeac777d1dea89",
-            "tour_name": "Bahrain tour of Bhutan 2025",
-            "match_no": "2nd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-09",
-            "start_date_time": "2025-12-09T03:30:00.000Z",
-            "team_a": {
-                "id": "693549fd2efeac777d1dea88",
-                "name": "Bhutan",
-                "short_name": "Bhutan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765100027291-471834111.webp"
-            },
-            "team_b": {
-                "id": "671dea49bb231d3543008d16",
-                "name": "Bahrain",
-                "short_name": "Bahrain",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1756277399035-595055734.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765100306448-709502014.png",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6932d878fd87c2948fb48131",
             "name": "Dca Jalaun Red VS Dca Agra",
             "category_name": "Cricket",
