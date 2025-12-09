@@ -4,21 +4,17 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
 
-#EXTINF:-1 tvg-id="6935538b2efeac777d1dea8a" tvg-name="Puneri Bappa VS Punit Balan C.A." tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765102471085-755407107.webp" group-title="Live",Puneri Bappa VS Punit Balan C.A.
+#EXTINF:-1 tvg-id="693553ff88f67903f050850a" tvg-name="Jets Synthesis VS Eagle Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765102588133-479760623.webp" group-title="Live",Jets Synthesis VS Eagle Titans
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
+https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
 
 #EXTINF:-1 tvg-id="693553ca2efeac777d1dea8b" tvg-name="D.Y. Patil VS Kapil Sons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765102526782-220952902.webp" group-title="Live",D.Y. Patil VS Kapil Sons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
 
-#EXTINF:-1 tvg-id="693553ff88f67903f050850a" tvg-name="Jets Synthesis VS Eagle Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765102588133-479760623.webp" group-title="Live",Jets Synthesis VS Eagle Titans
+#EXTINF:-1 tvg-id="6935538b2efeac777d1dea8a" tvg-name="Puneri Bappa VS Punit Balan C.A." tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765102471085-755407107.webp" group-title="Live",Puneri Bappa VS Punit Balan C.A.
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
-
-#EXTINF:-1 tvg-id="6932d878fd87c2948fb48131" tvg-name="Dca Jalaun Red VS Dca Agra" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764939893087-473334979.webp" group-title="Live",Dca Jalaun Red VS Dca Agra
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
 #EXTINF:-1 tvg-id="69303a7324f2af2c8dfdcce2" tvg-name="Rwanda VS Nigeria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764768366077-410182715.webp" group-title="Live",Rwanda VS Nigeria
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/

@@ -31,30 +31,30 @@
             "score_match_id": 0
         },
         {
-            "id": "6935538b2efeac777d1dea8a",
-            "name": "Puneri Bappa VS Punit Balan C.A.",
+            "id": "693553ff88f67903f050850a",
+            "name": "Jets Synthesis VS Eagle Titans",
             "category_name": "Cricket",
             "tour_id": "6935521e50bf023ae8dd241a",
             "tour_name": "MCA Corporate Shield 2025",
-            "match_no": "4",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-12-09",
             "start_date_time": "2025-12-09T03:00:00.000Z",
             "team_a": {
-                "id": "6935488688f67903f0508506",
-                "name": "Puneri Bappa",
-                "short_name": "Puneri Bappa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
+                "id": "693548bf2efeac777d1dea86",
+                "name": "Jets Synthesis",
+                "short_name": "Jets Synthesis",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099708403-580072531.webp"
             },
             "team_b": {
-                "id": "6935498b50bf023ae8dd2418",
-                "name": "Punit Balan C.A.",
-                "short_name": "Punit Balan C.A.",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099911892-537672528.webp"
+                "id": "693549130b825667b47bd449",
+                "name": "Eagle Titans",
+                "short_name": "Eagle Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099792738-824992874.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102471085-755407107.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102588133-479760623.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -87,58 +87,30 @@
             "score_match_id": 0
         },
         {
-            "id": "693553ff88f67903f050850a",
-            "name": "Jets Synthesis VS Eagle Titans",
+            "id": "6935538b2efeac777d1dea8a",
+            "name": "Puneri Bappa VS Punit Balan C.A.",
             "category_name": "Cricket",
             "tour_id": "6935521e50bf023ae8dd241a",
             "tour_name": "MCA Corporate Shield 2025",
-            "match_no": "6",
+            "match_no": "4",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-12-09",
             "start_date_time": "2025-12-09T03:00:00.000Z",
             "team_a": {
-                "id": "693548bf2efeac777d1dea86",
-                "name": "Jets Synthesis",
-                "short_name": "Jets Synthesis",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099708403-580072531.webp"
+                "id": "6935488688f67903f0508506",
+                "name": "Puneri Bappa",
+                "short_name": "Puneri Bappa",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
             },
             "team_b": {
-                "id": "693549130b825667b47bd449",
-                "name": "Eagle Titans",
-                "short_name": "Eagle Titans",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099792738-824992874.webp"
+                "id": "6935498b50bf023ae8dd2418",
+                "name": "Punit Balan C.A.",
+                "short_name": "Punit Balan C.A.",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099911892-537672528.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102588133-479760623.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "6932d878fd87c2948fb48131",
-            "name": "Dca Jalaun Red VS Dca Agra",
-            "category_name": "Cricket",
-            "tour_id": "6932d71dfa673af67ab173e2",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-09",
-            "start_date_time": "2025-12-09T07:00:00.000Z",
-            "team_a": {
-                "id": "6932d605fa673af67ab173e1",
-                "name": "Dca Jalaun Red",
-                "short_name": "Dca Jalaun Red",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939264852-460148239.webp"
-            },
-            "team_b": {
-                "id": "6932d53efa673af67ab173df",
-                "name": "Dca Agra",
-                "short_name": "Dca Agra",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939067922-648594908.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764939893087-473334979.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102471085-755407107.webp",
             "venue": "",
             "score_match_id": 0
         },
