@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6935538b2efeac777d1dea8a",
-            "name": "Puneri Bappa VS Punit Balan C.A.",
-            "category_name": "Cricket",
-            "tour_id": "6935521e50bf023ae8dd241a",
-            "tour_name": "MCA Corporate Shield 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-09",
-            "start_date_time": "2025-12-09T03:00:00.000Z",
-            "team_a": {
-                "id": "6935488688f67903f0508506",
-                "name": "Puneri Bappa",
-                "short_name": "Puneri Bappa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
-            },
-            "team_b": {
-                "id": "6935498b50bf023ae8dd2418",
-                "name": "Punit Balan C.A.",
-                "short_name": "Punit Balan C.A.",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099911892-537672528.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102471085-755407107.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "69303a7324f2af2c8dfdcce2",
-            "name": "Rwanda VS Nigeria",
-            "category_name": "Cricket",
-            "tour_id": "69303710fd87c2948fb4811f",
-            "tour_name": "West Africa Trophy 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-09",
-            "start_date_time": "2025-12-09T08:30:00.000Z",
-            "team_a": {
-                "id": "66795fc89e3863a543c1f69a",
-                "name": "Rwanda",
-                "short_name": "Rwanda",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767258481-371158287.webp"
-            },
-            "team_b": {
-                "id": "666e34ab22b7a98f1532665d",
-                "name": "Nigeria",
-                "short_name": "Nigeria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767289353-769686534.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764768366077-410182715.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69303af924f2af2c8dfdcce3",
             "name": "Sierra Leone VS Zambia",
             "category_name": "Cricket",
