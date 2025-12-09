@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "69303af924f2af2c8dfdcce3",
-            "name": "Sierra Leone VS Zambia",
-            "category_name": "Cricket",
-            "tour_id": "69303710fd87c2948fb4811f",
-            "tour_name": "West Africa Trophy 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-09",
-            "start_date_time": "2025-12-09T12:30:00.000Z",
-            "team_a": {
-                "id": "693036891ee3a0177bd692a6",
-                "name": "Sierra Leone",
-                "short_name": "Sierra Leone",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767367638-518561134.webp"
-            },
-            "team_b": {
-                "id": "66795f9f9e3863a543c1f699",
-                "name": "Zambia",
-                "short_name": "Zambia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767318573-172212937.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764768500534-213088158.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
