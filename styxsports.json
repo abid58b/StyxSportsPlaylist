@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6932d8acfa673af67ab173e4",
-            "name": "Dca Jalaun Red VS Dca Unnao",
-            "category_name": "Cricket",
-            "tour_id": "6932d71dfa673af67ab173e2",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-10",
-            "start_date_time": "2025-12-10T03:00:00.000Z",
-            "team_a": {
-                "id": "6932d605fa673af67ab173e1",
-                "name": "Dca Jalaun Red",
-                "short_name": "Dca Jalaun Red",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939264852-460148239.webp"
-            },
-            "team_b": {
-                "id": "6932d59124f2af2c8dfdccff",
-                "name": "Dca Unnao",
-                "short_name": "Dca Unnao",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939148887-174763508.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764939944939-92280173.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6935564088f67903f050850c",
             "name": "D.Y. Patil VS Jets Synthesis",
             "category_name": "Cricket",
@@ -59,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6935556988f67903f050850b",
-            "name": "Puneri Bappa VS Kapil Sons",
-            "category_name": "Cricket",
-            "tour_id": "6935521e50bf023ae8dd241a",
-            "tour_name": "MCA Corporate Shield 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-10",
-            "start_date_time": "2025-12-10T03:00:00.000Z",
-            "team_a": {
-                "id": "6935488688f67903f0508506",
-                "name": "Puneri Bappa",
-                "short_name": "Puneri Bappa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
-            },
-            "team_b": {
-                "id": "693549382efeac777d1dea87",
-                "name": "Kapil Sons",
-                "short_name": "Kapil Sons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099827972-334963803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102943692-696397775.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "693555e10b825667b47bd44d",
             "name": "Punit Balan C.A. VS Eagle Titans",
             "category_name": "Cricket",
@@ -111,6 +55,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099792738-824992874.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765103066863-603026755.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6935556988f67903f050850b",
+            "name": "Puneri Bappa VS Kapil Sons",
+            "category_name": "Cricket",
+            "tour_id": "6935521e50bf023ae8dd241a",
+            "tour_name": "MCA Corporate Shield 2025",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-10",
+            "start_date_time": "2025-12-10T03:00:00.000Z",
+            "team_a": {
+                "id": "6935488688f67903f0508506",
+                "name": "Puneri Bappa",
+                "short_name": "Puneri Bappa",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
+            },
+            "team_b": {
+                "id": "693549382efeac777d1dea87",
+                "name": "Kapil Sons",
+                "short_name": "Kapil Sons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099827972-334963803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765102943692-696397775.webp",
             "venue": "",
             "score_match_id": 0
         },
