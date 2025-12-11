@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69303b4ffd87c2948fb48122",
-            "name": "Zambia VS Rwanda",
-            "category_name": "Cricket",
-            "tour_id": "69303710fd87c2948fb4811f",
-            "tour_name": "West Africa Trophy 2025",
-            "match_no": "13",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-11",
-            "start_date_time": "2025-12-11T08:30:00.000Z",
-            "team_a": {
-                "id": "66795f9f9e3863a543c1f699",
-                "name": "Zambia",
-                "short_name": "Zambia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767318573-172212937.webp"
-            },
-            "team_b": {
-                "id": "66795fc89e3863a543c1f69a",
-                "name": "Rwanda",
-                "short_name": "Rwanda",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767258481-371158287.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764768587834-727389741.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69303b95fd87c2948fb48123",
             "name": "Nigeria VS Sierra Leone",
             "category_name": "Cricket",
