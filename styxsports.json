@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6932d8de1ee3a0177bd692b5",
-            "name": "Dca Moradabad VS Dca Hardoi",
-            "category_name": "Cricket",
-            "tour_id": "6932d71dfa673af67ab173e2",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-11",
-            "start_date_time": "2025-12-11T03:00:00.000Z",
-            "team_a": {
-                "id": "6932d56524f2af2c8dfdccfe",
-                "name": "Dca Moradabad",
-                "short_name": "Dca Moradabad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939106380-845378301.webp"
-            },
-            "team_b": {
-                "id": "693969c72efeac777d1deaa6",
-                "name": "Dca Hardoi",
-                "short_name": "Dca Hardoi",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765370305599-491787412.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764939995254-616292372.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69354b6688f67903f0508507",
             "name": "Bhutan VS Bahrain",
             "category_name": "Cricket",
