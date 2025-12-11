@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6939079b88f67903f050852e",
-            "name": "Sydney Sixers Women VS Perth Scorchers Women",
-            "category_name": "Cricket",
-            "tour_id": "69158efa24f2af2c8dfdcbe0",
-            "tour_name": "Women's Big Bash League 2025",
-            "match_no": "Challenger",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-11",
-            "start_date_time": "2025-12-11T07:40:00.000Z",
-            "team_a": {
-                "id": "671b0027c2a91e9745b09cd2",
-                "name": "Sydney Sixers Women",
-                "short_name": "Sydney Sixers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
-            },
-            "team_b": {
-                "id": "671b009ec2a91e9745b09cd5",
-                "name": "Perth Scorchers Women",
-                "short_name": "Perth Scorchers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765345174159-85638860.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69303b4ffd87c2948fb48122",
             "name": "Zambia VS Rwanda",
             "category_name": "Cricket",
