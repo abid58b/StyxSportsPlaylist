@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6932d90efa673af67ab173e5",
-            "name": "Gwalior Division VS Dca Jalaun Blue",
-            "category_name": "Cricket",
-            "tour_id": "6932d71dfa673af67ab173e2",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-11",
-            "start_date_time": "2025-12-11T07:00:00.000Z",
-            "team_a": {
-                "id": "693969f250bf023ae8dd243a",
-                "name": "Gwalior Division",
-                "short_name": "Gwalior Division",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765370350863-135208970.webp"
-            },
-            "team_b": {
-                "id": "6932d5befa673af67ab173e0",
-                "name": "Dca Jalaun Blue",
-                "short_name": "Dca Jalaun Blue",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939190343-56685575.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764940043028-369137961.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6939079b88f67903f050852e",
             "name": "Sydney Sixers Women VS Perth Scorchers Women",
             "category_name": "Cricket",
