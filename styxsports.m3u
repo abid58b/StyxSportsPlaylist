@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6932d8de1ee3a0177bd692b5" tvg-name="Dca Moradabad VS Dca Hardoi" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764939995254-616292372.webp" group-title="Live",Dca Moradabad VS Dca Hardoi
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="69354b6688f67903f0508507" tvg-name="Bhutan VS Bahrain" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765100385564-605903654.png" group-title="Live",Bhutan VS Bahrain
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
+
