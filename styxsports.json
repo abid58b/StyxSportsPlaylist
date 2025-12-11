@@ -1,5 +1,174 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "6932d8de1ee3a0177bd692b5",
+            "name": "Dca Moradabad VS Dca Hardoi",
+            "category_name": "Cricket",
+            "tour_id": "6932d71dfa673af67ab173e2",
+            "tour_name": "Jagdish Bhalla Trophy 2025",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-11",
+            "start_date_time": "2025-12-11T03:00:00.000Z",
+            "team_a": {
+                "id": "6932d56524f2af2c8dfdccfe",
+                "name": "Dca Moradabad",
+                "short_name": "Dca Moradabad",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939106380-845378301.webp"
+            },
+            "team_b": {
+                "id": "693969c72efeac777d1deaa6",
+                "name": "Dca Hardoi",
+                "short_name": "Dca Hardoi",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765370305599-491787412.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764939995254-616292372.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69354b6688f67903f0508507",
+            "name": "Bhutan VS Bahrain",
+            "category_name": "Cricket",
+            "tour_id": "69354a722efeac777d1dea89",
+            "tour_name": "Bahrain tour of Bhutan 2025",
+            "match_no": "3rd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-11",
+            "start_date_time": "2025-12-11T03:30:00.000Z",
+            "team_a": {
+                "id": "693549fd2efeac777d1dea88",
+                "name": "Bhutan",
+                "short_name": "Bhutan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765100027291-471834111.webp"
+            },
+            "team_b": {
+                "id": "671dea49bb231d3543008d16",
+                "name": "Bahrain",
+                "short_name": "Bahrain",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1756277399035-595055734.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765100385564-605903654.png",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6932d90efa673af67ab173e5",
+            "name": "Gwalior Division VS Dca Jalaun Blue",
+            "category_name": "Cricket",
+            "tour_id": "6932d71dfa673af67ab173e2",
+            "tour_name": "Jagdish Bhalla Trophy 2025",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-11",
+            "start_date_time": "2025-12-11T07:00:00.000Z",
+            "team_a": {
+                "id": "693969f250bf023ae8dd243a",
+                "name": "Gwalior Division",
+                "short_name": "Gwalior Division",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765370350863-135208970.webp"
+            },
+            "team_b": {
+                "id": "6932d5befa673af67ab173e0",
+                "name": "Dca Jalaun Blue",
+                "short_name": "Dca Jalaun Blue",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939190343-56685575.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764940043028-369137961.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6939079b88f67903f050852e",
+            "name": "Sydney Sixers Women VS Perth Scorchers Women",
+            "category_name": "Cricket",
+            "tour_id": "69158efa24f2af2c8dfdcbe0",
+            "tour_name": "Women's Big Bash League 2025",
+            "match_no": "Challenger",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-11",
+            "start_date_time": "2025-12-11T07:40:00.000Z",
+            "team_a": {
+                "id": "671b0027c2a91e9745b09cd2",
+                "name": "Sydney Sixers Women",
+                "short_name": "Sydney Sixers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039722139-350568486.webp"
+            },
+            "team_b": {
+                "id": "671b009ec2a91e9745b09cd5",
+                "name": "Perth Scorchers Women",
+                "short_name": "Perth Scorchers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763039759797-991470165.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765345174159-85638860.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69303b4ffd87c2948fb48122",
+            "name": "Zambia VS Rwanda",
+            "category_name": "Cricket",
+            "tour_id": "69303710fd87c2948fb4811f",
+            "tour_name": "West Africa Trophy 2025",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-11",
+            "start_date_time": "2025-12-11T08:30:00.000Z",
+            "team_a": {
+                "id": "66795f9f9e3863a543c1f699",
+                "name": "Zambia",
+                "short_name": "Zambia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767318573-172212937.webp"
+            },
+            "team_b": {
+                "id": "66795fc89e3863a543c1f69a",
+                "name": "Rwanda",
+                "short_name": "Rwanda",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767258481-371158287.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764768587834-727389741.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69303b95fd87c2948fb48123",
+            "name": "Nigeria VS Sierra Leone",
+            "category_name": "Cricket",
+            "tour_id": "69303710fd87c2948fb4811f",
+            "tour_name": "West Africa Trophy 2025",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-11",
+            "start_date_time": "2025-12-11T12:30:00.000Z",
+            "team_a": {
+                "id": "666e34ab22b7a98f1532665d",
+                "name": "Nigeria",
+                "short_name": "Nigeria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767289353-769686534.webp"
+            },
+            "team_b": {
+                "id": "693036891ee3a0177bd692a6",
+                "name": "Sierra Leone",
+                "short_name": "Sierra Leone",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767367638-518561134.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764768654047-579734358.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
