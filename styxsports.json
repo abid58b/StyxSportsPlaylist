@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "69303b95fd87c2948fb48123",
-            "name": "Nigeria VS Sierra Leone",
-            "category_name": "Cricket",
-            "tour_id": "69303710fd87c2948fb4811f",
-            "tour_name": "West Africa Trophy 2025",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-11",
-            "start_date_time": "2025-12-11T12:30:00.000Z",
-            "team_a": {
-                "id": "666e34ab22b7a98f1532665d",
-                "name": "Nigeria",
-                "short_name": "Nigeria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767289353-769686534.webp"
-            },
-            "team_b": {
-                "id": "693036891ee3a0177bd692a6",
-                "name": "Sierra Leone",
-                "short_name": "Sierra Leone",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767367638-518561134.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764768654047-579734358.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
