@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693556ea0b825667b47bd44e",
-            "name": "Puneri Bappa VS D.Y. Patil",
-            "category_name": "Cricket",
-            "tour_id": "6935521e50bf023ae8dd241a",
-            "tour_name": "MCA Corporate Shield 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T03:00:00.000Z",
-            "team_a": {
-                "id": "6935488688f67903f0508506",
-                "name": "Puneri Bappa",
-                "short_name": "Puneri Bappa",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099651668-711198308.webp"
-            },
-            "team_b": {
-                "id": "693548ea50bf023ae8dd2417",
-                "name": "D.Y. Patil",
-                "short_name": "D.Y. Patil",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099749065-345526803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765103333999-338771283.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6935573150bf023ae8dd241d",
             "name": "Jets Synthesis VS Punit Balan C.A.",
             "category_name": "Cricket",
@@ -115,34 +87,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6916eb6b1ee3a0177bd691fd",
-            "name": "Canterbury Magicians VS Wellington Blaze",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e97d24f2af2c8dfdcbee",
-                "name": "Canterbury Magicians",
-                "short_name": "Canterbury Magicians",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043707588-48167040.webp"
-            },
-            "team_b": {
-                "id": "6915e9511ee3a0177bd691f6",
-                "name": "Wellington Blaze",
-                "short_name": "Wellington Blaze",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109734351-331561911.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 93625
-        },
-        {
             "id": "6916eb38fd87c2948fb4803a",
             "name": "Central Hinds VS Otago Sparks",
             "category_name": "Cricket",
@@ -171,6 +115,34 @@
             "score_match_id": 93624
         },
         {
+            "id": "6916eb6b1ee3a0177bd691fd",
+            "name": "Canterbury Magicians VS Wellington Blaze",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e97d24f2af2c8dfdcbee",
+                "name": "Canterbury Magicians",
+                "short_name": "Canterbury Magicians",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043707588-48167040.webp"
+            },
+            "team_b": {
+                "id": "6915e9511ee3a0177bd691f6",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109734351-331561911.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 93625
+        },
+        {
             "id": "6916ebaa24f2af2c8dfdcbf9",
             "name": "Auckland Hearts VS Northern District Women",
             "category_name": "Cricket",
@@ -197,6 +169,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109797675-573367670.webp",
             "venue": "Kennards Hire Community Oval ,Auckland",
             "score_match_id": 93626
+        },
+        {
+            "id": "6918453ffa673af67ab17300",
+            "name": "Northern District VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 10 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 92917
         },
         {
             "id": "69184571fd87c2948fb48088",
@@ -253,34 +253,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198381491-652218621.webp",
             "venue": "University Oval ,Dunedin",
             "score_match_id": 92919
-        },
-        {
-            "id": "6918453ffa673af67ab17300",
-            "name": "Northern District VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 10 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 92917
         }
     ]
 }
