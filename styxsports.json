@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6932d943fd87c2948fb48132",
-            "name": "Dca Moradabad VS Dca Jalaun Blue",
-            "category_name": "Cricket",
-            "tour_id": "6932d71dfa673af67ab173e2",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T03:00:00.000Z",
-            "team_a": {
-                "id": "6932d56524f2af2c8dfdccfe",
-                "name": "Dca Moradabad",
-                "short_name": "Dca Moradabad",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939106380-845378301.webp"
-            },
-            "team_b": {
-                "id": "6932d5befa673af67ab173e0",
-                "name": "Dca Jalaun Blue",
-                "short_name": "Dca Jalaun Blue",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764939190343-56685575.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764940095629-588380827.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "693556ea0b825667b47bd44e",
             "name": "Puneri Bappa VS D.Y. Patil",
             "category_name": "Cricket",
@@ -171,34 +143,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6932d9a1fa673af67ab173e6",
-            "name": "Gwalior Division VS Dca Hardoi",
-            "category_name": "Cricket",
-            "tour_id": "6932d71dfa673af67ab173e2",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T07:00:00.000Z",
-            "team_a": {
-                "id": "693969f250bf023ae8dd243a",
-                "name": "Gwalior Division",
-                "short_name": "Gwalior Division",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765370350863-135208970.webp"
-            },
-            "team_b": {
-                "id": "693969c72efeac777d1deaa6",
-                "name": "Dca Hardoi",
-                "short_name": "Dca Hardoi",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765370305599-491787412.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764940190488-700439755.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69303c0b1ee3a0177bd692a9",
             "name": "Zambia VS Nigeria",
             "category_name": "Cricket",
@@ -255,34 +199,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6916ebaa24f2af2c8dfdcbf9",
-            "name": "Auckland Hearts VS Northern District Women",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e8fb1ee3a0177bd691f5",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
-            },
-            "team_b": {
-                "id": "6915e939fd87c2948fb48035",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109797675-573367670.webp",
-            "venue": "Kennards Hire Community Oval ,Auckland",
-            "score_match_id": 93626
-        },
-        {
             "id": "6916eb6b1ee3a0177bd691fd",
             "name": "Canterbury Magicians VS Wellington Blaze",
             "category_name": "Cricket",
@@ -309,6 +225,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109734351-331561911.webp",
             "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
             "score_match_id": 93625
+        },
+        {
+            "id": "6916ebaa24f2af2c8dfdcbf9",
+            "name": "Auckland Hearts VS Northern District Women",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
+            },
+            "team_b": {
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763109797675-573367670.webp",
+            "venue": "Kennards Hire Community Oval ,Auckland",
+            "score_match_id": 93626
         },
         {
             "id": "6916eb38fd87c2948fb4803a",
@@ -367,34 +311,6 @@
             "score_match_id": 92919
         },
         {
-            "id": "69184571fd87c2948fb48088",
-            "name": "Canterbury Kings VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 11 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "team_b": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198318792-437145643.webp",
-            "venue": "Hagley Oval ,Christchurch",
-            "score_match_id": 92918
-        },
-        {
             "id": "6918453ffa673af67ab17300",
             "name": "Northern District VS Wellington Firebirds",
             "category_name": "Cricket",
@@ -421,6 +337,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp",
             "venue": "Cobham Ovall ,Whangarei",
             "score_match_id": 92917
+        },
+        {
+            "id": "69184571fd87c2948fb48088",
+            "name": "Canterbury Kings VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 11 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198318792-437145643.webp",
+            "venue": "Hagley Oval ,Christchurch",
+            "score_match_id": 92918
         }
     ]
 }
