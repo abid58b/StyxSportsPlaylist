@@ -1,20 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6935573150bf023ae8dd241d" tvg-name="Jets Synthesis VS Punit Balan C.A." tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103390274-54769518.webp" group-title="Live",Jets Synthesis VS Punit Balan C.A.
+#EXTINF:-1 tvg-id="693556ea0b825667b47bd44e" tvg-name="Puneri Bappa VS D.Y. Patil" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103333999-338771283.webp" group-title="Live",Puneri Bappa VS D.Y. Patil
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
 #EXTINF:-1 tvg-id="693557682efeac777d1dea8c" tvg-name="Eagle Titans VS Kapil Sons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103460167-220212069.webp" group-title="Live",Eagle Titans VS Kapil Sons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
 
-#EXTINF:-1 tvg-id="693556ea0b825667b47bd44e" tvg-name="Puneri Bappa VS D.Y. Patil" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103333999-338771283.webp" group-title="Live",Puneri Bappa VS D.Y. Patil
+#EXTINF:-1 tvg-id="6935573150bf023ae8dd241d" tvg-name="Jets Synthesis VS Punit Balan C.A." tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103390274-54769518.webp" group-title="Live",Jets Synthesis VS Punit Balan C.A.
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
-
-#EXTINF:-1 tvg-id="69354b9550bf023ae8dd2419" tvg-name="Bhutan VS Bahrain" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765100433777-863707509.png" group-title="Live",Bhutan VS Bahrain
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
 
 #EXTINF:-1 tvg-id="693ac4c50b825667b47bd46e" tvg-name="Jade Jets VS Bauhinia Stars" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765459136045-723131711.webp" group-title="Live",Jade Jets VS Bauhinia Stars
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
