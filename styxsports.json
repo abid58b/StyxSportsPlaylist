@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "691727931ee3a0177bd69202",
-            "name": "Auckland Hearts VS Northern District Women",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "18",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-13",
-            "start_date_time": "2025-12-13T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e8fb1ee3a0177bd691f5",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
-            },
-            "team_b": {
-                "id": "6915e939fd87c2948fb48035",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763125136016-563159958.webp",
-            "venue": "Kennards Hire Community Oval ,Auckland",
-            "score_match_id": 93629
-        },
-        {
             "id": "6917272a24f2af2c8dfdcbfe",
             "name": "Central Hinds VS Otago Sparks",
             "category_name": "Cricket",
@@ -85,6 +57,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763125029408-293460489.webp",
             "venue": "Fitzherbert Park ,Palmerston North",
             "score_match_id": 93627
+        },
+        {
+            "id": "691727931ee3a0177bd69202",
+            "name": "Auckland Hearts VS Northern District Women",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-13",
+            "start_date_time": "2025-12-13T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e8fb1ee3a0177bd691f5",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043575821-470107981.webp"
+            },
+            "team_b": {
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763125136016-563159958.webp",
+            "venue": "Kennards Hire Community Oval ,Auckland",
+            "score_match_id": 93629
         },
         {
             "id": "6917275f24f2af2c8dfdcbff",
