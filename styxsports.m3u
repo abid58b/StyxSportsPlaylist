@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="693557ac2efeac777d1dea8d" tvg-name="Puneri Bappa VS Eagle Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103527899-754604485.webp" group-title="Live",Puneri Bappa VS Eagle Titans
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
-
 #EXTINF:-1 tvg-id="693557f02efeac777d1dea8e" tvg-name="Jets Synthesis VS Kapil Sons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103595931-137474529.webp" group-title="Live",Jets Synthesis VS Kapil Sons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
 
-#EXTINF:-1 tvg-id="693ac58c50bf023ae8dd2447" tvg-name="Bauhinia Stars VS Jade Jets" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765459336852-521818714.webp" group-title="Live",Bauhinia Stars VS Jade Jets
+#EXTINF:-1 tvg-id="693557ac2efeac777d1dea8d" tvg-name="Puneri Bappa VS Eagle Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103527899-754604485.webp" group-title="Live",Puneri Bappa VS Eagle Titans
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
 #EXTINF:-1 tvg-id="693ac3260b825667b47bd46c" tvg-name="Hobart Hurricanes Women VS Perth Scorchers Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765458719395-115155255.webp" group-title="Live",Hobart Hurricanes Women VS Perth Scorchers Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/si0XJuIcrzGda0eY1205706807594.m3u8
+
+#EXTINF:-1 tvg-id="69303d34fd87c2948fb48124" tvg-name="Nigeria VS Rwanda" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764769072791-473331684.webp" group-title="Live",Nigeria VS Rwanda
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
