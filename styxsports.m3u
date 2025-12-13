@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6935582688f67903f050850d" tvg-name="D.Y. Patil VS Punit Balan C.A." tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103651360-516249238.webp" group-title="Live",D.Y. Patil VS Punit Balan C.A.
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
-
 #EXTINF:-1 tvg-id="693557f02efeac777d1dea8e" tvg-name="Jets Synthesis VS Kapil Sons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103595931-137474529.webp" group-title="Live",Jets Synthesis VS Kapil Sons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
@@ -11,6 +7,10 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479
 #EXTINF:-1 tvg-id="693557ac2efeac777d1dea8d" tvg-name="Puneri Bappa VS Eagle Titans" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103527899-754604485.webp" group-title="Live",Puneri Bappa VS Eagle Titans
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
+
+#EXTINF:-1 tvg-id="6935582688f67903f050850d" tvg-name="D.Y. Patil VS Punit Balan C.A." tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765103651360-516249238.webp" group-title="Live",D.Y. Patil VS Punit Balan C.A.
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
 
 #EXTINF:-1 tvg-id="69354bc00b825667b47bd44c" tvg-name="Bhutan VS Bahrain" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765100479233-435163931.png" group-title="Live",Bhutan VS Bahrain
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
