@@ -16,3 +16,7 @@ https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
 
+#EXTINF:-1 tvg-id="693ac58c50bf023ae8dd2447" tvg-name="Bauhinia Stars VS Jade Jets" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765459336852-521818714.webp" group-title="Live",Bauhinia Stars VS Jade Jets
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
+
