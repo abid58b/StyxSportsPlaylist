@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "69303e4b24f2af2c8dfdcce5",
-            "name": "Nigeria VS Rwanda",
-            "category_name": "Cricket",
-            "tour_id": "69303710fd87c2948fb4811f",
-            "tour_name": "West Africa Trophy 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-14",
-            "start_date_time": "2025-12-14T12:30:00.000Z",
-            "team_a": {
-                "id": "666e34ab22b7a98f1532665d",
-                "name": "Nigeria",
-                "short_name": "Nigeria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767289353-769686534.webp"
-            },
-            "team_b": {
-                "id": "66795fc89e3863a543c1f69a",
-                "name": "Rwanda",
-                "short_name": "Rwanda",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1764767258481-371158287.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765645421558-282246800.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69184571fd87c2948fb48088",
             "name": "Canterbury Kings VS Auckland Aces",
             "category_name": "Cricket",
