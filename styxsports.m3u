@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
 
+#EXTINF:-1 tvg-id="692ee6341ee3a0177bd69297" tvg-name="Perth Scorchers VS Sydney Sixers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764681265565-672467641.webp" group-title="Live",Perth Scorchers VS Sydney Sixers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
