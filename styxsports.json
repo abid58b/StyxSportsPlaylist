@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693ac5d788f67903f0508538",
-            "name": "Jade Jets VS Bauhinia Stars",
-            "category_name": "Cricket",
-            "tour_id": "693aa9280b825667b47bd46a",
-            "tour_name": "Women's All Stars Series 2025",
-            "match_no": "3rd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-14",
-            "start_date_time": "2025-12-14T05:30:00.000Z",
-            "team_a": {
-                "id": "6748967323f1ee69536eaff6",
-                "name": "Jade Jets",
-                "short_name": "JJ",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765451823898-511455289.webp"
-            },
-            "team_b": {
-                "id": "674896dc9f64fac57a120aba",
-                "name": "Bauhinia Stars",
-                "short_name": "BS",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765451805407-578218422.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765459411561-808445784.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "692ee6341ee3a0177bd69297",
             "name": "Perth Scorchers VS Sydney Sixers",
             "category_name": "Cricket",
@@ -143,34 +115,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6918453ffa673af67ab17300",
-            "name": "Northern District VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 10 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-14",
-            "start_date_time": "2025-12-14T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 92917
-        },
-        {
             "id": "69184571fd87c2948fb48088",
             "name": "Canterbury Kings VS Auckland Aces",
             "category_name": "Cricket",
@@ -197,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198318792-437145643.webp",
             "venue": "Hagley Oval ,Christchurch",
             "score_match_id": 92918
+        },
+        {
+            "id": "6918453ffa673af67ab17300",
+            "name": "Northern District VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 10 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-14",
+            "start_date_time": "2025-12-14T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "team_b": {
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 92917
         },
         {
             "id": "691845b0fd87c2948fb48089",
