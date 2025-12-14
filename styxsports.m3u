@@ -1,26 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6917272a24f2af2c8dfdcbfe" tvg-name="Central Hinds VS Otago Sparks" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763125029408-293460489.webp" group-title="Live",Central Hinds VS Otago Sparks
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
-#EXTINF:-1 tvg-id="691727931ee3a0177bd69202" tvg-name="Auckland Hearts VS Northern District Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763125136016-563159958.webp" group-title="Live",Auckland Hearts VS Northern District Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
-
-#EXTINF:-1 tvg-id="6917275f24f2af2c8dfdcbff" tvg-name="Canterbury Magicians VS Wellington Blaze" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763125081554-493000021.webp" group-title="Live",Canterbury Magicians VS Wellington Blaze
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
-#EXTINF:-1 tvg-id="6918453ffa673af67ab17300" tvg-name="Northern District VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp" group-title="Live",Northern District VS Wellington Firebirds
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
-
-#EXTINF:-1 tvg-id="69184571fd87c2948fb48088" tvg-name="Canterbury Kings VS Auckland Aces" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198318792-437145643.webp" group-title="Live",Canterbury Kings VS Auckland Aces
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
-
-#EXTINF:-1 tvg-id="691845b0fd87c2948fb48089" tvg-name="Otago VS Central Stags" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198381491-652218621.webp" group-title="Live",Otago VS Central Stags
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
