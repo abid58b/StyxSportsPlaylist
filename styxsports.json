@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693982b80b825667b47bd468",
-            "name": "Abans Group VS CEYLINCO INSURANCE",
-            "category_name": "Cricket",
-            "tour_id": "68f22410e4b44a5c727eb7ce",
-            "tour_name": "MCA DIVISION \"D\"  50 0VER LEAGUE CRICKET TOURNAMENT 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-14",
-            "start_date_time": "2025-12-14T08:30:00.000Z",
-            "team_a": {
-                "id": "67530381e2cc6afe4b97db00",
-                "name": "Abans Group",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699139331-193151756.webp"
-            },
-            "team_b": {
-                "id": "68f2243de4b44a5c727eb7cf",
-                "name": "CEYLINCO INSURANCE",
-                "short_name": "CEYLINCO INSURANCE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760699451668-341181879.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765376652750-437078287.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69184571fd87c2948fb48088",
             "name": "Canterbury Kings VS Auckland Aces",
             "category_name": "Cricket",
