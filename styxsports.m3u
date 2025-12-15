@@ -1,14 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="693d6f900b825667b47bd478" tvg-name="Puneri Bappa VS Kapil Sons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765633932770-444691303.webp" group-title="Live",Puneri Bappa VS Kapil Sons
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
-
-#EXTINF:-1 tvg-id="693d6f430b825667b47bd477" tvg-name="D.Y. Patil VS Punit Balan C.A." tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765633856065-655000672.webp" group-title="Live",D.Y. Patil VS Punit Balan C.A.
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
-
-#EXTINF:-1 tvg-id="692ee668fa673af67ab173be" tvg-name="Melbourne Renegades VS Brisbane Heat" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764681317024-682529418.webp" group-title="Live",Melbourne Renegades VS Brisbane Heat
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
-
