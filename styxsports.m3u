@@ -8,3 +8,7 @@ https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
 
+#EXTINF:-1 tvg-id="692ee668fa673af67ab173be" tvg-name="Melbourne Renegades VS Brisbane Heat" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764681317024-682529418.webp" group-title="Live",Melbourne Renegades VS Brisbane Heat
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
