@@ -3,60 +3,60 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691845b0fd87c2948fb48089",
-            "name": "Otago VS Central Stags",
+            "id": "69400555c01df8014f54b674",
+            "name": "Kapil Sons VS Punit Balan C.A.",
             "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 12 | Day 4",
+            "tour_id": "6935521e50bf023ae8dd241a",
+            "tour_name": "MCA Corporate Shield 2025",
+            "match_no": "Final",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-15",
-            "start_date_time": "2025-12-15T21:00:00.000Z",
+            "start_date": "2025-12-16",
+            "start_date_time": "2025-12-16T03:00:00.000Z",
             "team_a": {
-                "id": "6916fc9224f2af2c8dfdcbfc",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+                "id": "693549382efeac777d1dea87",
+                "name": "Kapil Sons",
+                "short_name": "Kapil Sons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099827972-334963803.webp"
             },
             "team_b": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "6935498b50bf023ae8dd2418",
+                "name": "Punit Balan C.A.",
+                "short_name": "Punit Balan C.A.",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099911892-537672528.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198381491-652218621.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 92919
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765803344760-269044561.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
-            "id": "6918453ffa673af67ab17300",
-            "name": "Northern District VS Wellington Firebirds",
+            "id": "692ee6a624f2af2c8dfdccd1",
+            "name": "Hobart Hurricanes VS Sydney Thunder",
             "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 10 | Day 4",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-15",
-            "start_date_time": "2025-12-15T21:00:00.000Z",
+            "start_date": "2025-12-16",
+            "start_date_time": "2025-12-16T07:45:00.000Z",
             "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart Hurricanes",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906562554-208685771.webp"
             },
             "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 92917
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764681379254-270433213.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }

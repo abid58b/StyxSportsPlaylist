@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691845b0fd87c2948fb48089" tvg-name="Otago VS Central Stags" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198381491-652218621.webp" group-title="Live",Otago VS Central Stags
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
-#EXTINF:-1 tvg-id="6918453ffa673af67ab17300" tvg-name="Northern District VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198267673-710373786.webp" group-title="Live",Northern District VS Wellington Firebirds
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
-
