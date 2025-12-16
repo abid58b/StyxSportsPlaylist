@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "69400555c01df8014f54b674",
-            "name": "Kapil Sons VS Punit Balan C.A.",
-            "category_name": "Cricket",
-            "tour_id": "6935521e50bf023ae8dd241a",
-            "tour_name": "MCA Corporate Shield 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-16",
-            "start_date_time": "2025-12-16T03:00:00.000Z",
-            "team_a": {
-                "id": "693549382efeac777d1dea87",
-                "name": "Kapil Sons",
-                "short_name": "Kapil Sons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099827972-334963803.webp"
-            },
-            "team_b": {
-                "id": "6935498b50bf023ae8dd2418",
-                "name": "Punit Balan C.A.",
-                "short_name": "Punit Balan C.A.",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765099911892-537672528.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765803344760-269044561.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
