@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6942484d1e6ea05171ca0f70" tvg-name="AOS Eagles VS Game Changer Falcons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1765951560748-633519377.webp" group-title="Live",AOS Eagles VS Game Changer Falcons
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
