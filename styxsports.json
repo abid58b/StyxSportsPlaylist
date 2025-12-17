@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "6942484d1e6ea05171ca0f70",
-            "name": "AOS Eagles VS Game Changer Falcons",
-            "category_name": "Tennis",
-            "tour_id": "694247bfc01df8014f54b67c",
-            "tour_name": "World Tennis League 2025, India",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-17",
-            "start_date_time": "2025-12-17T13:30:00.000Z",
-            "team_a": {
-                "id": "67627dd81df8252917627b4c",
-                "name": "AOS Eagles",
-                "short_name": "AOS Eagles",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951176298-326129254.webp"
-            },
-            "team_b": {
-                "id": "67627e0d21cdf3977e87b523",
-                "name": "Game Changer Falcons",
-                "short_name": "Game Changer Falcons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951216305-834312238.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765951560748-633519377.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
