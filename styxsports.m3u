@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="692ee71ffa673af67ab173c0" tvg-name="Melbourne Stars VS Hobart Hurricanes" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764681500125-118931095.webp" group-title="Live",Melbourne Stars VS Hobart Hurricanes
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
