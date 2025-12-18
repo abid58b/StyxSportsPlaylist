@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ee71ffa673af67ab173c0",
-            "name": "Melbourne Stars VS Hobart Hurricanes",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-18",
-            "start_date_time": "2025-12-18T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne Stars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
-            },
-            "team_b": {
-                "id": "673afa27980f48a2d71d6afb",
-                "name": "Hobart Hurricanes",
-                "short_name": "Hobart Hurricanes",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906562554-208685771.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764681500125-118931095.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69425588ed6ace15d699b5d9",
             "name": "Aussie Mavericks Kites VS AOS Eagles",
             "category_name": "Tennis",
