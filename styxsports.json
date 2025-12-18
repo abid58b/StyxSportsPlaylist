@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69425588ed6ace15d699b5d9",
-            "name": "Aussie Mavericks Kites VS AOS Eagles",
-            "category_name": "Tennis",
-            "tour_id": "694247bfc01df8014f54b67c",
-            "tour_name": "World Tennis League 2025, India",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-18",
-            "start_date_time": "2025-12-18T09:30:00.000Z",
-            "team_a": {
-                "id": "67627e6faffe9551a1de962e",
-                "name": "Aussie Mavericks Kites",
-                "short_name": "Aussie Mavericks Kites",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951254751-117713739.webp"
-            },
-            "team_b": {
-                "id": "67627dd81df8252917627b4c",
-                "name": "AOS Eagles",
-                "short_name": "AOS Eagles",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951176298-326129254.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765954947917-845391452.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "694255b8a28f1c31e0fc55c4",
             "name": "Game Changer Falcons VS VB Realty Hawks",
             "category_name": "Tennis",
@@ -41,7 +13,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-12-18",
-            "start_date_time": "2025-12-18T13:30:00.000Z",
+            "start_date_time": "2025-12-18T13:00:00.000Z",
             "team_a": {
                 "id": "67627e0d21cdf3977e87b523",
                 "name": "Game Changer Falcons",
