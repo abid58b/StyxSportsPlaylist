@@ -1,5 +1,90 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "692ee71ffa673af67ab173c0",
+            "name": "Melbourne Stars VS Hobart Hurricanes",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-18",
+            "start_date_time": "2025-12-18T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne Stars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
+            },
+            "team_b": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart Hurricanes",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906562554-208685771.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764681500125-118931095.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69425588ed6ace15d699b5d9",
+            "name": "Aussie Mavericks Kites VS AOS Eagles",
+            "category_name": "Tennis",
+            "tour_id": "694247bfc01df8014f54b67c",
+            "tour_name": "World Tennis League 2025, India",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-18",
+            "start_date_time": "2025-12-18T09:30:00.000Z",
+            "team_a": {
+                "id": "67627e6faffe9551a1de962e",
+                "name": "Aussie Mavericks Kites",
+                "short_name": "Aussie Mavericks Kites",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951254751-117713739.webp"
+            },
+            "team_b": {
+                "id": "67627dd81df8252917627b4c",
+                "name": "AOS Eagles",
+                "short_name": "AOS Eagles",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951176298-326129254.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765954947917-845391452.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "694255b8a28f1c31e0fc55c4",
+            "name": "Game Changer Falcons VS VB Realty Hawks",
+            "category_name": "Tennis",
+            "tour_id": "694247bfc01df8014f54b67c",
+            "tour_name": "World Tennis League 2025, India",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-18",
+            "start_date_time": "2025-12-18T13:30:00.000Z",
+            "team_a": {
+                "id": "67627e0d21cdf3977e87b523",
+                "name": "Game Changer Falcons",
+                "short_name": "Game Changer Falcons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951216305-834312238.webp"
+            },
+            "team_b": {
+                "id": "67627e35566dff16a50bb4d7",
+                "name": "VB Realty Hawks",
+                "short_name": "VB Realty Hawks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951124706-629666409.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765954997981-212994080.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
