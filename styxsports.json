@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "694256561e6ea05171ca0f73",
-            "name": "Game Changer Falcons VS Aussie Mavericks Kites",
-            "category_name": "Tennis",
-            "tour_id": "694247bfc01df8014f54b67c",
-            "tour_name": "World Tennis League 2025, India",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-19",
-            "start_date_time": "2025-12-19T12:00:00.000Z",
-            "team_a": {
-                "id": "67627e0d21cdf3977e87b523",
-                "name": "Game Changer Falcons",
-                "short_name": "Game Changer Falcons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951216305-834312238.webp"
-            },
-            "team_b": {
-                "id": "67627e6faffe9551a1de962e",
-                "name": "Aussie Mavericks Kites",
-                "short_name": "Aussie Mavericks Kites",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951254751-117713739.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765955155517-47157884.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
