@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ee78a24f2af2c8dfdccd2",
-            "name": "Sydney Thunder VS Sydney Sixers",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-20",
-            "start_date_time": "2025-12-20T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa8c980f48a2d71d6b00",
-                "name": "Sydney Thunder",
-                "short_name": "Sydney thunder men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
-            },
-            "team_b": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764681604582-321933505.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69425c3ded6ace15d699b5dc",
             "name": "AOS Eagles VS Aussie Mavericks Kites",
             "category_name": "Tennis",
