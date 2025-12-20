@@ -32,7 +32,7 @@
         },
         {
             "id": "69425c3ded6ace15d699b5dc",
-            "name": "TEAM TBC VS TEAM TBC",
+            "name": "AOS Eagles VS Aussie Mavericks Kites",
             "category_name": "Tennis",
             "tour_id": "694247bfc01df8014f54b67c",
             "tour_name": "World Tennis League 2025, India",
@@ -41,20 +41,20 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-12-20",
-            "start_date_time": "2025-12-20T10:00:00.000Z",
+            "start_date_time": "2025-12-20T12:00:00.000Z",
             "team_a": {
-                "id": "67627ebcaffe9551a1de962f",
-                "name": "TEAM TBC",
-                "short_name": "TEAM A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734508182085-410589252.png"
+                "id": "67627dd81df8252917627b4c",
+                "name": "AOS Eagles",
+                "short_name": "AOS Eagles",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951176298-326129254.webp"
             },
             "team_b": {
-                "id": "67627ebcaffe9551a1de962f",
-                "name": "TEAM TBC",
-                "short_name": "TEAM A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1734508182085-410589252.png"
+                "id": "67627e6faffe9551a1de962e",
+                "name": "Aussie Mavericks Kites",
+                "short_name": "Aussie Mavericks Kites",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765951254751-117713739.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1765956664857-731116296.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766205023515-320235400.webp",
             "venue": "",
             "score_match_id": 0
         }
