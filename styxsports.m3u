@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="692ee84e24f2af2c8dfdccd3" tvg-name="Sydney Thunder VS Brisbane Heat" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764681803387-201036594.webp" group-title="Live",Sydney Thunder VS Brisbane Heat
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
