@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "692ee84e24f2af2c8dfdccd3",
-            "name": "Sydney Thunder VS Brisbane Heat",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-22",
-            "start_date_time": "2025-12-22T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa8c980f48a2d71d6b00",
-                "name": "Sydney Thunder",
-                "short_name": "Sydney thunder men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
-            },
-            "team_b": {
-                "id": "673afa15980f48a2d71d6afa",
-                "name": "Brisbane Heat",
-                "short_name": "Brisbane heat men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764681803387-201036594.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
