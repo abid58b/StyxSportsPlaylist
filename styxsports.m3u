@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69494c98e4a9b486bb96dd49" tvg-name="Cambodia VS Indonesia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1766411412121-880741051.png" group-title="Live",Cambodia VS Indonesia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
 #EXTINF:-1 tvg-id="692ee88524f2af2c8dfdccd4" tvg-name="Adelaide Strikers VS Melbourne Stars" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764681859136-100334032.webp" group-title="Live",Adelaide Strikers VS Melbourne Stars
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
