@@ -1,5 +1,118 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69494c6341301fb7c48907e1",
+            "name": "Indonesia VS Cambodia",
+            "category_name": "Cricket",
+            "tour_id": "69494bee41301fb7c48907e0",
+            "tour_name": "Cambodia tour of Indonesia 2025",
+            "match_no": "1st T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-23",
+            "start_date_time": "2025-12-23T01:00:00.000Z",
+            "team_a": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "team_b": {
+                "id": "69494b4f41301fb7c48907df",
+                "name": "Cambodia",
+                "short_name": "cambodia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1766411083094-658359262.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766411352856-647083061.png",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "694948d541301fb7c48907dc",
+            "name": "Bhutan VS Myanmar",
+            "category_name": "Cricket",
+            "tour_id": "6946a865a28f1c31e0fc55e3",
+            "tour_name": "Myanmar tour of Bhutan 2025",
+            "match_no": "1st T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-23",
+            "start_date_time": "2025-12-23T03:30:00.000Z",
+            "team_a": {
+                "id": "693549fd2efeac777d1dea88",
+                "name": "Bhutan",
+                "short_name": "Bhutan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765100027291-471834111.webp"
+            },
+            "team_b": {
+                "id": "672ff68896dbc53111087945",
+                "name": "Myanmar",
+                "short_name": "Myanmar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766410449688-931717149.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69494c98e4a9b486bb96dd49",
+            "name": "Cambodia VS Indonesia",
+            "category_name": "Cricket",
+            "tour_id": "69494bee41301fb7c48907e0",
+            "tour_name": "Cambodia tour of Indonesia 2025",
+            "match_no": "2nd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-23",
+            "start_date_time": "2025-12-23T05:30:00.000Z",
+            "team_a": {
+                "id": "69494b4f41301fb7c48907df",
+                "name": "Cambodia",
+                "short_name": "cambodia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1766411083094-658359262.webp"
+            },
+            "team_b": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766411412121-880741051.png",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ee88524f2af2c8dfdccd4",
+            "name": "Adelaide Strikers VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-23",
+            "start_date_time": "2025-12-23T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide Strikers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906529485-97884942.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne Stars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764681859136-100334032.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
