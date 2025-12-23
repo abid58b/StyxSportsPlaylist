@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="694948d541301fb7c48907dc" tvg-name="Bhutan VS Myanmar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1766410449688-931717149.webp" group-title="Live",Bhutan VS Myanmar
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="69494c98e4a9b486bb96dd49" tvg-name="Cambodia VS Indonesia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1766411412121-880741051.png" group-title="Live",Cambodia VS Indonesia
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
