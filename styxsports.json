@@ -1,5 +1,118 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69494d8241301fb7c48907e3",
+            "name": "Indonesia VS Cambodia",
+            "category_name": "Cricket",
+            "tour_id": "69494bee41301fb7c48907e0",
+            "tour_name": "Cambodia tour of Indonesia 2025",
+            "match_no": "5th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-26",
+            "start_date_time": "2025-12-26T01:00:00.000Z",
+            "team_a": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "team_b": {
+                "id": "69494b4f41301fb7c48907df",
+                "name": "Cambodia",
+                "short_name": "cambodia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1766411083094-658359262.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766411647162-192464761.png",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6949493b0bde398ca80ead70",
+            "name": "Bhutan VS Myanmar",
+            "category_name": "Cricket",
+            "tour_id": "6946a865a28f1c31e0fc55e3",
+            "tour_name": "Myanmar tour of Bhutan 2025",
+            "match_no": "3rd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-26",
+            "start_date_time": "2025-12-26T03:30:00.000Z",
+            "team_a": {
+                "id": "693549fd2efeac777d1dea88",
+                "name": "Bhutan",
+                "short_name": "Bhutan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765100027291-471834111.webp"
+            },
+            "team_b": {
+                "id": "672ff68896dbc53111087945",
+                "name": "Myanmar",
+                "short_name": "Myanmar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766410552991-477788003.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ee91bfa673af67ab173c2",
+            "name": "Sydney Sixers VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-26",
+            "start_date_time": "2025-12-26T06:35:00.000Z",
+            "team_a": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne Stars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764682006473-638257952.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ee953fd87c2948fb4810f",
+            "name": "Perth Scorchers VS Hobart Hurricanes",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-26",
+            "start_date_time": "2025-12-26T09:45:00.000Z",
+            "team_a": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth Scorchers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906624065-74831611.webp"
+            },
+            "team_b": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart Hurricanes",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906562554-208685771.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764682064304-91874426.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
