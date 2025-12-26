@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ee91bfa673af67ab173c2",
-            "name": "Sydney Sixers VS Melbourne Stars",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-26",
-            "start_date_time": "2025-12-26T06:35:00.000Z",
-            "team_a": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
-            },
-            "team_b": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne Stars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764682006473-638257952.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "692ee953fd87c2948fb4810f",
             "name": "Perth Scorchers VS Hobart Hurricanes",
             "category_name": "Cricket",
