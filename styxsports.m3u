@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
+#EXTINF:-1 tvg-id="692ee91bfa673af67ab173c2" tvg-name="Sydney Sixers VS Melbourne Stars" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764682006473-638257952.webp" group-title="Live",Sydney Sixers VS Melbourne Stars
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
