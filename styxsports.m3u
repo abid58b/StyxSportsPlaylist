@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
+#EXTINF:-1 tvg-id="6949493b0bde398ca80ead70" tvg-name="Bhutan VS Myanmar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1766410552991-477788003.webp" group-title="Live",Bhutan VS Myanmar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
