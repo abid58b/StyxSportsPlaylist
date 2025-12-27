@@ -1,5 +1,118 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69494dc30bde398ca80ead71",
+            "name": "Cambodia VS Indonesia",
+            "category_name": "Cricket",
+            "tour_id": "69494bee41301fb7c48907e0",
+            "tour_name": "Cambodia tour of Indonesia 2025",
+            "match_no": "6th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-27",
+            "start_date_time": "2025-12-27T01:00:00.000Z",
+            "team_a": {
+                "id": "69494b4f41301fb7c48907df",
+                "name": "Cambodia",
+                "short_name": "cambodia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1766411083094-658359262.webp"
+            },
+            "team_b": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766411705801-995727044.png",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6949499041301fb7c48907dd",
+            "name": "Bhutan VS Myanmar",
+            "category_name": "Cricket",
+            "tour_id": "6946a865a28f1c31e0fc55e3",
+            "tour_name": "Myanmar tour of Bhutan 2025",
+            "match_no": "4th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-27",
+            "start_date_time": "2025-12-27T03:30:00.000Z",
+            "team_a": {
+                "id": "693549fd2efeac777d1dea88",
+                "name": "Bhutan",
+                "short_name": "Bhutan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1765100027291-471834111.webp"
+            },
+            "team_b": {
+                "id": "672ff68896dbc53111087945",
+                "name": "Myanmar",
+                "short_name": "Myanmar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254206230-299584851.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766410622243-193220161.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69494dff41301fb7c48907e4",
+            "name": "Indonesia VS Cambodia",
+            "category_name": "Cricket",
+            "tour_id": "69494bee41301fb7c48907e0",
+            "tour_name": "Cambodia tour of Indonesia 2025",
+            "match_no": "7th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-27",
+            "start_date_time": "2025-12-27T05:30:00.000Z",
+            "team_a": {
+                "id": "672ff6bb96dbc53111087946",
+                "name": "Indonesia",
+                "short_name": "Indonesia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
+            },
+            "team_b": {
+                "id": "69494b4f41301fb7c48907df",
+                "name": "Cambodia",
+                "short_name": "cambodia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1766411083094-658359262.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766411771939-484646299.png",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ee9841ee3a0177bd6929a",
+            "name": "Brisbane Heat VS Adelaide Strikers",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-27",
+            "start_date_time": "2025-12-27T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
+            },
+            "team_b": {
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide Strikers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906529485-97884942.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764682113142-709832765.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
