@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69494dc30bde398ca80ead71" tvg-name="Cambodia VS Indonesia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1766411705801-995727044.png" group-title="Live",Cambodia VS Indonesia
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
