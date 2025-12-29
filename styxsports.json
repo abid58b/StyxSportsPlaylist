@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69494dff41301fb7c48907e4",
-            "name": "Indonesia VS Cambodia",
-            "category_name": "Cricket",
-            "tour_id": "69494bee41301fb7c48907e0",
-            "tour_name": "Cambodia tour of Indonesia 2025",
-            "match_no": "7th T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-29",
-            "start_date_time": "2025-12-29T01:00:00.000Z",
-            "team_a": {
-                "id": "672ff6bb96dbc53111087946",
-                "name": "Indonesia",
-                "short_name": "Indonesia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762254187160-98303314.webp"
-            },
-            "team_b": {
-                "id": "69494b4f41301fb7c48907df",
-                "name": "Cambodia",
-                "short_name": "cambodia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1766411083094-658359262.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1766411771939-484646299.png",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "694949d641301fb7c48907de",
             "name": "Bhutan VS Myanmar",
             "category_name": "Cricket",
