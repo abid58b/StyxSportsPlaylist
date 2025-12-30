@@ -1,5 +1,34 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "692eea271ee3a0177bd6929c",
+            "name": "Sydney Thunder VS Perth Scorchers",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "16",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-30",
+            "start_date_time": "2025-12-30T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
+            },
+            "team_b": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth Scorchers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906624065-74831611.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764682276043-588616938.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
