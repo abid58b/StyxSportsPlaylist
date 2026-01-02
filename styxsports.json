@@ -1,5 +1,34 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "692eeb18fa673af67ab173c4",
+            "name": "Brisbane Heat VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "20",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-02",
+            "start_date_time": "2026-01-02T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne Stars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764682517894-964940586.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
