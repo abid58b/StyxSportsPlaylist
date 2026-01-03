@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="692eec6724f2af2c8dfdccd7" tvg-name="Sydney Thunder VS Hobart Hurricanes" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764682848502-620656948.webp" group-title="Live",Sydney Thunder VS Hobart Hurricanes
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
