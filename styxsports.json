@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "692eecd4fa673af67ab173c5",
-            "name": "Perth Scorchers VS Adelaide Strikers",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "23",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-04",
-            "start_date_time": "2026-01-04T10:00:00.000Z",
-            "team_a": {
-                "id": "673afa67980f48a2d71d6afe",
-                "name": "Perth Scorchers",
-                "short_name": "Perth Scorchers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906624065-74831611.webp"
-            },
-            "team_b": {
-                "id": "673afa0196116b8cceadc34f",
-                "name": "Adelaide Strikers",
-                "short_name": "Adelaide Strikers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906529485-97884942.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764682960836-952818700.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
