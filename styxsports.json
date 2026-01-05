@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692eed241ee3a0177bd6929f",
-            "name": "Sydney Sixers VS Brisbane Heat",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "24",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-05",
-            "start_date_time": "2026-01-05T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
-            },
-            "team_b": {
-                "id": "673afa15980f48a2d71d6afa",
-                "name": "Brisbane Heat",
-                "short_name": "Brisbane heat men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764683040809-451404451.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68dd2f94d5d11bd4fab0601f",
             "name": "Tasmanian Tigers Women VS Queensland Fire Women",
             "category_name": "Cricket",
