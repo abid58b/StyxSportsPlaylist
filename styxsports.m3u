@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="692eed6dfd87c2948fb48112" tvg-name="Adelaide Strikers VS Sydney Thunder" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764683110053-53217893.webp" group-title="Live",Adelaide Strikers VS Sydney Thunder
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
