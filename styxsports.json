@@ -3,60 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dd2f94d5d11bd4fab0601f",
-            "name": "Tasmanian Tigers Women VS Queensland Fire Women",
+            "id": "692eed6dfd87c2948fb48112",
+            "name": "Adelaide Strikers VS Sydney Thunder",
             "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "14",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "25",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-01-05",
-            "start_date_time": "2026-01-05T22:30:00.000Z",
+            "start_date": "2026-01-06",
+            "start_date_time": "2026-01-06T07:45:00.000Z",
             "team_a": {
-                "id": "675d0e32feaf9c45f3b7d0f1",
-                "name": "Tasmanian Tigers Women",
-                "short_name": "Tasmanian Tigers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461594601-199554937.webp"
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide Strikers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906529485-97884942.webp"
             },
             "team_b": {
-                "id": "675d0e6c7520fc727ac56980",
-                "name": "Queensland Fire Women",
-                "short_name": "Queensland Fire",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461626056-144147507.webp"
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326092189-753058190.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92860
-        },
-        {
-            "id": "68dd3124f4339ec18e21ecad",
-            "name": "ACT Meteors Women VS Victoria Women",
-            "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-05",
-            "start_date_time": "2026-01-05T22:30:00.000Z",
-            "team_a": {
-                "id": "68cfffa5ad25e8352e11a882",
-                "name": "ACT Meteors Women",
-                "short_name": "ACT Meteors Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
-            },
-            "team_b": {
-                "id": "675d0e1172efbbdadc2ef8f8",
-                "name": "Victoria Women",
-                "short_name": "Victoria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461576791-514056453.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326496808-973639853.webp",
-            "venue": "Phillip Oval ,Canberra",
-            "score_match_id": 92861
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764683110053-53217893.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }
