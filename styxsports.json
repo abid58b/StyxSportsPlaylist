@@ -1,5 +1,62 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "692ef060fa673af67ab173c6",
+            "name": "Perth Scorchers VS Melbourne Renegades",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "26",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-07",
+            "start_date_time": "2026-01-07T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth Scorchers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906624065-74831611.webp"
+            },
+            "team_b": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne Renegades",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906503022-221451307.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764683865761-30535961.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68dd3168d5d11bd4fab06020",
+            "name": "ACT Meteors Women VS Victoria Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "16",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-07",
+            "start_date_time": "2026-01-07T22:30:00.000Z",
+            "team_a": {
+                "id": "68cfffa5ad25e8352e11a882",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
+            },
+            "team_b": {
+                "id": "675d0e1172efbbdadc2ef8f8",
+                "name": "Victoria Women",
+                "short_name": "Victoria Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461576791-514056453.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326563321-187982325.webp",
+            "venue": "Phillip Oval ,Canberra",
+            "score_match_id": 92862
+        }
+    ]
 }
