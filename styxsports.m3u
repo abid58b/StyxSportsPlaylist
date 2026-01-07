@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68dd3168d5d11bd4fab06020" tvg-name="ACT Meteors Women VS Victoria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759326563321-187982325.webp" group-title="Live",ACT Meteors Women VS Victoria Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+
