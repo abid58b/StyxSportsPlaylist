@@ -29,34 +29,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326621957-996520193.webp",
             "venue": "W.A.C.A. Ground ,Perth",
             "score_match_id": 92863
-        },
-        {
-            "id": "692ef0a424f2af2c8dfdccd8",
-            "name": "Melbourne Stars VS Sydney Sixers",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "27",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-08",
-            "start_date_time": "2026-01-08T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne Stars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
-            },
-            "team_b": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764683936519-451241676.webp",
-            "venue": "",
-            "score_match_id": 0
         }
     ]
 }
