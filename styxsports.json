@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68dd31a16c38f4c5ed06c7f7",
-            "name": "Western Australia Women VS South Australia Women",
-            "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "17",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-08",
-            "start_date_time": "2026-01-08T05:00:00.000Z",
-            "team_a": {
-                "id": "675d0df2feaf9c45f3b7d0f0",
-                "name": "Western Australia Women",
-                "short_name": "Western Australia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461560781-913906076.webp"
-            },
-            "team_b": {
-                "id": "675d0e4f72efbbdadc2ef8f9",
-                "name": "South Australia Women",
-                "short_name": "South Australia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326621957-996520193.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 92863
-        }
-    ]
+    "data": []
 }
