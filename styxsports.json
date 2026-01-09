@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "695e23d6511942ebff5d20ec",
-            "name": "Mumbai Indians Women VS Royal Challengers Bengaluru Women",
-            "category_name": "Cricket",
-            "tour_id": "695e231a511942ebff5d20eb",
-            "tour_name": "Women's Premier League 2026",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-09",
-            "start_date_time": "2026-01-09T13:15:00.000Z",
-            "team_a": {
-                "id": "67b2bd91aa918b1a19f23ce4",
-                "name": "Mumbai Indians Women",
-                "short_name": "MI Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776836144-370278850.webp"
-            },
-            "team_b": {
-                "id": "67b2be90315d6205bfd3a2d8",
-                "name": "Royal Challengers Bengaluru Women",
-                "short_name": "RCB Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776863024-467014184.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767777169893-373755053.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
