@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ef13efa673af67ab173c7",
-            "name": "Melbourne Renegades VS Melbourne Stars",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "30",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-10",
-            "start_date_time": "2026-01-10T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa3c96116b8cceadc354",
-                "name": "Melbourne Renegades",
-                "short_name": "Melbourne Renegades",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906503022-221451307.webp"
-            },
-            "team_b": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne Stars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684089978-9870857.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e240ae3ef4643d30365e4",
             "name": "UP Warriorz Women VS Gujarat Giants Women",
             "category_name": "Cricket",
