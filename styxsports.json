@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "692ef10e1ee3a0177bd692a1",
+            "name": "Brisbane Heat VS Sydney Thunder",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "29",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T04:30:00.000Z",
+            "team_a": {
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
+            },
+            "team_b": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684042679-602119081.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68dd32570318963666e92ae9",
+            "name": "Western Australia Women VS South Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T05:00:00.000Z",
+            "team_a": {
+                "id": "675d0df2feaf9c45f3b7d0f0",
+                "name": "Western Australia Women",
+                "short_name": "Western Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461560781-913906076.webp"
+            },
+            "team_b": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326805235-859516631.webp",
+            "venue": "W.A.C.A. Ground ,Perth",
+            "score_match_id": 92864
+        },
+        {
+            "id": "692ef13efa673af67ab173c7",
+            "name": "Melbourne Renegades VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "30",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne Renegades",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906503022-221451307.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne Stars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684089978-9870857.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e240ae3ef4643d30365e4",
+            "name": "UP Warriorz Women VS Gujarat Giants Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T09:00:00.000Z",
+            "team_a": {
+                "id": "67b2be1baa918b1a19f23ce5",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776884767-744322167.webp"
+            },
+            "team_b": {
+                "id": "67b2bdc3b37433b20a464142",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776908526-878284265.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767777285446-751251218.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e245462f94bd4941e9a07",
+            "name": "Mumbai Indians Women VS Delhi Capitals Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2bd91aa918b1a19f23ce4",
+                "name": "Mumbai Indians Women",
+                "short_name": "MI Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776836144-370278850.webp"
+            },
+            "team_b": {
+                "id": "67b2bde6315d6205bfd3a2d7",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776929442-201795064.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767777356731-539960393.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
