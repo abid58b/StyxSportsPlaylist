@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://npcdn.styxsports.live/LiveApp/streams/bhQ5BHV3t1i1OErW1299124799755628.m3u8
 
+#EXTINF:-1 tvg-id="68dd32570318963666e92ae9" tvg-name="Western Australia Women VS South Australia Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759326805235-859516631.webp" group-title="Live",Western Australia Women VS South Australia Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/5khWZUxRFHx1EGzX1299107520579634.m3u8
+
