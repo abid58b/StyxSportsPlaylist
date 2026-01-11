@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6960c8f9c6bdf17b0367d548",
-            "name": "Kooh Sports VS Life Care CC",
-            "category_name": "Cricket",
-            "tour_id": "6960c80ee3ef4643d30365e6",
-            "tour_name": "Subodh Trophy 2026",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-11",
-            "start_date_time": "2026-01-11T03:00:00.000Z",
-            "team_a": {
-                "id": "680d164df7fd2a09f06da534",
-                "name": "Kooh Sports",
-                "short_name": "Kooh sports",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949396095-295757471.webp"
-            },
-            "team_b": {
-                "id": "680d169ac318cc5746efa6fc",
-                "name": "Life Care CC",
-                "short_name": "Life Care CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949599110-488564343.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767950572788-588848116.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6960c954511942ebff5d20f5",
             "name": "REPL Sports VS Yorker CC",
             "category_name": "Cricket",
