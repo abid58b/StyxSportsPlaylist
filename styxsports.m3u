@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6960c954511942ebff5d20f5" tvg-name="REPL Sports VS Yorker CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767950674344-767119182.webp" group-title="Live",REPL Sports VS Yorker CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
 #EXTINF:-1 tvg-id="692ef1ab24f2af2c8dfdccd9" tvg-name="Adelaide Strikers VS Perth Scorchers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764684198678-959042490.webp" group-title="Live",Adelaide Strikers VS Perth Scorchers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
