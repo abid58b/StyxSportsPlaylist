@@ -1,5 +1,118 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "6960cb3b53f5bf834611b991",
+            "name": "Kooh Sports VS REPL Sports",
+            "category_name": "Cricket",
+            "tour_id": "6960c80ee3ef4643d30365e6",
+            "tour_name": "Subodh Trophy 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-12",
+            "start_date_time": "2026-01-12T03:00:00.000Z",
+            "team_a": {
+                "id": "680d164df7fd2a09f06da534",
+                "name": "Kooh Sports",
+                "short_name": "Kooh sports",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949396095-295757471.webp"
+            },
+            "team_b": {
+                "id": "6960c58a03f439548db65a7e",
+                "name": "REPL Sports",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949703786-893489112.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951160530-916850738.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6960cb72c6bdf17b0367d549",
+            "name": "Life Care CC VS Yorker CC",
+            "category_name": "Cricket",
+            "tour_id": "6960c80ee3ef4643d30365e6",
+            "tour_name": "Subodh Trophy 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-12",
+            "start_date_time": "2026-01-12T06:30:00.000Z",
+            "team_a": {
+                "id": "680d169ac318cc5746efa6fc",
+                "name": "Life Care CC",
+                "short_name": "Life Care CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949599110-488564343.webp"
+            },
+            "team_b": {
+                "id": "6857dec258d7f6684a3e387c",
+                "name": "Yorker CC",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949568579-553063554.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951216267-696514219.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ef20624f2af2c8dfdccda",
+            "name": "Sydney Thunder VS Melbourne Renegades",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "33",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-12",
+            "start_date_time": "2026-01-12T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
+            },
+            "team_b": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne Renegades",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906503022-221451307.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684291916-676285287.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e24d103f439548db65a76",
+            "name": "Royal Challengers Bengaluru Women VS UP Warriorz Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-12",
+            "start_date_time": "2026-01-12T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2be90315d6205bfd3a2d8",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776863024-467014184.webp"
+            },
+            "team_b": {
+                "id": "67b2be1baa918b1a19f23ce5",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776884767-744322167.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767777483649-953249684.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
