@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ef20624f2af2c8dfdccda",
-            "name": "Sydney Thunder VS Melbourne Renegades",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "33",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-12",
-            "start_date_time": "2026-01-12T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa8c980f48a2d71d6b00",
-                "name": "Sydney Thunder",
-                "short_name": "Sydney thunder men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
-            },
-            "team_b": {
-                "id": "673afa3c96116b8cceadc354",
-                "name": "Melbourne Renegades",
-                "short_name": "Melbourne Renegades",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906503022-221451307.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684291916-676285287.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e24d103f439548db65a76",
             "name": "Royal Challengers Bengaluru Women VS UP Warriorz Women",
             "category_name": "Cricket",
