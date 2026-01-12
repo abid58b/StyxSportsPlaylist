@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6960cb72c6bdf17b0367d549" tvg-name="Life Care CC VS Yorker CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951216267-696514219.webp" group-title="Live",Life Care CC VS Yorker CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
 #EXTINF:-1 tvg-id="692ef20624f2af2c8dfdccda" tvg-name="Sydney Thunder VS Melbourne Renegades" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764684291916-676285287.webp" group-title="Live",Sydney Thunder VS Melbourne Renegades
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8

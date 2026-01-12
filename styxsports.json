@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6960cb72c6bdf17b0367d549",
-            "name": "Life Care CC VS Yorker CC",
-            "category_name": "Cricket",
-            "tour_id": "6960c80ee3ef4643d30365e6",
-            "tour_name": "Subodh Trophy 2026",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-12",
-            "start_date_time": "2026-01-12T06:30:00.000Z",
-            "team_a": {
-                "id": "680d169ac318cc5746efa6fc",
-                "name": "Life Care CC",
-                "short_name": "Life Care CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949599110-488564343.webp"
-            },
-            "team_b": {
-                "id": "6857dec258d7f6684a3e387c",
-                "name": "Yorker CC",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949568579-553063554.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951216267-696514219.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "692ef20624f2af2c8dfdccda",
             "name": "Sydney Thunder VS Melbourne Renegades",
             "category_name": "Cricket",
