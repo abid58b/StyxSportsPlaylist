@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
 
+#EXTINF:-1 tvg-id="6960cc2862f94bd4941e9a11" tvg-name="Kooh Sports VS Yorker CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951398213-752918480.webp" group-title="Live",Kooh Sports VS Yorker CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
+
