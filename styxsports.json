@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ef2611ee3a0177bd692a2",
-            "name": "Melbourne Stars VS Adelaide Strikers",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "34",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-13",
-            "start_date_time": "2026-01-13T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne Stars",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
-            },
-            "team_b": {
-                "id": "673afa0196116b8cceadc34f",
-                "name": "Adelaide Strikers",
-                "short_name": "Adelaide Strikers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906529485-97884942.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684382098-211537823.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e252062f94bd4941e9a08",
             "name": "Mumbai Indians Women VS Gujarat Giants Women",
             "category_name": "Cricket",
