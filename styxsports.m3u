@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6960cbf7511942ebff5d20f6" tvg-name="Life Care CC VS REPL Sports" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951348516-701940868.webp" group-title="Live",Life Care CC VS REPL Sports
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
+
