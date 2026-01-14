@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6960cc8353f5bf834611b992",
-            "name": "Dhruv CC VS AKHIL INFRA CC",
-            "category_name": "Cricket",
-            "tour_id": "6960c80ee3ef4643d30365e6",
-            "tour_name": "Subodh Trophy 2026",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-14",
-            "start_date_time": "2026-01-14T06:30:00.000Z",
-            "team_a": {
-                "id": "680d16233da5948849a92737",
-                "name": "Dhruv CC",
-                "short_name": "Dhruv CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949539124-144072363.webp"
-            },
-            "team_b": {
-                "id": "680d15a3b802f8205f6248f6",
-                "name": "AKHIL INFRA CC",
-                "short_name": "AKHIL INFRA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949442369-110259679.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951487721-860282888.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "692ef2a9fa673af67ab173c8",
             "name": "Hobart Hurricanes VS Brisbane Heat",
             "category_name": "Cricket",
