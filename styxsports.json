@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ef2a9fa673af67ab173c8",
-            "name": "Hobart Hurricanes VS Brisbane Heat",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "35",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-14",
-            "start_date_time": "2026-01-14T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa27980f48a2d71d6afb",
-                "name": "Hobart Hurricanes",
-                "short_name": "Hobart Hurricanes",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906562554-208685771.webp"
-            },
-            "team_b": {
-                "id": "673afa15980f48a2d71d6afa",
-                "name": "Brisbane Heat",
-                "short_name": "Brisbane heat men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684453682-629478190.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e255e53f5bf834611b98c",
             "name": "UP Warriorz Women VS Delhi Capitals Women",
             "category_name": "Cricket",
