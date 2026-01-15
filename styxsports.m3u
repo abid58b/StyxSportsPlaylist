@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6960cd00c6bdf17b0367d54a" tvg-name="AKHIL INFRA CC VS UP Timber" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951614004-217589539.webp" group-title="Live",AKHIL INFRA CC VS UP Timber
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
 #EXTINF:-1 tvg-id="692ef2f1fd87c2948fb48114" tvg-name="Melbourne Renegades VS Perth Scorchers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764684526054-457147938.webp" group-title="Live",Melbourne Renegades VS Perth Scorchers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
