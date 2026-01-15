@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6967907d03f439548db65a98" tvg-name="New Territories Tigers VS Hong Kong Islanders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768394873526-738658200.webp" group-title="Live",New Territories Tigers VS Hong Kong Islanders
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
 #EXTINF:-1 tvg-id="6960cd00c6bdf17b0367d54a" tvg-name="AKHIL INFRA CC VS UP Timber" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951614004-217589539.webp" group-title="Live",AKHIL INFRA CC VS UP Timber
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
