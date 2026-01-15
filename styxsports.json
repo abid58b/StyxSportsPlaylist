@@ -1,5 +1,202 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69679038c6bdf17b0367d560",
+            "name": "Hong Kong Islanders VS Kowloon Lions",
+            "category_name": "Cricket",
+            "tour_id": "69678feac6bdf17b0367d55f",
+            "tour_name": "Sky Warriors Men's All Star T20 Series 2026",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-15",
+            "start_date_time": "2026-01-15T00:00:00.000Z",
+            "team_a": {
+                "id": "678601dabc57bc546135620e",
+                "name": "Hong Kong Islanders",
+                "short_name": "Hong Kong Islanders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394445856-536661728.webp"
+            },
+            "team_b": {
+                "id": "6786018ad83f883c6859ce26",
+                "name": "Kowloon Lions",
+                "short_name": "Kowloon Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394541927-176861031.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768394803227-828943554.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6960ccc953f5bf834611b993",
+            "name": "Dhruv CC VS Lucknow  Development Authority",
+            "category_name": "Cricket",
+            "tour_id": "6960c80ee3ef4643d30365e6",
+            "tour_name": "Subodh Trophy 2026",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-15",
+            "start_date_time": "2026-01-15T03:00:00.000Z",
+            "team_a": {
+                "id": "680d16233da5948849a92737",
+                "name": "Dhruv CC",
+                "short_name": "Dhruv CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949539124-144072363.webp"
+            },
+            "team_b": {
+                "id": "680d1711ff0106d86cae459e",
+                "name": "Lucknow  Development Authority",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949626521-465056774.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951559288-282189716.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6967907d03f439548db65a98",
+            "name": "New Territories Tigers VS Hong Kong Islanders",
+            "category_name": "Cricket",
+            "tour_id": "69678feac6bdf17b0367d55f",
+            "tour_name": "Sky Warriors Men's All Star T20 Series 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-15",
+            "start_date_time": "2026-01-15T05:00:00.000Z",
+            "team_a": {
+                "id": "678601aa35d49863d9ad5666",
+                "name": "New Territories Tigers",
+                "short_name": "New Territories Tigers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394479033-729687465.webp"
+            },
+            "team_b": {
+                "id": "678601dabc57bc546135620e",
+                "name": "Hong Kong Islanders",
+                "short_name": "Hong Kong Islanders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394445856-536661728.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768394873526-738658200.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6960cd00c6bdf17b0367d54a",
+            "name": "AKHIL INFRA CC VS UP Timber",
+            "category_name": "Cricket",
+            "tour_id": "6960c80ee3ef4643d30365e6",
+            "tour_name": "Subodh Trophy 2026",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-15",
+            "start_date_time": "2026-01-15T06:30:00.000Z",
+            "team_a": {
+                "id": "680d15a3b802f8205f6248f6",
+                "name": "AKHIL INFRA CC",
+                "short_name": "AKHIL INFRA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949442369-110259679.webp"
+            },
+            "team_b": {
+                "id": "680d17d9b802f8205f6248f9",
+                "name": "UP Timber",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949481206-294456286.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951614004-217589539.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ef2f1fd87c2948fb48114",
+            "name": "Melbourne Renegades VS Perth Scorchers",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "36",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-15",
+            "start_date_time": "2026-01-15T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne Renegades",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906503022-221451307.webp"
+            },
+            "team_b": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth Scorchers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906624065-74831611.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684526054-457147938.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e264262f94bd4941e9a09",
+            "name": "Mumbai Indians Women VS UP Warriorz Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-15",
+            "start_date_time": "2026-01-15T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2bd91aa918b1a19f23ce4",
+                "name": "Mumbai Indians Women",
+                "short_name": "MI Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776836144-370278850.webp"
+            },
+            "team_b": {
+                "id": "67b2be1baa918b1a19f23ce5",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776884767-744322167.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767777854844-789447488.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964f71603f439548db65a8f",
+            "name": "Punjab Royals VS UP Dominators",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-15",
+            "start_date_time": "2026-01-15T14:00:00.000Z",
+            "team_a": {
+                "id": "666e2d9822b5c2188eeeb6fc",
+                "name": "Punjab Royals",
+                "short_name": "Punjab Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223828600-833180181.webp"
+            },
+            "team_b": {
+                "id": "6964f3ad79c0bedddf0cc091",
+                "name": "UP Dominators",
+                "short_name": "UP Dominators",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223658783-673960226.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768224531168-504071829.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
