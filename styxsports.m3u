@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6960ccc953f5bf834611b993" tvg-name="Dhruv CC VS Lucknow  Development Authority" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951559288-282189716.webp" group-title="Live",Dhruv CC VS Lucknow  Development Authority
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
 #EXTINF:-1 tvg-id="6967907d03f439548db65a98" tvg-name="New Territories Tigers VS Hong Kong Islanders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768394873526-738658200.webp" group-title="Live",New Territories Tigers VS Hong Kong Islanders
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
