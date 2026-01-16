@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="695e264262f94bd4941e9a09" tvg-name="Mumbai Indians Women VS UP Warriorz Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767777854844-789447488.webp" group-title="Live",Mumbai Indians Women VS UP Warriorz Women
+#EXTINF:-1 tvg-id="696790ab53f5bf834611b9b2" tvg-name="Kowloon Lions VS New Territories Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768394919983-309263128.webp" group-title="Live",Kowloon Lions VS New Territories Tigers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m3u8
-
-#EXTINF:-1 tvg-id="6964f71603f439548db65a8f" tvg-name="Punjab Royals VS UP Dominators" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768224531168-504071829.webp" group-title="Live",Punjab Royals VS UP Dominators
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
 

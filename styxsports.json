@@ -1,5 +1,230 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "696790ab53f5bf834611b9b2",
+            "name": "Kowloon Lions VS New Territories Tigers",
+            "category_name": "Cricket",
+            "tour_id": "69678feac6bdf17b0367d55f",
+            "tour_name": "Sky Warriors Men's All Star T20 Series 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T00:00:00.000Z",
+            "team_a": {
+                "id": "6786018ad83f883c6859ce26",
+                "name": "Kowloon Lions",
+                "short_name": "Kowloon Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394541927-176861031.webp"
+            },
+            "team_b": {
+                "id": "678601aa35d49863d9ad5666",
+                "name": "New Territories Tigers",
+                "short_name": "New Territories Tigers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394479033-729687465.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768394919983-309263128.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6960cd80c6bdf17b0367d54b",
+            "name": "Dhruv CC VS UP Timber",
+            "category_name": "Cricket",
+            "tour_id": "6960c80ee3ef4643d30365e6",
+            "tour_name": "Subodh Trophy 2026",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T03:00:00.000Z",
+            "team_a": {
+                "id": "680d16233da5948849a92737",
+                "name": "Dhruv CC",
+                "short_name": "Dhruv CC",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949539124-144072363.webp"
+            },
+            "team_b": {
+                "id": "680d17d9b802f8205f6248f9",
+                "name": "UP Timber",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949481206-294456286.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951741894-780178959.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696790e306261a4315317471",
+            "name": "Kowloon Lions VS Hong Kong Islanders",
+            "category_name": "Cricket",
+            "tour_id": "69678feac6bdf17b0367d55f",
+            "tour_name": "Sky Warriors Men's All Star T20 Series 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T05:00:00.000Z",
+            "team_a": {
+                "id": "6786018ad83f883c6859ce26",
+                "name": "Kowloon Lions",
+                "short_name": "Kowloon Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394541927-176861031.webp"
+            },
+            "team_b": {
+                "id": "678601dabc57bc546135620e",
+                "name": "Hong Kong Islanders",
+                "short_name": "Hong Kong Islanders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394445856-536661728.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768394973796-609991572.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6960cdac82da35e7c7092a2f",
+            "name": "AKHIL INFRA CC VS Lucknow  Development Authority",
+            "category_name": "Cricket",
+            "tour_id": "6960c80ee3ef4643d30365e6",
+            "tour_name": "Subodh Trophy 2026",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T06:30:00.000Z",
+            "team_a": {
+                "id": "680d15a3b802f8205f6248f6",
+                "name": "AKHIL INFRA CC",
+                "short_name": "AKHIL INFRA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949442369-110259679.webp"
+            },
+            "team_b": {
+                "id": "680d1711ff0106d86cae459e",
+                "name": "Lucknow  Development Authority",
+                "short_name": "",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949626521-465056774.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951786168-149346336.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ef373fd87c2948fb48115",
+            "name": "Sydney Sixers VS Sydney Thunder",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "37",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
+            },
+            "team_b": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906610304-420714331.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684654341-521930549.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964f76903f439548db65a90",
+            "name": "Maharashtra Kesari VS Delhi Dangal Warriors",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T12:00:00.000Z",
+            "team_a": {
+                "id": "6964f3cc06261a4315317466",
+                "name": "Maharashtra Kesari",
+                "short_name": "Maharashtra Kesari",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223690769-723708537.webp"
+            },
+            "team_b": {
+                "id": "6964f3ed2c2e67ffd73953af",
+                "name": "Delhi Dangal Warriors",
+                "short_name": "Delhi Dangal Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223721325-604148512.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768224614140-628745277.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e26ee82da35e7c7092a27",
+            "name": "Royal Challengers Bengaluru Women VS Gujarat Giants Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2be90315d6205bfd3a2d8",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776863024-467014184.webp"
+            },
+            "team_b": {
+                "id": "67b2bdc3b37433b20a464142",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776908526-878284265.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767778025065-170079230.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964f7a52c2e67ffd73953b1",
+            "name": "Punjab Royals VS Haryana Thunders",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T14:30:00.000Z",
+            "team_a": {
+                "id": "666e2d9822b5c2188eeeb6fc",
+                "name": "Punjab Royals",
+                "short_name": "Punjab Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223828600-833180181.webp"
+            },
+            "team_b": {
+                "id": "6964f40c55fa8cde77864864",
+                "name": "Haryana Thunders",
+                "short_name": "Haryana Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768224662009-798472017.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
