@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6964f76903f439548db65a90",
-            "name": "Maharashtra Kesari VS Delhi Dangal Warriors",
-            "category_name": "Wrestling",
-            "tour_id": "6964f5092c2e67ffd73953b0",
-            "tour_name": "Pro Wrestling League - Season 5",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-16",
-            "start_date_time": "2026-01-16T12:00:00.000Z",
-            "team_a": {
-                "id": "6964f3cc06261a4315317466",
-                "name": "Maharashtra Kesari",
-                "short_name": "Maharashtra Kesari",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223690769-723708537.webp"
-            },
-            "team_b": {
-                "id": "6964f3ed2c2e67ffd73953af",
-                "name": "Delhi Dangal Warriors",
-                "short_name": "Delhi Dangal Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223721325-604148512.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768224614140-628745277.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e26ee82da35e7c7092a27",
             "name": "Royal Challengers Bengaluru Women VS Gujarat Giants Women",
             "category_name": "Cricket",
