@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="696790ab53f5bf834611b9b2" tvg-name="Kowloon Lions VS New Territories Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768394919983-309263128.webp" group-title="Live",Kowloon Lions VS New Territories Tigers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
 #EXTINF:-1 tvg-id="6960cd80c6bdf17b0367d54b" tvg-name="Dhruv CC VS UP Timber" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951741894-780178959.webp" group-title="Live",Dhruv CC VS UP Timber
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
