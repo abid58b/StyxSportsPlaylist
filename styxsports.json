@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6960cd80c6bdf17b0367d54b",
-            "name": "Dhruv CC VS UP Timber",
-            "category_name": "Cricket",
-            "tour_id": "6960c80ee3ef4643d30365e6",
-            "tour_name": "Subodh Trophy 2026",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-16",
-            "start_date_time": "2026-01-16T03:00:00.000Z",
-            "team_a": {
-                "id": "680d16233da5948849a92737",
-                "name": "Dhruv CC",
-                "short_name": "Dhruv CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949539124-144072363.webp"
-            },
-            "team_b": {
-                "id": "680d17d9b802f8205f6248f9",
-                "name": "UP Timber",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949481206-294456286.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951741894-780178959.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "696790e306261a4315317471",
             "name": "Kowloon Lions VS Hong Kong Islanders",
             "category_name": "Cricket",
