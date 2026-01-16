@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="696790e306261a4315317471" tvg-name="Kowloon Lions VS Hong Kong Islanders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768394973796-609991572.webp" group-title="Live",Kowloon Lions VS Hong Kong Islanders
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
 #EXTINF:-1 tvg-id="6960cdac82da35e7c7092a2f" tvg-name="AKHIL INFRA CC VS Lucknow  Development Authority" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767951786168-149346336.webp" group-title="Live",AKHIL INFRA CC VS Lucknow  Development Authority
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
