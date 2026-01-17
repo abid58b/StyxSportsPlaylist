@@ -8,3 +8,7 @@ https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m3u8
 
+#EXTINF:-1 tvg-id="6964f81753f5bf834611b9aa" tvg-name="UP Dominators VS Tigers of Mumbai Dangals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768224785546-680216504.webp" group-title="Live",UP Dominators VS Tigers of Mumbai Dangals
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
