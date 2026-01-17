@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="692ef3da1ee3a0177bd692a3" tvg-name="Perth Scorchers VS Melbourne Stars" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764684757989-451197085.webp" group-title="Live",Perth Scorchers VS Melbourne Stars
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
-
 #EXTINF:-1 tvg-id="695e273362f94bd4941e9a0a" tvg-name="UP Warriorz Women VS Mumbai Indians Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778095928-518535386.webp" group-title="Live",UP Warriorz Women VS Mumbai Indians Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m3u8
@@ -11,4 +7,8 @@ https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m
 #EXTINF:-1 tvg-id="6964f81753f5bf834611b9aa" tvg-name="UP Dominators VS Tigers of Mumbai Dangals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768224785546-680216504.webp" group-title="Live",UP Dominators VS Tigers of Mumbai Dangals
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
+#EXTINF:-1 tvg-id="696b632a53f5bf834611b9c3" tvg-name="JSK1 Jammys VS CricAdda Captivators" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768645368875-451636890.webp" group-title="Live",JSK1 Jammys VS CricAdda Captivators
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
 
