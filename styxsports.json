@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696791592c2e67ffd73953bf",
-            "name": "New Territories Tigers VS Kowloon Lions",
-            "category_name": "Cricket",
-            "tour_id": "69678feac6bdf17b0367d55f",
-            "tour_name": "Sky Warriors Men's All Star T20 Series 2026",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-17",
-            "start_date_time": "2026-01-17T05:00:00.000Z",
-            "team_a": {
-                "id": "678601aa35d49863d9ad5666",
-                "name": "New Territories Tigers",
-                "short_name": "New Territories Tigers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394479033-729687465.webp"
-            },
-            "team_b": {
-                "id": "6786018ad83f883c6859ce26",
-                "name": "Kowloon Lions",
-                "short_name": "Kowloon Lions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394541927-176861031.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768395093646-108735289.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "692ef3da1ee3a0177bd692a3",
             "name": "Perth Scorchers VS Melbourne Stars",
             "category_name": "Cricket",
