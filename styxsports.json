@@ -87,6 +87,34 @@
             "score_match_id": 0
         },
         {
+            "id": "696b632a53f5bf834611b9c3",
+            "name": "JSK1 Jammys VS CricAdda Captivators",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T13:00:00.000Z",
+            "team_a": {
+                "id": "696b6026e3ef4643d3036610",
+                "name": "JSK1 Jammys",
+                "short_name": "JSK1 Jammys",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644643826-832581941.webp"
+            },
+            "team_b": {
+                "id": "696b616bc6bdf17b0367d56e",
+                "name": "CricAdda Captivators",
+                "short_name": "CricAdda Captivators",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644968603-399955004.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768645368875-451636890.webp",
+            "venue": "UAE",
+            "score_match_id": 0
+        },
+        {
             "id": "695e2768511942ebff5d20ed",
             "name": "Delhi Capitals Women VS Royal Challengers Bengaluru Women",
             "category_name": "Cricket",
@@ -140,6 +168,34 @@
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768224836879-368052154.webp",
             "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696b637f3502459d8f0220ae",
+            "name": "MG Lion Monsters VS DuraBet Dragons",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T15:30:00.000Z",
+            "team_a": {
+                "id": "696b618bc6bdf17b0367d56f",
+                "name": "MG Lion Monsters",
+                "short_name": "MG Lion Monsters",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645001466-19204392.webp"
+            },
+            "team_b": {
+                "id": "696b61a853f5bf834611b9c2",
+                "name": "DuraBet Dragons",
+                "short_name": "DuraBet Dragons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645030069-388241111.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768645502150-527378427.webp",
+            "venue": "UAE",
             "score_match_id": 0
         }
     ]
