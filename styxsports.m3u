@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="696791592c2e67ffd73953bf" tvg-name="New Territories Tigers VS Kowloon Lions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768395093646-108735289.webp" group-title="Live",New Territories Tigers VS Kowloon Lions
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
