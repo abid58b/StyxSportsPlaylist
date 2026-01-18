@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692ef41bfd87c2948fb48117",
-            "name": "Brisbane Heat VS Sydney Sixers",
-            "category_name": "Cricket",
-            "tour_id": "69231c17fd87c2948fb480d7",
-            "tour_name": "Big Bash League 2025",
-            "match_no": "40",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-18",
-            "start_date_time": "2026-01-18T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa15980f48a2d71d6afa",
-                "name": "Brisbane Heat",
-                "short_name": "Brisbane heat men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
-            },
-            "team_b": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684822773-918824621.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "696b94fdc6bdf17b0367d573",
             "name": "VLBook 777 Vipers VS Winfair 247 Warriors",
             "category_name": "Cricket",
