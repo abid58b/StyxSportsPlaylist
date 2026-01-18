@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="696bbd149702222472cb6609" tvg-name="Kowloon Lions VS Hong Kong Islanders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768668398532-685697410.webp" group-title="Live",Kowloon Lions VS Hong Kong Islanders
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
 #EXTINF:-1 tvg-id="692ef41bfd87c2948fb48117" tvg-name="Brisbane Heat VS Sydney Sixers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764684822773-918824621.webp" group-title="Live",Brisbane Heat VS Sydney Sixers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
