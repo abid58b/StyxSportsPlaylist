@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "696bbd149702222472cb6609",
+            "name": "Kowloon Lions VS Hong Kong Islanders",
+            "category_name": "Cricket",
+            "tour_id": "69678feac6bdf17b0367d55f",
+            "tour_name": "Sky Warriors Men's All Star T20 Series 2026",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T05:00:00.000Z",
+            "team_a": {
+                "id": "6786018ad83f883c6859ce26",
+                "name": "Kowloon Lions",
+                "short_name": "Kowloon Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394541927-176861031.webp"
+            },
+            "team_b": {
+                "id": "678601dabc57bc546135620e",
+                "name": "Hong Kong Islanders",
+                "short_name": "Hong Kong Islanders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768394445856-536661728.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768668398532-685697410.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "692ef41bfd87c2948fb48117",
+            "name": "Brisbane Heat VS Sydney Sixers",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025",
+            "match_no": "40",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906551264-622584501.webp"
+            },
+            "team_b": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1764684822773-918824621.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696b94fdc6bdf17b0367d573",
+            "name": "VLBook 777 Vipers VS Winfair 247 Warriors",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T12:30:00.000Z",
+            "team_a": {
+                "id": "696b61cbc6bdf17b0367d570",
+                "name": "VLBook 777 Vipers",
+                "short_name": "VLBook 777 Vipers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645065285-638810007.webp"
+            },
+            "team_b": {
+                "id": "696b61e83502459d8f0220ad",
+                "name": "Winfair 247 Warriors",
+                "short_name": "Winfair 247 Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645093742-271276686.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768658168114-538240183.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964f88779c0bedddf0cc092",
+            "name": "Tigers of Mumbai Dangals VS Maharashtra Kesari",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f427e3ef4643d30365f9",
+                "name": "Tigers of Mumbai Dangals",
+                "short_name": "Tigers of Mumbai Dangals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223780689-644755590.webp"
+            },
+            "team_b": {
+                "id": "6964f3cc06261a4315317466",
+                "name": "Maharashtra Kesari",
+                "short_name": "Maharashtra Kesari",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223690769-723708537.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768224898163-553537384.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696b9553e3ef4643d3036612",
+            "name": "JSK1 Jammys VS DuraBet Dragons",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T15:00:00.000Z",
+            "team_a": {
+                "id": "696b6026e3ef4643d3036610",
+                "name": "JSK1 Jammys",
+                "short_name": "JSK1 Jammys",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644643826-832581941.webp"
+            },
+            "team_b": {
+                "id": "696b61a853f5bf834611b9c2",
+                "name": "DuraBet Dragons",
+                "short_name": "DuraBet Dragons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645030069-388241111.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768658254825-962038253.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
