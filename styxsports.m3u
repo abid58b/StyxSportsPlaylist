@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
 
+#EXTINF:-1 tvg-id="692ef41bfd87c2948fb48117" tvg-name="Brisbane Heat VS Sydney Sixers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1764684822773-918824621.webp" group-title="Live",Brisbane Heat VS Sydney Sixers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
