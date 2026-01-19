@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68dd32ee0318963666e92aeb" tvg-name="ACT Meteors Women VS NSW Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759326954916-107346650.webp" group-title="Live",ACT Meteors Women VS NSW Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+
+#EXTINF:-1 tvg-id="68dd32b00318963666e92aea" tvg-name="Queensland Fire Women VS South Australia Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759326892486-937188591.webp" group-title="Live",Queensland Fire Women VS South Australia Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
+
