@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696b95cf53f5bf834611b9c6",
-            "name": "CricAdda Captivators VS MG Lion Monsters",
-            "category_name": "Cricket",
-            "tour_id": "696b624e9702222472cb6607",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T12:30:00.000Z",
-            "team_a": {
-                "id": "696b616bc6bdf17b0367d56e",
-                "name": "CricAdda Captivators",
-                "short_name": "CricAdda Captivators",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644968603-399955004.webp"
-            },
-            "team_b": {
-                "id": "696b618bc6bdf17b0367d56f",
-                "name": "MG Lion Monsters",
-                "short_name": "MG Lion Monsters",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645001466-19204392.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768658377240-872386209.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e27c403f439548db65a77",
             "name": "Gujarat Giants Women VS Royal Challengers Bengaluru Women",
             "category_name": "Cricket",
@@ -143,34 +115,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68dd32ee0318963666e92aeb",
-            "name": "ACT Meteors Women VS NSW Women",
-            "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T23:00:00.000Z",
-            "team_a": {
-                "id": "68cfffa5ad25e8352e11a882",
-                "name": "ACT Meteors Women",
-                "short_name": "ACT Meteors Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
-            },
-            "team_b": {
-                "id": "675d0e8972efbbdadc2ef8fa",
-                "name": "NSW Women",
-                "short_name": "NSW Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326954916-107346650.webp",
-            "venue": "Phillip Oval ,Canberra",
-            "score_match_id": 92866
-        },
-        {
             "id": "68dd32b00318963666e92aea",
             "name": "Queensland Fire Women VS South Australia Women",
             "category_name": "Cricket",
@@ -197,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326892486-937188591.webp",
             "venue": "Allan Border Field ,Brisbane",
             "score_match_id": 92865
+        },
+        {
+            "id": "68dd32ee0318963666e92aeb",
+            "name": "ACT Meteors Women VS NSW Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "20",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-19",
+            "start_date_time": "2026-01-19T23:00:00.000Z",
+            "team_a": {
+                "id": "68cfffa5ad25e8352e11a882",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
+            },
+            "team_b": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326954916-107346650.webp",
+            "venue": "Phillip Oval ,Canberra",
+            "score_match_id": 92866
         }
     ]
 }
