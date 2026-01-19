@@ -171,34 +171,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68dd32b00318963666e92aea",
-            "name": "Queensland Fire Women VS South Australia Women",
-            "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "19",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T23:00:00.000Z",
-            "team_a": {
-                "id": "675d0e6c7520fc727ac56980",
-                "name": "Queensland Fire Women",
-                "short_name": "Queensland Fire",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461626056-144147507.webp"
-            },
-            "team_b": {
-                "id": "675d0e4f72efbbdadc2ef8f9",
-                "name": "South Australia Women",
-                "short_name": "South Australia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326892486-937188591.webp",
-            "venue": "Allan Border Field ,Brisbane",
-            "score_match_id": 92865
-        },
-        {
             "id": "68dd32ee0318963666e92aeb",
             "name": "ACT Meteors Women VS NSW Women",
             "category_name": "Cricket",
@@ -225,6 +197,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326954916-107346650.webp",
             "venue": "Phillip Oval ,Canberra",
             "score_match_id": 92866
+        },
+        {
+            "id": "68dd32b00318963666e92aea",
+            "name": "Queensland Fire Women VS South Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "19",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-19",
+            "start_date_time": "2026-01-19T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e6c7520fc727ac56980",
+                "name": "Queensland Fire Women",
+                "short_name": "Queensland Fire",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461626056-144147507.webp"
+            },
+            "team_b": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759326892486-937188591.webp",
+            "venue": "Allan Border Field ,Brisbane",
+            "score_match_id": 92865
         }
     ]
 }
