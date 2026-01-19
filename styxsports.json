@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6960cde803f439548db65a80",
-            "name": "REPL Sports VS Dhruv CC",
-            "category_name": "Cricket",
-            "tour_id": "6960c80ee3ef4643d30365e6",
-            "tour_name": "Subodh Trophy 2026",
-            "match_no": "Semifinal 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T03:00:00.000Z",
-            "team_a": {
-                "id": "6960c58a03f439548db65a7e",
-                "name": "REPL Sports",
-                "short_name": "",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949703786-893489112.webp"
-            },
-            "team_b": {
-                "id": "680d16233da5948849a92737",
-                "name": "Dhruv CC",
-                "short_name": "Dhruv CC",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767949539124-144072363.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767951845456-409962414.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6960ce1be3ef4643d30365e8",
             "name": "AKHIL INFRA CC VS Kooh Sports",
             "category_name": "Cricket",
@@ -41,7 +13,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T08:30:00.000Z",
+            "start_date_time": "2026-01-19T07:50:00.000Z",
             "team_a": {
                 "id": "680d15a3b802f8205f6248f6",
                 "name": "AKHIL INFRA CC",
