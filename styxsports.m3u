@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="696b95cf53f5bf834611b9c6" tvg-name="CricAdda Captivators VS MG Lion Monsters" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768658377240-872386209.webp" group-title="Live",CricAdda Captivators VS MG Lion Monsters
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
+
