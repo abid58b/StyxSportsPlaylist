@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "695e27c403f439548db65a77",
-            "name": "Gujarat Giants Women VS Royal Challengers Bengaluru Women",
-            "category_name": "Cricket",
-            "tour_id": "695e231a511942ebff5d20eb",
-            "tour_name": "Women's Premier League 2026",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T13:30:00.000Z",
-            "team_a": {
-                "id": "67b2bdc3b37433b20a464142",
-                "name": "Gujarat Giants Women",
-                "short_name": "GG Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776908526-878284265.webp"
-            },
-            "team_b": {
-                "id": "67b2be90315d6205bfd3a2d8",
-                "name": "Royal Challengers Bengaluru Women",
-                "short_name": "RCB Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776863024-467014184.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767778240976-39966954.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "6964f8c279c0bedddf0cc093",
-            "name": "UP Dominators VS Delhi Dangal Warriors",
-            "category_name": "Wrestling",
-            "tour_id": "6964f5092c2e67ffd73953b0",
-            "tour_name": "Pro Wrestling League - Season 5",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T14:00:00.000Z",
-            "team_a": {
-                "id": "6964f3ad79c0bedddf0cc091",
-                "name": "UP Dominators",
-                "short_name": "UP Dominators",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223658783-673960226.webp"
-            },
-            "team_b": {
-                "id": "6964f3ed2c2e67ffd73953af",
-                "name": "Delhi Dangal Warriors",
-                "short_name": "Delhi Dangal Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223721325-604148512.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768224947844-383196794.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "696c5192cada6f6907a967db",
             "name": "Afghanistan VS West Indies",
             "category_name": "Cricket",
@@ -83,34 +27,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750831711622-66934350.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768706446522-986935819.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "696b9a08d713f6d342f90c05",
-            "name": "VLBook 777 Vipers VS DuraBet Dragons",
-            "category_name": "Cricket",
-            "tour_id": "696b624e9702222472cb6607",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-19",
-            "start_date_time": "2026-01-19T15:00:00.000Z",
-            "team_a": {
-                "id": "696b61cbc6bdf17b0367d570",
-                "name": "VLBook 777 Vipers",
-                "short_name": "VLBook 777 Vipers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645065285-638810007.webp"
-            },
-            "team_b": {
-                "id": "696b61a853f5bf834611b9c2",
-                "name": "DuraBet Dragons",
-                "short_name": "DuraBet Dragons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645030069-388241111.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659461139-137637846.webp",
             "venue": "",
             "score_match_id": 0
         },

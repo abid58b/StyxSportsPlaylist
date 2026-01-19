@@ -1,18 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="695e27c403f439548db65a77" tvg-name="Gujarat Giants Women VS Royal Challengers Bengaluru Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778240976-39966954.webp" group-title="Live",Gujarat Giants Women VS Royal Challengers Bengaluru Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m3u8
-
-#EXTINF:-1 tvg-id="6964f8c279c0bedddf0cc093" tvg-name="UP Dominators VS Delhi Dangal Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768224947844-383196794.webp" group-title="Live",UP Dominators VS Delhi Dangal Warriors
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
 #EXTINF:-1 tvg-id="696c5192cada6f6907a967db" tvg-name="Afghanistan VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768706446522-986935819.webp" group-title="Live",Afghanistan VS West Indies
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/qMVeqZIJnWYbV68w1282166518771.m3u8
-
-#EXTINF:-1 tvg-id="696b9a08d713f6d342f90c05" tvg-name="VLBook 777 Vipers VS DuraBet Dragons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768659461139-137637846.webp" group-title="Live",VLBook 777 Vipers VS DuraBet Dragons
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
 
