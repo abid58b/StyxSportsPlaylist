@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696e0423d713f6d342f90c0a",
-            "name": "Bhutan Women VS Malaysia Women",
-            "category_name": "Cricket",
-            "tour_id": "696dd8a79702222472cb660e",
-            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-20",
-            "start_date_time": "2026-01-20T04:00:00.000Z",
-            "team_a": {
-                "id": "6682daa72718b6694742f61e",
-                "name": "Bhutan Women",
-                "short_name": "Bhutan Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1719851682662-227822411.png"
-            },
-            "team_b": {
-                "id": "68db8c6252d8c81b4a56e37f",
-                "name": "Malaysia Women",
-                "short_name": "Malaysia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768817693846-774723293.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6960ce4b511942ebff5d20f7",
             "name": "Dhruv CC VS AKHIL INFRA CC",
             "category_name": "Cricket",
