@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="696b971ce3ef4643d3036613" tvg-name="JSK1 Jammys VS Winfair 247 Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768658662300-742387723.webp" group-title="Live",JSK1 Jammys VS Winfair 247 Warriors
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
-
 #EXTINF:-1 tvg-id="695e2830511942ebff5d20ee" tvg-name="Delhi Capitals Women VS Mumbai Indians Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778344260-18668778.webp" group-title="Live",Delhi Capitals Women VS Mumbai Indians Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
@@ -11,4 +7,8 @@ https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 #EXTINF:-1 tvg-id="6964f8f603f439548db65a91" tvg-name="Punjab Royals VS Tigers of Mumbai Dangals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768225010190-121850960.webp" group-title="Live",Punjab Royals VS Tigers of Mumbai Dangals
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
+#EXTINF:-1 tvg-id="696b9a833502459d8f0220b1" tvg-name="MG Lion Monsters VS VLBook 777 Vipers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768659583702-589397674.webp" group-title="Live",MG Lion Monsters VS VLBook 777 Vipers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
 

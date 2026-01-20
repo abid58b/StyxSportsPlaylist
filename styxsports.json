@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696b971ce3ef4643d3036613",
-            "name": "JSK1 Jammys VS Winfair 247 Warriors",
-            "category_name": "Cricket",
-            "tour_id": "696b624e9702222472cb6607",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-20",
-            "start_date_time": "2026-01-20T12:30:00.000Z",
-            "team_a": {
-                "id": "696b6026e3ef4643d3036610",
-                "name": "JSK1 Jammys",
-                "short_name": "JSK1 Jammys",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644643826-832581941.webp"
-            },
-            "team_b": {
-                "id": "696b61e83502459d8f0220ad",
-                "name": "Winfair 247 Warriors",
-                "short_name": "Winfair 247 Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645093742-271276686.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768658662300-742387723.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e2830511942ebff5d20ee",
             "name": "Delhi Capitals Women VS Mumbai Indians Women",
             "category_name": "Cricket",
