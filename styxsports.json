@@ -4,7 +4,7 @@
     "data": [
         {
             "id": "696e0423d713f6d342f90c0a",
-            "name": "Hong Kong Women VS Malaysia Women",
+            "name": "Bhutan Women VS Malaysia Women",
             "category_name": "Cricket",
             "tour_id": "696dd8a79702222472cb660e",
             "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
@@ -15,10 +15,10 @@
             "start_date": "2026-01-20",
             "start_date_time": "2026-01-20T04:00:00.000Z",
             "team_a": {
-                "id": "674ecea09f64fac57a120ae0",
-                "name": "Hong Kong Women",
-                "short_name": "Hong Kong Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733217950686-348782909.png"
+                "id": "6682daa72718b6694742f61e",
+                "name": "Bhutan Women",
+                "short_name": "Bhutan Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1719851682662-227822411.png"
             },
             "team_b": {
                 "id": "68db8c6252d8c81b4a56e37f",
