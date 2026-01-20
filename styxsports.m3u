@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="696e0423d713f6d342f90c0a" tvg-name="Hong Kong Women VS Malaysia Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768817693846-774723293.webp" group-title="Live",Hong Kong Women VS Malaysia Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
