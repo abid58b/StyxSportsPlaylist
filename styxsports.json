@@ -29,62 +29,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767778344260-18668778.webp",
             "venue": "",
             "score_match_id": 0
-        },
-        {
-            "id": "6964f8f603f439548db65a91",
-            "name": "Punjab Royals VS Tigers of Mumbai Dangals",
-            "category_name": "Wrestling",
-            "tour_id": "6964f5092c2e67ffd73953b0",
-            "tour_name": "Pro Wrestling League - Season 5",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-20",
-            "start_date_time": "2026-01-20T14:00:00.000Z",
-            "team_a": {
-                "id": "666e2d9822b5c2188eeeb6fc",
-                "name": "Punjab Royals",
-                "short_name": "Punjab Royals",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223828600-833180181.webp"
-            },
-            "team_b": {
-                "id": "6964f427e3ef4643d30365f9",
-                "name": "Tigers of Mumbai Dangals",
-                "short_name": "Tigers of Mumbai Dangals",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223780689-644755590.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225010190-121850960.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "696b9a833502459d8f0220b1",
-            "name": "MG Lion Monsters VS VLBook 777 Vipers",
-            "category_name": "Cricket",
-            "tour_id": "696b624e9702222472cb6607",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-20",
-            "start_date_time": "2026-01-20T15:00:00.000Z",
-            "team_a": {
-                "id": "696b618bc6bdf17b0367d56f",
-                "name": "MG Lion Monsters",
-                "short_name": "MG Lion Monsters",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645001466-19204392.webp"
-            },
-            "team_b": {
-                "id": "696b61cbc6bdf17b0367d570",
-                "name": "VLBook 777 Vipers",
-                "short_name": "VLBook 777 Vipers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645065285-638810007.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659583702-589397674.webp",
-            "venue": "",
-            "score_match_id": 0
         }
     ]
 }
