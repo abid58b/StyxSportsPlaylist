@@ -1,14 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6964f92bc6bdf17b0367d55a" tvg-name="UP Dominators VS Maharashtra Kesari" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768225062982-145968781.webp" group-title="Live",UP Dominators VS Maharashtra Kesari
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
-#EXTINF:-1 tvg-id="696c51c6d713f6d342f90c07" tvg-name="Afghanistan VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768706498926-245687331.webp" group-title="Live",Afghanistan VS West Indies
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/qMVeqZIJnWYbV68w1282166518771.m3u8
-
-#EXTINF:-1 tvg-id="696b9af253f5bf834611b9c7" tvg-name="Winfair 247 Warriors VS MG Lion Monsters" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768659695572-91202667.webp" group-title="Live",Winfair 247 Warriors VS MG Lion Monsters
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
-
