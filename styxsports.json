@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696b9abed713f6d342f90c06",
-            "name": "DuraBet Dragons VS CricAdda Captivators",
-            "category_name": "Cricket",
-            "tour_id": "696b624e9702222472cb6607",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-21",
-            "start_date_time": "2026-01-21T12:30:00.000Z",
-            "team_a": {
-                "id": "696b61a853f5bf834611b9c2",
-                "name": "DuraBet Dragons",
-                "short_name": "DuraBet Dragons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645030069-388241111.webp"
-            },
-            "team_b": {
-                "id": "696b616bc6bdf17b0367d56e",
-                "name": "CricAdda Captivators",
-                "short_name": "CricAdda Captivators",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644968603-399955004.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659643786-878137507.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6964f92bc6bdf17b0367d55a",
             "name": "UP Dominators VS Maharashtra Kesari",
             "category_name": "Wrestling",
