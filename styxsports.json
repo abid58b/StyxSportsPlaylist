@@ -1,5 +1,230 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "696fb85bc6bdf17b0367d580",
+            "name": "Malaysia Women VS Hong Kong Women",
+            "category_name": "Cricket",
+            "tour_id": "696dd8a79702222472cb660e",
+            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T04:00:00.000Z",
+            "team_a": {
+                "id": "68db8c6252d8c81b4a56e37f",
+                "name": "Malaysia Women",
+                "short_name": "Malaysia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
+            },
+            "team_b": {
+                "id": "674ecea09f64fac57a120ae0",
+                "name": "Hong Kong Women",
+                "short_name": "Hong Kong Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733217950686-348782909.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768929367572-793650441.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696d10fd3502459d8f0220b3",
+            "name": "Hobart Hurricanes VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "Knockout",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T08:00:00.000Z",
+            "team_a": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart Hurricanes",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906562554-208685771.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne Stars",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906490950-568112753.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768755447488-465654097.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696b9abed713f6d342f90c06",
+            "name": "DuraBet Dragons VS CricAdda Captivators",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T12:30:00.000Z",
+            "team_a": {
+                "id": "696b61a853f5bf834611b9c2",
+                "name": "DuraBet Dragons",
+                "short_name": "DuraBet Dragons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645030069-388241111.webp"
+            },
+            "team_b": {
+                "id": "696b616bc6bdf17b0367d56e",
+                "name": "CricAdda Captivators",
+                "short_name": "CricAdda Captivators",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644968603-399955004.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659643786-878137507.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964f92bc6bdf17b0367d55a",
+            "name": "UP Dominators VS Maharashtra Kesari",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f3ad79c0bedddf0cc091",
+                "name": "UP Dominators",
+                "short_name": "UP Dominators",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223658783-673960226.webp"
+            },
+            "team_b": {
+                "id": "6964f3cc06261a4315317466",
+                "name": "Maharashtra Kesari",
+                "short_name": "Maharashtra Kesari",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223690769-723708537.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225062982-145968781.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696c51c6d713f6d342f90c07",
+            "name": "Afghanistan VS West Indies",
+            "category_name": "Cricket",
+            "tour_id": "696c514f9702222472cb660b",
+            "tour_name": "Afghanistan vs West indies in UAE, 2026",
+            "match_no": "2nd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T14:00:00.000Z",
+            "team_a": {
+                "id": "66de5d2d985bb10dcaba1721",
+                "name": "Afghanistan",
+                "short_name": "Afghanistan",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879953580-484392867.webp"
+            },
+            "team_b": {
+                "id": "672f5fdd940d92dae749b046",
+                "name": "West Indies",
+                "short_name": "West Indies",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750831711622-66934350.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768706498926-245687331.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696b9af253f5bf834611b9c7",
+            "name": "Winfair 247 Warriors VS MG Lion Monsters",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T15:00:00.000Z",
+            "team_a": {
+                "id": "696b61e83502459d8f0220ad",
+                "name": "Winfair 247 Warriors",
+                "short_name": "Winfair 247 Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645093742-271276686.webp"
+            },
+            "team_b": {
+                "id": "696b618bc6bdf17b0367d56f",
+                "name": "MG Lion Monsters",
+                "short_name": "MG Lion Monsters",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645001466-19204392.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659695572-91202667.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68dd335fd5d11bd4fab06022",
+            "name": "ACT Meteors Women VS NSW Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "22",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T23:00:00.000Z",
+            "team_a": {
+                "id": "68cfffa5ad25e8352e11a882",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
+            },
+            "team_b": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327069750-403097070.webp",
+            "venue": "Phillip Oval ,Canberra",
+            "score_match_id": 92868
+        },
+        {
+            "id": "68dd3334d5d11bd4fab06021",
+            "name": "Queensland Fire Women VS South Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "21",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e6c7520fc727ac56980",
+                "name": "Queensland Fire Women",
+                "short_name": "Queensland Fire",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461626056-144147507.webp"
+            },
+            "team_b": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327024295-774610360.webp",
+            "venue": "Allan Border Field ,Brisbane",
+            "score_match_id": 92867
+        }
+    ]
 }
