@@ -87,34 +87,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68dd335fd5d11bd4fab06022",
-            "name": "ACT Meteors Women VS NSW Women",
-            "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "22",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-21",
-            "start_date_time": "2026-01-21T23:00:00.000Z",
-            "team_a": {
-                "id": "68cfffa5ad25e8352e11a882",
-                "name": "ACT Meteors Women",
-                "short_name": "ACT Meteors Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
-            },
-            "team_b": {
-                "id": "675d0e8972efbbdadc2ef8fa",
-                "name": "NSW Women",
-                "short_name": "NSW Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327069750-403097070.webp",
-            "venue": "Phillip Oval ,Canberra",
-            "score_match_id": 92868
-        },
-        {
             "id": "68dd3334d5d11bd4fab06021",
             "name": "Queensland Fire Women VS South Australia Women",
             "category_name": "Cricket",
@@ -141,6 +113,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327024295-774610360.webp",
             "venue": "Allan Border Field ,Brisbane",
             "score_match_id": 92867
+        },
+        {
+            "id": "68dd335fd5d11bd4fab06022",
+            "name": "ACT Meteors Women VS NSW Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "22",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T23:00:00.000Z",
+            "team_a": {
+                "id": "68cfffa5ad25e8352e11a882",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
+            },
+            "team_b": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327069750-403097070.webp",
+            "venue": "Phillip Oval ,Canberra",
+            "score_match_id": 92868
         }
     ]
 }
