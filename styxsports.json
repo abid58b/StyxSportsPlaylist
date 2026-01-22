@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "696c51f503f439548db65aa2",
-            "name": "Afghanistan VS West Indies",
-            "category_name": "Cricket",
-            "tour_id": "696c514f9702222472cb660b",
-            "tour_name": "Afghanistan vs West indies in UAE, 2026",
-            "match_no": "3rd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-22",
-            "start_date_time": "2026-01-22T14:00:00.000Z",
-            "team_a": {
-                "id": "66de5d2d985bb10dcaba1721",
-                "name": "Afghanistan",
-                "short_name": "Afghanistan",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758879953580-484392867.webp"
-            },
-            "team_b": {
-                "id": "672f5fdd940d92dae749b046",
-                "name": "West Indies",
-                "short_name": "West Indies",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750831711622-66934350.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768706547314-717464168.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
