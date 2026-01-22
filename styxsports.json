@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "696b9bf3e3ef4643d3036614",
-            "name": "DuraBet Dragons VS Winfair 247 Warriors",
-            "category_name": "Cricket",
-            "tour_id": "696b624e9702222472cb6607",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-22",
-            "start_date_time": "2026-01-22T12:30:00.000Z",
-            "team_a": {
-                "id": "696b61a853f5bf834611b9c2",
-                "name": "DuraBet Dragons",
-                "short_name": "DuraBet Dragons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645030069-388241111.webp"
-            },
-            "team_b": {
-                "id": "696b61e83502459d8f0220ad",
-                "name": "Winfair 247 Warriors",
-                "short_name": "Winfair 247 Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645093742-271276686.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659952938-381383896.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e286bc6bdf17b0367d545",
             "name": "Gujarat Giants Women VS UP Warriorz Women",
             "category_name": "Cricket",
@@ -139,6 +111,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1750831711622-66934350.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768706547314-717464168.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "696b9bf3e3ef4643d3036614",
+            "name": "DuraBet Dragons VS Winfair 247 Warriors",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-22",
+            "start_date_time": "2026-01-22T15:00:00.000Z",
+            "team_a": {
+                "id": "696b61a853f5bf834611b9c2",
+                "name": "DuraBet Dragons",
+                "short_name": "DuraBet Dragons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645030069-388241111.webp"
+            },
+            "team_b": {
+                "id": "696b61e83502459d8f0220ad",
+                "name": "Winfair 247 Warriors",
+                "short_name": "Winfair 247 Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645093742-271276686.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659952938-381383896.webp",
             "venue": "",
             "score_match_id": 0
         }
