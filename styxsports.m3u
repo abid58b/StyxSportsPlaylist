@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="696b9bb703f439548db65aa1" tvg-name="JSK1 Jammys VS VLBook 777 Vipers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768659892850-781688410.webp" group-title="Live",JSK1 Jammys VS VLBook 777 Vipers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="695e286bc6bdf17b0367d545" tvg-name="Gujarat Giants Women VS UP Warriorz Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778407139-229583112.webp" group-title="Live",Gujarat Giants Women VS UP Warriorz Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8

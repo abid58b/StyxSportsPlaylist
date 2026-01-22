@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696b9bb703f439548db65aa1",
-            "name": "JSK1 Jammys VS VLBook 777 Vipers",
-            "category_name": "Cricket",
-            "tour_id": "696b624e9702222472cb6607",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-22",
-            "start_date_time": "2026-01-22T12:30:00.000Z",
-            "team_a": {
-                "id": "696b6026e3ef4643d3036610",
-                "name": "JSK1 Jammys",
-                "short_name": "JSK1 Jammys",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644643826-832581941.webp"
-            },
-            "team_b": {
-                "id": "696b61cbc6bdf17b0367d570",
-                "name": "VLBook 777 Vipers",
-                "short_name": "VLBook 777 Vipers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645065285-638810007.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768659892850-781688410.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e286bc6bdf17b0367d545",
             "name": "Gujarat Giants Women VS UP Warriorz Women",
             "category_name": "Cricket",
