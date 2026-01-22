@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="696b9bb703f439548db65aa1" tvg-name="JSK1 Jammys VS VLBook 777 Vipers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768659892850-781688410.webp" group-title="Live",JSK1 Jammys VS VLBook 777 Vipers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
+
