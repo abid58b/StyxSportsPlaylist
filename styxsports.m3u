@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="696fb893d713f6d342f90c0f" tvg-name="Hong Kong Women VS Bhutan Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768929418085-602263912.webp" group-title="Live",Hong Kong Women VS Bhutan Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
