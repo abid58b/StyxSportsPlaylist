@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69710417cada6f6907a967ec" tvg-name="Sydney Sixers VS Hobart Hurricanes" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769014291879-779482936.webp" group-title="Live",Sydney Sixers VS Hobart Hurricanes
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
+
