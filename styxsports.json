@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69710417cada6f6907a967ec",
+            "name": "Sydney Sixers VS Hobart Hurricanes",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "Challenger",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
+            },
+            "team_b": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart Hurricanes",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906562554-208685771.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769014291879-779482936.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6970d298cada6f6907a967e7",
+            "name": "CricAdda Captivators VS VLBook 777 Vipers",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T12:30:00.000Z",
+            "team_a": {
+                "id": "696b616bc6bdf17b0367d56e",
+                "name": "CricAdda Captivators",
+                "short_name": "CricAdda Captivators",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644968603-399955004.webp"
+            },
+            "team_b": {
+                "id": "696b61cbc6bdf17b0367d570",
+                "name": "VLBook 777 Vipers",
+                "short_name": "VLBook 777 Vipers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645065285-638810007.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769001619963-428251284.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964f95d55fa8cde77864865",
+            "name": "Maharashtra Kesari VS Haryana Thunders",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f3cc06261a4315317466",
+                "name": "Maharashtra Kesari",
+                "short_name": "Maharashtra Kesari",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223690769-723708537.webp"
+            },
+            "team_b": {
+                "id": "6964f40c55fa8cde77864864",
+                "name": "Haryana Thunders",
+                "short_name": "Haryana Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225109537-938036849.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6970d2e6cada6f6907a967e8",
+            "name": "MG Lion Monsters VS JSK1 Jammys",
+            "category_name": "Cricket",
+            "tour_id": "696b624e9702222472cb6607",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T15:00:00.000Z",
+            "team_a": {
+                "id": "696b618bc6bdf17b0367d56f",
+                "name": "MG Lion Monsters",
+                "short_name": "MG Lion Monsters",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768645001466-19204392.webp"
+            },
+            "team_b": {
+                "id": "696b6026e3ef4643d3036610",
+                "name": "JSK1 Jammys",
+                "short_name": "JSK1 Jammys",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768644643826-832581941.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769001698654-942506346.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68ef386ee4b44a5c727eb7ae",
+            "name": "Houston Riders VS New York Liberty",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T16:30:00.000Z",
+            "team_a": {
+                "id": "68e9075b458c1b0c74d2604d",
+                "name": "Houston Riders",
+                "short_name": "Houston Riders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102231013-257610985.webp"
+            },
+            "team_b": {
+                "id": "68e907a99f5a848ba39f3396",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102309367-552917972.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760508008895-907610471.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94019
+        }
+    ]
 }
