@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68ef386ee4b44a5c727eb7ae",
-            "name": "Houston Riders VS New York Liberty",
-            "category_name": "Cricket",
-            "tour_id": "68ef35caf77cf099f802bd38",
-            "tour_name": "Global Cricket League 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-23",
-            "start_date_time": "2026-01-23T16:30:00.000Z",
-            "team_a": {
-                "id": "68e9075b458c1b0c74d2604d",
-                "name": "Houston Riders",
-                "short_name": "Houston Riders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102231013-257610985.webp"
-            },
-            "team_b": {
-                "id": "68e907a99f5a848ba39f3396",
-                "name": "New York Liberty",
-                "short_name": "New York Liberty",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102309367-552917972.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760508008895-907610471.webp",
-            "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94019
-        }
-    ]
+    "data": []
 }
