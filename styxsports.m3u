@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6964f95d55fa8cde77864865" tvg-name="Maharashtra Kesari VS Haryana Thunders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768225109537-938036849.webp" group-title="Live",Maharashtra Kesari VS Haryana Thunders
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
 #EXTINF:-1 tvg-id="68ef386ee4b44a5c727eb7ae" tvg-name="Houston Riders VS New York Liberty" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760508008895-907610471.webp" group-title="Live",Houston Riders VS New York Liberty
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8

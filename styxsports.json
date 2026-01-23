@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6964f95d55fa8cde77864865",
-            "name": "Maharashtra Kesari VS Haryana Thunders",
-            "category_name": "Wrestling",
-            "tour_id": "6964f5092c2e67ffd73953b0",
-            "tour_name": "Pro Wrestling League - Season 5",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-23",
-            "start_date_time": "2026-01-23T14:00:00.000Z",
-            "team_a": {
-                "id": "6964f3cc06261a4315317466",
-                "name": "Maharashtra Kesari",
-                "short_name": "Maharashtra Kesari",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223690769-723708537.webp"
-            },
-            "team_b": {
-                "id": "6964f40c55fa8cde77864864",
-                "name": "Haryana Thunders",
-                "short_name": "Haryana Thunders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225109537-938036849.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68ef386ee4b44a5c727eb7ae",
             "name": "Houston Riders VS New York Liberty",
             "category_name": "Cricket",
