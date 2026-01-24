@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696fb8c6e3ef4643d303662b",
-            "name": "Malaysia Women VS Bhutan Women",
-            "category_name": "Cricket",
-            "tour_id": "696dd8a79702222472cb660e",
-            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-24",
-            "start_date_time": "2026-01-24T04:00:00.000Z",
-            "team_a": {
-                "id": "68db8c6252d8c81b4a56e37f",
-                "name": "Malaysia Women",
-                "short_name": "Malaysia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
-            },
-            "team_b": {
-                "id": "6682daa72718b6694742f61e",
-                "name": "Bhutan Women",
-                "short_name": "Bhutan Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768929220641-221016113.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768929474524-74309261.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e28a3511942ebff5d20ef",
             "name": "Royal Challengers Bengaluru Women VS Delhi Capitals Women",
             "category_name": "Cricket",
