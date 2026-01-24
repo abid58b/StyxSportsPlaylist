@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "696fb8c6e3ef4643d303662b",
+            "name": "Malaysia Women VS Bhutan Women",
+            "category_name": "Cricket",
+            "tour_id": "696dd8a79702222472cb660e",
+            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T04:00:00.000Z",
+            "team_a": {
+                "id": "68db8c6252d8c81b4a56e37f",
+                "name": "Malaysia Women",
+                "short_name": "Malaysia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
+            },
+            "team_b": {
+                "id": "6682daa72718b6694742f61e",
+                "name": "Bhutan Women",
+                "short_name": "Bhutan Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768929220641-221016113.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768929474524-74309261.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e28a3511942ebff5d20ef",
+            "name": "Royal Challengers Bengaluru Women VS Delhi Capitals Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2be90315d6205bfd3a2d8",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776863024-467014184.webp"
+            },
+            "team_b": {
+                "id": "67b2bde6315d6205bfd3a2d7",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776929442-201795064.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767778463145-904344882.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68ef38e8e4b44a5c727eb7af",
+            "name": "Miami Waves VS Las Vegas Aces",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T14:30:00.000Z",
+            "team_a": {
+                "id": "68e907209f5a848ba39f3395",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102171641-902325699.webp"
+            },
+            "team_b": {
+                "id": "68e9073b458c1b0c74d2604c",
+                "name": "Las Vegas Aces",
+                "short_name": "Las Vegas Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102201350-343775474.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760508132584-367982162.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94021
+        },
+        {
+            "id": "68ef7346f77cf099f802bd41",
+            "name": "New York Liberty VS Washington DC Eagles",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T18:30:00.000Z",
+            "team_a": {
+                "id": "68e907a99f5a848ba39f3396",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102309367-552917972.webp"
+            },
+            "team_b": {
+                "id": "68e90785458c1b0c74d2604e",
+                "name": "Washington DC Eagles",
+                "short_name": "Washington Eagles",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102263578-564683249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523070869-335426879.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94021
+        },
+        {
+            "id": "68ef737ce4b44a5c727eb7b8",
+            "name": "Houston Riders VS Chicago Windchasers",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T22:30:00.000Z",
+            "team_a": {
+                "id": "68e9075b458c1b0c74d2604d",
+                "name": "Houston Riders",
+                "short_name": "Houston Riders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102231013-257610985.webp"
+            },
+            "team_b": {
+                "id": "68e907d89f5a848ba39f3397",
+                "name": "Chicago Windchasers",
+                "short_name": "Chicago Windchasers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102350837-684176004.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523128434-523070199.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94022
+        }
+    ]
 }
