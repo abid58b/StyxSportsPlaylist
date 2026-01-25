@@ -115,6 +115,34 @@
             "score_match_id": 94023
         },
         {
+            "id": "68ef7772e4b44a5c727eb7ba",
+            "name": "Miami Waves VS New York Liberty",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T16:30:00.000Z",
+            "team_a": {
+                "id": "68e907209f5a848ba39f3395",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102171641-902325699.webp"
+            },
+            "team_b": {
+                "id": "68e907a99f5a848ba39f3396",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102309367-552917972.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760524143785-790155609.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94030
+        },
+        {
             "id": "68ef74914e4aa6d729f67521",
             "name": "New York Liberty VS Las Vegas Aces",
             "category_name": "Cricket",
