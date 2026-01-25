@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "6964f98e2c2e67ffd73953b2",
-            "name": "Tigers of Mumbai Dangals VS Haryana Thunders",
-            "category_name": "Wrestling",
-            "tour_id": "6964f5092c2e67ffd73953b0",
-            "tour_name": "Pro Wrestling League - Season 5",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-25",
-            "start_date_time": "2026-01-25T14:00:00.000Z",
-            "team_a": {
-                "id": "6964f427e3ef4643d30365f9",
-                "name": "Tigers of Mumbai Dangals",
-                "short_name": "Tigers of Mumbai Dangals",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223780689-644755590.webp"
-            },
-            "team_b": {
-                "id": "6964f40c55fa8cde77864864",
-                "name": "Haryana Thunders",
-                "short_name": "Haryana Thunders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225162029-526065110.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
