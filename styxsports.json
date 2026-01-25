@@ -57,62 +57,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760524143785-790155609.webp",
             "venue": "Moosa Cricket Stadium ,Pearland",
             "score_match_id": 94030
-        },
-        {
-            "id": "68ef74914e4aa6d729f67521",
-            "name": "New York Liberty VS Las Vegas Aces",
-            "category_name": "Cricket",
-            "tour_id": "68ef35caf77cf099f802bd38",
-            "tour_name": "Global Cricket League 2026",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-25",
-            "start_date_time": "2026-01-25T18:30:00.000Z",
-            "team_a": {
-                "id": "68e907a99f5a848ba39f3396",
-                "name": "New York Liberty",
-                "short_name": "New York Liberty",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102309367-552917972.webp"
-            },
-            "team_b": {
-                "id": "68e9073b458c1b0c74d2604c",
-                "name": "Las Vegas Aces",
-                "short_name": "Las Vegas Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102201350-343775474.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523403276-418378323.webp",
-            "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94024
-        },
-        {
-            "id": "68ef74c05e14fc3d2e069710",
-            "name": "Miami Waves VS Chicago Windchasers",
-            "category_name": "Cricket",
-            "tour_id": "68ef35caf77cf099f802bd38",
-            "tour_name": "Global Cricket League 2026",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-25",
-            "start_date_time": "2026-01-25T22:30:00.000Z",
-            "team_a": {
-                "id": "68e907209f5a848ba39f3395",
-                "name": "Miami Waves",
-                "short_name": "Miami Waves",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102171641-902325699.webp"
-            },
-            "team_b": {
-                "id": "68e907d89f5a848ba39f3397",
-                "name": "Chicago Windchasers",
-                "short_name": "Chicago Windchasers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102350837-684176004.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523452958-11838442.webp",
-            "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94025
         }
     ]
 }
