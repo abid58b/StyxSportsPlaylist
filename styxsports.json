@@ -1,5 +1,174 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "696fb911e3ef4643d303662c",
+            "name": "Bhutan Women VS Hong Kong Women",
+            "category_name": "Cricket",
+            "tour_id": "696dd8a79702222472cb660e",
+            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T04:00:00.000Z",
+            "team_a": {
+                "id": "6682daa72718b6694742f61e",
+                "name": "Bhutan Women",
+                "short_name": "Bhutan Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768929220641-221016113.webp"
+            },
+            "team_b": {
+                "id": "674ecea09f64fac57a120ae0",
+                "name": "Hong Kong Women",
+                "short_name": "Hong Kong Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733217950686-348782909.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768929548299-681027226.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6973855853f5bf834611b9e7",
+            "name": "Perth Scorchers VS Sydney Sixers",
+            "category_name": "Cricket",
+            "tour_id": "69231c17fd87c2948fb480d7",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth Scorchers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906624065-74831611.webp"
+            },
+            "team_b": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763906583137-791355111.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769178444360-455136054.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964f98e2c2e67ffd73953b2",
+            "name": "Tigers of Mumbai Dangals VS Haryana Thunders",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f427e3ef4643d30365f9",
+                "name": "Tigers of Mumbai Dangals",
+                "short_name": "Tigers of Mumbai Dangals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223780689-644755590.webp"
+            },
+            "team_b": {
+                "id": "6964f40c55fa8cde77864864",
+                "name": "Haryana Thunders",
+                "short_name": "Haryana Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225162029-526065110.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68ef745bf77cf099f802bd42",
+            "name": "Washington DC Eagles VS Miami Waves",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T14:30:00.000Z",
+            "team_a": {
+                "id": "68e90785458c1b0c74d2604e",
+                "name": "Washington DC Eagles",
+                "short_name": "Washington Eagles",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102263578-564683249.webp"
+            },
+            "team_b": {
+                "id": "68e907209f5a848ba39f3395",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102171641-902325699.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523352047-62538342.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94023
+        },
+        {
+            "id": "68ef74914e4aa6d729f67521",
+            "name": "New York Liberty VS Las Vegas Aces",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T18:30:00.000Z",
+            "team_a": {
+                "id": "68e907a99f5a848ba39f3396",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102309367-552917972.webp"
+            },
+            "team_b": {
+                "id": "68e9073b458c1b0c74d2604c",
+                "name": "Las Vegas Aces",
+                "short_name": "Las Vegas Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102201350-343775474.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523403276-418378323.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94024
+        },
+        {
+            "id": "68ef74c05e14fc3d2e069710",
+            "name": "Miami Waves VS Chicago Windchasers",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T22:30:00.000Z",
+            "team_a": {
+                "id": "68e907209f5a848ba39f3395",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102171641-902325699.webp"
+            },
+            "team_b": {
+                "id": "68e907d89f5a848ba39f3397",
+                "name": "Chicago Windchasers",
+                "short_name": "Chicago Windchasers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102350837-684176004.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523452958-11838442.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94025
+        }
+    ]
 }
