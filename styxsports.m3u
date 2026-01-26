@@ -8,3 +8,7 @@ https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
+#EXTINF:-1 tvg-id="68ef7346f77cf099f802bd41" tvg-name="New York Liberty VS Washington DC Eagles" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760523070869-335426879.webp" group-title="Live",New York Liberty VS Washington DC Eagles
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
+
