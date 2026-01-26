@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696fb99ed713f6d342f90c10",
-            "name": "Hong Kong Women VS Malaysia Women",
-            "category_name": "Cricket",
-            "tour_id": "696dd8a79702222472cb660e",
-            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-26",
-            "start_date_time": "2026-01-26T04:00:00.000Z",
-            "team_a": {
-                "id": "674ecea09f64fac57a120ae0",
-                "name": "Hong Kong Women",
-                "short_name": "Hong Kong Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733217950686-348782909.png"
-            },
-            "team_b": {
-                "id": "68db8c6252d8c81b4a56e37f",
-                "name": "Malaysia Women",
-                "short_name": "Malaysia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768929690934-988809254.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e28f703f439548db65a78",
             "name": "Royal Challengers Bengaluru Women VS Mumbai Indians Women",
             "category_name": "Cricket",
