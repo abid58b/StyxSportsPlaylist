@@ -87,32 +87,32 @@
             "score_match_id": 0
         },
         {
-            "id": "68ef755c5e14fc3d2e069711",
-            "name": "Washington DC Eagles VS Houston Riders",
+            "id": "68ef7346f77cf099f802bd41",
+            "name": "New York Liberty VS Washington DC Eagles",
             "category_name": "Cricket",
             "tour_id": "68ef35caf77cf099f802bd38",
             "tour_name": "Global Cricket League 2026",
-            "match_no": "3",
+            "match_no": "2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-01-26",
-            "start_date_time": "2026-01-26T14:30:00.000Z",
+            "start_date_time": "2026-01-26T16:30:00.000Z",
             "team_a": {
+                "id": "68e907a99f5a848ba39f3396",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102309367-552917972.webp"
+            },
+            "team_b": {
                 "id": "68e90785458c1b0c74d2604e",
                 "name": "Washington DC Eagles",
                 "short_name": "Washington Eagles",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102263578-564683249.webp"
             },
-            "team_b": {
-                "id": "68e9075b458c1b0c74d2604d",
-                "name": "Houston Riders",
-                "short_name": "Houston Riders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102231013-257610985.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523609222-143456495.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523070869-335426879.webp",
             "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94028
+            "score_match_id": 94021
         }
     ]
 }
