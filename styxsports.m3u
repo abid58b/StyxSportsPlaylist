@@ -4,3 +4,15 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
 
+#EXTINF:-1 tvg-id="695e292c82da35e7c7092a28" tvg-name="Gujarat Giants Women VS Delhi Capitals Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778598886-905742774.webp" group-title="Live",Gujarat Giants Women VS Delhi Capitals Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m3u8
+
+#EXTINF:-1 tvg-id="6973809de3ef4643d3036645" tvg-name="Rajasthan Lions VS Maharashtra Tycoons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177243165-497900458.webp" group-title="Live",Rajasthan Lions VS Maharashtra Tycoons
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+
+#EXTINF:-1 tvg-id="6964fa1e2c2e67ffd73953b3" tvg-name="Delhi Dangal Warriors VS Tigers of Mumbai Dangals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768225305308-304594929.webp" group-title="Live",Delhi Dangal Warriors VS Tigers of Mumbai Dangals
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
