@@ -1,5 +1,230 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "6977193b9702222472cb6631",
+            "name": "Bhutan Women VS Malaysia Women",
+            "category_name": "Cricket",
+            "tour_id": "696dd8a79702222472cb660e",
+            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
+            "match_no": "Qualifier",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T04:00:00.000Z",
+            "team_a": {
+                "id": "6682daa72718b6694742f61e",
+                "name": "Bhutan Women",
+                "short_name": "Bhutan Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768929220641-221016113.webp"
+            },
+            "team_b": {
+                "id": "68db8c6252d8c81b4a56e37f",
+                "name": "Malaysia Women",
+                "short_name": "Malaysia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759218783867-364048350.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769412917438-919762053.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6973806e9702222472cb662c",
+            "name": "Pune Panthers VS Gurugram Thunders",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T08:30:00.000Z",
+            "team_a": {
+                "id": "69737061cada6f6907a967f4",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
+            },
+            "team_b": {
+                "id": "6973707fcada6f6907a967f5",
+                "name": "Gurugram Thunders",
+                "short_name": "Gurugram Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173096517-886281443.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177193921-785472893.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e292c82da35e7c7092a28",
+            "name": "Gujarat Giants Women VS Delhi Capitals Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "17",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2bdc3b37433b20a464142",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776908526-878284265.webp"
+            },
+            "team_b": {
+                "id": "67b2bde6315d6205bfd3a2d7",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776929442-201795064.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767778598886-905742774.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6973809de3ef4643d3036645",
+            "name": "Rajasthan Lions VS Maharashtra Tycoons",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T13:30:00.000Z",
+            "team_a": {
+                "id": "697370a153f5bf834611b9e3",
+                "name": "Rajasthan Lions",
+                "short_name": "Rajasthan Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173126513-122954864.webp"
+            },
+            "team_b": {
+                "id": "6973710453f5bf834611b9e4",
+                "name": "Maharashtra Tycoons",
+                "short_name": "Maharashtra Tycoons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173248232-665058177.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177243165-497900458.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964fa1e2c2e67ffd73953b3",
+            "name": "Delhi Dangal Warriors VS Tigers of Mumbai Dangals",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f3ed2c2e67ffd73953af",
+                "name": "Delhi Dangal Warriors",
+                "short_name": "Delhi Dangal Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223721325-604148512.webp"
+            },
+            "team_b": {
+                "id": "6964f427e3ef4643d30365f9",
+                "name": "Tigers of Mumbai Dangals",
+                "short_name": "Tigers of Mumbai Dangals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223780689-644755590.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225305308-304594929.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68ef745bf77cf099f802bd42",
+            "name": "Washington DC Eagles VS Miami Waves",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T16:30:00.000Z",
+            "team_a": {
+                "id": "68e90785458c1b0c74d2604e",
+                "name": "Washington DC Eagles",
+                "short_name": "Washington Eagles",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102263578-564683249.webp"
+            },
+            "team_b": {
+                "id": "68e907209f5a848ba39f3395",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102171641-902325699.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523352047-62538342.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94023
+        },
+        {
+            "id": "68ef755c5e14fc3d2e069711",
+            "name": "Washington DC Eagles VS Houston Riders",
+            "category_name": "Cricket",
+            "tour_id": "68ef35caf77cf099f802bd38",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T22:30:00.000Z",
+            "team_a": {
+                "id": "68e90785458c1b0c74d2604e",
+                "name": "Washington DC Eagles",
+                "short_name": "Washington Eagles",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102263578-564683249.webp"
+            },
+            "team_b": {
+                "id": "68e9075b458c1b0c74d2604d",
+                "name": "Houston Riders",
+                "short_name": "Houston Riders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102231013-257610985.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523609222-143456495.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94028
+        },
+        {
+            "id": "68dd33d0f4339ec18e21ecae",
+            "name": "Tasmanian Tigers Women VS Western Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "23",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-27",
+            "start_date_time": "2026-01-27T23:30:00.000Z",
+            "team_a": {
+                "id": "675d0e32feaf9c45f3b7d0f1",
+                "name": "Tasmanian Tigers Women",
+                "short_name": "Tasmanian Tigers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461594601-199554937.webp"
+            },
+            "team_b": {
+                "id": "675d0df2feaf9c45f3b7d0f0",
+                "name": "Western Australia Women",
+                "short_name": "Western Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461560781-913906076.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327172813-921883355.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92869
+        }
+    ]
 }
