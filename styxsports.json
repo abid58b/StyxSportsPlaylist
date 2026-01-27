@@ -115,62 +115,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68ef745bf77cf099f802bd42",
-            "name": "Washington DC Eagles VS Miami Waves",
-            "category_name": "Cricket",
-            "tour_id": "68ef35caf77cf099f802bd38",
-            "tour_name": "Global Cricket League 2026",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-27",
-            "start_date_time": "2026-01-27T16:30:00.000Z",
-            "team_a": {
-                "id": "68e90785458c1b0c74d2604e",
-                "name": "Washington DC Eagles",
-                "short_name": "Washington Eagles",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102263578-564683249.webp"
-            },
-            "team_b": {
-                "id": "68e907209f5a848ba39f3395",
-                "name": "Miami Waves",
-                "short_name": "Miami Waves",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102171641-902325699.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523352047-62538342.webp",
-            "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94023
-        },
-        {
-            "id": "68ef755c5e14fc3d2e069711",
-            "name": "Washington DC Eagles VS Houston Riders",
-            "category_name": "Cricket",
-            "tour_id": "68ef35caf77cf099f802bd38",
-            "tour_name": "Global Cricket League 2026",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-27",
-            "start_date_time": "2026-01-27T22:30:00.000Z",
-            "team_a": {
-                "id": "68e90785458c1b0c74d2604e",
-                "name": "Washington DC Eagles",
-                "short_name": "Washington Eagles",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102263578-564683249.webp"
-            },
-            "team_b": {
-                "id": "68e9075b458c1b0c74d2604d",
-                "name": "Houston Riders",
-                "short_name": "Houston Riders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1760102231013-257610985.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1760523609222-143456495.webp",
-            "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94028
-        },
-        {
             "id": "68dd33d0f4339ec18e21ecae",
             "name": "Tasmanian Tigers Women VS Western Australia Women",
             "category_name": "Cricket",
