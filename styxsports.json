@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "697381253502459d8f0220cc",
-            "name": "Dubai Royals VS Gurugram Thunders",
-            "category_name": "Cricket",
-            "tour_id": "6973718dc6bdf17b0367d594",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-28",
-            "start_date_time": "2026-01-28T08:30:00.000Z",
-            "team_a": {
-                "id": "697370e33502459d8f0220ca",
-                "name": "Dubai Royals",
-                "short_name": "Dubai Royals",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173215931-128381178.webp"
-            },
-            "team_b": {
-                "id": "6973707fcada6f6907a967f5",
-                "name": "Gurugram Thunders",
-                "short_name": "Gurugram Thunders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173096517-886281443.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177378914-166135805.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6973815803f439548db65abd",
             "name": "Delhi Warriors VS Pune Panthers",
             "category_name": "Cricket",
