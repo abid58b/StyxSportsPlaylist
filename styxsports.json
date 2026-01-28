@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6978f41053f5bf834611b9f4",
-            "name": "Hong Kong Women VS Bhutan Women",
-            "category_name": "Cricket",
-            "tour_id": "696dd8a79702222472cb660e",
-            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-28",
-            "start_date_time": "2026-01-28T04:00:00.000Z",
-            "team_a": {
-                "id": "674ecea09f64fac57a120ae0",
-                "name": "Hong Kong Women",
-                "short_name": "Hong Kong Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733217950686-348782909.png"
-            },
-            "team_b": {
-                "id": "6682daa72718b6694742f61e",
-                "name": "Bhutan Women",
-                "short_name": "Bhutan Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768929220641-221016113.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769534465258-947075827.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "697381253502459d8f0220cc",
             "name": "Dubai Royals VS Gurugram Thunders",
             "category_name": "Cricket",
