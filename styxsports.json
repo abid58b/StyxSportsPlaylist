@@ -3,32 +3,116 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dd33d0f4339ec18e21ecae",
-            "name": "Tasmanian Tigers Women VS Western Australia Women",
+            "id": "6978f41053f5bf834611b9f4",
+            "name": "Hong Kong Women VS Bhutan Women",
             "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "23",
+            "tour_id": "696dd8a79702222472cb660e",
+            "tour_name": "Lotus Cup, Women T20I Tri Series 2026",
+            "match_no": "Final",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-01-27",
-            "start_date_time": "2026-01-27T23:30:00.000Z",
+            "start_date": "2026-01-28",
+            "start_date_time": "2026-01-28T04:00:00.000Z",
             "team_a": {
-                "id": "675d0e32feaf9c45f3b7d0f1",
-                "name": "Tasmanian Tigers Women",
-                "short_name": "Tasmanian Tigers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461594601-199554937.webp"
+                "id": "674ecea09f64fac57a120ae0",
+                "name": "Hong Kong Women",
+                "short_name": "Hong Kong Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1733217950686-348782909.png"
             },
             "team_b": {
-                "id": "675d0df2feaf9c45f3b7d0f0",
-                "name": "Western Australia Women",
-                "short_name": "Western Australia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461560781-913906076.webp"
+                "id": "6682daa72718b6694742f61e",
+                "name": "Bhutan Women",
+                "short_name": "Bhutan Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768929220641-221016113.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327172813-921883355.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92869
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769534465258-947075827.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "697381253502459d8f0220cc",
+            "name": "Dubai Royals VS Gurugram Thunders",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-28",
+            "start_date_time": "2026-01-28T08:30:00.000Z",
+            "team_a": {
+                "id": "697370e33502459d8f0220ca",
+                "name": "Dubai Royals",
+                "short_name": "Dubai Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173215931-128381178.webp"
+            },
+            "team_b": {
+                "id": "6973707fcada6f6907a967f5",
+                "name": "Gurugram Thunders",
+                "short_name": "Gurugram Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173096517-886281443.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177378914-166135805.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6973815803f439548db65abd",
+            "name": "Delhi Warriors VS Pune Panthers",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-28",
+            "start_date_time": "2026-01-28T13:30:00.000Z",
+            "team_a": {
+                "id": "697370c1d713f6d342f90c27",
+                "name": "Delhi Warriors",
+                "short_name": "Delhi Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173182025-844533981.webp"
+            },
+            "team_b": {
+                "id": "69737061cada6f6907a967f4",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177427004-903953937.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6964fa6b55fa8cde77864866",
+            "name": "UP Dominators VS Haryana Thunders",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-28",
+            "start_date_time": "2026-01-28T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f3ad79c0bedddf0cc091",
+                "name": "UP Dominators",
+                "short_name": "UP Dominators",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223658783-673960226.webp"
+            },
+            "team_b": {
+                "id": "6964f40c55fa8cde77864864",
+                "name": "Haryana Thunders",
+                "short_name": "Haryana Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1768225381999-793360118.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }
