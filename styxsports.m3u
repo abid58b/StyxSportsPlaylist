@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="695e29da53f5bf834611b98d" tvg-name="UP Warriorz Women VS Royal Challengers Bengaluru Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778772079-90180988.webp" group-title="Live",UP Warriorz Women VS Royal Challengers Bengaluru Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
 #EXTINF:-1 tvg-id="697381c7c6bdf17b0367d595" tvg-name="Gurugram Thunders VS Maharashtra Tycoons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177541660-226782625.webp" group-title="Live",Gurugram Thunders VS Maharashtra Tycoons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
