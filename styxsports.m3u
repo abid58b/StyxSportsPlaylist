@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6973815803f439548db65abd" tvg-name="Delhi Warriors VS Pune Panthers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177427004-903953937.webp" group-title="Live",Delhi Warriors VS Pune Panthers
+#EXTINF:-1 tvg-id="695e29da53f5bf834611b98d" tvg-name="UP Warriorz Women VS Royal Challengers Bengaluru Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778772079-90180988.webp" group-title="Live",UP Warriorz Women VS Royal Challengers Bengaluru Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+
+#EXTINF:-1 tvg-id="697381c7c6bdf17b0367d595" tvg-name="Gurugram Thunders VS Maharashtra Tycoons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177541660-226782625.webp" group-title="Live",Gurugram Thunders VS Maharashtra Tycoons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
-#EXTINF:-1 tvg-id="6964fa6b55fa8cde77864866" tvg-name="UP Dominators VS Haryana Thunders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768225381999-793360118.webp" group-title="Live",UP Dominators VS Haryana Thunders
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
