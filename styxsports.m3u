@@ -8,3 +8,11 @@ https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
 
+#EXTINF:-1 tvg-id="6964faaa55fa8cde77864867" tvg-name="Punjab Royals VS Delhi Dangal Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1768225446778-34950322.webp" group-title="Live",Punjab Royals VS Delhi Dangal Warriors
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
+#EXTINF:-1 tvg-id="6979e19d03f439548db65acd" tvg-name="United Arab Emirates VS Ireland" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769595290411-469710196.webp" group-title="Live",United Arab Emirates VS Ireland
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
+
