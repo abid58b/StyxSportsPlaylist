@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="697381f353f5bf834611b9e5" tvg-name="Maharashtra Tycoons VS Delhi Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177583725-471320464.webp" group-title="Live",Maharashtra Tycoons VS Delhi Warriors
+#EXTINF:-1 tvg-id="695e2a0e82da35e7c7092a29" tvg-name="Gujarat Giants Women VS Mumbai Indians Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1767778825670-324295121.webp" group-title="Live",Gujarat Giants Women VS Mumbai Indians Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+
+#EXTINF:-1 tvg-id="69738222e3ef4643d3036646" tvg-name="Pune Panthers VS Rajasthan Lions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177631252-743890045.webp" group-title="Live",Pune Panthers VS Rajasthan Lions
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
 

@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "697381f353f5bf834611b9e5",
-            "name": "Maharashtra Tycoons VS Delhi Warriors",
-            "category_name": "Cricket",
-            "tour_id": "6973718dc6bdf17b0367d594",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-30",
-            "start_date_time": "2026-01-30T08:30:00.000Z",
-            "team_a": {
-                "id": "6973710453f5bf834611b9e4",
-                "name": "Maharashtra Tycoons",
-                "short_name": "Maharashtra Tycoons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173248232-665058177.webp"
-            },
-            "team_b": {
-                "id": "697370c1d713f6d342f90c27",
-                "name": "Delhi Warriors",
-                "short_name": "Delhi Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173182025-844533981.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177583725-471320464.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e2a0e82da35e7c7092a29",
             "name": "Gujarat Giants Women VS Mumbai Indians Women",
             "category_name": "Cricket",
