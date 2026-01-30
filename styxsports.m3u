@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="697381f353f5bf834611b9e5" tvg-name="Maharashtra Tycoons VS Delhi Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177583725-471320464.webp" group-title="Live",Maharashtra Tycoons VS Delhi Warriors
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
+
