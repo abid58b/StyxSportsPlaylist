@@ -85,6 +85,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177631252-743890045.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "697c640753f5bf834611b9f8",
+            "name": "Punjab Royals VS Haryana Thunders",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "Semifinal - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-30",
+            "start_date_time": "2026-01-30T14:00:00.000Z",
+            "team_a": {
+                "id": "666e2d9822b5c2188eeeb6fc",
+                "name": "Punjab Royals",
+                "short_name": "Punjab Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223828600-833180181.webp"
+            },
+            "team_b": {
+                "id": "6964f40c55fa8cde77864864",
+                "name": "Haryana Thunders",
+                "short_name": "Haryana Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769759731055-981098659.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }
