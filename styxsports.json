@@ -3,32 +3,88 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dd340dd5d11bd4fab06023",
-            "name": "Tasmanian Tigers Women VS Western Australia Women",
+            "id": "697381f353f5bf834611b9e5",
+            "name": "Maharashtra Tycoons VS Delhi Warriors",
             "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "24",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "8",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-01-29",
-            "start_date_time": "2026-01-29T23:30:00.000Z",
+            "start_date": "2026-01-30",
+            "start_date_time": "2026-01-30T08:30:00.000Z",
             "team_a": {
-                "id": "675d0e32feaf9c45f3b7d0f1",
-                "name": "Tasmanian Tigers Women",
-                "short_name": "Tasmanian Tigers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461594601-199554937.webp"
+                "id": "6973710453f5bf834611b9e4",
+                "name": "Maharashtra Tycoons",
+                "short_name": "Maharashtra Tycoons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173248232-665058177.webp"
             },
             "team_b": {
-                "id": "675d0df2feaf9c45f3b7d0f0",
-                "name": "Western Australia Women",
-                "short_name": "Western Australia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461560781-913906076.webp"
+                "id": "697370c1d713f6d342f90c27",
+                "name": "Delhi Warriors",
+                "short_name": "Delhi Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173182025-844533981.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327243094-899940524.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92870
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177583725-471320464.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e2a0e82da35e7c7092a29",
+            "name": "Gujarat Giants Women VS Mumbai Indians Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "19",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-30",
+            "start_date_time": "2026-01-30T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2bdc3b37433b20a464142",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776908526-878284265.webp"
+            },
+            "team_b": {
+                "id": "67b2bd91aa918b1a19f23ce4",
+                "name": "Mumbai Indians Women",
+                "short_name": "MI Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776836144-370278850.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767778825670-324295121.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69738222e3ef4643d3036646",
+            "name": "Pune Panthers VS Rajasthan Lions",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-30",
+            "start_date_time": "2026-01-30T13:30:00.000Z",
+            "team_a": {
+                "id": "69737061cada6f6907a967f4",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
+            },
+            "team_b": {
+                "id": "697370a153f5bf834611b9e3",
+                "name": "Rajasthan Lions",
+                "short_name": "Rajasthan Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173126513-122954864.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177631252-743890045.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }
