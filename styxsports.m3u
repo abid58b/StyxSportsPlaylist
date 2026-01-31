@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="697cafaa3502459d8f0220df" tvg-name="Shourya Club Indore VS Nagpur CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769779103031-854741726.webp" group-title="Live",Shourya Club Indore VS Nagpur CA
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
+#EXTINF:-1 tvg-id="6979e1cfd713f6d342f90c33" tvg-name="United Arab Emirates VS Ireland" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769595340644-90323441.webp" group-title="Live",United Arab Emirates VS Ireland
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
+
