@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "697cafaa3502459d8f0220df",
+            "name": "Shourya Club Indore VS Nagpur CA",
+            "category_name": "Cricket",
+            "tour_id": "697cadb5cada6f6907a96802",
+            "tour_name": "Jagran Trophy 2026",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T05:00:00.000Z",
+            "team_a": {
+                "id": "697cacdb9702222472cb6639",
+                "name": "Shourya Club Indore",
+                "short_name": "Shourya Club Indore",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
+            },
+            "team_b": {
+                "id": "697cac8ad713f6d342f90c38",
+                "name": "Nagpur CA",
+                "short_name": "Nagpur CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778312123-980910896.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779103031-854741726.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6973825503f439548db65abe",
+            "name": "Gurugram Thunders VS Rajasthan Lions",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T08:30:00.000Z",
+            "team_a": {
+                "id": "6973707fcada6f6907a967f5",
+                "name": "Gurugram Thunders",
+                "short_name": "Gurugram Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173096517-886281443.webp"
+            },
+            "team_b": {
+                "id": "697370a153f5bf834611b9e3",
+                "name": "Rajasthan Lions",
+                "short_name": "Rajasthan Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173126513-122954864.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177683308-585693481.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6973833b9702222472cb662d",
+            "name": "Dubai Royals VS Pune Panthers",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T13:30:00.000Z",
+            "team_a": {
+                "id": "697370e33502459d8f0220ca",
+                "name": "Dubai Royals",
+                "short_name": "Dubai Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173215931-128381178.webp"
+            },
+            "team_b": {
+                "id": "69737061cada6f6907a967f4",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177911858-954932678.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "697c6477c6bdf17b0367d5aa",
+            "name": "Maharashtra Kesari VS Delhi Dangal Warriors",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "Semifinal 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f3cc06261a4315317466",
+                "name": "Maharashtra Kesari",
+                "short_name": "Maharashtra Kesari",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223690769-723708537.webp"
+            },
+            "team_b": {
+                "id": "6964f3ed2c2e67ffd73953af",
+                "name": "Delhi Dangal Warriors",
+                "short_name": "Delhi Dangal Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223721325-604148512.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769759847573-901248684.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6979e1cfd713f6d342f90c33",
+            "name": "United Arab Emirates VS Ireland",
+            "category_name": "Cricket",
+            "tour_id": "6979e166c6bdf17b0367d5a5",
+            "tour_name": "Ireland tour of United Arab Emirates 2026",
+            "match_no": "2nd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T14:00:00.000Z",
+            "team_a": {
+                "id": "66e0442ac13e43201a39f7a9",
+                "name": "United Arab Emirates",
+                "short_name": "UAE",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988014637-178411913.webp"
+            },
+            "team_b": {
+                "id": "66e81eba47f6bd8cb61c1489",
+                "name": "Ireland",
+                "short_name": "Ireland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1726488249447-893467595.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769595340644-90323441.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
