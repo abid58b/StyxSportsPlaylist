@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6973825503f439548db65abe",
-            "name": "Gurugram Thunders VS Rajasthan Lions",
-            "category_name": "Cricket",
-            "tour_id": "6973718dc6bdf17b0367d594",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-31",
-            "start_date_time": "2026-01-31T08:30:00.000Z",
-            "team_a": {
-                "id": "6973707fcada6f6907a967f5",
-                "name": "Gurugram Thunders",
-                "short_name": "Gurugram Thunders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173096517-886281443.webp"
-            },
-            "team_b": {
-                "id": "697370a153f5bf834611b9e3",
-                "name": "Rajasthan Lions",
-                "short_name": "Rajasthan Lions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173126513-122954864.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177683308-585693481.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6973833b9702222472cb662d",
             "name": "Dubai Royals VS Pune Panthers",
             "category_name": "Cricket",
