@@ -31,6 +31,34 @@
             "score_match_id": 0
         },
         {
+            "id": "6979e1cfd713f6d342f90c33",
+            "name": "United Arab Emirates VS Ireland",
+            "category_name": "Cricket",
+            "tour_id": "6979e166c6bdf17b0367d5a5",
+            "tour_name": "Ireland tour of United Arab Emirates 2026",
+            "match_no": "2nd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T05:00:00.000Z",
+            "team_a": {
+                "id": "66e0442ac13e43201a39f7a9",
+                "name": "United Arab Emirates",
+                "short_name": "UAE",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988014637-178411913.webp"
+            },
+            "team_b": {
+                "id": "66e81eba47f6bd8cb61c1489",
+                "name": "Ireland",
+                "short_name": "Ireland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1726488249447-893467595.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769595340644-90323441.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
             "id": "6973825503f439548db65abe",
             "name": "Gurugram Thunders VS Rajasthan Lions",
             "category_name": "Cricket",
@@ -111,34 +139,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223721325-604148512.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769759847573-901248684.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "6979e1cfd713f6d342f90c33",
-            "name": "United Arab Emirates VS Ireland",
-            "category_name": "Cricket",
-            "tour_id": "6979e166c6bdf17b0367d5a5",
-            "tour_name": "Ireland tour of United Arab Emirates 2026",
-            "match_no": "2nd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-31",
-            "start_date_time": "2026-01-31T14:00:00.000Z",
-            "team_a": {
-                "id": "66e0442ac13e43201a39f7a9",
-                "name": "United Arab Emirates",
-                "short_name": "UAE",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1759988014637-178411913.webp"
-            },
-            "team_b": {
-                "id": "66e81eba47f6bd8cb61c1489",
-                "name": "Ireland",
-                "short_name": "Ireland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1726488249447-893467595.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769595340644-90323441.webp",
             "venue": "",
             "score_match_id": 0
         }
