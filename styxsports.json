@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "697cb02ce3ef4643d3036662",
-            "name": "Shourya Club Indore VS Jhansi CA",
-            "category_name": "Cricket",
-            "tour_id": "697cadb5cada6f6907a96802",
-            "tour_name": "Jagran Trophy 2026",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-01",
-            "start_date_time": "2026-02-01T03:00:00.000Z",
-            "team_a": {
-                "id": "697cacdb9702222472cb6639",
-                "name": "Shourya Club Indore",
-                "short_name": "Shourya Club Indore",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
-            },
-            "team_b": {
-                "id": "697cac6d53f5bf834611b9f9",
-                "name": "Jhansi CA",
-                "short_name": "Jhansi CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778283368-329925590.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779586350-9886236.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "697cb24403f439548db65ad7",
             "name": "Nagpur CA VS Sapience Club Gurgaon",
             "category_name": "Cricket",
