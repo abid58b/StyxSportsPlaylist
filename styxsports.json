@@ -113,6 +113,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769178021084-831981151.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "697f032f3502459d8f0220e4",
+            "name": "Haryana Thunders VS Delhi Dangal Warriors",
+            "category_name": "Wrestling",
+            "tour_id": "6964f5092c2e67ffd73953b0",
+            "tour_name": "Pro Wrestling League - Season 5",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-01",
+            "start_date_time": "2026-02-01T14:00:00.000Z",
+            "team_a": {
+                "id": "6964f40c55fa8cde77864864",
+                "name": "Haryana Thunders",
+                "short_name": "Haryana Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223753811-742074797.webp"
+            },
+            "team_b": {
+                "id": "6964f3ed2c2e67ffd73953af",
+                "name": "Delhi Dangal Warriors",
+                "short_name": "Delhi Dangal Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1768223721325-604148512.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769931562234-960764274.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }
