@@ -1,5 +1,146 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "697cb02ce3ef4643d3036662",
+            "name": "Shourya Club Indore VS Jhansi CA",
+            "category_name": "Cricket",
+            "tour_id": "697cadb5cada6f6907a96802",
+            "tour_name": "Jagran Trophy 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-01",
+            "start_date_time": "2026-02-01T03:00:00.000Z",
+            "team_a": {
+                "id": "697cacdb9702222472cb6639",
+                "name": "Shourya Club Indore",
+                "short_name": "Shourya Club Indore",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
+            },
+            "team_b": {
+                "id": "697cac6d53f5bf834611b9f9",
+                "name": "Jhansi CA",
+                "short_name": "Jhansi CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778283368-329925590.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779586350-9886236.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "697cb24403f439548db65ad7",
+            "name": "Nagpur CA VS Sapience Club Gurgaon",
+            "category_name": "Cricket",
+            "tour_id": "697cadb5cada6f6907a96802",
+            "tour_name": "Jagran Trophy 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-01",
+            "start_date_time": "2026-02-01T07:00:00.000Z",
+            "team_a": {
+                "id": "697cac8ad713f6d342f90c38",
+                "name": "Nagpur CA",
+                "short_name": "Nagpur CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778312123-980910896.webp"
+            },
+            "team_b": {
+                "id": "697cacfd3502459d8f0220de",
+                "name": "Sapience Club Gurgaon",
+                "short_name": "Sapience Club Gurgaon",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778427445-441977230.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779771219-867095695.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69738366cada6f6907a967f6",
+            "name": "Pune Panthers VS Maharashtra Tycoons",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-01",
+            "start_date_time": "2026-02-01T08:30:00.000Z",
+            "team_a": {
+                "id": "69737061cada6f6907a967f4",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
+            },
+            "team_b": {
+                "id": "6973710453f5bf834611b9e4",
+                "name": "Maharashtra Tycoons",
+                "short_name": "Maharashtra Tycoons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173248232-665058177.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177955711-712514126.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e2a4303f439548db65a79",
+            "name": "Delhi Capitals Women VS UP Warriorz Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "20",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-01",
+            "start_date_time": "2026-02-01T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2bde6315d6205bfd3a2d7",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776929442-201795064.webp"
+            },
+            "team_b": {
+                "id": "67b2be1baa918b1a19f23ce5",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776884767-744322167.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1767778879797-966095898.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "697383a79702222472cb662e",
+            "name": "Delhi Warriors VS Gurugram Thunders",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-01",
+            "start_date_time": "2026-02-01T13:30:00.000Z",
+            "team_a": {
+                "id": "697370c1d713f6d342f90c27",
+                "name": "Delhi Warriors",
+                "short_name": "Delhi Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173182025-844533981.webp"
+            },
+            "team_b": {
+                "id": "6973707fcada6f6907a967f5",
+                "name": "Gurugram Thunders",
+                "short_name": "Gurugram Thunders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173096517-886281443.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769178021084-831981151.webp",
+            "venue": "",
+            "score_match_id": 0
+        }
+    ]
 }
