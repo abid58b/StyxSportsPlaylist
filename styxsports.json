@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69738366cada6f6907a967f6",
-            "name": "Pune Panthers VS Maharashtra Tycoons",
-            "category_name": "Cricket",
-            "tour_id": "6973718dc6bdf17b0367d594",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-01",
-            "start_date_time": "2026-02-01T08:30:00.000Z",
-            "team_a": {
-                "id": "69737061cada6f6907a967f4",
-                "name": "Pune Panthers",
-                "short_name": "Pune Panthers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
-            },
-            "team_b": {
-                "id": "6973710453f5bf834611b9e4",
-                "name": "Maharashtra Tycoons",
-                "short_name": "Maharashtra Tycoons",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173248232-665058177.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769177955711-712514126.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e2a4303f439548db65a79",
             "name": "Delhi Capitals Women VS UP Warriorz Women",
             "category_name": "Cricket",
