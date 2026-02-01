@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="697cb24403f439548db65ad7" tvg-name="Nagpur CA VS Sapience Club Gurgaon" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769779771219-867095695.webp" group-title="Live",Nagpur CA VS Sapience Club Gurgaon
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7sdf0ZDcAGtTLV2f1243653372908.m3u8
-
 #EXTINF:-1 tvg-id="69738366cada6f6907a967f6" tvg-name="Pune Panthers VS Maharashtra Tycoons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769177955711-712514126.webp" group-title="Live",Pune Panthers VS Maharashtra Tycoons
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/OtISgyoOP7TanBfS1264294197411.m3u8
