@@ -4,3 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 
+#EXTINF:-1 tvg-id="68c038a3fa47c38f5e0be5e2" tvg-name="Victoria VS Queensland Bulls" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757427871209-417668961.webp" group-title="Live",Victoria VS Queensland Bulls
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
+
+#EXTINF:-1 tvg-id="68dd35076c38f4c5ed06c7f8" tvg-name="South Australia Women VS Victoria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759327492870-439380520.webp" group-title="Live",South Australia Women VS Victoria Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
