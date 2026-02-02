@@ -1,5 +1,174 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "697cb28153f5bf834611b9fa",
+            "name": "Sapience Club Gurgaon VS Shourya Club Indore",
+            "category_name": "Cricket",
+            "tour_id": "697cadb5cada6f6907a96802",
+            "tour_name": "Jagran Trophy 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T03:00:00.000Z",
+            "team_a": {
+                "id": "697cacfd3502459d8f0220de",
+                "name": "Sapience Club Gurgaon",
+                "short_name": "Sapience Club Gurgaon",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778427445-441977230.webp"
+            },
+            "team_b": {
+                "id": "697cacdb9702222472cb6639",
+                "name": "Shourya Club Indore",
+                "short_name": "Shourya Club Indore",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779838786-560603797.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "697cb2acd713f6d342f90c39",
+            "name": "Jhansi CA VS Nagpur CA",
+            "category_name": "Cricket",
+            "tour_id": "697cadb5cada6f6907a96802",
+            "tour_name": "Jagran Trophy 2026",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T07:00:00.000Z",
+            "team_a": {
+                "id": "697cac6d53f5bf834611b9f9",
+                "name": "Jhansi CA",
+                "short_name": "Jhansi CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778283368-329925590.webp"
+            },
+            "team_b": {
+                "id": "697cac8ad713f6d342f90c38",
+                "name": "Nagpur CA",
+                "short_name": "Nagpur CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778312123-980910896.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779879699-986239858.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6973845f3502459d8f0220cd",
+            "name": "Rajasthan Lions VS Delhi Warriors",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T08:30:00.000Z",
+            "team_a": {
+                "id": "697370a153f5bf834611b9e3",
+                "name": "Rajasthan Lions",
+                "short_name": "Rajasthan Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173126513-122954864.webp"
+            },
+            "team_b": {
+                "id": "697370c1d713f6d342f90c27",
+                "name": "Delhi Warriors",
+                "short_name": "Delhi Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173182025-844533981.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769178203736-443954853.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "697384b853f5bf834611b9e6",
+            "name": "Maharashtra Tycoons VS Dubai Royals",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T13:30:00.000Z",
+            "team_a": {
+                "id": "6973710453f5bf834611b9e4",
+                "name": "Maharashtra Tycoons",
+                "short_name": "Maharashtra Tycoons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173248232-665058177.webp"
+            },
+            "team_b": {
+                "id": "697370e33502459d8f0220ca",
+                "name": "Dubai Royals",
+                "short_name": "Dubai Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173215931-128381178.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769178293739-586616759.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68dd34cf0318963666e92aec",
+            "name": "NSW Women VS Queensland Fire Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "25",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+            },
+            "team_b": {
+                "id": "675d0e6c7520fc727ac56980",
+                "name": "Queensland Fire Women",
+                "short_name": "Queensland Fire",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461626056-144147507.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327437014-148196445.webp",
+            "venue": "Phillip Oval ,Canberra",
+            "score_match_id": 92871
+        },
+        {
+            "id": "68dd35076c38f4c5ed06c7f8",
+            "name": "South Australia Women VS Victoria Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "26",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T23:30:00.000Z",
+            "team_a": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
+            },
+            "team_b": {
+                "id": "675d0e1172efbbdadc2ef8f8",
+                "name": "Victoria Women",
+                "short_name": "Victoria Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461576791-514056453.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327492870-439380520.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92872
+        }
+    ]
 }

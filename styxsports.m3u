@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="697383a79702222472cb662e" tvg-name="Delhi Warriors VS Gurugram Thunders" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769178021084-831981151.webp" group-title="Live",Delhi Warriors VS Gurugram Thunders
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/OtISgyoOP7TanBfS1264294197411.m3u8
-
-#EXTINF:-1 tvg-id="697f032f3502459d8f0220e4" tvg-name="Haryana Thunders VS Delhi Dangal Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769931562234-960764274.webp" group-title="Live",Haryana Thunders VS Delhi Dangal Warriors
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
