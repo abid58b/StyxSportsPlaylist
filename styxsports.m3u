@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
+#EXTINF:-1 tvg-id="6980e0c93502459d8f0220eb" tvg-name="Rajasthan Lions VS Pune Panthers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770053830175-151556042.webp" group-title="Live",Rajasthan Lions VS Pune Panthers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
