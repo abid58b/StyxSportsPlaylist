@@ -171,34 +171,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa311e5e14fc3d2e069751",
-            "name": "Otago Volts VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "17",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-03",
-            "start_date_time": "2026-02-03T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa03b94e4aa6d729f67553",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
-            },
-            "team_b": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299001146-562487781.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fa30bee4b44a5c727eb81f",
             "name": "Wellington Firebirds VS Central Stags",
             "category_name": "Cricket",
@@ -223,6 +195,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298952917-275447882.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa311e5e14fc3d2e069751",
+            "name": "Otago Volts VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "17",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
+            },
+            "team_b": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299001146-562487781.webp",
             "venue": "",
             "score_match_id": 0
         }
