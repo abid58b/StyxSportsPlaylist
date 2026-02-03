@@ -3,88 +3,228 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dd34cf0318963666e92aec",
-            "name": "NSW Women VS Queensland Fire Women",
+            "id": "697cb2f19702222472cb663a",
+            "name": "Jhansi CA VS Sapience Club Gurgaon",
             "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "25",
+            "tour_id": "697cadb5cada6f6907a96802",
+            "tour_name": "Jagran Trophy 2026",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-02",
-            "start_date_time": "2026-02-02T23:00:00.000Z",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T03:00:00.000Z",
             "team_a": {
-                "id": "675d0e8972efbbdadc2ef8fa",
-                "name": "NSW Women",
-                "short_name": "NSW Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+                "id": "697cac6d53f5bf834611b9f9",
+                "name": "Jhansi CA",
+                "short_name": "Jhansi CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778283368-329925590.webp"
             },
             "team_b": {
-                "id": "675d0e6c7520fc727ac56980",
-                "name": "Queensland Fire Women",
-                "short_name": "Queensland Fire",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461626056-144147507.webp"
+                "id": "697cacfd3502459d8f0220de",
+                "name": "Sapience Club Gurgaon",
+                "short_name": "Sapience Club Gurgaon",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778427445-441977230.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327437014-148196445.webp",
-            "venue": "Phillip Oval ,Canberra",
-            "score_match_id": 92871
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779951201-420984576.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
-            "id": "68c038a3fa47c38f5e0be5e2",
-            "name": "Victoria VS Queensland Bulls",
+            "id": "697cb324cada6f6907a96803",
+            "name": "Sahgal Club Delhi VS CAG",
             "category_name": "Cricket",
-            "tour_id": "68bfc308fa47c38f5e0be5d5",
-            "tour_name": "Australia One Day Cup 2025-26",
+            "tour_id": "697cadb5cada6f6907a96802",
+            "tour_name": "Jagran Trophy 2026",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T07:00:00.000Z",
+            "team_a": {
+                "id": "697cacae3502459d8f0220dd",
+                "name": "Sahgal Club Delhi",
+                "short_name": "Sahgal Club Delhi",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778345975-692788369.webp"
+            },
+            "team_b": {
+                "id": "697cad1803f439548db65ad5",
+                "name": "CAG",
+                "short_name": "CAG",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778454252-929345383.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769779992379-62105679.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6980e0c93502459d8f0220eb",
+            "name": "Rajasthan Lions VS Pune Panthers",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "Semifinal 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T08:30:00.000Z",
+            "team_a": {
+                "id": "697370a153f5bf834611b9e3",
+                "name": "Rajasthan Lions",
+                "short_name": "Rajasthan Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173126513-122954864.webp"
+            },
+            "team_b": {
+                "id": "69737061cada6f6907a967f4",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770053830175-151556042.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6980e139ccc6fe763ab1b8a5",
+            "name": "Delhi Warriors VS Dubai Royals",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "Semifinal 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T13:30:00.000Z",
+            "team_a": {
+                "id": "697370c1d713f6d342f90c27",
+                "name": "Delhi Warriors",
+                "short_name": "Delhi Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173182025-844533981.webp"
+            },
+            "team_b": {
+                "id": "697370e33502459d8f0220ca",
+                "name": "Dubai Royals",
+                "short_name": "Dubai Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173215931-128381178.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770053924722-712372348.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "695e2aa02f470ae816abfd7b",
+            "name": "Gujarat Giants Women VS Delhi Capitals Women",
+            "category_name": "Cricket",
+            "tour_id": "695e231a511942ebff5d20eb",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "Play-off",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T13:30:00.000Z",
+            "team_a": {
+                "id": "67b2bdc3b37433b20a464142",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776908526-878284265.webp"
+            },
+            "team_b": {
+                "id": "67b2bde6315d6205bfd3a2d7",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1767776929442-201795064.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769967533686-119242073.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa31545e14fc3d2e069752",
+            "name": "Auckland Aces VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299018721-851616120.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa311e5e14fc3d2e069751",
+            "name": "Otago Volts VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
             "match_no": "17",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-02",
-            "start_date_time": "2026-02-02T23:30:00.000Z",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T21:00:00.000Z",
             "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+                "id": "68fa03b94e4aa6d729f67553",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
             },
             "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427871209-417668961.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92839
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299001146-562487781.webp",
+            "venue": "",
+            "score_match_id": 0
         },
         {
-            "id": "68dd35076c38f4c5ed06c7f8",
-            "name": "South Australia Women VS Victoria Women",
+            "id": "68fa30bee4b44a5c727eb81f",
+            "name": "Wellington Firebirds VS Central Stags",
             "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "26",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "16",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-02",
-            "start_date_time": "2026-02-02T23:30:00.000Z",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T21:00:00.000Z",
             "team_a": {
-                "id": "675d0e4f72efbbdadc2ef8f9",
-                "name": "South Australia Women",
-                "short_name": "South Australia Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
             },
             "team_b": {
-                "id": "675d0e1172efbbdadc2ef8f8",
-                "name": "Victoria Women",
-                "short_name": "Victoria Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461576791-514056453.webp"
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327492870-439380520.webp",
-            "venue": "Karen Rolton Oval ,Adelaide",
-            "score_match_id": 92872
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761298952917-275447882.webp",
+            "venue": "",
+            "score_match_id": 0
         }
     ]
 }
