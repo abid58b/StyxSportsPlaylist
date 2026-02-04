@@ -87,6 +87,34 @@
             "score_match_id": 0
         },
         {
+            "id": "6982cc843502459d8f0220f0",
+            "name": "Pune Panthers VS Dubai Royals",
+            "category_name": "Cricket",
+            "tour_id": "6973718dc6bdf17b0367d594",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-04",
+            "start_date_time": "2026-02-04T13:30:00.000Z",
+            "team_a": {
+                "id": "69737061cada6f6907a967f4",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173087933-65927561.webp"
+            },
+            "team_b": {
+                "id": "697370e33502459d8f0220ca",
+                "name": "Dubai Royals",
+                "short_name": "Dubai Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769173215931-128381178.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770179714488-535510868.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
             "id": "68dd35cff4339ec18e21ecb0",
             "name": "South Australia Women VS Victoria Women",
             "category_name": "Cricket",
