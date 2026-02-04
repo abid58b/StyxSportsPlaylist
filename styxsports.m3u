@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6982cc843502459d8f0220f0" tvg-name="Pune Panthers VS Dubai Royals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770179714488-535510868.webp" group-title="Live",Pune Panthers VS Dubai Royals
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
