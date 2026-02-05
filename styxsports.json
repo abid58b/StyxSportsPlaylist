@@ -31,34 +31,6 @@
             "score_match_id": 92897
         },
         {
-            "id": "697cb3ade3ef4643d3036664",
-            "name": "N.E. Railway VS CAG",
-            "category_name": "Cricket",
-            "tour_id": "697cadb5cada6f6907a96802",
-            "tour_name": "Jagran Trophy 2026",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-05",
-            "start_date_time": "2026-02-05T03:00:00.000Z",
-            "team_a": {
-                "id": "680d16c2b802f8205f6248f7",
-                "name": "N.E. Railway",
-                "short_name": "N.E. Railway",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
-            },
-            "team_b": {
-                "id": "697cad1803f439548db65ad5",
-                "name": "CAG",
-                "short_name": "CAG",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778454252-929345383.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769780138572-566483326.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "697cb3e1e3ef4643d3036665",
             "name": "Sahgal Club Delhi VS Indian Navy",
             "category_name": "Cricket",
@@ -113,6 +85,62 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770139522324-209450482.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "68de83b29f5a848ba39f3358",
+            "name": "New South Wales VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "19 | Day - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-05",
+            "start_date_time": "2026-02-05T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413164554-813238860.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 92895
+        },
+        {
+            "id": "68de83ee07d2ecfd0c15939a",
+            "name": "Victoria VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "20 | Day - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-05",
+            "start_date_time": "2026-02-05T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413225558-989192000.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92896
         }
     ]
 }
