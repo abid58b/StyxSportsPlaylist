@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "697cb3e1e3ef4643d3036665",
-            "name": "Sahgal Club Delhi VS Indian Navy",
-            "category_name": "Cricket",
-            "tour_id": "697cadb5cada6f6907a96802",
-            "tour_name": "Jagran Trophy 2026",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-05",
-            "start_date_time": "2026-02-05T07:00:00.000Z",
-            "team_a": {
-                "id": "697cacae3502459d8f0220dd",
-                "name": "Sahgal Club Delhi",
-                "short_name": "Sahgal Club Delhi",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778345975-692788369.webp"
-            },
-            "team_b": {
-                "id": "697cacc4cada6f6907a96800",
-                "name": "Indian Navy",
-                "short_name": "Indian Navy",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778370684-553442537.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769780186695-895886389.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "695e2ad753f5bf834611b98e",
             "name": "Royal Challengers Bengaluru Women VS Delhi Capitals Women",
             "category_name": "Cricket",
