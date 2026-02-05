@@ -1,18 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68dd35cff4339ec18e21ecb0" tvg-name="South Australia Women VS Victoria Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759327690343-194791371.webp" group-title="Live",South Australia Women VS Victoria Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
-#EXTINF:-1 tvg-id="68dd35936c38f4c5ed06c7f9" tvg-name="NSW Women VS Queensland Fire Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759327628488-80002535.webp" group-title="Live",NSW Women VS Queensland Fire Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
-
-#EXTINF:-1 tvg-id="68de83ee07d2ecfd0c15939a" tvg-name="Victoria VS Queensland Bulls" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413225558-989192000.webp" group-title="Live",Victoria VS Queensland Bulls
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
-#EXTINF:-1 tvg-id="68de83b29f5a848ba39f3358" tvg-name="New South Wales VS South Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413164554-813238860.webp" group-title="Live",New South Wales VS South Australia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
-
