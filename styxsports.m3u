@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68de843c9f5a848ba39f3359" tvg-name="Western Australia VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413305837-632688070.webp" group-title="Live",Western Australia VS Tasmania Tigers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
+
+#EXTINF:-1 tvg-id="697cb3ade3ef4643d3036664" tvg-name="N.E. Railway VS CAG" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1769780138572-566483326.webp" group-title="Live",N.E. Railway VS CAG
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
