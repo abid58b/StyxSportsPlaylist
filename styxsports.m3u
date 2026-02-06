@@ -1,2 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68fa32335e14fc3d2e069753" tvg-name="Canterbury Kings VS Northern District" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299081653-571289387.webp" group-title="Live",Canterbury Kings VS Northern District
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
+#EXTINF:-1 tvg-id="68fa31924e4aa6d729f6755a" tvg-name="Otago Volts VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299043507-874112179.webp" group-title="Live",Otago Volts VS Wellington Firebirds
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
+#EXTINF:-1 tvg-id="68fa31fc4e4aa6d729f6755b" tvg-name="Central Stags VS Auckland Aces" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299064041-960102246.webp" group-title="Live",Central Stags VS Auckland Aces
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
+
+#EXTINF:-1 tvg-id="69172a33fd87c2948fb48042" tvg-name="Canterbury Magicians VS Northern District Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763125804126-124274181.webp" group-title="Live",Canterbury Magicians VS Northern District Women
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
+#EXTINF:-1 tvg-id="69172a64fd87c2948fb48043" tvg-name="Auckland Hearts VS Central Hinds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763125857308-630214441.webp" group-title="Live",Auckland Hearts VS Central Hinds
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/1XiZHV9cGU81ydo01299117260573326.m3u8
+
+#EXTINF:-1 tvg-id="69172aa51ee3a0177bd69205" tvg-name="Wellington Blaze VS Otago Sparks" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763125921986-562041026.webp" group-title="Live",Wellington Blaze VS Otago Sparks
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/5khWZUxRFHx1EGzX1299107520579634.m3u8
+
