@@ -3,6 +3,34 @@
     "message": "Stream record is fetched",
     "data": [
         {
+            "id": "68fa32335e14fc3d2e069753",
+            "name": "Canterbury Kings VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "21",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299081653-571289387.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
             "id": "68fa31924e4aa6d729f6755a",
             "name": "Otago Volts VS Wellington Firebirds",
             "category_name": "Cricket",
@@ -59,34 +87,6 @@
             "score_match_id": 0
         },
         {
-            "id": "68fa32335e14fc3d2e069753",
-            "name": "Canterbury Kings VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "21",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "team_b": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299081653-571289387.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69172a33fd87c2948fb48042",
             "name": "Canterbury Magicians VS Northern District Women",
             "category_name": "Cricket",
@@ -115,34 +115,6 @@
             "score_match_id": 93666
         },
         {
-            "id": "69172aa51ee3a0177bd69205",
-            "name": "Wellington Blaze VS Otago Sparks",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "21",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e9511ee3a0177bd691f6",
-                "name": "Wellington Blaze",
-                "short_name": "Wellington Blaze",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
-            },
-            "team_b": {
-                "id": "6915e8dbfd87c2948fb48034",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763125921986-562041026.webp",
-            "venue": "Cello Basin Reserve ,Wellington",
-            "score_match_id": 93668
-        },
-        {
             "id": "69172a64fd87c2948fb48043",
             "name": "Auckland Hearts VS Central Hinds",
             "category_name": "Cricket",
@@ -169,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763125857308-630214441.webp",
             "venue": "Kennards Hire Community Oval ,Auckland",
             "score_match_id": 93667
+        },
+        {
+            "id": "69172aa51ee3a0177bd69205",
+            "name": "Wellington Blaze VS Otago Sparks",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "21",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e9511ee3a0177bd691f6",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
+            },
+            "team_b": {
+                "id": "6915e8dbfd87c2948fb48034",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043545312-793912203.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763125921986-562041026.webp",
+            "venue": "Cello Basin Reserve ,Wellington",
+            "score_match_id": 93668
         },
         {
             "id": "68de83b29f5a848ba39f3358",
