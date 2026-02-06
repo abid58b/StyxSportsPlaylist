@@ -59,30 +59,30 @@
             "score_match_id": 92876
         },
         {
-            "id": "697cb40f53f5bf834611b9fb",
-            "name": "Indian Navy VS N.E. Railway",
+            "id": "68fa31fc4e4aa6d729f6755b",
+            "name": "Central Stags VS Auckland Aces",
             "category_name": "Cricket",
-            "tour_id": "697cadb5cada6f6907a96802",
-            "tour_name": "Jagran Trophy 2026",
-            "match_no": "12",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "20",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T05:00:00.000Z",
+            "start_date_time": "2026-02-06T21:00:00.000Z",
             "team_a": {
-                "id": "697cacc4cada6f6907a96800",
-                "name": "Indian Navy",
-                "short_name": "Indian Navy",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778370684-553442537.webp"
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
             "team_b": {
-                "id": "680d16c2b802f8205f6248f7",
-                "name": "N.E. Railway",
-                "short_name": "N.E. Railway",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1769780236699-233624378.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299064041-960102246.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -139,34 +139,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299043507-874112179.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68fa31fc4e4aa6d729f6755b",
-            "name": "Central Stags VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "team_b": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299064041-960102246.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -255,34 +227,6 @@
             "score_match_id": 93666
         },
         {
-            "id": "68de83b29f5a848ba39f3358",
-            "name": "New South Wales VS South Australia",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "19 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T23:00:00.000Z",
-            "team_a": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "team_b": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413164554-813238860.webp",
-            "venue": "Sydney Cricket Ground ,Sydney",
-            "score_match_id": 92895
-        },
-        {
             "id": "68de83ee07d2ecfd0c15939a",
             "name": "Victoria VS Queensland Bulls",
             "category_name": "Cricket",
@@ -309,6 +253,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413225558-989192000.webp",
             "venue": "Melbourne Cricket Ground ,Melbourne",
             "score_match_id": 92896
+        },
+        {
+            "id": "68de83b29f5a848ba39f3358",
+            "name": "New South Wales VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "19 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413164554-813238860.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 92895
         }
     ]
 }
