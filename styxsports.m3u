@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68de843c9f5a848ba39f3359" tvg-name="Western Australia VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413305837-632688070.webp" group-title="Live",Western Australia VS Tasmania Tigers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/3J5DKFyQAtTGC7hQ22555976717754.m3u8
+
+#EXTINF:-1 tvg-id="697cb452d713f6d342f90c3b" tvg-name="Shourya Club Indore VS N.E. Railway" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770387179307-786078621.webp" group-title="Live",Shourya Club Indore VS N.E. Railway
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
