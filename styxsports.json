@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "697cb4b4e3ef4643d3036666",
-            "name": "Sahgal Club Delhi VS Shourya Club Indore",
-            "category_name": "Cricket",
-            "tour_id": "697cadb5cada6f6907a96802",
-            "tour_name": "Jagran Trophy 2026",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-08",
-            "start_date_time": "2026-02-08T05:00:00.000Z",
-            "team_a": {
-                "id": "697cacae3502459d8f0220dd",
-                "name": "Sahgal Club Delhi",
-                "short_name": "Sahgal Club Delhi",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778345975-692788369.webp"
-            },
-            "team_b": {
-                "id": "697cacdb9702222472cb6639",
-                "name": "Shourya Club Indore",
-                "short_name": "Shourya Club Indore",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770477887588-564321539.webp",
-            "venue": "",
-            "score_match_id": 0
-        }
-    ]
+    "data": []
 }
