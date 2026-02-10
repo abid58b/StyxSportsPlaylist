@@ -1,34 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68c038d539d6e519355af0bb",
-            "name": "Western Australia VS Tasmania Tigers",
-            "category_name": "Cricket",
-            "tour_id": "68bfc308fa47c38f5e0be5d5",
-            "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "18",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-10",
-            "start_date_time": "2026-02-10T05:00:00.000Z",
-            "team_a": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
-            },
-            "team_b": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427924718-377839863.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 92840
-        }
-    ]
+    "data": []
 }
