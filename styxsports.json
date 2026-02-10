@@ -3,116 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fa33dc4e4aa6d729f6755e",
-            "name": "Auckland Aces VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "24",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-09",
-            "start_date_time": "2026-02-09T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299144008-37820540.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68fa33ab4e4aa6d729f6755d",
-            "name": "Northern District VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "23",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-09",
-            "start_date_time": "2026-02-09T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "team_b": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299176145-258505689.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68fa33054e4aa6d729f6755c",
-            "name": "Otago Volts VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "22",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-09",
-            "start_date_time": "2026-02-09T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa03b94e4aa6d729f67553",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215411743-926748664.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299120358-207963028.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "68c0386d5eff1aae0fc91ea1",
-            "name": "New South Wales VS South Australia",
+            "id": "68c038d539d6e519355af0bb",
+            "name": "Western Australia VS Tasmania Tigers",
             "category_name": "Cricket",
             "tour_id": "68bfc308fa47c38f5e0be5d5",
             "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "16",
+            "match_no": "18",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-09",
-            "start_date_time": "2026-02-09T23:30:00.000Z",
+            "start_date": "2026-02-10",
+            "start_date_time": "2026-02-10T05:00:00.000Z",
             "team_a": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
             },
             "team_b": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427820407-409519752.webp",
-            "venue": "Cricket Central ,Sydney",
-            "score_match_id": 92838
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757427924718-377839863.webp",
+            "venue": "W.A.C.A. Ground ,Perth",
+            "score_match_id": 92840
         }
     ]
 }
