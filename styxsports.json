@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69172d9824f2af2c8dfdcc01",
-            "name": "Northern District Women VS Central Hinds",
-            "category_name": "Cricket",
-            "tour_id": "6915ea76fa673af67ab172df",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "28",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-14",
-            "start_date_time": "2026-02-14T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e939fd87c2948fb48035",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
-            },
-            "team_b": {
-                "id": "6915e966fa673af67ab172de",
-                "name": "Central Hinds",
-                "short_name": "Central Hinds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043681550-378182644.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763126654508-987228427.webp",
-            "venue": "Bay Oval ,Mount Maunganui",
-            "score_match_id": 93679
-        },
-        {
             "id": "69172e2124f2af2c8dfdcc02",
             "name": "Wellington Blaze VS Auckland Hearts",
             "category_name": "Cricket",
@@ -85,6 +57,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763126756716-387443282.webp",
             "venue": "University Oval ,Dunedin",
             "score_match_id": 93680
+        },
+        {
+            "id": "69172d9824f2af2c8dfdcc01",
+            "name": "Northern District Women VS Central Hinds",
+            "category_name": "Cricket",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "28",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-14",
+            "start_date_time": "2026-02-14T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
+            },
+            "team_b": {
+                "id": "6915e966fa673af67ab172de",
+                "name": "Central Hinds",
+                "short_name": "Central Hinds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043681550-378182644.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763126654508-987228427.webp",
+            "venue": "Bay Oval ,Mount Maunganui",
+            "score_match_id": 93679
         }
     ]
 }
