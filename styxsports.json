@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de855207d2ecfd0c15939b",
-            "name": "Tasmania Tigers VS New South Wales",
-            "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "24 | Day - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-16",
-            "start_date_time": "2026-02-16T03:00:00.000Z",
-            "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
-            },
-            "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413582268-971990933.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92900
-        },
-        {
-            "id": "68fa37505e14fc3d2e069755",
-            "name": "Central Stags VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "30",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-16",
-            "start_date_time": "2026-02-16T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "team_b": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299479502-110210634.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68fa36fdf77cf099f802bdc8",
             "name": "Wellington Firebirds VS Northern District",
             "category_name": "Cricket",
@@ -111,6 +55,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299460261-772987243.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68fa37505e14fc3d2e069755",
+            "name": "Central Stags VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "68fa0485f77cf099f802bdbb",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "30",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-16",
+            "start_date_time": "2026-02-16T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1761299479502-110210634.webp",
             "venue": "",
             "score_match_id": 0
         },
