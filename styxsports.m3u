@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68dd378df4339ec18e21ecb1" tvg-name="Victoria Women VS Western Australia Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328138220-470781930.webp" group-title="Live",Victoria Women VS Western Australia Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
-#EXTINF:-1 tvg-id="68de8496c167956f9cb7b9f8" tvg-name="Queensland Bulls VS South Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413393438-535676639.webp" group-title="Live",Queensland Bulls VS South Australia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
