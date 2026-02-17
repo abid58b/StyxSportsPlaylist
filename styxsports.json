@@ -113,6 +113,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759328425517-841629423.webp",
             "venue": "Junction Oval ,Melbourne",
             "score_match_id": 92881
+        },
+        {
+            "id": "68de8496c167956f9cb7b9f8",
+            "name": "Queensland Bulls VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "22 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-17",
+            "start_date_time": "2026-02-17T23:00:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413393438-535676639.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92898
         }
     ]
 }
