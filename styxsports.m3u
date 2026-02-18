@@ -1,14 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68fa36fdf77cf099f802bdc8" tvg-name="Wellington Firebirds VS Northern District" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761299429788-93526977.webp" group-title="Live",Wellington Firebirds VS Northern District
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
-
-#EXTINF:-1 tvg-id="68dd38c40318963666e92aed" tvg-name="Victoria Women VS Western Australia Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328425517-841629423.webp" group-title="Live",Victoria Women VS Western Australia Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
-
-#EXTINF:-1 tvg-id="68de8496c167956f9cb7b9f8" tvg-name="Queensland Bulls VS South Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413393438-535676639.webp" group-title="Live",Queensland Bulls VS South Australia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
