@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6995710939c2e98fc3b6af9d" tvg-name="Central Stags VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771401477387-518100253.webp" group-title="Live",Central Stags VS Wellington Firebirds
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/1XiZHV9cGU81ydo01299117260573326_adaptive.m3u8
+
