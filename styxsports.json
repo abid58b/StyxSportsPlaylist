@@ -3,32 +3,88 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6995710939c2e98fc3b6af9d",
-            "name": "Central Stags VS Wellington Firebirds",
+            "id": "6992c9bdba9be617883a9ab4",
+            "name": "Northern District Women VS Wellington Blaze",
             "category_name": "Cricket",
-            "tour_id": "68fa0485f77cf099f802bdbb",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "Eliminator",
+            "tour_id": "6915ea76fa673af67ab172df",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "Final",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-19",
-            "start_date_time": "2026-02-19T21:00:00.000Z",
+            "start_date": "2026-02-20",
+            "start_date_time": "2026-02-20T21:00:00.000Z",
             "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "6915e939fd87c2948fb48035",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043597014-373271050.webp"
             },
             "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+                "id": "6915e9511ee3a0177bd691f6",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763043663875-894989453.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771401477387-518100253.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771227579800-862044754.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "68dd36f9d5d11bd4fab06025",
+            "name": "NSW Women VS Tasmanian Tigers Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "31",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-20",
+            "start_date_time": "2026-02-20T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+            },
+            "team_b": {
+                "id": "675d0e32feaf9c45f3b7d0f1",
+                "name": "Tasmanian Tigers Women",
+                "short_name": "Tasmanian Tigers Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461594601-199554937.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759327989195-873007122.webp",
+            "venue": "Cricket Central ,Sydney",
+            "score_match_id": 92877
+        },
+        {
+            "id": "68c03991a7d03209baad1352",
+            "name": "Queensland Bulls VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68bfc308fa47c38f5e0be5d5",
+            "tour_name": "Australia One Day Cup 2025-26",
+            "match_no": "19",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-20",
+            "start_date_time": "2026-02-20T23:30:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1757428111740-502247393.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92841
         }
     ]
 }
