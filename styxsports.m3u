@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68c039c939d6e519355af0bc" tvg-name="Tasmania Tigers VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757428162308-633402122.webp" group-title="Live",Tasmania Tigers VS New South Wales
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/WAeZTw1Y042jFy3e1299132109991152.m3u8
+
+#EXTINF:-1 tvg-id="69988de239c2e98fc3b6afa3" tvg-name="Tribhuvan army Club VS Nepal Police Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605469087-27897066.webp" group-title="Live",Tribhuvan army Club VS Nepal Police Club
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="69988e3ea472ea3a69589114" tvg-name="Armed Police force Club VS Bagmati Province" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605561371-888819590.webp" group-title="Live",Armed Police force Club VS Bagmati Province
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
