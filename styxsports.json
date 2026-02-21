@@ -31,34 +31,6 @@
             "score_match_id": 92842
         },
         {
-            "id": "69988de239c2e98fc3b6afa3",
-            "name": "Tribhuvan army Club VS Nepal Police Club",
-            "category_name": "Cricket",
-            "tour_id": "699873f2ba9be617883a9abe",
-            "tour_name": "Jay Trophy 2026",
-            "match_no": "Match - 1 | Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-21",
-            "start_date_time": "2026-02-21T03:15:00.000Z",
-            "team_a": {
-                "id": "677cf703d83f883c6859cde2",
-                "name": "Tribhuvan army Club",
-                "short_name": "Tribhuvan army Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242943980-593502602.png"
-            },
-            "team_b": {
-                "id": "677cf6af35d49863d9ad5636",
-                "name": "Nepal Police Club",
-                "short_name": "Nepal Police Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605469087-27897066.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69988e3ea472ea3a69589114",
             "name": "Armed Police force Club VS Bagmati Province",
             "category_name": "Cricket",
@@ -83,6 +55,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605561371-888819590.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69988de239c2e98fc3b6afa3",
+            "name": "Tribhuvan army Club VS Nepal Police Club",
+            "category_name": "Cricket",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 1 | Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-21",
+            "start_date_time": "2026-02-21T03:15:00.000Z",
+            "team_a": {
+                "id": "677cf703d83f883c6859cde2",
+                "name": "Tribhuvan army Club",
+                "short_name": "Tribhuvan army Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242943980-593502602.png"
+            },
+            "team_b": {
+                "id": "677cf6af35d49863d9ad5636",
+                "name": "Nepal Police Club",
+                "short_name": "Nepal Police Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605469087-27897066.webp",
             "venue": "",
             "score_match_id": 0
         },
