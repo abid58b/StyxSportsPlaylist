@@ -31,34 +31,6 @@
             "score_match_id": 92842
         },
         {
-            "id": "69988e3ea472ea3a69589114",
-            "name": "Armed Police force Club VS Bagmati Province",
-            "category_name": "Cricket",
-            "tour_id": "699873f2ba9be617883a9abe",
-            "tour_name": "Jay Trophy 2026",
-            "match_no": "Match - 2 | Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-21",
-            "start_date_time": "2026-02-21T03:15:00.000Z",
-            "team_a": {
-                "id": "67851340bc57bc5461356205",
-                "name": "Armed Police force Club",
-                "short_name": "Armed Police force Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736775339718-961616724.png"
-            },
-            "team_b": {
-                "id": "666e347422b5c2188eeeb711",
-                "name": "Bagmati Province",
-                "short_name": "Bagmati Province",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605561371-888819590.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68c03ae1fa47c38f5e0be5e3",
             "name": "Western Australia VS Victoria",
             "category_name": "Cricket",

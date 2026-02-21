@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://npcdn.styxsports.live/LiveApp/streams/WAeZTw1Y042jFy3e1299132109991152.m3u8
 
-#EXTINF:-1 tvg-id="69988e3ea472ea3a69589114" tvg-name="Armed Police force Club VS Bagmati Province" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605561371-888819590.webp" group-title="Live",Armed Police force Club VS Bagmati Province
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="68c03ae1fa47c38f5e0be5e3" tvg-name="Western Australia VS Victoria" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757428446954-877676358.webp" group-title="Live",Western Australia VS Victoria
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m3u8
