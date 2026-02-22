@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6999842f75a94bf857f32ae7",
-            "name": "England A VS Pakistan A",
-            "category_name": "Cricket",
-            "tour_id": "6999764b75a94bf857f32ae6",
-            "tour_name": "England Lions and Pakistan Shaheens tour of UAE",
-            "match_no": "2nd Unofficial T20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-22",
-            "start_date_time": "2026-02-22T09:25:00.000Z",
-            "team_a": {
-                "id": "69997561fc6be820629a2d63",
-                "name": "England A",
-                "short_name": "England A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771664735485-88897525.webp"
-            },
-            "team_b": {
-                "id": "6713346eec56e3ced81700c6",
-                "name": "Pakistan A",
-                "short_name": "Pakistan A",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771664669202-80042996.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771668523804-889770036.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "68dd3870d5d11bd4fab06026",
             "name": "NSW Women VS Tasmanian Tigers Women",
             "category_name": "Cricket",
