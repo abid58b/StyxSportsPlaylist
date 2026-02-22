@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6997e5fd75a94bf857f32ae3" tvg-name="Canterbury Kings VS Central Stags" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771562489572-931074088.webp" group-title="Live",Canterbury Kings VS Central Stags
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
-
-#EXTINF:-1 tvg-id="68dd38316c38f4c5ed06c7fa" tvg-name="ACT Meteors Women VS South Australia Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328296562-217446966.webp" group-title="Live",ACT Meteors Women VS South Australia Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
-
