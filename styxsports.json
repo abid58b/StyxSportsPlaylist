@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69907ed774685a2a43504c88",
-            "name": "N.E. Railway VS Shourya Club Indore",
-            "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-22",
-            "start_date_time": "2026-02-22T03:00:00.000Z",
-            "team_a": {
-                "id": "680d16c2b802f8205f6248f7",
-                "name": "N.E. Railway",
-                "short_name": "N.E. Railway",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
-            },
-            "team_b": {
-                "id": "697cacdb9702222472cb6639",
-                "name": "Shourya Club Indore",
-                "short_name": "Shourya Club Indore",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077331888-287128110.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69907f01d15882860301aad1",
             "name": "CA Lucknow VS CA Uttarakhand",
             "category_name": "Cricket",
