@@ -3,32 +3,172 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dd3870d5d11bd4fab06026",
-            "name": "NSW Women VS Tasmanian Tigers Women",
+            "id": "69907f2d74685a2a43504c89",
+            "name": "Shourya Club Indore VS CA Uttarakhand",
             "category_name": "Cricket",
-            "tour_id": "68d0005e660ed2e95b8ce08e",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "34",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-22",
-            "start_date_time": "2026-02-22T23:00:00.000Z",
+            "start_date": "2026-02-23",
+            "start_date_time": "2026-02-23T03:00:00.000Z",
             "team_a": {
-                "id": "675d0e8972efbbdadc2ef8fa",
-                "name": "NSW Women",
-                "short_name": "NSW Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461640986-94564761.webp"
+                "id": "697cacdb9702222472cb6639",
+                "name": "Shourya Club Indore",
+                "short_name": "Shourya Club Indore",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
             },
             "team_b": {
-                "id": "675d0e32feaf9c45f3b7d0f1",
-                "name": "Tasmanian Tigers Women",
-                "short_name": "Tasmanian Tigers Women",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461594601-199554937.webp"
+                "id": "69907ddb74685a2a43504c87",
+                "name": "CA Uttarakhand",
+                "short_name": "CA Uttarakhand",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077078591-266637111.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759328365484-643623257.webp",
-            "venue": "Cricket Central ,Sydney",
-            "score_match_id": 92880
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077418322-977290956.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69988f2339c2e98fc3b6afa5",
+            "name": "Nepal Police Club VS Tribhuvan army Club",
+            "category_name": "Cricket",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 4 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-23",
+            "start_date_time": "2026-02-23T03:15:00.000Z",
+            "team_a": {
+                "id": "677cf6af35d49863d9ad5636",
+                "name": "Nepal Police Club",
+                "short_name": "Nepal Police Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
+            },
+            "team_b": {
+                "id": "677cf703d83f883c6859cde2",
+                "name": "Tribhuvan army Club",
+                "short_name": "Tribhuvan army Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242943980-593502602.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69988ed839c2e98fc3b6afa4",
+            "name": "Armed Police force Club VS Nepal Police Club",
+            "category_name": "Cricket",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 3 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-23",
+            "start_date_time": "2026-02-23T03:15:00.000Z",
+            "team_a": {
+                "id": "67851340bc57bc5461356205",
+                "name": "Armed Police force Club",
+                "short_name": "Armed Police force Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736775339718-961616724.png"
+            },
+            "team_b": {
+                "id": "677cf6af35d49863d9ad5636",
+                "name": "Nepal Police Club",
+                "short_name": "Nepal Police Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605708591-973469207.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69907f88e018c8f932ba5d0a",
+            "name": "N.E. Railway VS CA Lucknow",
+            "category_name": "Cricket",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-23",
+            "start_date_time": "2026-02-23T07:00:00.000Z",
+            "team_a": {
+                "id": "680d16c2b802f8205f6248f7",
+                "name": "N.E. Railway",
+                "short_name": "N.E. Railway",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
+            },
+            "team_b": {
+                "id": "68de4d9dc167956f9cb7b9eb",
+                "name": "CA Lucknow",
+                "short_name": "CA Lucknow",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077508138-154189294.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "698f347175a94bf857f32ad8",
+            "name": "Devbhoomi Royals VS Silverton Tigers",
+            "category_name": "Cricket",
+            "tour_id": "698dd856ad4c8e6eabf02859",
+            "tour_name": "Muzaffarnagar Premier League Season 2",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-23",
+            "start_date_time": "2026-02-23T07:30:00.000Z",
+            "team_a": {
+                "id": "698dd5a2fee660f187535af8",
+                "name": "Devbhoomi Royals",
+                "short_name": "Devbhoomi Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902937742-533715138.webp"
+            },
+            "team_b": {
+                "id": "67ecea9ac6a23fda9c43141d",
+                "name": "Silverton Tigers",
+                "short_name": "Silverton Tigers",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903222428-51508453.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771318522889-642579986.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "68dd390e0318963666e92aee",
+            "name": "ACT Meteors Women VS South Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d0005e660ed2e95b8ce08e",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "36",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-23",
+            "start_date_time": "2026-02-23T23:00:00.000Z",
+            "team_a": {
+                "id": "68cfffa5ad25e8352e11a882",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461857455-604400725.webp"
+            },
+            "team_b": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1758461614029-589946228.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759328523992-436123109.webp",
+            "venue": "Phillip Oval ,Canberra",
+            "score_match_id": 92882
         }
     ]
 }
