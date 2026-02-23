@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "69907f88e018c8f932ba5d0a",
-            "name": "N.E. Railway VS CA Lucknow",
-            "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-23",
-            "start_date_time": "2026-02-23T07:00:00.000Z",
-            "team_a": {
-                "id": "680d16c2b802f8205f6248f7",
-                "name": "N.E. Railway",
-                "short_name": "N.E. Railway",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
-            },
-            "team_b": {
-                "id": "68de4d9dc167956f9cb7b9eb",
-                "name": "CA Lucknow",
-                "short_name": "CA Lucknow",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077508138-154189294.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "698f347175a94bf857f32ad8",
             "name": "Devbhoomi Royals VS Silverton Tigers",
             "category_name": "Cricket",
