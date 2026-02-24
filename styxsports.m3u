@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="699c3c0475a94bf857f32aec" tvg-name="Gianyar VS Rebel CC Jakarta" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771846657626-956935355.webp" group-title="Live",Gianyar VS Rebel CC Jakarta
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
 #EXTINF:-1 tvg-id="698f325e75a94bf857f32ad7" tvg-name="Vasundhara Super Kings VS Amba Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992217567-91872640.webp" group-title="Live",Vasundhara Super Kings VS Amba Warriors
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
@@ -12,13 +8,13 @@ https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 
-#EXTINF:-1 tvg-id="69988f2339c2e98fc3b6afa5" tvg-name="Bagmati Province VS Tribhuvan army Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp" group-title="Live",Bagmati Province VS Tribhuvan army Club
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
 #EXTINF:-1 tvg-id="69988ed839c2e98fc3b6afa4" tvg-name="Armed Police force Club VS Nepal Police Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605708591-973469207.webp" group-title="Live",Armed Police force Club VS Nepal Police Club
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="69988f2339c2e98fc3b6afa5" tvg-name="Bagmati Province VS Tribhuvan army Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp" group-title="Live",Bagmati Province VS Tribhuvan army Club
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
 #EXTINF:-1 tvg-id="699c3c33ba9be617883a9ace" tvg-name="Garuda Gentlemen VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771846704718-282469320.webp" group-title="Live",Garuda Gentlemen VS Gianyar
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
