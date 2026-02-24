@@ -31,30 +31,30 @@
             "score_match_id": 0
         },
         {
-            "id": "699080ab75a94bf857f32adc",
-            "name": "CA Lucknow VS Shourya Club Indore",
+            "id": "69988f2339c2e98fc3b6afa5",
+            "name": "Bagmati Province VS Tribhuvan army Club",
             "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "5",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 4 | Day 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T03:00:00.000Z",
+            "start_date_time": "2026-02-24T03:15:00.000Z",
             "team_a": {
-                "id": "68de4d9dc167956f9cb7b9eb",
-                "name": "CA Lucknow",
-                "short_name": "CA Lucknow",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
+                "id": "666e347422b5c2188eeeb711",
+                "name": "Bagmati Province",
+                "short_name": "Bagmati Province",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
             },
             "team_b": {
-                "id": "697cacdb9702222472cb6639",
-                "name": "Shourya Club Indore",
-                "short_name": "Shourya Club Indore",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
+                "id": "677cf703d83f883c6859cde2",
+                "name": "Tribhuvan army Club",
+                "short_name": "Tribhuvan army Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242943980-593502602.png"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077799559-309453934.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -87,58 +87,30 @@
             "score_match_id": 0
         },
         {
-            "id": "69988f2339c2e98fc3b6afa5",
-            "name": "Bagmati Province VS Tribhuvan army Club",
+            "id": "699080d439c2e98fc3b6af92",
+            "name": "N.E. Railway VS CA Uttarakhand",
             "category_name": "Cricket",
-            "tour_id": "699873f2ba9be617883a9abe",
-            "tour_name": "Jay Trophy 2026",
-            "match_no": "Match - 4 | Day 2",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T03:15:00.000Z",
+            "start_date_time": "2026-02-24T07:00:00.000Z",
             "team_a": {
-                "id": "666e347422b5c2188eeeb711",
-                "name": "Bagmati Province",
-                "short_name": "Bagmati Province",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
+                "id": "680d16c2b802f8205f6248f7",
+                "name": "N.E. Railway",
+                "short_name": "N.E. Railway",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
             },
             "team_b": {
-                "id": "677cf703d83f883c6859cde2",
-                "name": "Tribhuvan army Club",
-                "short_name": "Tribhuvan army Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242943980-593502602.png"
+                "id": "69907ddb74685a2a43504c87",
+                "name": "CA Uttarakhand",
+                "short_name": "CA Uttarakhand",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077078591-266637111.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "699c3c60fc6be820629a2d6c",
-            "name": "Nusantara Gentlemen VS Rebel CC Jakarta",
-            "category_name": "Cricket",
-            "tour_id": "699c17d8e018c8f932ba5d17",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T05:30:00.000Z",
-            "team_a": {
-                "id": "682055737ff38dd36906a683",
-                "name": "Nusantara Gentlemen",
-                "short_name": "Nusantara Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837166953-99413174.webp"
-            },
-            "team_b": {
-                "id": "699c174174685a2a43504c9b",
-                "name": "Rebel CC Jakarta",
-                "short_name": "Rebel CC Jakarta",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837247128-655785672.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771846749762-796029993.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077842467-478202710.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -167,34 +139,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902841089-649867418.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771076369743-725259759.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "699080d439c2e98fc3b6af92",
-            "name": "N.E. Railway VS CA Uttarakhand",
-            "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T07:00:00.000Z",
-            "team_a": {
-                "id": "680d16c2b802f8205f6248f7",
-                "name": "N.E. Railway",
-                "short_name": "N.E. Railway",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
-            },
-            "team_b": {
-                "id": "69907ddb74685a2a43504c87",
-                "name": "CA Uttarakhand",
-                "short_name": "CA Uttarakhand",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077078591-266637111.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077842467-478202710.webp",
             "venue": "",
             "score_match_id": 0
         },

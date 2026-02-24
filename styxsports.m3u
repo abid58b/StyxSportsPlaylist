@@ -4,19 +4,23 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
 
-#EXTINF:-1 tvg-id="699080ab75a94bf857f32adc" tvg-name="CA Lucknow VS Shourya Club Indore" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771077799559-309453934.webp" group-title="Live",CA Lucknow VS Shourya Club Indore
+#EXTINF:-1 tvg-id="69988f2339c2e98fc3b6afa5" tvg-name="Bagmati Province VS Tribhuvan army Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp" group-title="Live",Bagmati Province VS Tribhuvan army Club
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
 #EXTINF:-1 tvg-id="69988ed839c2e98fc3b6afa4" tvg-name="Armed Police force Club VS Nepal Police Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605708591-973469207.webp" group-title="Live",Armed Police force Club VS Nepal Police Club
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
-#EXTINF:-1 tvg-id="69988f2339c2e98fc3b6afa5" tvg-name="Bagmati Province VS Tribhuvan army Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp" group-title="Live",Bagmati Province VS Tribhuvan army Club
+#EXTINF:-1 tvg-id="699080d439c2e98fc3b6af92" tvg-name="N.E. Railway VS CA Uttarakhand" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771077842467-478202710.webp" group-title="Live",N.E. Railway VS CA Uttarakhand
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 
-#EXTINF:-1 tvg-id="699c3c60fc6be820629a2d6c" tvg-name="Nusantara Gentlemen VS Rebel CC Jakarta" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771846749762-796029993.webp" group-title="Live",Nusantara Gentlemen VS Rebel CC Jakarta
+#EXTINF:-1 tvg-id="69907b1ad15882860301aacf" tvg-name="RPL Riders VS Tehri Falcons" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076369743-725259759.webp" group-title="Live",RPL Riders VS Tehri Falcons
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
+
+#EXTINF:-1 tvg-id="699c3caf75a94bf857f32aee" tvg-name="Garuda Gentlemen VS Rebel CC Jakarta" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771846829308-371147137.webp" group-title="Live",Garuda Gentlemen VS Rebel CC Jakarta
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
