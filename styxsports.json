@@ -3,30 +3,30 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "698f325e75a94bf857f32ad7",
-            "name": "Vasundhara Super Kings VS Amba Warriors",
+            "id": "69988ed839c2e98fc3b6afa4",
+            "name": "Armed Police force Club VS Nepal Police Club",
             "category_name": "Cricket",
-            "tour_id": "698dd856ad4c8e6eabf02859",
-            "tour_name": "Muzaffarnagar Premier League Season 2",
-            "match_no": "2",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 3 | Day 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T03:00:00.000Z",
+            "start_date_time": "2026-02-24T03:15:00.000Z",
             "team_a": {
-                "id": "67eceab1dbb9c855c901aecb",
-                "name": "Vasundhara Super Kings",
-                "short_name": "Vasundhara Super Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902813215-503232686.webp"
+                "id": "67851340bc57bc5461356205",
+                "name": "Armed Police force Club",
+                "short_name": "Armed Police force Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736775339718-961616724.png"
             },
             "team_b": {
-                "id": "67ece9fbc6a23fda9c43141c",
-                "name": "Amba Warriors",
-                "short_name": "Amba Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770901170729-742488251.webp"
+                "id": "677cf6af35d49863d9ad5636",
+                "name": "Nepal Police Club",
+                "short_name": "Nepal Police Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770992217567-91872640.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605708591-973469207.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -55,34 +55,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242943980-593502602.png"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605793257-554838856.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "69988ed839c2e98fc3b6afa4",
-            "name": "Armed Police force Club VS Nepal Police Club",
-            "category_name": "Cricket",
-            "tour_id": "699873f2ba9be617883a9abe",
-            "tour_name": "Jay Trophy 2026",
-            "match_no": "Match - 3 | Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T03:15:00.000Z",
-            "team_a": {
-                "id": "67851340bc57bc5461356205",
-                "name": "Armed Police force Club",
-                "short_name": "Armed Police force Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736775339718-961616724.png"
-            },
-            "team_b": {
-                "id": "677cf6af35d49863d9ad5636",
-                "name": "Nepal Police Club",
-                "short_name": "Nepal Police Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605708591-973469207.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -139,34 +111,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902841089-649867418.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771076369743-725259759.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "699c3caf75a94bf857f32aee",
-            "name": "Garuda Gentlemen VS Rebel CC Jakarta",
-            "category_name": "Cricket",
-            "tour_id": "699c17d8e018c8f932ba5d17",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T07:30:00.000Z",
-            "team_a": {
-                "id": "68205541aa4e109cb89d5346",
-                "name": "Garuda Gentlemen",
-                "short_name": "Garuda Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837131737-115416698.webp"
-            },
-            "team_b": {
-                "id": "699c174174685a2a43504c9b",
-                "name": "Rebel CC Jakarta",
-                "short_name": "Rebel CC Jakarta",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837247128-655785672.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771846829308-371147137.webp",
             "venue": "",
             "score_match_id": 0
         },
