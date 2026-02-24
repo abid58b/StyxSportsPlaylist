@@ -115,34 +115,6 @@
             "score_match_id": 0
         },
         {
-            "id": "699c3c33ba9be617883a9ace",
-            "name": "Garuda Gentlemen VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "699c17d8e018c8f932ba5d17",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T03:30:00.000Z",
-            "team_a": {
-                "id": "68205541aa4e109cb89d5346",
-                "name": "Garuda Gentlemen",
-                "short_name": "Garuda Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837131737-115416698.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771846704718-282469320.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "699c3c60fc6be820629a2d6c",
             "name": "Nusantara Gentlemen VS Rebel CC Jakarta",
             "category_name": "Cricket",
@@ -171,34 +143,6 @@
             "score_match_id": 0
         },
         {
-            "id": "699080d439c2e98fc3b6af92",
-            "name": "N.E. Railway VS CA Uttarakhand",
-            "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T07:00:00.000Z",
-            "team_a": {
-                "id": "680d16c2b802f8205f6248f7",
-                "name": "N.E. Railway",
-                "short_name": "N.E. Railway",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
-            },
-            "team_b": {
-                "id": "69907ddb74685a2a43504c87",
-                "name": "CA Uttarakhand",
-                "short_name": "CA Uttarakhand",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077078591-266637111.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077842467-478202710.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69907b1ad15882860301aacf",
             "name": "RPL Riders VS Tehri Falcons",
             "category_name": "Cricket",
@@ -223,6 +167,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902841089-649867418.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771076369743-725259759.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699080d439c2e98fc3b6af92",
+            "name": "N.E. Railway VS CA Uttarakhand",
+            "category_name": "Cricket",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-24",
+            "start_date_time": "2026-02-24T07:00:00.000Z",
+            "team_a": {
+                "id": "680d16c2b802f8205f6248f7",
+                "name": "N.E. Railway",
+                "short_name": "N.E. Railway",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778474241-410585038.webp"
+            },
+            "team_b": {
+                "id": "69907ddb74685a2a43504c87",
+                "name": "CA Uttarakhand",
+                "short_name": "CA Uttarakhand",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077078591-266637111.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077842467-478202710.webp",
             "venue": "",
             "score_match_id": 0
         },
