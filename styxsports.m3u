@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68dd390e0318963666e92aee" tvg-name="ACT Meteors Women VS South Australia Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759328523992-436123109.webp" group-title="Live",ACT Meteors Women VS South Australia Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
-#EXTINF:-1 tvg-id="699c3bcda472ea3a69589120" tvg-name="Garuda Gentlemen VS Nusantara Gentlemen" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771846602478-50467301.webp" group-title="Live",Garuda Gentlemen VS Nusantara Gentlemen
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
