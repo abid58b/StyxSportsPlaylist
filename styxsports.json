@@ -3,62 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "698f343674685a2a43504c84",
-            "name": "RPL Riders VS Silverton Tigers",
-            "category_name": "Cricket",
-            "tour_id": "698dd856ad4c8e6eabf02859",
-            "tour_name": "Muzaffarnagar Premier League Season 2",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-25",
-            "start_date_time": "2026-02-25T07:00:00.000Z",
-            "team_a": {
-                "id": "67ecea6ddbb9c855c901aeca",
-                "name": "RPL Riders",
-                "short_name": "RPL Riders",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902767581-656565249.webp"
-            },
-            "team_b": {
-                "id": "67ecea9ac6a23fda9c43141d",
-                "name": "Silverton Tigers",
-                "short_name": "Silverton Tigers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903222428-51508453.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770992691028-732891904.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "6990813839c2e98fc3b6af93",
-            "name": "Sahgal Club Delhi VS Vijay Yadav CA",
-            "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-25",
-            "start_date_time": "2026-02-25T07:00:00.000Z",
-            "team_a": {
-                "id": "697cacae3502459d8f0220dd",
-                "name": "Sahgal Club Delhi",
-                "short_name": "Sahgal Club Delhi",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778345975-692788369.webp"
-            },
-            "team_b": {
-                "id": "69907e0e39c2e98fc3b6af90",
-                "name": "Vijay Yadav CA",
-                "short_name": "Vijay Yadav CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077131624-271389951.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771077940185-255015499.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "699c3ee6fc6be820629a2d6e",
             "name": "Garuda Gentlemen VS Rebel CC Jakarta",
             "category_name": "Cricket",

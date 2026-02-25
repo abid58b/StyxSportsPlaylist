@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="698f343674685a2a43504c84" tvg-name="RPL Riders VS Silverton Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992691028-732891904.webp" group-title="Live",RPL Riders VS Silverton Tigers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
-
-#EXTINF:-1 tvg-id="6990813839c2e98fc3b6af93" tvg-name="Sahgal Club Delhi VS Vijay Yadav CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771077940185-255015499.webp" group-title="Live",Sahgal Club Delhi VS Vijay Yadav CA
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
