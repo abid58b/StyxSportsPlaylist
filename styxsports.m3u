@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="698f2db7fc6be820629a2d5a" tvg-name="Bindals Strikers VS Amba Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770991024051-179749689.webp" group-title="Live",Bindals Strikers VS Amba Warriors
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
+
+#EXTINF:-1 tvg-id="6990810575a94bf857f32add" tvg-name="Sapience Club Gurgaon VS Indian Air Force" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771077890034-113877710.webp" group-title="Live",Sapience Club Gurgaon VS Indian Air Force
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+
+#EXTINF:-1 tvg-id="699c3da0e018c8f932ba5d18" tvg-name="Gianyar VS Rebel CC Jakarta" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771847070329-689540252.webp" group-title="Live",Gianyar VS Rebel CC Jakarta
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
