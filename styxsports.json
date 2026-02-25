@@ -59,34 +59,6 @@
             "score_match_id": 0
         },
         {
-            "id": "699c3e76e018c8f932ba5d19",
-            "name": "Nusantara Gentlemen VS Rebel CC Jakarta",
-            "category_name": "Cricket",
-            "tour_id": "699c17d8e018c8f932ba5d17",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-25",
-            "start_date_time": "2026-02-25T07:30:00.000Z",
-            "team_a": {
-                "id": "682055737ff38dd36906a683",
-                "name": "Nusantara Gentlemen",
-                "short_name": "Nusantara Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837166953-99413174.webp"
-            },
-            "team_b": {
-                "id": "699c174174685a2a43504c9b",
-                "name": "Rebel CC Jakarta",
-                "short_name": "Rebel CC Jakarta",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837247128-655785672.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771847284954-974290291.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "699c3ee6fc6be820629a2d6e",
             "name": "Garuda Gentlemen VS Rebel CC Jakarta",
             "category_name": "Cricket",
