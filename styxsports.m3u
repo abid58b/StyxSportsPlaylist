@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="699c3f1be018c8f932ba5d1a" tvg-name="Nusantara Gentlemen VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771847449343-249825885.webp" group-title="Live",Nusantara Gentlemen VS Gianyar
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
 #EXTINF:-1 tvg-id="698dd917c05e73d063282b49" tvg-name="Crystal Balaji Titans VS Vasundhara Super Kings" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770903828315-88068161.webp" group-title="Live",Crystal Balaji Titans VS Vasundhara Super Kings
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
@@ -19,4 +15,8 @@ https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 #EXTINF:-1 tvg-id="69988f7b75a94bf857f32ae4" tvg-name="Bagmati Province VS Nepal Police Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp" group-title="Live",Bagmati Province VS Nepal Police Club
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="699e9e8ae018c8f932ba5d1f" tvg-name="Rebel CC Jakarta VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772079142995-437734725.webp" group-title="Live",Rebel CC Jakarta VS Gianyar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 

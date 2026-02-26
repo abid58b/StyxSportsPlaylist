@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699c3f1be018c8f932ba5d1a",
-            "name": "Nusantara Gentlemen VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "699c17d8e018c8f932ba5d17",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-26",
-            "start_date_time": "2026-02-26T01:30:00.000Z",
-            "team_a": {
-                "id": "682055737ff38dd36906a683",
-                "name": "Nusantara Gentlemen",
-                "short_name": "Nusantara Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837166953-99413174.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771847449343-249825885.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "698dd917c05e73d063282b49",
             "name": "Crystal Balaji Titans VS Vasundhara Super Kings",
             "category_name": "Cricket",
@@ -144,7 +116,7 @@
         },
         {
             "id": "699e9e8ae018c8f932ba5d1f",
-            "name": "_TBA_ VS _TBA_",
+            "name": "Rebel CC Jakarta VS Gianyar",
             "category_name": "Cricket",
             "tour_id": "699c17d8e018c8f932ba5d17",
             "tour_name": "Bali Blast Men Championship T10 2026",
@@ -155,24 +127,24 @@
             "start_date": "2026-02-26",
             "start_date_time": "2026-02-26T04:30:00.000Z",
             "team_a": {
-                "id": "677b7087bc57bc54613561d1",
-                "name": "_TBA_",
-                "short_name": "_TBA_",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+                "id": "699c174174685a2a43504c9b",
+                "name": "Rebel CC Jakarta",
+                "short_name": "Rebel CC Jakarta",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837247128-655785672.webp"
             },
             "team_b": {
-                "id": "677b7087bc57bc54613561d1",
-                "name": "_TBA_",
-                "short_name": "_TBA_",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+                "id": "689ae84fa6cb7be2c346ff83",
+                "name": "Gianyar",
+                "short_name": "Gianyar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772002951209-356713699.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772079142995-437734725.webp",
             "venue": "",
             "score_match_id": 0
         },
         {
             "id": "699e9edad15882860301aaf4",
-            "name": "_TBA_ VS _TBA_",
+            "name": "Garuda Gentlemen VS Nusantara Gentlemen",
             "category_name": "Cricket",
             "tour_id": "699c17d8e018c8f932ba5d17",
             "tour_name": "Bali Blast Men Championship T10 2026",
@@ -183,18 +155,18 @@
             "start_date": "2026-02-26",
             "start_date_time": "2026-02-26T06:30:00.000Z",
             "team_a": {
-                "id": "677b7087bc57bc54613561d1",
-                "name": "_TBA_",
-                "short_name": "_TBA_",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+                "id": "68205541aa4e109cb89d5346",
+                "name": "Garuda Gentlemen",
+                "short_name": "Garuda Gentlemen",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837131737-115416698.webp"
             },
             "team_b": {
-                "id": "677b7087bc57bc54613561d1",
-                "name": "_TBA_",
-                "short_name": "_TBA_",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+                "id": "682055737ff38dd36906a683",
+                "name": "Nusantara Gentlemen",
+                "short_name": "Nusantara Gentlemen",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837166953-99413174.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772003032571-599625613.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772079185277-234590409.webp",
             "venue": "",
             "score_match_id": 0
         },
