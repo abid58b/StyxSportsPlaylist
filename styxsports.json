@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69988f7b75a94bf857f32ae4",
-            "name": "Bagmati Province VS Nepal Police Club",
-            "category_name": "Cricket",
-            "tour_id": "699873f2ba9be617883a9abe",
-            "tour_name": "Jay Trophy 2026",
-            "match_no": "Match - 5 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-26",
-            "start_date_time": "2026-02-26T03:15:00.000Z",
-            "team_a": {
-                "id": "666e347422b5c2188eeeb711",
-                "name": "Bagmati Province",
-                "short_name": "Bagmati Province",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
-            },
-            "team_b": {
-                "id": "677cf6af35d49863d9ad5636",
-                "name": "Nepal Police Club",
-                "short_name": "Nepal Police Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69988fbad15882860301aae0",
             "name": "Tribhuvan army Club VS Armed Police force Club",
             "category_name": "Cricket",
@@ -59,30 +31,30 @@
             "score_match_id": 0
         },
         {
-            "id": "699e9edad15882860301aaf4",
-            "name": "Garuda Gentlemen VS Nusantara Gentlemen",
+            "id": "69988f7b75a94bf857f32ae4",
+            "name": "Bagmati Province VS Nepal Police Club",
             "category_name": "Cricket",
-            "tour_id": "699c17d8e018c8f932ba5d17",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "Final",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 5 | Day 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-26",
-            "start_date_time": "2026-02-26T06:30:00.000Z",
+            "start_date_time": "2026-02-26T03:15:00.000Z",
             "team_a": {
-                "id": "68205541aa4e109cb89d5346",
-                "name": "Garuda Gentlemen",
-                "short_name": "Garuda Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837131737-115416698.webp"
+                "id": "666e347422b5c2188eeeb711",
+                "name": "Bagmati Province",
+                "short_name": "Bagmati Province",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
             },
             "team_b": {
-                "id": "682055737ff38dd36906a683",
-                "name": "Nusantara Gentlemen",
-                "short_name": "Nusantara Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837166953-99413174.webp"
+                "id": "677cf6af35d49863d9ad5636",
+                "name": "Nepal Police Club",
+                "short_name": "Nepal Police Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772079185277-234590409.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp",
             "venue": "",
             "score_match_id": 0
         },
