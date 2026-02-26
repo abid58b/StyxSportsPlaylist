@@ -3,30 +3,254 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699c3ee6fc6be820629a2d6e",
-            "name": "Garuda Gentlemen VS Rebel CC Jakarta",
+            "id": "699c3f1be018c8f932ba5d1a",
+            "name": "Nusantara Gentlemen VS Gianyar",
             "category_name": "Cricket",
             "tour_id": "699c17d8e018c8f932ba5d17",
             "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "11",
+            "match_no": "12",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-25",
-            "start_date_time": "2026-02-25T23:30:00.000Z",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T01:30:00.000Z",
             "team_a": {
-                "id": "68205541aa4e109cb89d5346",
-                "name": "Garuda Gentlemen",
-                "short_name": "Garuda Gentlemen",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837131737-115416698.webp"
+                "id": "682055737ff38dd36906a683",
+                "name": "Nusantara Gentlemen",
+                "short_name": "Nusantara Gentlemen",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837166953-99413174.webp"
             },
             "team_b": {
-                "id": "699c174174685a2a43504c9b",
-                "name": "Rebel CC Jakarta",
-                "short_name": "Rebel CC Jakarta",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837247128-655785672.webp"
+                "id": "689ae84fa6cb7be2c346ff83",
+                "name": "Gianyar",
+                "short_name": "Gianyar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771847395126-747487591.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771847449343-249825885.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "698dd917c05e73d063282b49",
+            "name": "Crystal Balaji Titans VS Vasundhara Super Kings",
+            "category_name": "Cricket",
+            "tour_id": "698dd856ad4c8e6eabf02859",
+            "tour_name": "Muzaffarnagar Premier League Season 2",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T03:00:00.000Z",
+            "team_a": {
+                "id": "698dd5d9ccc6fe763ab1b8d0",
+                "name": "Crystal Balaji Titans",
+                "short_name": "Crystal Balaji Titans",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902995497-287692518.webp"
+            },
+            "team_b": {
+                "id": "67eceab1dbb9c855c901aecb",
+                "name": "Vasundhara Super Kings",
+                "short_name": "Vasundhara Super Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902813215-503232686.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770903828315-88068161.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6990818dfc6be820629a2d5c",
+            "name": "Indian Air Force VS Vijay Yadav CA",
+            "category_name": "Cricket",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T03:00:00.000Z",
+            "team_a": {
+                "id": "69907e6539c2e98fc3b6af91",
+                "name": "Indian Air Force",
+                "short_name": "I. A. F.",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077203866-227552717.webp"
+            },
+            "team_b": {
+                "id": "69907e0e39c2e98fc3b6af90",
+                "name": "Vijay Yadav CA",
+                "short_name": "Vijay Yadav CA",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077131624-271389951.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771078025658-710614767.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69988fbad15882860301aae0",
+            "name": "Tribhuvan army Club VS Armed Police force Club",
+            "category_name": "Cricket",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 6 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T03:15:00.000Z",
+            "team_a": {
+                "id": "677cf703d83f883c6859cde2",
+                "name": "Tribhuvan army Club",
+                "short_name": "Tribhuvan army Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242943980-593502602.png"
+            },
+            "team_b": {
+                "id": "67851340bc57bc5461356205",
+                "name": "Armed Police force Club",
+                "short_name": "Armed Police force Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736775339718-961616724.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605943417-216667481.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69988f7b75a94bf857f32ae4",
+            "name": "Bagmati Province VS Nepal Police Club",
+            "category_name": "Cricket",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 5 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T03:15:00.000Z",
+            "team_a": {
+                "id": "666e347422b5c2188eeeb711",
+                "name": "Bagmati Province",
+                "short_name": "Bagmati Province",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
+            },
+            "team_b": {
+                "id": "677cf6af35d49863d9ad5636",
+                "name": "Nepal Police Club",
+                "short_name": "Nepal Police Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699e9e8ae018c8f932ba5d1f",
+            "name": "_TBA_ VS _TBA_",
+            "category_name": "Cricket",
+            "tour_id": "699c17d8e018c8f932ba5d17",
+            "tour_name": "Bali Blast Men Championship T10 2026",
+            "match_no": "3rd Place",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T04:30:00.000Z",
+            "team_a": {
+                "id": "677b7087bc57bc54613561d1",
+                "name": "_TBA_",
+                "short_name": "_TBA_",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+            },
+            "team_b": {
+                "id": "677b7087bc57bc54613561d1",
+                "name": "_TBA_",
+                "short_name": "_TBA_",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772002951209-356713699.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699e9edad15882860301aaf4",
+            "name": "_TBA_ VS _TBA_",
+            "category_name": "Cricket",
+            "tour_id": "699c17d8e018c8f932ba5d17",
+            "tour_name": "Bali Blast Men Championship T10 2026",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T06:30:00.000Z",
+            "team_a": {
+                "id": "677b7087bc57bc54613561d1",
+                "name": "_TBA_",
+                "short_name": "_TBA_",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+            },
+            "team_b": {
+                "id": "677b7087bc57bc54613561d1",
+                "name": "_TBA_",
+                "short_name": "_TBA_",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736142982238-999299120.png"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772003032571-599625613.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699079f3ba9be617883a9ab0",
+            "name": "RPL Riders VS Medical Maverics",
+            "category_name": "Cricket",
+            "tour_id": "698dd856ad4c8e6eabf02859",
+            "tour_name": "Muzaffarnagar Premier League Season 2",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T07:00:00.000Z",
+            "team_a": {
+                "id": "67ecea6ddbb9c855c901aeca",
+                "name": "RPL Riders",
+                "short_name": "RPL Riders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902767581-656565249.webp"
+            },
+            "team_b": {
+                "id": "698dd56fd8b8459bd2ead579",
+                "name": "Medical Maverics",
+                "short_name": "Medical Maverics",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902888283-857412640.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771076069309-166033303.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699081c275a94bf857f32ade",
+            "name": "Sahgal Club Delhi VS Sapience Club Gurgaon",
+            "category_name": "Cricket",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-26",
+            "start_date_time": "2026-02-26T07:00:00.000Z",
+            "team_a": {
+                "id": "697cacae3502459d8f0220dd",
+                "name": "Sahgal Club Delhi",
+                "short_name": "Sahgal Club Delhi",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778345975-692788369.webp"
+            },
+            "team_b": {
+                "id": "697cacfd3502459d8f0220de",
+                "name": "Sapience Club Gurgaon",
+                "short_name": "Sapience Club Gurgaon",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778427445-441977230.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771078078230-804350093.webp",
             "venue": "",
             "score_match_id": 0
         }
