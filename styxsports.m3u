@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
 
-#EXTINF:-1 tvg-id="6990818dfc6be820629a2d5c" tvg-name="Indian Air Force VS Vijay Yadav CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078025658-710614767.webp" group-title="Live",Indian Air Force VS Vijay Yadav CA
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
 #EXTINF:-1 tvg-id="69988fbad15882860301aae0" tvg-name="Tribhuvan army Club VS Armed Police force Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605943417-216667481.webp" group-title="Live",Tribhuvan army Club VS Armed Police force Club
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
@@ -16,7 +12,15 @@ https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
-#EXTINF:-1 tvg-id="699e9e8ae018c8f932ba5d1f" tvg-name="Rebel CC Jakarta VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772079142995-437734725.webp" group-title="Live",Rebel CC Jakarta VS Gianyar
+#EXTINF:-1 tvg-id="699e9edad15882860301aaf4" tvg-name="Garuda Gentlemen VS Nusantara Gentlemen" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772079185277-234590409.webp" group-title="Live",Garuda Gentlemen VS Nusantara Gentlemen
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
+#EXTINF:-1 tvg-id="699079f3ba9be617883a9ab0" tvg-name="RPL Riders VS Medical Maverics" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076069309-166033303.webp" group-title="Live",RPL Riders VS Medical Maverics
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
+
+#EXTINF:-1 tvg-id="699081c275a94bf857f32ade" tvg-name="Sahgal Club Delhi VS Sapience Club Gurgaon" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771078078230-804350093.webp" group-title="Live",Sahgal Club Delhi VS Sapience Club Gurgaon
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 

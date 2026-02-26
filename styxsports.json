@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "6990818dfc6be820629a2d5c",
-            "name": "Indian Air Force VS Vijay Yadav CA",
-            "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-26",
-            "start_date_time": "2026-02-26T03:00:00.000Z",
-            "team_a": {
-                "id": "69907e6539c2e98fc3b6af91",
-                "name": "Indian Air Force",
-                "short_name": "I. A. F.",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077203866-227552717.webp"
-            },
-            "team_b": {
-                "id": "69907e0e39c2e98fc3b6af90",
-                "name": "Vijay Yadav CA",
-                "short_name": "Vijay Yadav CA",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077131624-271389951.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771078025658-710614767.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69988fbad15882860301aae0",
             "name": "Tribhuvan army Club VS Armed Police force Club",
             "category_name": "Cricket",
@@ -111,34 +83,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "699e9e8ae018c8f932ba5d1f",
-            "name": "Rebel CC Jakarta VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "699c17d8e018c8f932ba5d17",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "3rd Place",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-26",
-            "start_date_time": "2026-02-26T04:30:00.000Z",
-            "team_a": {
-                "id": "699c174174685a2a43504c9b",
-                "name": "Rebel CC Jakarta",
-                "short_name": "Rebel CC Jakarta",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837247128-655785672.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772079142995-437734725.webp",
             "venue": "",
             "score_match_id": 0
         },
