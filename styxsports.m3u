@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69988fbad15882860301aae0" tvg-name="Tribhuvan army Club VS Armed Police force Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605943417-216667481.webp" group-title="Live",Tribhuvan army Club VS Armed Police force Club
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
-
-#EXTINF:-1 tvg-id="69988f7b75a94bf857f32ae4" tvg-name="Bagmati Province VS Nepal Police Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp" group-title="Live",Bagmati Province VS Nepal Police Club
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
-
-#EXTINF:-1 tvg-id="6999849874685a2a43504c93" tvg-name="England A VS Pakistan A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771668630909-70413360.webp" group-title="Live",England A VS Pakistan A
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
-
 #EXTINF:-1 tvg-id="698f3315e018c8f932ba5d07" tvg-name="Vasundhara Super Kings VS Bindals Strikers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992402023-343108783.webp" group-title="Live",Vasundhara Super Kings VS Bindals Strikers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
