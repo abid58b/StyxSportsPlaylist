@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="698f3554d15882860301aacb" tvg-name="Tehri Falcons VS Silverton Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770992977218-604674617.webp" group-title="Live",Tehri Falcons VS Silverton Tigers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
-
 #EXTINF:-1 tvg-id="69988f7b75a94bf857f32ae4" tvg-name="Bagmati Province VS Nepal Police Club" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp" group-title="Live",Bagmati Province VS Nepal Police Club
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
