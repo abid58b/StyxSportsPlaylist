@@ -31,30 +31,30 @@
             "score_match_id": 0
         },
         {
-            "id": "699081f5e018c8f932ba5d0b",
-            "name": "Sahgal Club Delhi VS Indian Air Force",
+            "id": "69988f7b75a94bf857f32ae4",
+            "name": "Bagmati Province VS Nepal Police Club",
             "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "11",
+            "tour_id": "699873f2ba9be617883a9abe",
+            "tour_name": "Jay Trophy 2026",
+            "match_no": "Match - 5 | Day 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-27",
-            "start_date_time": "2026-02-27T03:00:00.000Z",
+            "start_date_time": "2026-02-27T03:15:00.000Z",
             "team_a": {
-                "id": "697cacae3502459d8f0220dd",
-                "name": "Sahgal Club Delhi",
-                "short_name": "Sahgal Club Delhi",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778345975-692788369.webp"
+                "id": "666e347422b5c2188eeeb711",
+                "name": "Bagmati Province",
+                "short_name": "Bagmati Province",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
             },
             "team_b": {
-                "id": "69907e6539c2e98fc3b6af91",
-                "name": "Indian Air Force",
-                "short_name": "I. A. F.",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077203866-227552717.webp"
+                "id": "677cf6af35d49863d9ad5636",
+                "name": "Nepal Police Club",
+                "short_name": "Nepal Police Club",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771078130525-270352791.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -83,34 +83,6 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736775339718-961616724.png"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605943417-216667481.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
-            "id": "69988f7b75a94bf857f32ae4",
-            "name": "Bagmati Province VS Nepal Police Club",
-            "category_name": "Cricket",
-            "tour_id": "699873f2ba9be617883a9abe",
-            "tour_name": "Jay Trophy 2026",
-            "match_no": "Match - 5 | Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-27",
-            "start_date_time": "2026-02-27T03:15:00.000Z",
-            "team_a": {
-                "id": "666e347422b5c2188eeeb711",
-                "name": "Bagmati Province",
-                "short_name": "Bagmati Province",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736243330475-665039120.png"
-            },
-            "team_b": {
-                "id": "677cf6af35d49863d9ad5636",
-                "name": "Nepal Police Club",
-                "short_name": "Nepal Police Club",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1736242861564-522751559.png"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771605872346-954388132.webp",
             "venue": "",
             "score_match_id": 0
         },
@@ -199,32 +171,32 @@
             "score_match_id": 0
         },
         {
-            "id": "69184694fa673af67ab17301",
-            "name": "Central Stags VS Wellington Firebirds",
+            "id": "6918465324f2af2c8dfdcc0e",
+            "name": "Auckland Aces VS Northern District",
             "category_name": "Cricket",
             "tour_id": "69172ea61ee3a0177bd69208",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 14 | Day 1",
+            "match_no": "Match - 13 | Day 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-27",
             "start_date_time": "2026-02-27T21:00:00.000Z",
             "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
             },
             "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp",
-            "venue": "McLean Park ,Napier",
-            "score_match_id": 92921
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92920
         },
         {
             "id": "69184843fa673af67ab17303",
@@ -255,32 +227,32 @@
             "score_match_id": 92922
         },
         {
-            "id": "6918465324f2af2c8dfdcc0e",
-            "name": "Auckland Aces VS Northern District",
+            "id": "69184694fa673af67ab17301",
+            "name": "Central Stags VS Wellington Firebirds",
             "category_name": "Cricket",
             "tour_id": "69172ea61ee3a0177bd69208",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 13 | Day 1",
+            "match_no": "Match - 14 | Day 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-27",
             "start_date_time": "2026-02-27T21:00:00.000Z",
             "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
             },
             "team_b": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+                "id": "68fa02b64e4aa6d729f67551",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp",
-            "venue": "Eden Park Outer Oval ,Auckland",
-            "score_match_id": 92920
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp",
+            "venue": "McLean Park ,Napier",
+            "score_match_id": 92921
         },
         {
             "id": "699c478574685a2a43504c9c",
