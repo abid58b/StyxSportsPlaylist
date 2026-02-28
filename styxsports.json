@@ -143,34 +143,6 @@
             "score_match_id": 0
         },
         {
-            "id": "699082a8a472ea3a6958910a",
-            "name": "Indian Air Force VS Shourya Club Indore",
-            "category_name": "Cricket",
-            "tour_id": "69907d9ae018c8f932ba5d09",
-            "tour_name": "Lakshya Champions Trophy 2026",
-            "match_no": "Semifinal 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T07:00:00.000Z",
-            "team_a": {
-                "id": "69907e6539c2e98fc3b6af91",
-                "name": "Indian Air Force",
-                "short_name": "I. A. F.",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077203866-227552717.webp"
-            },
-            "team_b": {
-                "id": "697cacdb9702222472cb6639",
-                "name": "Shourya Club Indore",
-                "short_name": "Shourya Club Indore",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772195330020-612432755.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69907b5ba472ea3a69589107",
             "name": "Cricgiri Champs VS Silverton Tigers",
             "category_name": "Cricket",
@@ -195,6 +167,34 @@
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903222428-51508453.webp"
             },
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771076439191-270282673.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699082a8a472ea3a6958910a",
+            "name": "Indian Air Force VS Shourya Club Indore",
+            "category_name": "Cricket",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "Semifinal 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-28",
+            "start_date_time": "2026-02-28T07:00:00.000Z",
+            "team_a": {
+                "id": "69907e6539c2e98fc3b6af91",
+                "name": "Indian Air Force",
+                "short_name": "I. A. F.",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077203866-227552717.webp"
+            },
+            "team_b": {
+                "id": "697cacdb9702222472cb6639",
+                "name": "Shourya Club Indore",
+                "short_name": "Shourya Club Indore",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1769778393888-908057937.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772195330020-612432755.webp",
             "venue": "",
             "score_match_id": 0
         },

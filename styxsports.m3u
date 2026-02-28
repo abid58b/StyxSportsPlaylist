@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="699c47b875a94bf857f32af1" tvg-name="Merpati Warrior VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771849651215-83262807.webp" group-title="Live",Merpati Warrior VS Gianyar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
+#EXTINF:-1 tvg-id="698f3220fc6be820629a2d5b" tvg-name="Crystal Balaji Titans VS Bindals Strikers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771000127394-730293661.webp" group-title="Live",Crystal Balaji Titans VS Bindals Strikers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
+
+#EXTINF:-1 tvg-id="6990825da472ea3a69589109" tvg-name="CA Lucknow VS Vijay Yadav CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772195302764-738117919.webp" group-title="Live",CA Lucknow VS Vijay Yadav CA
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+
