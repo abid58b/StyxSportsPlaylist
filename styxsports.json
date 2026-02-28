@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699c47b875a94bf857f32af1",
-            "name": "Merpati Warrior VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "699c4104e018c8f932ba5d1c",
-            "tour_name": "Bali Blast Women Championship T10 2026",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T01:30:00.000Z",
-            "team_a": {
-                "id": "699c4081e018c8f932ba5d1b",
-                "name": "Merpati Warrior",
-                "short_name": "Merpati Warrior",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847807589-173703837.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771849651215-83262807.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "698f3220fc6be820629a2d5b",
             "name": "Crystal Balaji Titans VS Bindals Strikers",
             "category_name": "Cricket",
