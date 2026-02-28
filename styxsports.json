@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "698f3220fc6be820629a2d5b",
-            "name": "Crystal Balaji Titans VS Bindals Strikers",
-            "category_name": "Cricket",
-            "tour_id": "698dd856ad4c8e6eabf02859",
-            "tour_name": "Muzaffarnagar Premier League Season 2",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T03:00:00.000Z",
-            "team_a": {
-                "id": "698dd5d9ccc6fe763ab1b8d0",
-                "name": "Crystal Balaji Titans",
-                "short_name": "Crystal Balaji Titans",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902995497-287692518.webp"
-            },
-            "team_b": {
-                "id": "67ecea13163074ab4f1c79de",
-                "name": "Bindals Strikers",
-                "short_name": "Bindals Strikers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770901213005-426701033.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771000127394-730293661.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "69907b5ba472ea3a69589107",
             "name": "Cricgiri Champs VS Silverton Tigers",
             "category_name": "Cricket",

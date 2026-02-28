@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="698f3220fc6be820629a2d5b" tvg-name="Crystal Balaji Titans VS Bindals Strikers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771000127394-730293661.webp" group-title="Live",Crystal Balaji Titans VS Bindals Strikers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
-
 #EXTINF:-1 tvg-id="69907b5ba472ea3a69589107" tvg-name="Cricgiri Champs VS Silverton Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076439191-270282673.webp" group-title="Live",Cricgiri Champs VS Silverton Tigers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
