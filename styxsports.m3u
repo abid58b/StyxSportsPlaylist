@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69907a4cd15882860301aace" tvg-name="RPL Riders VS Devbhoomi Royals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076169978-912725440.webp" group-title="Live",RPL Riders VS Devbhoomi Royals
+#EXTINF:-1 tvg-id="69907add74685a2a43504c86" tvg-name="Tehri Falcons VS Devbhoomi Royals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076313577-322888770.webp" group-title="Live",Tehri Falcons VS Devbhoomi Royals
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
 
@@ -11,4 +11,8 @@ https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 #EXTINF:-1 tvg-id="699c498774685a2a43504c9f" tvg-name="Garuda Girls VS Merpati Warrior" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850116326-358714765.webp" group-title="Live",Garuda Girls VS Merpati Warrior
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
+#EXTINF:-1 tvg-id="698f2d7cba9be617883a9aae" tvg-name="Vasundhara Super Kings VS Bhawani Lions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770990967028-614396286.webp" group-title="Live",Vasundhara Super Kings VS Bhawani Lions
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
 
