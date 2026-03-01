@@ -3,106 +3,134 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6918465324f2af2c8dfdcc0e",
-            "name": "Auckland Aces VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 13 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa03e65e14fc3d2e069749",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
-            },
-            "team_b": {
-                "id": "68fa04135e14fc3d2e06974a",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp",
-            "venue": "Eden Park Outer Oval ,Auckland",
-            "score_match_id": 92920
-        },
-        {
-            "id": "69184694fa673af67ab17301",
-            "name": "Central Stags VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 14 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa02945e14fc3d2e069748",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
-            },
-            "team_b": {
-                "id": "68fa02b64e4aa6d729f67551",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215154358-181406737.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp",
-            "venue": "McLean Park ,Napier",
-            "score_match_id": 92921
-        },
-        {
-            "id": "69184843fa673af67ab17303",
-            "name": "Canterbury Kings VS Otago",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 15 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "team_b": {
-                "id": "6916fc9224f2af2c8dfdcbfc",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp",
-            "venue": "Hagley Oval ,Christchurch",
-            "score_match_id": 92922
-        },
-        {
-            "id": "699c48bb74685a2a43504c9e",
-            "name": "Kartini 11 VS Merpati Warrior",
+            "id": "699c490dfc6be820629a2d70",
+            "name": "Garuda Girls VS Kartini 11",
             "category_name": "Cricket",
             "tour_id": "699c4104e018c8f932ba5d1c",
             "tour_name": "Bali Blast Women Championship T10 2026",
-            "match_no": "6",
+            "match_no": "7",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T23:30:00.000Z",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T01:30:00.000Z",
             "team_a": {
+                "id": "6720a17fbb231d3543008d54",
+                "name": "Garuda Girls",
+                "short_name": "Garuda Girls",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847732266-643308961.webp"
+            },
+            "team_b": {
                 "id": "699c405c75a94bf857f32af0",
                 "name": "Kartini 11",
                 "short_name": "Kartini 11",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847771201-638914566.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771849993443-197344218.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "69907a4cd15882860301aace",
+            "name": "RPL Riders VS Devbhoomi Royals",
+            "category_name": "Cricket",
+            "tour_id": "698dd856ad4c8e6eabf02859",
+            "tour_name": "Muzaffarnagar Premier League Season 2",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T03:00:00.000Z",
+            "team_a": {
+                "id": "67ecea6ddbb9c855c901aeca",
+                "name": "RPL Riders",
+                "short_name": "RPL Riders",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902767581-656565249.webp"
+            },
+            "team_b": {
+                "id": "698dd5a2fee660f187535af8",
+                "name": "Devbhoomi Royals",
+                "short_name": "Devbhoomi Royals",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902937742-533715138.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771076169978-912725440.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699c4942a472ea3a69589121",
+            "name": "Merpati Warrior VS Gianyar",
+            "category_name": "Cricket",
+            "tour_id": "699c4104e018c8f932ba5d1c",
+            "tour_name": "Bali Blast Women Championship T10 2026",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T03:30:00.000Z",
+            "team_a": {
+                "id": "699c4081e018c8f932ba5d1b",
+                "name": "Merpati Warrior",
+                "short_name": "Merpati Warrior",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847807589-173703837.webp"
+            },
+            "team_b": {
+                "id": "689ae84fa6cb7be2c346ff83",
+                "name": "Gianyar",
+                "short_name": "Gianyar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771850046757-660934614.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699082d775a94bf857f32adf",
+            "name": "CA Lucknow VS Indian Air Force",
+            "category_name": "Cricket",
+            "tour_id": "69907d9ae018c8f932ba5d09",
+            "tour_name": "Lakshya Champions Trophy 2026",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T05:00:00.000Z",
+            "team_a": {
+                "id": "68de4d9dc167956f9cb7b9eb",
+                "name": "CA Lucknow",
+                "short_name": "CA Lucknow",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1762247577843-266351964.webp"
+            },
+            "team_b": {
+                "id": "69907e6539c2e98fc3b6af91",
+                "name": "Indian Air Force",
+                "short_name": "I. A. F.",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771077203866-227552717.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1772284157177-646493080.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699c498774685a2a43504c9f",
+            "name": "Garuda Girls VS Merpati Warrior",
+            "category_name": "Cricket",
+            "tour_id": "699c4104e018c8f932ba5d1c",
+            "tour_name": "Bali Blast Women Championship T10 2026",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T05:30:00.000Z",
+            "team_a": {
+                "id": "6720a17fbb231d3543008d54",
+                "name": "Garuda Girls",
+                "short_name": "Garuda Girls",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847732266-643308961.webp"
             },
             "team_b": {
                 "id": "699c4081e018c8f932ba5d1b",
@@ -110,7 +138,91 @@
                 "short_name": "Merpati Warrior",
                 "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847807589-173703837.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771849912191-725089405.webp",
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771850116326-358714765.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "698f2d7cba9be617883a9aae",
+            "name": "Vasundhara Super Kings VS Bhawani Lions",
+            "category_name": "Cricket",
+            "tour_id": "698dd856ad4c8e6eabf02859",
+            "tour_name": "Muzaffarnagar Premier League Season 2",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T07:00:00.000Z",
+            "team_a": {
+                "id": "67eceab1dbb9c855c901aecb",
+                "name": "Vasundhara Super Kings",
+                "short_name": "Vasundhara Super Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902813215-503232686.webp"
+            },
+            "team_b": {
+                "id": "698dd69cad4c8e6eabf02858",
+                "name": "Bhawani Lions",
+                "short_name": "Bhawani Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903189505-617097904.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770990967028-614396286.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699c49ccba9be617883a9ad0",
+            "name": "Kartini 11 VS Gianyar",
+            "category_name": "Cricket",
+            "tour_id": "699c4104e018c8f932ba5d1c",
+            "tour_name": "Bali Blast Women Championship T10 2026",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T07:30:00.000Z",
+            "team_a": {
+                "id": "699c405c75a94bf857f32af0",
+                "name": "Kartini 11",
+                "short_name": "Kartini 11",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847771201-638914566.webp"
+            },
+            "team_b": {
+                "id": "689ae84fa6cb7be2c346ff83",
+                "name": "Gianyar",
+                "short_name": "Gianyar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771850185397-960006976.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "699c49fbba9be617883a9ad1",
+            "name": "Garuda Girls VS Gianyar",
+            "category_name": "Cricket",
+            "tour_id": "699c4104e018c8f932ba5d1c",
+            "tour_name": "Bali Blast Women Championship T10 2026",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T23:30:00.000Z",
+            "team_a": {
+                "id": "6720a17fbb231d3543008d54",
+                "name": "Garuda Girls",
+                "short_name": "Garuda Girls",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847732266-643308961.webp"
+            },
+            "team_b": {
+                "id": "689ae84fa6cb7be2c346ff83",
+                "name": "Gianyar",
+                "short_name": "Gianyar",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771850233426-282665097.webp",
             "venue": "",
             "score_match_id": 0
         }
