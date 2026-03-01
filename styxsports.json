@@ -171,6 +171,34 @@
             "score_match_id": 0
         },
         {
+            "id": "69184843fa673af67ab17303",
+            "name": "Canterbury Kings VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 15 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
+            },
+            "team_b": {
+                "id": "6916fc9224f2af2c8dfdcbfc",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp",
+            "venue": "Hagley Oval ,Christchurch",
+            "score_match_id": 92922
+        },
+        {
             "id": "699c49fbba9be617883a9ad1",
             "name": "Garuda Girls VS Gianyar",
             "category_name": "Cricket",
