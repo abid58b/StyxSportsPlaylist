@@ -59,32 +59,32 @@
             "score_match_id": 0
         },
         {
-            "id": "699c49ccba9be617883a9ad0",
-            "name": "Kartini 11 VS Gianyar",
+            "id": "69184843fa673af67ab17303",
+            "name": "Canterbury Kings VS Otago",
             "category_name": "Cricket",
-            "tour_id": "699c4104e018c8f932ba5d1c",
-            "tour_name": "Bali Blast Women Championship T10 2026",
-            "match_no": "10",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 15 | Day 3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T07:30:00.000Z",
+            "start_date_time": "2026-03-01T21:00:00.000Z",
             "team_a": {
-                "id": "699c405c75a94bf857f32af0",
-                "name": "Kartini 11",
-                "short_name": "Kartini 11",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847771201-638914566.webp"
+                "id": "68fa0386f77cf099f802bdba",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
             },
             "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
+                "id": "6916fc9224f2af2c8dfdcbfc",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771850185397-960006976.webp",
-            "venue": "",
-            "score_match_id": 0
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp",
+            "venue": "Hagley Oval ,Christchurch",
+            "score_match_id": 92922
         },
         {
             "id": "69184694fa673af67ab17301",
@@ -141,34 +141,6 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp",
             "venue": "Eden Park Outer Oval ,Auckland",
             "score_match_id": 92920
-        },
-        {
-            "id": "69184843fa673af67ab17303",
-            "name": "Canterbury Kings VS Otago",
-            "category_name": "Cricket",
-            "tour_id": "69172ea61ee3a0177bd69208",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 15 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa0386f77cf099f802bdba",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215195169-291451803.webp"
-            },
-            "team_b": {
-                "id": "6916fc9224f2af2c8dfdcbfc",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1763114127192-222904853.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp",
-            "venue": "Hagley Oval ,Christchurch",
-            "score_match_id": 92922
         },
         {
             "id": "699c49fbba9be617883a9ad1",
