@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69907a4cd15882860301aace" tvg-name="RPL Riders VS Devbhoomi Royals" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076169978-912725440.webp" group-title="Live",RPL Riders VS Devbhoomi Royals
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/7ygCJFWFU82IAq4J1228017132207.m3u8
+
+#EXTINF:-1 tvg-id="699c4942a472ea3a69589121" tvg-name="Merpati Warrior VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771850046757-660934614.webp" group-title="Live",Merpati Warrior VS Gianyar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
+
