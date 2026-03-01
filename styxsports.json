@@ -31,34 +31,6 @@
             "score_match_id": 0
         },
         {
-            "id": "699c4942a472ea3a69589121",
-            "name": "Merpati Warrior VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "699c4104e018c8f932ba5d1c",
-            "tour_name": "Bali Blast Women Championship T10 2026",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T03:30:00.000Z",
-            "team_a": {
-                "id": "699c4081e018c8f932ba5d1b",
-                "name": "Merpati Warrior",
-                "short_name": "Merpati Warrior",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771847807589-173703837.webp"
-            },
-            "team_b": {
-                "id": "689ae84fa6cb7be2c346ff83",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1771837199221-15775656.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771850046757-660934614.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "699082d775a94bf857f32adf",
             "name": "CA Lucknow VS Indian Air Force",
             "category_name": "Cricket",
@@ -169,6 +141,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771850185397-960006976.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "6918465324f2af2c8dfdcc0e",
+            "name": "Auckland Aces VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 13 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-01",
+            "start_date_time": "2026-03-01T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa03e65e14fc3d2e069749",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215458610-598891407.webp"
+            },
+            "team_b": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763198543551-867449752.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92920
         },
         {
             "id": "69184843fa673af67ab17303",
