@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69184843fa673af67ab17303" tvg-name="Canterbury Kings VS Otago" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763199039470-449622881.webp" group-title="Live",Canterbury Kings VS Otago
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/bhQ5BHV3t1i1OErW1299124799755628.m3u8
+
+#EXTINF:-1 tvg-id="69184694fa673af67ab17301" tvg-name="Central Stags VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763198604724-621875109.webp" group-title="Live",Central Stags VS Wellington Firebirds
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
