@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "698f2ed975a94bf857f32ad5",
-            "name": "Vasundhara Super Kings VS Silverton Panthers",
-            "category_name": "Cricket",
-            "tour_id": "698dd856ad4c8e6eabf02859",
-            "tour_name": "Muzaffarnagar Premier League Season 2",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-02",
-            "start_date_time": "2026-03-02T03:00:00.000Z",
-            "team_a": {
-                "id": "67eceab1dbb9c855c901aecb",
-                "name": "Vasundhara Super Kings",
-                "short_name": "Vasundhara Super Kings",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902813215-503232686.webp"
-            },
-            "team_b": {
-                "id": "698dd6fe73f50e49942e1b54",
-                "name": "Silverton Panthers",
-                "short_name": "Silverton Panthers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903292075-606139026.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770991316821-797088292.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "698f34abe018c8f932ba5d08",
             "name": "RPL Riders VS Cricgiri Champs",
             "category_name": "Cricket",
