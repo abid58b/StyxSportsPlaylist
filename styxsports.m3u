@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="699ea5d2fc6be820629a2d74" tvg-name="Kartini 11 VS Merpati Warrior" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772427991827-572858135.webp" group-title="Live",Kartini 11 VS Merpati Warrior
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/5khWZUxRFHx1EGzX1299107520579634.m3u8
+
+#EXTINF:-1 tvg-id="698f2e10ba9be617883a9aaf" tvg-name="Crystal Balaji Titans VS Bhawani Lions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770991115233-69880147.webp" group-title="Live",Crystal Balaji Titans VS Bhawani Lions
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://npcdn.styxsports.live/LiveApp/streams/BFIqG4LhLMuPq3FJ1299139698355856.m3u8
+
