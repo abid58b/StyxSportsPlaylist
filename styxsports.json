@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "698f2cef75a94bf857f32ad4",
-            "name": "Bhawani Lions VS Amba Warriors",
-            "category_name": "Cricket",
-            "tour_id": "698dd856ad4c8e6eabf02859",
-            "tour_name": "Muzaffarnagar Premier League Season 2",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-06",
-            "start_date_time": "2026-03-06T07:00:00.000Z",
-            "team_a": {
-                "id": "698dd69cad4c8e6eabf02858",
-                "name": "Bhawani Lions",
-                "short_name": "Bhawani Lions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903189505-617097904.webp"
-            },
-            "team_b": {
-                "id": "67ece9fbc6a23fda9c43141c",
-                "name": "Amba Warriors",
-                "short_name": "Amba Warriors",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770901170729-742488251.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770990828175-237712110.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6919d152fa673af67ab1730f",
             "name": "Central Stags VS Northern District",
             "category_name": "Cricket",
