@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68de864f458c1b0c74d26014" tvg-name="South Australia VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759413835463-572106213.webp" group-title="Live",South Australia VS New South Wales
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-gstyx.styxsports.live/STYX/streams/nNK1QSIWwPjdGS1a6155237133133.m3u8
-
-#EXTINF:-1 tvg-id="69907bc875a94bf857f32adb" tvg-name="Tehri Falcons VS Medical Maverics" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076547279-630052460.webp" group-title="Live",Tehri Falcons VS Medical Maverics
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-gstyx.styxsports.live/STYX/streams/7QmJZVsCgB6lN7Ej6147150767776.m3u8
-
 #EXTINF:-1 tvg-id="698f2cef75a94bf857f32ad4" tvg-name="Bhawani Lions VS Amba Warriors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770990828175-237712110.webp" group-title="Live",Bhawani Lions VS Amba Warriors
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/7QmJZVsCgB6lN7Ej6147150767776.m3u8
