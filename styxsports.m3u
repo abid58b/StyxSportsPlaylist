@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/nNK1QSIWwPjdGS1a6155237133133.m3u8
 
+#EXTINF:-1 tvg-id="69907bc875a94bf857f32adb" tvg-name="Tehri Falcons VS Medical Maverics" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1771076547279-630052460.webp" group-title="Live",Tehri Falcons VS Medical Maverics
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-gstyx.styxsports.live/STYX/streams/7QmJZVsCgB6lN7Ej6147150767776.m3u8
+
