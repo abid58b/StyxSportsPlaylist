@@ -3,60 +3,116 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68de85a6c167956f9cb7b9fa",
-            "name": "Tasmania Tigers VS Victoria",
+            "id": "68de864f458c1b0c74d26014",
+            "name": "South Australia VS New South Wales",
             "category_name": "Cricket",
             "tour_id": "68de4f789f5a848ba39f334f",
             "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "25 | Day - 2",
+            "match_no": "27 | Day - 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-03-05",
-            "start_date_time": "2026-03-05T23:00:00.000Z",
+            "start_date": "2026-03-06",
+            "start_date_time": "2026-03-06T00:00:00.000Z",
             "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tigers",
-                "short_name": "Tasmania",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397567790-882527827.webp"
             },
             "team_b": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397510160-745073096.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413665839-152242582.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92910
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413835463-572106213.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92912
         },
         {
-            "id": "68de85f89f5a848ba39f335b",
-            "name": "Queensland Bulls VS Western Australia",
+            "id": "69907bc875a94bf857f32adb",
+            "name": "Tehri Falcons VS Medical Maverics",
             "category_name": "Cricket",
-            "tour_id": "68de4f789f5a848ba39f334f",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "26 | Day - 2",
+            "tour_id": "698dd856ad4c8e6eabf02859",
+            "tour_name": "Muzaffarnagar Premier League Season 2",
+            "match_no": "19",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-03-05",
-            "start_date_time": "2026-03-05T23:30:00.000Z",
+            "start_date": "2026-03-06",
+            "start_date_time": "2026-03-06T03:00:00.000Z",
             "team_a": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+                "id": "698dd53bccc6fe763ab1b8cf",
+                "name": "Tehri Falcons",
+                "short_name": "Tehri Falcons",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902841089-649867418.webp"
             },
             "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+                "id": "698dd56fd8b8459bd2ead579",
+                "name": "Medical Maverics",
+                "short_name": "Medical Maverics",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770902888283-857412640.webp"
             },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413745768-808621111.webp",
-            "venue": "TBA ,TBA",
-            "score_match_id": 92911
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1771076547279-630052460.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "698f2cef75a94bf857f32ad4",
+            "name": "Bhawani Lions VS Amba Warriors",
+            "category_name": "Cricket",
+            "tour_id": "698dd856ad4c8e6eabf02859",
+            "tour_name": "Muzaffarnagar Premier League Season 2",
+            "match_no": "20",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-06",
+            "start_date_time": "2026-03-06T07:00:00.000Z",
+            "team_a": {
+                "id": "698dd69cad4c8e6eabf02858",
+                "name": "Bhawani Lions",
+                "short_name": "Bhawani Lions",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903189505-617097904.webp"
+            },
+            "team_b": {
+                "id": "67ece9fbc6a23fda9c43141c",
+                "name": "Amba Warriors",
+                "short_name": "Amba Warriors",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770901170729-742488251.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770990828175-237712110.webp",
+            "venue": "",
+            "score_match_id": 0
+        },
+        {
+            "id": "6919d152fa673af67ab1730f",
+            "name": "Central Stags VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 17 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-06",
+            "start_date_time": "2026-03-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763299628897-804856181.webp",
+            "venue": "McLean Park ,Napier",
+            "score_match_id": 92924
         }
     ]
 }
