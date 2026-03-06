@@ -113,6 +113,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763299628897-804856181.webp",
             "venue": "McLean Park ,Napier",
             "score_match_id": 92924
+        },
+        {
+            "id": "68de85a6c167956f9cb7b9fa",
+            "name": "Tasmania Tigers VS Victoria",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "25 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-06",
+            "start_date_time": "2026-03-06T23:00:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tigers",
+                "short_name": "Tasmania",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397594165-781907757.webp"
+            },
+            "team_b": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397478701-221861464.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413665839-152242582.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92910
         }
     ]
 }
