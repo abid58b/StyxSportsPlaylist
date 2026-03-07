@@ -8,3 +8,11 @@ https://cdn-gstyx.styxsports.live/STYX/streams/nNK1QSIWwPjdGS1a6155237133133.m3u
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/7QmJZVsCgB6lN7Ej6147150767776.m3u8
 
+#EXTINF:-1 tvg-id="69abb8f9fc6be820629a2d94" tvg-name="Malaysia VS Bahrain" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1772861687308-530452921.webp" group-title="Live",Malaysia VS Bahrain
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-gstyx.styxsports.live/STYX/streams/oHG5d4iuhYfng0OW6174743911693.m3u8
+
+#EXTINF:-1 tvg-id="698f2f58e018c8f932ba5d06" tvg-name="Bindals Strikers VS Bhawani Lions" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1770991446650-390852851.webp" group-title="Live",Bindals Strikers VS Bhawani Lions
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-gstyx.styxsports.live/STYX/streams/7QmJZVsCgB6lN7Ej6147150767776.m3u8
+
