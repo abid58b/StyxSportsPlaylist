@@ -85,6 +85,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763299628897-804856181.webp",
             "venue": "McLean Park ,Napier",
             "score_match_id": 92924
+        },
+        {
+            "id": "68de85f89f5a848ba39f335b",
+            "name": "Queensland Bulls VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68de4f789f5a848ba39f334f",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "26 | Day - 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T23:30:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397548628-642587266.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1757397641870-528375249.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1759413745768-808621111.webp",
+            "venue": "TBA ,TBA",
+            "score_match_id": 92911
         }
     ]
 }
