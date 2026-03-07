@@ -85,6 +85,34 @@
             "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770991446650-390852851.webp",
             "venue": "",
             "score_match_id": 0
+        },
+        {
+            "id": "6919d152fa673af67ab1730f",
+            "name": "Central Stags VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "69172ea61ee3a0177bd69208",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 17 | Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa02945e14fc3d2e069748",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215120817-894974079.webp"
+            },
+            "team_b": {
+                "id": "68fa04135e14fc3d2e06974a",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1761215501300-267603040.webp"
+            },
+            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1763299628897-804856181.webp",
+            "venue": "McLean Park ,Napier",
+            "score_match_id": 92924
         }
     ]
 }
