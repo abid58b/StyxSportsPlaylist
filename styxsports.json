@@ -3,34 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "698f2f58e018c8f932ba5d06",
-            "name": "Bindals Strikers VS Bhawani Lions",
-            "category_name": "Cricket",
-            "tour_id": "698dd856ad4c8e6eabf02859",
-            "tour_name": "Muzaffarnagar Premier League Season 2",
-            "match_no": "22",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-07",
-            "start_date_time": "2026-03-07T08:00:00.000Z",
-            "team_a": {
-                "id": "67ecea13163074ab4f1c79de",
-                "name": "Bindals Strikers",
-                "short_name": "Bindals Strikers",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770901213005-426701033.webp"
-            },
-            "team_b": {
-                "id": "698dd69cad4c8e6eabf02858",
-                "name": "Bhawani Lions",
-                "short_name": "Bhawani Lions",
-                "logo": "https://styxsports.b-cdn.net/styxsports-public/teams/1770903189505-617097904.webp"
-            },
-            "logo": "https://styxsports.b-cdn.net/styxsports-public/matches/1770991446650-390852851.webp",
-            "venue": "",
-            "score_match_id": 0
-        },
-        {
             "id": "6919d152fa673af67ab1730f",
             "name": "Central Stags VS Northern District",
             "category_name": "Cricket",
