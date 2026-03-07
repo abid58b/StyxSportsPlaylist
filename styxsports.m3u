@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6919d152fa673af67ab1730f" tvg-name="Central Stags VS Northern District" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763299628897-804856181.webp" group-title="Live",Central Stags VS Northern District
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
+
